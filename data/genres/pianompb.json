@@ -1,0 +1,1367 @@
+{
+  "schemaVersion": 3,
+  "genreName": "piano mpb",
+  "artists": [
+    {
+      "artistName": "João Donato",
+      "positioning": {
+        "top": 298,
+        "left": 1316
+      },
+      "style": {
+        "color": "#79946d",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd2fb35181b234854ee0c07d7bd34e27d2b65cbf",
+        "title": "e.g. João Donato \"Manha de Carnaval\"",
+        "trackId": "0kfdvJhyb0QHBG1IM9Vlht"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=17wDxPR2GcU3r1dpCoCiUi",
+      "id": "17wDxPR2GcU3r1dpCoCiUi"
+    },
+    {
+      "artistName": "Eliane Elias",
+      "positioning": {
+        "top": 486,
+        "left": 824
+      },
+      "style": {
+        "color": "#519c80",
+        "fontSize": "150%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40657f11848a84b364b901e9d5514702076b8946",
+        "title": "e.g. Eliane Elias \"Falling In Love With Love\"",
+        "trackId": "4yv0zk9Xn0QxOcJHXUy8Jh"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=4qKIiUdFND09cgGOc5kfoR",
+      "id": "4qKIiUdFND09cgGOc5kfoR"
+    },
+    {
+      "artistName": "Diogo Monzo",
+      "positioning": {
+        "top": 540,
+        "left": 1020
+      },
+      "style": {
+        "color": "#4c9fdd",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cb04dfe1a4f1baf52f1477096257c5c68b34df8e",
+        "title": "e.g. Diogo Monzo \"Trasantonte\"",
+        "trackId": "6oi42F70ZZDRpWIJABOD1u"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=5WQDCMkE5lMq5H0lkHKQmc",
+      "id": "5WQDCMkE5lMq5H0lkHKQmc"
+    },
+    {
+      "artistName": "Amaro Freitas",
+      "positioning": {
+        "top": 547,
+        "left": 740
+      },
+      "style": {
+        "color": "#599fa8",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/601b4d09c25bb33bc02e438360731a9ed74f9825",
+        "title": "e.g. Amaro Freitas \"Encantados\"",
+        "trackId": "4yTafI7wbjy1VtThovqmXF"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=3Y37ixG7KDgDqxSE6PL679",
+      "id": "3Y37ixG7KDgDqxSE6PL679"
+    },
+    {
+      "artistName": "3 Na Bossa",
+      "positioning": {
+        "top": 172,
+        "left": 1400
+      },
+      "style": {
+        "color": "#879de4",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc4842fb4d1957eb7086bbcacd79b9c42715e9f9",
+        "title": "e.g. 3 Na Bossa \"Rhapsody in Blue: The Man I Love\"",
+        "trackId": "4KMfvntXzWXrLf3j8YfsG3"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=0WxOyDB5yOng2NpIMUiDB9",
+      "id": "0WxOyDB5yOng2NpIMUiDB9"
+    },
+    {
+      "artistName": "Fabio Caramuru",
+      "positioning": {
+        "top": 773,
+        "left": 557
+      },
+      "style": {
+        "color": "#329d99",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/725015e240b42a2e4061b13ebcaa11f593c9b3b9",
+        "title": "e.g. Fabio Caramuru \"Sapo-Cururu\"",
+        "trackId": "6oYW7f29lsjSLHgrAJUa1z"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=5GryqMMRfFO3n0eXBEF5oH",
+      "id": "5GryqMMRfFO3n0eXBEF5oH"
+    },
+    {
+      "artistName": "André Mehmari",
+      "positioning": {
+        "top": 777,
+        "left": 406
+      },
+      "style": {
+        "color": "#32a49a",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0051747d2e0f9b1a4a061da932133dc6e3cb6ad4",
+        "title": "e.g. André Mehmari \"Paisagem da Janela\"",
+        "trackId": "4ZxmLb2x7Tw1n2Bp8pJDTK"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=5uTXmfA6bngEMrjgul7mwu",
+      "id": "5uTXmfA6bngEMrjgul7mwu"
+    },
+    {
+      "artistName": "Francis Hime",
+      "positioning": {
+        "top": 584,
+        "left": 423
+      },
+      "style": {
+        "color": "#5d9a3a",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6b019225086dba6dd8e2e32b6e02d0197029d5e1",
+        "title": "e.g. Francis Hime \"Concerto para Violão e Orquestra: II. Ibéria\"",
+        "trackId": "6NoiNDDcfcMltjCxc0djyD"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=0fSXB6V1mhguJCAN7pLzu6",
+      "id": "0fSXB6V1mhguJCAN7pLzu6"
+    },
+    {
+      "artistName": "Vitor Araújo",
+      "positioning": {
+        "top": 493,
+        "left": 0
+      },
+      "style": {
+        "color": "#6291d0",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/17e0f27ab8cad517939c4b5cb4b73313665f7a99",
+        "title": "e.g. Vitor Araújo \"Valsa Pra Lua\"",
+        "trackId": "6E7MmDh90LP1kp8NK5AbxV"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=0Y94YmDI103Kk0Ff4fi4oa",
+      "id": "0Y94YmDI103Kk0Ff4fi4oa"
+    },
+    {
+      "artistName": "Wagner Tiso",
+      "positioning": {
+        "top": 342,
+        "left": 185
+      },
+      "style": {
+        "color": "#569a83",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ad5b4c118b87198dd098accfbea0c8cab8cdcb8",
+        "title": "e.g. Wagner Tiso \"Armina\"",
+        "trackId": "18YZbpCSl3oh6WFbvXpZeu"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=6YUV5Gq9AP9BMxyKAmvlFq",
+      "id": "6YUV5Gq9AP9BMxyKAmvlFq"
+    },
+    {
+      "artistName": "Nico Rezende",
+      "positioning": {
+        "top": 158,
+        "left": 557
+      },
+      "style": {
+        "color": "#699812",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/673eac04d8176a8ef9f206336feb946ed0c01069",
+        "title": "e.g. Nico Rezende \"Cantarolando (feat. Marina)\"",
+        "trackId": "2q0l8fPtR7TlyIdzTVjigC"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=3NsiHBvWXm0C8aPJc7r2vf",
+      "id": "3NsiHBvWXm0C8aPJc7r2vf"
+    },
+    {
+      "artistName": "Salomão Soares",
+      "positioning": {
+        "top": 607,
+        "left": 828
+      },
+      "style": {
+        "color": "#599ea9",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1acdc887ab4ab6bd008b1b466efd3db226bea801",
+        "title": "e.g. Salomão Soares \"Feira de Mangaio\"",
+        "trackId": "1xTNX7rKNyNIK1QFfBLz1g"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=40XnTnhTeDygOCDiVSMdBL",
+      "id": "40XnTnhTeDygOCDiVSMdBL"
+    },
+    {
+      "artistName": "Dom Salvador",
+      "positioning": {
+        "top": 293,
+        "left": 807
+      },
+      "style": {
+        "color": "#95899c",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5cc3b5384642c38b8679d0f7a971512204eda58d",
+        "title": "e.g. Dom Salvador \"Moeda, Reza e Cor\"",
+        "trackId": "0AOc1HNra2KmmsJhxzTstq"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=2ETJpexAxlTPCT6BXHJG1w",
+      "id": "2ETJpexAxlTPCT6BXHJG1w"
+    },
+    {
+      "artistName": "Debora Gurgel",
+      "positioning": {
+        "top": 402,
+        "left": 1070
+      },
+      "style": {
+        "color": "#6f945f",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ce005ab19a85ff91a69d4c6a5d583dacecfc0cbd",
+        "title": "e.g. Debora Gurgel \"Reencontro\"",
+        "trackId": "6wbR8YwmKnyIIRwgPRg2WV"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=4yMK2n4V4BuobNJfW6agFT",
+      "id": "4yMK2n4V4BuobNJfW6agFT"
+    },
+    {
+      "artistName": "Delia Fischer",
+      "positioning": {
+        "top": 340,
+        "left": 724
+      },
+      "style": {
+        "color": "#649a41",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1287cbb4eff2ed62b62b42e04bc4bff15852d05",
+        "title": "e.g. Delia Fischer \"Palhaço\"",
+        "trackId": "6rHGugU4Mr9siq9QP6aoxF"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4ervLQixU78Enkn5yLnGdG",
+      "id": "4ervLQixU78Enkn5yLnGdG"
+    },
+    {
+      "artistName": "Luiz Eça",
+      "positioning": {
+        "top": 437,
+        "left": 532
+      },
+      "style": {
+        "color": "#60977c",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13784d4440a26bb7c1da95ec31c722777a0350db",
+        "title": "e.g. Luiz Eça \"Tristeza De Nós Dois\"",
+        "trackId": "5oBpRKmC8msxxSR2hI9YZq"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=13rnCB8WJOYBsPHOah6q73",
+      "id": "13rnCB8WJOYBsPHOah6q73"
+    },
+    {
+      "artistName": "Marcos Ariel",
+      "positioning": {
+        "top": 330,
+        "left": 966
+      },
+      "style": {
+        "color": "#639fb8",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7d754576018a124e494c89b1c3d265b975881b5c",
+        "title": "e.g. Marcos Ariel \"Bossa Love\"",
+        "trackId": "32uCEdd96INyYHyHXUV3IA"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=5AxRZRfTjPzRQVdywpnD6T",
+      "id": "5AxRZRfTjPzRQVdywpnD6T"
+    },
+    {
+      "artistName": "Gilson Peranzzetta",
+      "positioning": {
+        "top": 760,
+        "left": 557
+      },
+      "style": {
+        "color": "#49a9b6",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/648ea5bb5522dd0e1f88927375a2aa49e86a2ab9",
+        "title": "e.g. Gilson Peranzzetta \"Com Que Roupa\"",
+        "trackId": "5ZrKovXoraoca4V1JIq8dr"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=3sXiozVfzUa8NLisEvzJZm",
+      "id": "3sXiozVfzUa8NLisEvzJZm"
+    },
+    {
+      "artistName": "Arthur Moreira Lima",
+      "positioning": {
+        "top": 860,
+        "left": 398
+      },
+      "style": {
+        "color": "#23a8da",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e5a8d7f1d23340ee59b7b71e6c3a45c39646933",
+        "title": "e.g. Arthur Moreira Lima \"Jesus, Alegria dos Homens Coral da Cantata Nº 147\"",
+        "trackId": "2H68zMARJDircTFecypOPn"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=3iUkzJtVz9ma3GWMR1Cmgk",
+      "id": "3iUkzJtVz9ma3GWMR1Cmgk"
+    },
+    {
+      "artistName": "Hamleto Stamato",
+      "positioning": {
+        "top": 140,
+        "left": 920
+      },
+      "style": {
+        "color": "#6a9dde",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71073e76e8b38d39cbad34306d20d229298712d2",
+        "title": "e.g. Hamleto Stamato \"Ela é Carioca\"",
+        "trackId": "4lw5cTmS985UeAZwnhBYfd"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=7EqWQMcDQbK4mtYb1pgmeI",
+      "id": "7EqWQMcDQbK4mtYb1pgmeI"
+    },
+    {
+      "artistName": "Benjamim Taubkin",
+      "positioning": {
+        "top": 584,
+        "left": 586
+      },
+      "style": {
+        "color": "#35a1ae",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e985aaad63164caf703bcfe4b66941dd57fc31b",
+        "title": "e.g. Benjamim Taubkin \"Sertão\"",
+        "trackId": "3Z5j1r3OEWnv1cL8krW9AI"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=3RXcmh3eKjiIG9XNP3XOmy",
+      "id": "3RXcmh3eKjiIG9XNP3XOmy"
+    },
+    {
+      "artistName": "Eudóxia De Barros",
+      "positioning": {
+        "top": 793,
+        "left": 1316
+      },
+      "style": {
+        "color": "#3ca4dd",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/462864cb140844cc4608986fbab7b25f43757dde",
+        "title": "e.g. Eudóxia De Barros \"Brasileirinho\"",
+        "trackId": "4LGOSAiawQeYRefjruL9Xe"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=091Qqk778S1y7mELHrNuLL",
+      "id": "091Qqk778S1y7mELHrNuLL"
+    },
+    {
+      "artistName": "Antoine Zemor",
+      "positioning": {
+        "top": 870,
+        "left": 573
+      },
+      "style": {
+        "color": "#1fabdf",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/49e0422f7a83ecce9320e2f008a7d8f5b5988414",
+        "title": "e.g. Antoine Zemor \"Odeon\"",
+        "trackId": "4W3OURV5X9yChcsXJw4AZB"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=25PKlG1bVIGtVyCIRNZXDK",
+      "id": "25PKlG1bVIGtVyCIRNZXDK"
+    },
+    {
+      "artistName": "Hércules Gomes",
+      "positioning": {
+        "top": 705,
+        "left": 1033
+      },
+      "style": {
+        "color": "#4e9ddc",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/010b3dbb7a9d136922fd5d199be1d6faffef7ba7",
+        "title": "e.g. Hércules Gomes \"Gaúcho (O Corta-jaca)\"",
+        "trackId": "5aPhAwQXteE8Jo7jg7nu1Z"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=04GdJoOQ0UEk17XX1ZkAPj",
+      "id": "04GdJoOQ0UEk17XX1ZkAPj"
+    },
+    {
+      "artistName": "Trio Corrente",
+      "positioning": {
+        "top": 544,
+        "left": 861
+      },
+      "style": {
+        "color": "#6a95cb",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/014296a7718116f56b73d36a404ffb41220ad0bf",
+        "title": "e.g. Trio Corrente \"Feira de Mangaio\"",
+        "trackId": "0GZ5ZjDvAK0axUAFVDnHNK"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2CJ5GDZmO801WYjUTvSAis",
+      "id": "2CJ5GDZmO801WYjUTvSAis"
+    },
+    {
+      "artistName": "Paulo Malaguti Pauleira",
+      "positioning": {
+        "top": 309,
+        "left": 774
+      },
+      "style": {
+        "color": "#5e9a20",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71f18b0e77eb854a878e53697a052c84fca3b210",
+        "title": "e.g. Paulo Malaguti Pauleira \"A Solidão das Prateleiras\"",
+        "trackId": "3bqPooPTP7eXszAg3ZaT2X"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=2ZhRuFDjtjjAfMYqDR3o1O",
+      "id": "2ZhRuFDjtjjAfMYqDR3o1O"
+    },
+    {
+      "artistName": "Luiz Avellar",
+      "positioning": {
+        "top": 105,
+        "left": 774
+      },
+      "style": {
+        "color": "#59a3c3",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1deefeae04972e4e3fc1ee14d34f08ca9ee967d8",
+        "title": "e.g. Luiz Avellar \"Eu Amo Você\"",
+        "trackId": "3arRhOg8yfSVrDPhv93CAK"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=3UDyxmqwvarXCyRjRieaLW",
+      "id": "3UDyxmqwvarXCyRjRieaLW"
+    },
+    {
+      "artistName": "Lis De Carvalho",
+      "positioning": {
+        "top": 551,
+        "left": 1124
+      },
+      "style": {
+        "color": "#4baabe",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a52f36b74ffd1f3b69148ca5789b8ab996c3bc9d",
+        "title": "e.g. Lis De Carvalho \"Invernal\"",
+        "trackId": "4NZMjpAfkqWzyfMWvIOUAX"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=7we6M1QdjfRBHWdUsLxEKK",
+      "id": "7we6M1QdjfRBHWdUsLxEKK"
+    },
+    {
+      "artistName": "Nelson Ayres",
+      "positioning": {
+        "top": 707,
+        "left": 415
+      },
+      "style": {
+        "color": "#3aa28c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5aeedbab7985e35ae5a25017d735b9f3254f105d",
+        "title": "e.g. Nelson Ayres \"Perto do Coração\"",
+        "trackId": "62OPnR9p6VSqMDk2eeyY77"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=415wuV0g8xHwM61sFvUFtO",
+      "id": "415wuV0g8xHwM61sFvUFtO"
+    },
+    {
+      "artistName": "Amilton Godoy",
+      "positioning": {
+        "top": 702,
+        "left": 765
+      },
+      "style": {
+        "color": "#3aabbe",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05f46218cc18c8f52b2ba62a2a719339ebc0ae30",
+        "title": "e.g. Amilton Godoy \"Ponteio 49\"",
+        "trackId": "0AHyQ08UJCdoMBpW1HJGjb"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=6eBb2VD12O0Xk5WlNwP7YF",
+      "id": "6eBb2VD12O0Xk5WlNwP7YF"
+    },
+    {
+      "artistName": "Silvia Goes",
+      "positioning": {
+        "top": 628,
+        "left": 1066
+      },
+      "style": {
+        "color": "#53a3c4",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/641a681f957b4161e2a38de990c3d945ec76c703",
+        "title": "e.g. Silvia Goes \"Minha Saudade\"",
+        "trackId": "2IQWMTPXGDcdzoZ8vQsHkk"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=5GfxdCoxARwAI9EWW7a0wi",
+      "id": "5GfxdCoxARwAI9EWW7a0wi"
+    },
+    {
+      "artistName": "Luísa Mitre",
+      "positioning": {
+        "top": 407,
+        "left": 782
+      },
+      "style": {
+        "color": "#649fa1",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51559820a7dbdeaffc122d5bed6ceb61982840ec",
+        "title": "e.g. Luísa Mitre \"Caminho de Volta\"",
+        "trackId": "1ISB2uaogmNGnwvJPDZqXF"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=4wGEufb7ZQFSG0c8IsvVHb",
+      "id": "4wGEufb7ZQFSG0c8IsvVHb"
+    },
+    {
+      "artistName": "Bianca Gismonti",
+      "positioning": {
+        "top": 721,
+        "left": 431
+      },
+      "style": {
+        "color": "#619c64",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34f53abdd33f2ded16d5f88c1070436658b02584",
+        "title": "e.g. Bianca Gismonti \"Festa No Carmo\"",
+        "trackId": "127E3isKI8kHNNSIfmQ57V"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=4WC3d79tGpaYbHRhmnlIDC",
+      "id": "4WC3d79tGpaYbHRhmnlIDC"
+    },
+    {
+      "artistName": "Leandro Braga",
+      "positioning": {
+        "top": 647,
+        "left": 765
+      },
+      "style": {
+        "color": "#46a8a1",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78b549a105dd437381adcc5d2af8b6ce5a83aad3",
+        "title": "e.g. Leandro Braga \"My Little One (Minha Pequena)\"",
+        "trackId": "11gmV28o2okNMHk47PASLr"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=7lbcO6bgbdZf7JokzH6RwK",
+      "id": "7lbcO6bgbdZf7JokzH6RwK"
+    },
+    {
+      "artistName": "Fabio Torres",
+      "positioning": {
+        "top": 691,
+        "left": 481
+      },
+      "style": {
+        "color": "#5ba1a4",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f6e8220efa1043ee8cba11cc5f2845493dcf63c",
+        "title": "e.g. Fabio Torres \"Lamento\"",
+        "trackId": "7qBWmj6A03EwvHfUobZUT5"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=5TJUHR3NQ7KfmQq7VI8Fnh",
+      "id": "5TJUHR3NQ7KfmQq7VI8Fnh"
+    },
+    {
+      "artistName": "Marcus Abjaud",
+      "positioning": {
+        "top": 216,
+        "left": 665
+      },
+      "style": {
+        "color": "#649adf",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9290d5da0b576603bd7b7e70e393464d54a2defa",
+        "title": "e.g. Marcus Abjaud \"Lumiére\"",
+        "trackId": "3XUOhJzsYaFELeybUVZet0"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=2ZTsy44iK35ZTwA00gI50K",
+      "id": "2ZTsy44iK35ZTwA00gI50K"
+    },
+    {
+      "artistName": "Heloísa Fernandes",
+      "positioning": {
+        "top": 828,
+        "left": 118
+      },
+      "style": {
+        "color": "#22a2c4",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5492ce99f16a433055e5095117e8bdf3dcdfb3b",
+        "title": "e.g. Heloísa Fernandes \"Rosa\"",
+        "trackId": "561caUmIW9hbn3G0oRFmlj"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=2Cfz88tLZGdh0F3NaX525G",
+      "id": "2Cfz88tLZGdh0F3NaX525G"
+    },
+    {
+      "artistName": "Deangelo Silva",
+      "positioning": {
+        "top": 12,
+        "left": 511
+      },
+      "style": {
+        "color": "#8d90db",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/70b08532d4a611b48e81f09b28cbe0b0b4a9651a",
+        "title": "e.g. Deangelo Silva \"Berlin\"",
+        "trackId": "6JkVNqnmszdq8Vlokr7tqD"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=1K03cobWxzecE8p8JmKcCI",
+      "id": "1K03cobWxzecE8p8JmKcCI"
+    },
+    {
+      "artistName": "Louise Woolley",
+      "positioning": {
+        "top": 623,
+        "left": 569
+      },
+      "style": {
+        "color": "#629ec2",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d2a6aabcd689871e274c76ba707e7fc181c485f2",
+        "title": "e.g. Louise Woolley \"Volta Bem\"",
+        "trackId": "6X4YDDAxxfUsuAR2aT2NGH"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=0zXvraw5Bg95o1CxOjHKrc",
+      "id": "0zXvraw5Bg95o1CxOjHKrc"
+    },
+    {
+      "artistName": "Fernando Leitzke",
+      "positioning": {
+        "top": 363,
+        "left": 995
+      },
+      "style": {
+        "color": "#71a1d1",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d857c7370ae8dc15ab770badbed22d9adab572e7",
+        "title": "e.g. Fernando Leitzke \"Chaleira Quente\"",
+        "trackId": "6kgDc75wlk4GEsFsOnLbKX"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=5NcxZVCyrA4wKRITfNlQVK",
+      "id": "5NcxZVCyrA4wKRITfNlQVK"
+    },
+    {
+      "artistName": "Tia Amelia",
+      "positioning": {
+        "top": 691,
+        "left": 1008
+      },
+      "style": {
+        "color": "#559cc2",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2024e52f70197290c378ff155a8173bff721b3c6",
+        "title": "e.g. Tia Amelia \"Bordões ao luar\"",
+        "trackId": "4w3hgcQdQLNQSMDqvvXSoN"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=218pEdhACN4sOjAh2K2A5X",
+      "id": "218pEdhACN4sOjAh2K2A5X"
+    },
+    {
+      "artistName": "Alexandre Dias",
+      "positioning": {
+        "top": 833,
+        "left": 1287
+      },
+      "style": {
+        "color": "#35b5e3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2741263f3242fa3f861720ae37b71fd43103662a",
+        "title": "e.g. Alexandre Dias \"Tango-Habanera\"",
+        "trackId": "6Ex3ICmDt1QwZCceKvqY8G"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=0W3qNaY5Jqp48H7UUGtcSn",
+      "id": "0W3qNaY5Jqp48H7UUGtcSn"
+    },
+    {
+      "artistName": "Maury Buchala",
+      "positioning": {
+        "top": 737,
+        "left": 561
+      },
+      "style": {
+        "color": "#32a31e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=2gixuhocUdtfx7LqQ4sycG",
+      "id": "2gixuhocUdtfx7LqQ4sycG"
+    },
+    {
+      "artistName": "Ana Fridman",
+      "positioning": {
+        "top": 563,
+        "left": 907
+      },
+      "style": {
+        "color": "#50a16e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4575e25ed0cd2f7d8d7d45774d4bec6c7c00fc9a",
+        "title": "e.g. Ana Fridman \"Só Mais Cinco Minutos\"",
+        "trackId": "0BNaknqy98T7Vs3CimLbED"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=0rRaRPk6Y9hBag3wwkuXr1",
+      "id": "0rRaRPk6Y9hBag3wwkuXr1"
+    },
+    {
+      "artistName": "Beatriz Alessio",
+      "positioning": {
+        "top": 900,
+        "left": 674
+      },
+      "style": {
+        "color": "#3397db",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a669cb14650e57712919d91863cc5fa7fd8a082d",
+        "title": "e.g. Beatriz Alessio \"Estudo Sobre \"A Lenda do Cabocio, a Outra\"\"",
+        "trackId": "4rxcFSTpkTTPmcb5i9hJq3"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=3UQRTzIv27ulbRxc6xinZ9",
+      "id": "3UQRTzIv27ulbRxc6xinZ9"
+    },
+    {
+      "artistName": "Makiko Yoneda",
+      "positioning": {
+        "top": 421,
+        "left": 1316
+      },
+      "style": {
+        "color": "#539fdf",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54098b855a61d53aafdfddd241b1c6709d582f93",
+        "title": "e.g. Makiko Yoneda \"Alone\"",
+        "trackId": "6eMTi5LR7H8hN4U6zwEl45"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=0SgZjmlNzC47AJTROTtmL4",
+      "id": "0SgZjmlNzC47AJTROTtmL4"
+    },
+    {
+      "artistName": "Marconi De Morais",
+      "positioning": {
+        "top": 356,
+        "left": 1141
+      },
+      "style": {
+        "color": "#649f0b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=4SkGhHK78IimWjZLPLWUJL",
+      "id": "4SkGhHK78IimWjZLPLWUJL"
+    },
+    {
+      "artistName": "Ricardo Mac Cord",
+      "positioning": {
+        "top": 758,
+        "left": 348
+      },
+      "style": {
+        "color": "#3bade3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8a60c98cbd29e475b8cd1625d67754a810998e71",
+        "title": "e.g. Ricardo Mac Cord \"Elegia\"",
+        "trackId": "2Nj8FDBkKLQrm2S8yhQvD6"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=1RUHYEbYwKTszhS9ZcTkx5",
+      "id": "1RUHYEbYwKTszhS9ZcTkx5"
+    },
+    {
+      "artistName": "Leandro Cabral Trio",
+      "positioning": {
+        "top": 659,
+        "left": 786
+      },
+      "style": {
+        "color": "#439cd4",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/951d94183587d031b959e826859d6d1f99aa3efc",
+        "title": "e.g. Leandro Cabral Trio \"Rute E Sua Grandeza - Vassi No. 1\"",
+        "trackId": "2ROvxCsC2ZuzX8G1bgD1Vl"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=2pyRxxaB4OGtXFe24kHit2",
+      "id": "2pyRxxaB4OGtXFe24kHit2"
+    },
+    {
+      "artistName": "Hamleto Stamato Trio",
+      "positioning": {
+        "top": 0,
+        "left": 1074
+      },
+      "style": {
+        "color": "#789ee3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7a55b310a76b51995c465ba2be397882b4a5d79",
+        "title": "e.g. Hamleto Stamato Trio \"Meditação\"",
+        "trackId": "5hQeuGhwr4ADVknKmHqUsv"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=1LiqdLQkY9zIwqL11kS9Zg",
+      "id": "1LiqdLQkY9zIwqL11kS9Zg"
+    },
+    {
+      "artistName": "GisBranco",
+      "positioning": {
+        "top": 787,
+        "left": 628
+      },
+      "style": {
+        "color": "#4ea192",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a3cf1ba3cccb5d0751e65164ba567170aed9cec0",
+        "title": "e.g. GisBranco \"Choro pro zé\"",
+        "trackId": "5fYazZ5tbWPQqofhO1i6UK"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=6f4gUrXtgwb0mdfhqKGvWp",
+      "id": "6f4gUrXtgwb0mdfhqKGvWp"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=piano%20mpb"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/7GnFQMK9qCeEFN0BAxFvW7"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/1tCcfQXH8uPIHF9COvx7qj"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2v5RCWGBXOCXUnGGiRlcjw"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/3WpFFYjb4STDroiU98KL5S"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=piano%20mpb"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "brazilian jazz",
+      "positioning": {
+        "top": 46,
+        "left": 300
+      },
+      "style": {
+        "color": "#5b9951",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ed6214dc6473707fb9c71788958157b88d0c03c5",
+        "title": "e.g. Zimbo Trio \"Que Maravilha / Chove Chuva\"",
+        "trackId": "39JDxc2pA6pBI9HAnL3pht"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-brazilianjazz.html#tunnel"
+    },
+    {
+      "genreName": "brazilian modern jazz",
+      "positioning": {
+        "top": 0,
+        "left": 257
+      },
+      "style": {
+        "color": "#669882",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e76fd905729d21514bbda1aae0ce1ed1ffb56d9e",
+        "title": "e.g. Léa Freire \"Samba do Arvore\"",
+        "trackId": "7aMzdg7Nb0VokERapRMINL"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-brazilianmodernjazz.html#tunnel"
+    },
+    {
+      "genreName": "mallet",
+      "positioning": {
+        "top": 75,
+        "left": 204
+      },
+      "style": {
+        "color": "#569e8f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05c60da6016232854bb150b846508e1e73aa8c59",
+        "title": "e.g. Katarzyna Mycka \"Dream of the Cherry Blossoms\"",
+        "trackId": "5Xbf77tB46v3MXCDFhnQbv"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-mallet.html#tunnel"
+    },
+    {
+      "genreName": "brazilian classical piano",
+      "positioning": {
+        "top": 300,
+        "left": 0
+      },
+      "style": {
+        "color": "#23a6dc",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f20dc20ec44690c964394096e435d4cd42b82929",
+        "title": "e.g. Nelson Freire \"Nocturne No. 1 in B flat minor, Op. 9 No. 1\"",
+        "trackId": "7vIJwiFD2FKiulXzCDMvc4"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-brazilianclassicalpiano.html#tunnel"
+    },
+    {
+      "genreName": "argentine jazz",
+      "positioning": {
+        "top": 66,
+        "left": 291
+      },
+      "style": {
+        "color": "#539b9a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ceae8cd37b3d9a58ba4e4263dd9ec6c077ed755a",
+        "title": "e.g. Hernán Jacinto \"Here, There And Everywhere\"",
+        "trackId": "56Uv8bzvUrNrbRspPjA7wv"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-argentinejazz.html#tunnel"
+    },
+    {
+      "genreName": "icelandic jazz",
+      "positioning": {
+        "top": 17,
+        "left": 165
+      },
+      "style": {
+        "color": "#4b9d94",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fcc8f6b5a78ab61c84ab5bb9c0ccf3d94e78ee65",
+        "title": "e.g. Tómas R. Einarsson \"Hægt en bítandi\"",
+        "trackId": "6h8tulrA0y64CVCi4rGG9z"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-icelandicjazz.html#tunnel"
+    },
+    {
+      "genreName": "oud",
+      "positioning": {
+        "top": 153,
+        "left": 226
+      },
+      "style": {
+        "color": "#569e88",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/013936ea37dd372394985a69b210fa992e566e95",
+        "title": "e.g. Simon Shaheen \"Longa Farahfaza\"",
+        "trackId": "6R8mQUQwnXNmC6QUlC1w5o"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-oud.html#tunnel"
+    },
+    {
+      "genreName": "jazz composition",
+      "positioning": {
+        "top": 4,
+        "left": 100
+      },
+      "style": {
+        "color": "#599a90",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b00a12c216ce78e2a8445aa1550d181e20ca440",
+        "title": "e.g. Daniel Santiago \"Maracatu\"",
+        "trackId": "6FnIGu6Zq31ZF8alnECwX3"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-jazzcomposition.html#tunnel"
+    },
+    {
+      "genreName": "israeli jazz",
+      "positioning": {
+        "top": 31,
+        "left": 152
+      },
+      "style": {
+        "color": "#5f98a4",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3029849ffd051f0154e9cef2f6ee2d18dbd2137",
+        "title": "e.g. Omer Avital \"Small Time Shit\"",
+        "trackId": "1oO2l2gMrVmOzvzRH0Pctz"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-israelijazz.html#tunnel"
+    },
+    {
+      "genreName": "german jazz",
+      "positioning": {
+        "top": 72,
+        "left": 57
+      },
+      "style": {
+        "color": "#539798",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1fc84f3f3cf9564d680c1a6a1f76299e9cc705cf",
+        "title": "e.g. Michael Wollny \"Velvet Gloves & Spit\"",
+        "trackId": "5AbvIJTlfp52S6b9WipNBC"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-germanjazz.html#tunnel"
+    },
+    {
+      "genreName": "czech jazz",
+      "positioning": {
+        "top": 60,
+        "left": 104
+      },
+      "style": {
+        "color": "#55978b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/476658f7eb58053f35ed1407097a3018b7076491",
+        "title": "e.g. Robert Balzar Trio \"Frozen (arr. M. Williams for orchestra): Frozen: Let It Go (arr. M. Williams for orchestra)\"",
+        "trackId": "4lgnuP7nhnYBeiexeZjs4H"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-czechjazz.html#tunnel"
+    },
+    {
+      "genreName": "jazz harp",
+      "positioning": {
+        "top": 121,
+        "left": 22
+      },
+      "style": {
+        "color": "#4d9d84",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/082c45e5eaffc8df234cd45a6dc95a71bcc3f0cc",
+        "title": "e.g. Dorothy Ashby \"Come Live With Me\"",
+        "trackId": "3YT2vdLbvfcjfCiNR4DsKT"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-jazzharp.html#tunnel"
+    },
+    {
+      "genreName": "danish jazz",
+      "positioning": {
+        "top": 85,
+        "left": 70
+      },
+      "style": {
+        "color": "#4d987d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a10d55a91e114dfda007a35c1b88f4cf2ba13e85",
+        "title": "e.g. Hans Ulrik \"A Nightingale Sang In Berkeley Square\"",
+        "trackId": "2pGGumIHCqYldY5Q3W5jj9"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-danishjazz.html#tunnel"
+    },
+    {
+      "genreName": "italian jazz",
+      "positioning": {
+        "top": 109,
+        "left": 65
+      },
+      "style": {
+        "color": "#4d9c80",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/632e6e5aaf97efa01c6fad522dce260585c6ec30",
+        "title": "e.g. Roberto Gatto \"Il cielo (feat. Max Gazzè)\"",
+        "trackId": "2oqkxndclVVZYsZvVrhZdC"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-italianjazz.html#tunnel"
+    },
+    {
+      "genreName": "african percussion",
+      "positioning": {
+        "top": 48,
+        "left": 126
+      },
+      "style": {
+        "color": "#4c9fb2",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57ca44919433aeb1ac0c0ab58ad1c3c3146d0280",
+        "title": "e.g. Koungbanan Conde Ensemble \"Kassa\"",
+        "trackId": "2TGKSbYXuEqulfA1ENlGnW"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-africanpercussion.html#tunnel"
+    },
+    {
+      "genreName": "belgian jazz",
+      "positioning": {
+        "top": 116,
+        "left": 213
+      },
+      "style": {
+        "color": "#519d74",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/621f3d571b76821629ccf38ed244cf07e196c9d1",
+        "title": "e.g. Philip Catherine \"Je me suis dait tout petit\"",
+        "trackId": "7rpzJI8s1mCu86z9bevugc"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-belgianjazz.html#tunnel"
+    },
+    {
+      "genreName": "portuguese jazz",
+      "positioning": {
+        "top": 97,
+        "left": 17
+      },
+      "style": {
+        "color": "#4d9d7d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/150832a10c72bb70d1cced91e2b86cb03d8b9fb3",
+        "title": "e.g. Bernardo Sassetti \"Reflexos\"",
+        "trackId": "0wpnFfYkbrq2uIo3r8a5aF"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-portuguesejazz.html#tunnel"
+    },
+    {
+      "genreName": "scottish jazz",
+      "positioning": {
+        "top": 129,
+        "left": 226
+      },
+      "style": {
+        "color": "#55947e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fef35d19ca6f57c4546070efda2d854380744f38",
+        "title": "e.g. Matt Carmichael \"Cononbridge\"",
+        "trackId": "6AcH1igUiRu0wXJnCIq5qk"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-scottishjazz.html#tunnel"
+    },
+    {
+      "genreName": "australian jazz",
+      "positioning": {
+        "top": 141,
+        "left": 161
+      },
+      "style": {
+        "color": "#4b9a7f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7a71fdab12cc7fd5b5eadeefe69d676c275eb20d",
+        "title": "e.g. Barney McAll \"Sun Always\"",
+        "trackId": "775nZtOlg5D8Qr29XLfYQ4"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-australianjazz.html#tunnel"
+    },
+    {
+      "genreName": "spanish jazz",
+      "positioning": {
+        "top": 141,
+        "left": 300
+      },
+      "style": {
+        "color": "#5b997a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd1a3f3d8743953dd0cf3a65f839dd799524de13",
+        "title": "e.g. Chano Dominguez \"Olé y Olé\"",
+        "trackId": "3zZjQqJKY4b2OK4NgFISlL"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-spanishjazz.html#tunnel"
+    }
+  ]
+}

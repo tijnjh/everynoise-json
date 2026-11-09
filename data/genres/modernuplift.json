@@ -1,0 +1,956 @@
+{
+  "schemaVersion": 3,
+  "genreName": "modern uplift",
+  "artists": [
+    {
+      "artistName": "Parmalee",
+      "positioning": {
+        "top": 339,
+        "left": 827
+      },
+      "style": {
+        "color": "#c08001",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/484fe31bb8217f25926b0f3b209a2787a88fe0ea",
+        "title": "e.g. Parmalee \"Take My Name\"",
+        "trackId": "7g0Zfd5J6Hzx9M2fRUMuba"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=4TshyQDihSYXSWqvclXl3I",
+      "id": "4TshyQDihSYXSWqvclXl3I"
+    },
+    {
+      "artistName": "Honor By August",
+      "positioning": {
+        "top": 813,
+        "left": 427
+      },
+      "style": {
+        "color": "#a08901",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0103ba5fc959deca6c674d65f6f351056733a55b",
+        "title": "e.g. Honor By August \"Last Chance\"",
+        "trackId": "1Yx3PST7G7VvZdCX2jtbF3"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1Yaiqy2HXsMakxeOfCuMoX",
+      "id": "1Yaiqy2HXsMakxeOfCuMoX"
+    },
+    {
+      "artistName": "Far Too Jones",
+      "positioning": {
+        "top": 466,
+        "left": 306
+      },
+      "style": {
+        "color": "#c07900",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ab979059290bce75c91948c36f84f65a5b0b1a4f",
+        "title": "e.g. Far Too Jones \"As Good As You\"",
+        "trackId": "7s17U5bCEjo8q6rDCdFEm2"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=4WfRDNBPQRb4xsqJC01Rkb",
+      "id": "4WfRDNBPQRb4xsqJC01Rkb"
+    },
+    {
+      "artistName": "Five A.M.",
+      "positioning": {
+        "top": 0,
+        "left": 1400
+      },
+      "style": {
+        "color": "#ad8870",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c749e2e45390b7097a351c8dc2aeb3136834b9b8",
+        "title": "e.g. Five A.M. \"Fall Apart\"",
+        "trackId": "0QbkoreOyyiBYO67KCpK8A"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=27avuLtI3nbAQlS0lFapAw",
+      "id": "27avuLtI3nbAQlS0lFapAw"
+    },
+    {
+      "artistName": "Adelayda",
+      "positioning": {
+        "top": 221,
+        "left": 388
+      },
+      "style": {
+        "color": "#bb7600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/175e8889d8cb8e6ac7f611e5ed739677b5a659ac",
+        "title": "e.g. Adelayda \"Not Tonight\"",
+        "trackId": "1dn2N0cH97qirzOldI2xkv"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=0yx5aXCXFyBC1qbqoBN15o",
+      "id": "0yx5aXCXFyBC1qbqoBN15o"
+    },
+    {
+      "artistName": "Five Star Iris",
+      "positioning": {
+        "top": 625,
+        "left": 611
+      },
+      "style": {
+        "color": "#bd7c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/36fbfd7fbf0598f126f469f7052f3b333b82a9e9",
+        "title": "e.g. Five Star Iris \"Weathered\"",
+        "trackId": "4RwUlZkhcpoA1dkDwRbivY"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=7CDfLUHWwRtMFMULAtVC1A",
+      "id": "7CDfLUHWwRtMFMULAtVC1A"
+    },
+    {
+      "artistName": "Stone Parade",
+      "positioning": {
+        "top": 550,
+        "left": 380
+      },
+      "style": {
+        "color": "#c58010",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8b86a1bec5859848ff4047704da7d6e6ec70d77",
+        "title": "e.g. Stone Parade \"Somebody Will Miss You\"",
+        "trackId": "3FDk8tRkf40RLnIarbncv5"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=4dpjCPMNrpxGCLN6EQeE8E",
+      "id": "4dpjCPMNrpxGCLN6EQeE8E"
+    },
+    {
+      "artistName": "All the Brightness",
+      "positioning": {
+        "top": 336,
+        "left": 212
+      },
+      "style": {
+        "color": "#d67200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8809d83576e13b0c32bb6a60107d3e05821301e8",
+        "title": "e.g. All the Brightness \"Don't Get Me Wrong\"",
+        "trackId": "1uZxRehIBWT3sT9rkduc3F"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=7oXdrdOkyTVvHa1MtJh4Y6",
+      "id": "7oXdrdOkyTVvHa1MtJh4Y6"
+    },
+    {
+      "artistName": "No Second Troy",
+      "positioning": {
+        "top": 578,
+        "left": 584
+      },
+      "style": {
+        "color": "#a4850a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7d34c17278630f19eceaac95389e12173330294",
+        "title": "e.g. No Second Troy \"Into Your Sun\"",
+        "trackId": "6OgIGv7U3c2QD47S4lS7rk"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=2P1Vj2KvH8H1mkd5nUTgV1",
+      "id": "2P1Vj2KvH8H1mkd5nUTgV1"
+    },
+    {
+      "artistName": "Colourslide",
+      "positioning": {
+        "top": 373,
+        "left": 0
+      },
+      "style": {
+        "color": "#db6b11",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5193d196a66c423b4ce63af8eae0992cf176f0cb",
+        "title": "e.g. Colourslide \"Wake Up Call\"",
+        "trackId": "6cZioXlDvMiS2YeNLk1wU0"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=1wt4bOB7VNeyj1hCN9BtFF",
+      "id": "1wt4bOB7VNeyj1hCN9BtFF"
+    },
+    {
+      "artistName": "Ziv",
+      "positioning": {
+        "top": 516,
+        "left": 870
+      },
+      "style": {
+        "color": "#9a9400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/adff83a814c3780aa587d0a50c555d6555e72f00",
+        "title": "e.g. Ziv \"I Didn't Mean to Leave You\"",
+        "trackId": "4d1dVmGEHrwvBG6eLoHs3f"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=2DP8NWHop7Kq6HR3ktvkJt",
+      "id": "2DP8NWHop7Kq6HR3ktvkJt"
+    },
+    {
+      "artistName": "7 Sharp 9",
+      "positioning": {
+        "top": 306,
+        "left": 698
+      },
+      "style": {
+        "color": "#be8204",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/75fe896d2a9729844d7ba5e1ac6765a957beb20f",
+        "title": "e.g. 7 Sharp 9 \"Alone\"",
+        "trackId": "68QPoZPGivjlSic6pZEHUv"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=5vDf1r0CRKxGI5wDNJ1sPc",
+      "id": "5vDf1r0CRKxGI5wDNJ1sPc"
+    },
+    {
+      "artistName": "Standard Candle",
+      "positioning": {
+        "top": 407,
+        "left": 145
+      },
+      "style": {
+        "color": "#c8720c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe5334d35bf984472b339e6d7ef1df96b2ab683f",
+        "title": "e.g. Standard Candle \"Do You Remember\"",
+        "trackId": "62uKeSojngzVVRVmMuJh9E"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6E6qLIjPUsCd89STnOiJfJ",
+      "id": "6E6qLIjPUsCd89STnOiJfJ"
+    },
+    {
+      "artistName": "VOiD808",
+      "positioning": {
+        "top": 558,
+        "left": 196
+      },
+      "style": {
+        "color": "#cf6c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bda70929ada1a37d56f6c9d60c04207934fc1f62",
+        "title": "e.g. VOiD808 \"Spirit Of Downtown\"",
+        "trackId": "5tsJmAmBWwgr7G4HRU3nP0"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=6XkV9c8ahf6E4P7ti4t9gZ",
+      "id": "6XkV9c8ahf6E4P7ti4t9gZ"
+    },
+    {
+      "artistName": "Highway 9",
+      "positioning": {
+        "top": 336,
+        "left": 490
+      },
+      "style": {
+        "color": "#c27d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0acce83b1b465c53df16867b534f2af195d289da",
+        "title": "e.g. Highway 9 \"Between Your Eyes and Mine\"",
+        "trackId": "0LBKenK7CGiOXms8SlBzgD"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=3a7HWxkDhYEKoaPwpLT6eg",
+      "id": "3a7HWxkDhYEKoaPwpLT6eg"
+    },
+    {
+      "artistName": "Foreign Oren",
+      "positioning": {
+        "top": 597,
+        "left": 200
+      },
+      "style": {
+        "color": "#a48d01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4738c1eca107de3faf56b2e4794897075b106dfc",
+        "title": "e.g. Foreign Oren \"Head Over Heels\"",
+        "trackId": "1QZdPPqEuyuRl5KrNXQeEr"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=6oNs2znmdqHObghPLv55Jg",
+      "id": "6oNs2znmdqHObghPLv55Jg"
+    },
+    {
+      "artistName": "Stepanian",
+      "positioning": {
+        "top": 460,
+        "left": 823
+      },
+      "style": {
+        "color": "#c47b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d596ae2251109a4577752965914344608b36db22",
+        "title": "e.g. Stepanian \"Straight Up\"",
+        "trackId": "5Gq6SZkKqfer0WBAzwzEcn"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=01u0TqpdLt0XHElDfp6Psa",
+      "id": "01u0TqpdLt0XHElDfp6Psa"
+    },
+    {
+      "artistName": "State Of Man",
+      "positioning": {
+        "top": 482,
+        "left": 223
+      },
+      "style": {
+        "color": "#e06200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98441bfe2c346a5725aa322ce85ce429a68f6406",
+        "title": "e.g. State Of Man \"Swallow Your Fears\"",
+        "trackId": "0gZhTxgaXsZ4grcTu9Ppu9"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=5pYK1eA77Sctf6XMEfb2qV",
+      "id": "5pYK1eA77Sctf6XMEfb2qV"
+    },
+    {
+      "artistName": "JP Corwyn",
+      "positioning": {
+        "top": 684,
+        "left": 408
+      },
+      "style": {
+        "color": "#a9801c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85b3ba55070aed3fd49ce59ad4bd02e42fcb5594",
+        "title": "e.g. JP Corwyn \"Find Myself\"",
+        "trackId": "659X3YUi1aPnwjNzXIIF5Y"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=5mPO25ibQzW96LaS6DmufE",
+      "id": "5mPO25ibQzW96LaS6DmufE"
+    },
+    {
+      "artistName": "Paging Grace",
+      "positioning": {
+        "top": 188,
+        "left": 482
+      },
+      "style": {
+        "color": "#bf8200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4f0a06904eaea3e7c86ef03bf32946c7de2d909",
+        "title": "e.g. Paging Grace \"All You're Made Of\"",
+        "trackId": "6hPlYhYzzaZH7zPIyLahwo"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=0TAQbMETkdXK2fXkzI02K4",
+      "id": "0TAQbMETkdXK2fXkzI02K4"
+    },
+    {
+      "artistName": "Out Of Ruin",
+      "positioning": {
+        "top": 454,
+        "left": 341
+      },
+      "style": {
+        "color": "#b9850a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59a1f9e833aecc851cf72e80d6a3e222d3f8c666",
+        "title": "e.g. Out Of Ruin \"I Am Yours\"",
+        "trackId": "49Oy1QufiSMjOPkJSnEjY0"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=36fGNuO8aM03Dwf3Cw4q1g",
+      "id": "36fGNuO8aM03Dwf3Cw4q1g"
+    },
+    {
+      "artistName": "View From Everest",
+      "positioning": {
+        "top": 395,
+        "left": 506
+      },
+      "style": {
+        "color": "#b17b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13466d2281d61f511f2ee8289927b80d38cd09e0",
+        "title": "e.g. View From Everest \"Awake\"",
+        "trackId": "0x4BlzXls780IPToLJG9HW"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=6l3q7EJ01ZWXXuxuD4pMPJ",
+      "id": "6l3q7EJ01ZWXXuxuD4pMPJ"
+    },
+    {
+      "artistName": "Six Day Slide",
+      "positioning": {
+        "top": 426,
+        "left": 404
+      },
+      "style": {
+        "color": "#c77b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/545756fe7f026b6def14db439509c0f1c391e425",
+        "title": "e.g. Six Day Slide \"Callie\"",
+        "trackId": "1b0fjL4gzQkHCjyxGMCYpJ"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=2T0eK9eIvYWXMxByBGHPWM",
+      "id": "2T0eK9eIvYWXMxByBGHPWM"
+    },
+    {
+      "artistName": "Obsession Day",
+      "positioning": {
+        "top": 318,
+        "left": 729
+      },
+      "style": {
+        "color": "#c87700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4aaa733369526a32e451680adbbb90b511cca19a",
+        "title": "e.g. Obsession Day \"Gotta Go\"",
+        "trackId": "2ACZybQnnVUYnSnLUAHoRC"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=1wnjx5z0A4ShqlcBCI9Iw1",
+      "id": "1wnjx5z0A4ShqlcBCI9Iw1"
+    },
+    {
+      "artistName": "Stereo Suite",
+      "positioning": {
+        "top": 250,
+        "left": 698
+      },
+      "style": {
+        "color": "#d27b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c2e565b25a39a87ea93054155daa04866bcf7e6",
+        "title": "e.g. Stereo Suite \"From Here\"",
+        "trackId": "0FEQGxf49tsoCVHTVNbYtM"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=7psEUWUrProu3wz3aXUd2K",
+      "id": "7psEUWUrProu3wz3aXUd2K"
+    },
+    {
+      "artistName": "Fairday",
+      "positioning": {
+        "top": 376,
+        "left": 431
+      },
+      "style": {
+        "color": "#bc8200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d80de85bab64a889402c27a13f517eea322aa6b8",
+        "title": "e.g. Fairday \"Familiar Stranger\"",
+        "trackId": "0bHuRDF6gnV6DpW16KZ96n"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=2xqBLgBq2LLAtBwR2ZGYdL",
+      "id": "2xqBLgBq2LLAtBwR2ZGYdL"
+    },
+    {
+      "artistName": "Surviving August",
+      "positioning": {
+        "top": 185,
+        "left": 361
+      },
+      "style": {
+        "color": "#c98b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42071a436d9b6fc4ed32fe21ab6fb0b94069a18e",
+        "title": "e.g. Surviving August \"NY Roll\"",
+        "trackId": "2xzU8hedNrDEVcxpYEHiWo"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=2YukWdAMPV3SNynFjVZIPh",
+      "id": "2YukWdAMPV3SNynFjVZIPh"
+    },
+    {
+      "artistName": "Red Light Green",
+      "positioning": {
+        "top": 308,
+        "left": 576
+      },
+      "style": {
+        "color": "#d27e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/673bb10d768c6ec90c2e11ec426e3c445be16694",
+        "title": "e.g. Red Light Green \"As Long As There's A Light\"",
+        "trackId": "4xYu2FX4JWP2tzjfVqXBJ7"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=0IFMoGucDBVBQvZOlO5TuD",
+      "id": "0IFMoGucDBVBQvZOlO5TuD"
+    },
+    {
+      "artistName": "Five Dollar Friend",
+      "positioning": {
+        "top": 900,
+        "left": 905
+      },
+      "style": {
+        "color": "#9d8b01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9a7998be735610501167ef818e65f666fa1297e9",
+        "title": "e.g. Five Dollar Friend \"Speeding (35 going 85)\"",
+        "trackId": "2klR920MCgdahSLzJMLy6e"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=6j19cnjunfr4LuwKNZWdHW",
+      "id": "6j19cnjunfr4LuwKNZWdHW"
+    },
+    {
+      "artistName": "Painkiller Hotel",
+      "positioning": {
+        "top": 118,
+        "left": 447
+      },
+      "style": {
+        "color": "#d77201",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/33e786e616519286ad98674e5a3d21e51b5ff7e7",
+        "title": "e.g. Painkiller Hotel \"Afterglow\"",
+        "trackId": "4t8uBGlLjacZzJAsXNNzHs"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1i9QCxbbqpI7Z2ZynffERA",
+      "id": "1i9QCxbbqpI7Z2ZynffERA"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=modern%20uplift"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/08qLHWJM4s8TwWNCoVwFLg"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=modern%20uplift"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "modern alternative rock",
+      "positioning": {
+        "top": 141,
+        "left": 225
+      },
+      "style": {
+        "color": "#be7713",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19089162cd7d61e5cc80fbc1623332df0c59baa3",
+        "title": "e.g. Nothing But Thieves \"Overcome\"",
+        "trackId": "2YmJZWGcy0yONMCsEKOuVD"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-modernalternativerock.html#tunnel"
+    },
+    {
+      "genreName": "modern rock",
+      "positioning": {
+        "top": 169,
+        "left": 300
+      },
+      "style": {
+        "color": "#bd7812",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1",
+        "title": "e.g. Cage The Elephant \"Cigarette Daydreams\"",
+        "trackId": "2tznHmp70DxMyr2XhWLOW0"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-modernrock.html#tunnel"
+    },
+    {
+      "genreName": "english indie rock",
+      "positioning": {
+        "top": 190,
+        "left": 46
+      },
+      "style": {
+        "color": "#bc7813",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/27d58691bdfb406fa7c12e2fd5305dffa3c63c03",
+        "title": "e.g. The Clause \"In My Element\"",
+        "trackId": "6Q71bcXvWORzgnxvWRYSmq"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-englishindierock.html#tunnel"
+    },
+    {
+      "genreName": "tamaulipas indie",
+      "positioning": {
+        "top": 177,
+        "left": 150
+      },
+      "style": {
+        "color": "#bb7b0d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/759c88e1e548cb4af4195027de02b7c4fe41399f",
+        "title": "e.g. División Minúscula \"Sognare\"",
+        "trackId": "3EYPZf5gtyU9suVqTWChzk"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-tamaulipasindie.html#tunnel"
+    },
+    {
+      "genreName": "scottish indie rock",
+      "positioning": {
+        "top": 141,
+        "left": 23
+      },
+      "style": {
+        "color": "#bb7919",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4681d2ecf1a594e5ac3170379eaa5de85a3b017",
+        "title": "e.g. The Dunts \"Dimitri\"",
+        "trackId": "3igpUOlOm66YX9bDtN6sU5"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-scottishindierock.html#tunnel"
+    },
+    {
+      "genreName": "indie rockism",
+      "positioning": {
+        "top": 0,
+        "left": 196
+      },
+      "style": {
+        "color": "#bc7e09",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/62a429d1755126f7084dc2e74e938f6f57d8d24b",
+        "title": "e.g. Olen \"DOA\"",
+        "trackId": "4sy86utWrvEKd2w7zfnzL3"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-indierockism.html#tunnel"
+    },
+    {
+      "genreName": "australian surf rock",
+      "positioning": {
+        "top": 177,
+        "left": 0
+      },
+      "style": {
+        "color": "#c3790e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dcd067ecdd68afc5f7c2e371545b9a48fd1268ff",
+        "title": "e.g. Old Mervs \"Out Of Luck\"",
+        "trackId": "3ITiZ7MiBhQ4yCYrWpHhVK"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-australiansurfrock.html#tunnel"
+    },
+    {
+      "genreName": "south african rock",
+      "positioning": {
+        "top": 215,
+        "left": 162
+      },
+      "style": {
+        "color": "#b37d12",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7cd0e9f9770102436c8aa3e11030d704aec93627",
+        "title": "e.g. Zebra & Giraffe \"The Knife\"",
+        "trackId": "7khXO8XOnhXVgoTVftybJf"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-southafricanrock.html#tunnel"
+    },
+    {
+      "genreName": "japanese alternative rock",
+      "positioning": {
+        "top": 251,
+        "left": 219
+      },
+      "style": {
+        "color": "#bb751a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c43ee7110819f76113513a3042b045b852e6127",
+        "title": "e.g. SUNNY CAR WASH \"キルミー\"",
+        "trackId": "47YvNiZ5V1aLycRz7FrFrj"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-japanesealternativerock.html#tunnel"
+    },
+    {
+      "genreName": "spanish modern rock",
+      "positioning": {
+        "top": 153,
+        "left": 6
+      },
+      "style": {
+        "color": "#b87e1f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a995118f6ce0e8b075adb87a11bfb588f10eca2c",
+        "title": "e.g. Maga \"Diecinueve (feat. Iván Ferreiro)\"",
+        "trackId": "39OY4Y9KEZ2rzvlYz6T7mb"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-spanishmodernrock.html#tunnel"
+    },
+    {
+      "genreName": "british indie rock",
+      "positioning": {
+        "top": 239,
+        "left": 104
+      },
+      "style": {
+        "color": "#be7614",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8535ebeaad36ca58303d220561f1d7e9a32afa86",
+        "title": "e.g. The Maccabees \"Toothpaste Kisses\"",
+        "trackId": "4BAWCedKFfdwxPFmFv4DMG"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-britishindierock.html#tunnel"
+    },
+    {
+      "genreName": "german alternative rock",
+      "positioning": {
+        "top": 94,
+        "left": 185
+      },
+      "style": {
+        "color": "#c67017",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3517936f2fd89e1ab68ff1aa99b449d169aded8",
+        "title": "e.g. H-Blockx \"Countdown To Insanity\"",
+        "trackId": "2XNaKS5wO5rPdgpPYVKria"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-germanalternativerock.html#tunnel"
+    },
+    {
+      "genreName": "taiwan rock",
+      "positioning": {
+        "top": 202,
+        "left": 133
+      },
+      "style": {
+        "color": "#b6791c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e046669c9db4b7ee8d8a63761988c95bd03ac9e8",
+        "title": "e.g. SADOG \"我是海浪\"",
+        "trackId": "7DkN63ZK2OmsoXUDiR1XDI"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-taiwanrock.html#tunnel"
+    },
+    {
+      "genreName": "canadian rock",
+      "positioning": {
+        "top": 227,
+        "left": 104
+      },
+      "style": {
+        "color": "#c07413",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57c64f81c911bcc5ab8bf5061c95f18e69f6b54d",
+        "title": "e.g. Headstones \"Tweeter And The Monkey Man\"",
+        "trackId": "5Q1kDli74zvXpNYFhQKrxU"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-canadianrock.html#tunnel"
+    },
+    {
+      "genreName": "pixie",
+      "positioning": {
+        "top": 11,
+        "left": 17
+      },
+      "style": {
+        "color": "#c67409",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9fc458670f0269e07dfa659e1fb0362b9b7a734a",
+        "title": "e.g. Tonight Alive \"Little Lion Man\"",
+        "trackId": "6oyJip5XQHRqcsy6hOTqw3"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-pixie.html#tunnel"
+    },
+    {
+      "genreName": "indonesian pop punk",
+      "positioning": {
+        "top": 165,
+        "left": 121
+      },
+      "style": {
+        "color": "#c77320",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/92cb8bddf9d4bbe6abd9b29f509454c9d8404152",
+        "title": "e.g. Topi Jerami \"All I Want Is You\"",
+        "trackId": "2aBmQ6DtFOoClvr7WoQQaX"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-indonesianpoppunk.html#tunnel"
+    },
+    {
+      "genreName": "hokkaido indie",
+      "positioning": {
+        "top": 181,
+        "left": 288
+      },
+      "style": {
+        "color": "#c4731a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d39f7cda62521b3c20d9e390615dfb7e4112e4c4",
+        "title": "e.g. THE BOYS&GIRLS \"ボーイ\"",
+        "trackId": "6DIx4tdR6XXzBqVSC0iuZC"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-hokkaidoindie.html#tunnel"
+    },
+    {
+      "genreName": "indonesian rock",
+      "positioning": {
+        "top": 266,
+        "left": 213
+      },
+      "style": {
+        "color": "#b87714",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76edf1b9f1a86e3628a467e98126e19f4038d4a1",
+        "title": "e.g. Rif \"Radja\"",
+        "trackId": "5gpqDeNLrBTbT5x1RUOxbP"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-indonesianrock.html#tunnel"
+    },
+    {
+      "genreName": "k-rock",
+      "positioning": {
+        "top": 301,
+        "left": 190
+      },
+      "style": {
+        "color": "#b47917",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/417bdb903836f9a1c9321faf022f36057565c36c",
+        "title": "e.g. No Brain \"Your Crush On Me\"",
+        "trackId": "2sDQ1EB8BvyL6YFxzXymoy"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-krock.html#tunnel"
+    },
+    {
+      "genreName": "bandung indie",
+      "positioning": {
+        "top": 289,
+        "left": 150
+      },
+      "style": {
+        "color": "#b47a13",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/199812ac3ae9d2c3a5dadb796f34e46894b33bbe",
+        "title": "e.g. Glory of Love \"Rasa Ini Tak Ada Lagi - Original Version\"",
+        "trackId": "2JvO0rs8t4jRRSwoAbRnj3"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-bandungindie.html#tunnel"
+    }
+  ]
+}

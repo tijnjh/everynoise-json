@@ -1,0 +1,1842 @@
+{
+  "schemaVersion": 3,
+  "genreName": "slack-key guitar",
+  "artists": [
+    {
+      "artistName": "John Cruz",
+      "positioning": {
+        "top": 389,
+        "left": 832
+      },
+      "style": {
+        "color": "#75910a",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/622c993a28d3504ca74e7a0b2a25d05cfb422fbd",
+        "title": "e.g. John Cruz \"Little Bit of Love\"",
+        "trackId": "4S77OLbigZvNbiePlvjbDf"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=7sQbRN8QL8IWTkszxMRtJA",
+      "id": "7sQbRN8QL8IWTkszxMRtJA"
+    },
+    {
+      "artistName": "Kuana Torres Kahele",
+      "positioning": {
+        "top": 555,
+        "left": 246
+      },
+      "style": {
+        "color": "#5da401",
+        "fontSize": "146%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5afc6d90c319009e391c477696a0727458fe52d",
+        "title": "e.g. Kuana Torres Kahele \"Lava\"",
+        "trackId": "0wqeaDeaKq14IuQESPqBEJ"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=7Eshpryyi2F9Jg0ixaysNn",
+      "id": "7Eshpryyi2F9Jg0ixaysNn"
+    },
+    {
+      "artistName": "Keola Beamer",
+      "positioning": {
+        "top": 737,
+        "left": 745
+      },
+      "style": {
+        "color": "#36ad94",
+        "fontSize": "134%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/582a4e04858fdf837b198b508572eb253b553fe5",
+        "title": "e.g. Keola Beamer \"Pua Līlīlehua\"",
+        "trackId": "5GkzttQpAANDySsUsbcjnk"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=3HH77UShAG2WJW5nBSjFdY",
+      "id": "3HH77UShAG2WJW5nBSjFdY"
+    },
+    {
+      "artistName": "Kawika Kahiapo",
+      "positioning": {
+        "top": 609,
+        "left": 703
+      },
+      "style": {
+        "color": "#56ac55",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10b82622d2a528bb52638f55a8c20b622b469f96",
+        "title": "e.g. Kawika Kahiapo \"Constellations (feat. Jack Johnson)\"",
+        "trackId": "7ysGMxKwKTR78Xhuju3Hvo"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=6aPkORVtaipgr2ryrcNQRp",
+      "id": "6aPkORVtaipgr2ryrcNQRp"
+    },
+    {
+      "artistName": "Lance Takamiya",
+      "positioning": {
+        "top": 688,
+        "left": 1315
+      },
+      "style": {
+        "color": "#34b9bf",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0a5413590c70527203214185da3e800688483c2",
+        "title": "e.g. Lance Takamiya \"Easy\"",
+        "trackId": "5AQB9IMFG0lDdup93CEQEp"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=7FaPxwleV4FLc7PRiyUYmS",
+      "id": "7FaPxwleV4FLc7PRiyUYmS"
+    },
+    {
+      "artistName": "Gabby Pahinui",
+      "positioning": {
+        "top": 582,
+        "left": 703
+      },
+      "style": {
+        "color": "#4aa153",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94242e135be8e44cd4e6a8861045da3fd1210339",
+        "title": "e.g. Gabby Pahinui \"Hi'ilawe\"",
+        "trackId": "7qTlRtGYNd9emAr8eB6xLk"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=2Ju4D1DqBETuLI2hAsoqHu",
+      "id": "2Ju4D1DqBETuLI2hAsoqHu"
+    },
+    {
+      "artistName": "Hapa",
+      "positioning": {
+        "top": 413,
+        "left": 321
+      },
+      "style": {
+        "color": "#6c943f",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f657304b141d5546e381d4e0d7737419d548e4e",
+        "title": "e.g. Hapa \"Ka Uluwehi O Ke Kai\"",
+        "trackId": "6oE3kZums8Llc7ExChtHkb"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=3w0M90LteiOnPZkklwQPqZ",
+      "id": "3w0M90LteiOnPZkklwQPqZ"
+    },
+    {
+      "artistName": "Dennis Kamakahi",
+      "positioning": {
+        "top": 690,
+        "left": 416
+      },
+      "style": {
+        "color": "#4aad23",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff99d2afeadbc33b241992953e24f5cf9858df27",
+        "title": "e.g. Dennis Kamakahi \"Wahine 'Ilikea\"",
+        "trackId": "5W8F4fS064ny8IxyXvgUtp"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=2Ntbsut1zuMvsXBTDGj18Y",
+      "id": "2Ntbsut1zuMvsXBTDGj18Y"
+    },
+    {
+      "artistName": "Jeff Peterson",
+      "positioning": {
+        "top": 728,
+        "left": 616
+      },
+      "style": {
+        "color": "#3cb1c0",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5de12048dcab9c93a49ab096e9b72008ccdc524e",
+        "title": "e.g. Jeff Peterson \"Harvest Moon\"",
+        "trackId": "25jk7wYTzTa6jLslIIgu6F"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=4HRejMM7XP1KHouqaCrCd5",
+      "id": "4HRejMM7XP1KHouqaCrCd5"
+    },
+    {
+      "artistName": "Jim \"Kimo\" West",
+      "positioning": {
+        "top": 567,
+        "left": 828
+      },
+      "style": {
+        "color": "#3eb0bb",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2425f0ecde9b0f958a1e0e4e12794fce089c57d",
+        "title": "e.g. Jim \"Kimo\" West \"Kohala No\"",
+        "trackId": "0NQG3nSTz1SDwsNoovj2vJ"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=51aljngqSf5fmjeQEOXp0k",
+      "id": "51aljngqSf5fmjeQEOXp0k"
+    },
+    {
+      "artistName": "Brittni Paiva",
+      "positioning": {
+        "top": 313,
+        "left": 1311
+      },
+      "style": {
+        "color": "#78a6c1",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0956b6559bf7776d2b9cd7a82d63e025d814ca5",
+        "title": "e.g. Brittni Paiva \"Hawaiian Roller Coaster Ride\"",
+        "trackId": "3XB7J0yFU37Kon47cRFJAF"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=030ma4QtsnydUwd4M2qXWt",
+      "id": "030ma4QtsnydUwd4M2qXWt"
+    },
+    {
+      "artistName": "Keola & Kapono Beamer",
+      "positioning": {
+        "top": 495,
+        "left": 529
+      },
+      "style": {
+        "color": "#4b9a1a",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9367ff9458d0c9758df73f4e04c7904c29a5807e",
+        "title": "e.g. Keola & Kapono Beamer \"Honolulu City Lights\"",
+        "trackId": "7p7wUyiSlKhbBj6a4W5JQJ"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=3EzISrY4SedvUU2QWGaH4f",
+      "id": "3EzISrY4SedvUU2QWGaH4f"
+    },
+    {
+      "artistName": "The Brothers Cazimero",
+      "positioning": {
+        "top": 541,
+        "left": 96
+      },
+      "style": {
+        "color": "#52a106",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57f2c3b7df7e5766c18f3feb89c6cde2783c2018",
+        "title": "e.g. The Brothers Cazimero \"Pua Hone\"",
+        "trackId": "2Y579kQwREtBRxOzelmCGJ"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=7oFAub69yHYo7cJVlTK4Zb",
+      "id": "7oFAub69yHYo7cJVlTK4Zb"
+    },
+    {
+      "artistName": "Sonny Chillingworth",
+      "positioning": {
+        "top": 667,
+        "left": 695
+      },
+      "style": {
+        "color": "#40ac4e",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0ff30ae8bfb585a2cfa7f4c715b2ba389da06503",
+        "title": "e.g. Sonny Chillingworth \"Moe 'Uhane - Dream Slack Key\"",
+        "trackId": "3Kk3ZHgX6UNQpxd8MKksE6"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=6xzksQA78p1O6EJudUThEA",
+      "id": "6xzksQA78p1O6EJudUThEA"
+    },
+    {
+      "artistName": "Ledward Kaapana",
+      "positioning": {
+        "top": 609,
+        "left": 545
+      },
+      "style": {
+        "color": "#63a8b2",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e3e4d0345de61da0a334544c1fc4f71d26d4401",
+        "title": "e.g. Ledward Kaapana \"Slack Key Lullabye\"",
+        "trackId": "6BmBm3K2FU9Gn0bfXEYc1R"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4rbuIw9Fa3U8yCZuK2Ig1K",
+      "id": "4rbuIw9Fa3U8yCZuK2Ig1K"
+    },
+    {
+      "artistName": "The Maile Serenaders",
+      "positioning": {
+        "top": 626,
+        "left": 691
+      },
+      "style": {
+        "color": "#44a257",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59c0708a19e119253fc51d13e50e3655916c1b61",
+        "title": "e.g. The Maile Serenaders \"Nani Ko`olau\"",
+        "trackId": "3PTgQmPa3LYSwT8sjE22z4"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=4bVRik3rG4YkBYfv5RV0QT",
+      "id": "4bVRik3rG4YkBYfv5RV0QT"
+    },
+    {
+      "artistName": "Ozzie Kotani",
+      "positioning": {
+        "top": 837,
+        "left": 678
+      },
+      "style": {
+        "color": "#34afbc",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2f8f4830dfec533bf5902f793bf6ff3d6df514ee",
+        "title": "e.g. Ozzie Kotani \"Paka Ua\"",
+        "trackId": "7tGs3qEdxRPpu6EXahlICf"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=142rlGd3piCJQf1OWRkywk",
+      "id": "142rlGd3piCJQf1OWRkywk"
+    },
+    {
+      "artistName": "Ray Kane",
+      "positioning": {
+        "top": 770,
+        "left": 533
+      },
+      "style": {
+        "color": "#39ac75",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6a5480403255cec042f14e3b5e8bd5bcec2ea0d",
+        "title": "e.g. Ray Kane \"Popoki Slack Key\"",
+        "trackId": "6oipvFEyEy8DQS9dGKQ5wS"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=6d2Ey5tgCEGpFd8fzoKhIR",
+      "id": "6d2Ey5tgCEGpFd8fzoKhIR"
+    },
+    {
+      "artistName": "Daniel Ho",
+      "positioning": {
+        "top": 607,
+        "left": 857
+      },
+      "style": {
+        "color": "#47ae65",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a37b3d02a52b2c760624c308d70362bc04bf3764",
+        "title": "e.g. Daniel Ho \"保歐亞的花盛開 Pauoa Liko Ka Lehua\"",
+        "trackId": "0Bw1fKr1q3bzyhA0FknH7V"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=17SbhL3sy2cOMZ4sMvVFlI",
+      "id": "17SbhL3sy2cOMZ4sMvVFlI"
+    },
+    {
+      "artistName": "Makana",
+      "positioning": {
+        "top": 481,
+        "left": 558
+      },
+      "style": {
+        "color": "#55ab72",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66c4ecd1186b7918f014c0cdc936733cbd88b765",
+        "title": "e.g. Makana \"Walking With You\"",
+        "trackId": "77JS73AK9K0yjCP5CzoEm9"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=5cP5AByXG70KVZlVQsAMOD",
+      "id": "5cP5AByXG70KVZlVQsAMOD"
+    },
+    {
+      "artistName": "Sonny Lim",
+      "positioning": {
+        "top": 559,
+        "left": 1040
+      },
+      "style": {
+        "color": "#4ab3bb",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c3341164dcc46a5b425def6d6ad7e4ffd63c917",
+        "title": "e.g. Sonny Lim \"Mauna Kea Morning\"",
+        "trackId": "7lRoAUnyoCuRoAwkKCJi91"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=4otxRB5EZOCCDu4BqCKtwl",
+      "id": "4otxRB5EZOCCDu4BqCKtwl"
+    },
+    {
+      "artistName": "Kapono Beamer",
+      "positioning": {
+        "top": 408,
+        "left": 882
+      },
+      "style": {
+        "color": "#5ea39e",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc066a1bee1339ba65f9e66d9b43b59db58d8751",
+        "title": "e.g. Kapono Beamer \"Marching to Honolulu - Remastered\"",
+        "trackId": "6SSizCDpjkoNOHe5SVZFh4"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2iWov0GSruOKcRKaaq4x7M",
+      "id": "2iWov0GSruOKcRKaaq4x7M"
+    },
+    {
+      "artistName": "George Kuo",
+      "positioning": {
+        "top": 742,
+        "left": 574
+      },
+      "style": {
+        "color": "#3dafa8",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/557c2ad4f00bcb2fbdc9d9dfb1fa3ad749645df2",
+        "title": "e.g. George Kuo \"Waikīkī Hula Medley\"",
+        "trackId": "2Tj6ZZjT1V31MYSmdOq1QT"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=6nH4CRrx3sGTIdL29C3av5",
+      "id": "6nH4CRrx3sGTIdL29C3av5"
+    },
+    {
+      "artistName": "Bob Brozman",
+      "positioning": {
+        "top": 575,
+        "left": 1019
+      },
+      "style": {
+        "color": "#67967e",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1dc75b0baf6cff46ee418ca33dc109c3183c7000",
+        "title": "e.g. Bob Brozman \"Lei 'Awapuhi - Yellow Ginger Lei\"",
+        "trackId": "7jVT5ATucVf0V2R5ztUnYJ"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=0rbQ6RnCd7jkHUr9zof16V",
+      "id": "0rbQ6RnCd7jkHUr9zof16V"
+    },
+    {
+      "artistName": "Cyril Pahinui",
+      "positioning": {
+        "top": 573,
+        "left": 312
+      },
+      "style": {
+        "color": "#65a478",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b4e313b79db86c005017f38494211c225df5f94e",
+        "title": "e.g. Cyril Pahinui \"Ipo Lei Manu\"",
+        "trackId": "3jFOru56OBjrH30UUBkGpT"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=7wsc0FqwFJpSWeSjuBMBJ5",
+      "id": "7wsc0FqwFJpSWeSjuBMBJ5"
+    },
+    {
+      "artistName": "Leonard Kwan",
+      "positioning": {
+        "top": 700,
+        "left": 737
+      },
+      "style": {
+        "color": "#4ea8b7",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cfedd333c361185d48494ee10e5132b50499c6bd",
+        "title": "e.g. Leonard Kwan \"Ke'ala's Mele\"",
+        "trackId": "0Q9fD5haQkjfPc5ihzSt3W"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=07fST6bDoNpm9hg0tyKJA6",
+      "id": "07fST6bDoNpm9hg0tyKJA6"
+    },
+    {
+      "artistName": "Raiatea Helm",
+      "positioning": {
+        "top": 567,
+        "left": 108
+      },
+      "style": {
+        "color": "#53aa00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/93e2eea243706d70ecc8042bf610ea9edd943095",
+        "title": "e.g. Raiatea Helm \"Ahulili\"",
+        "trackId": "5SmWyYdkX14Oj80WlRHnKY"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=3OmAmym7dLlhFhpAYt3bNC",
+      "id": "3OmAmym7dLlhFhpAYt3bNC"
+    },
+    {
+      "artistName": "Atta Isaacs",
+      "positioning": {
+        "top": 519,
+        "left": 678
+      },
+      "style": {
+        "color": "#5ea3a5",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/abebce375f15432c1d9384c1e408027d7a560086",
+        "title": "e.g. Atta Isaacs \"Ke Ka'upu\"",
+        "trackId": "0jnx8mM6gtORjoco0O4Ybn"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=1J4lQsgLjZukuJ0iB5hqAk",
+      "id": "1J4lQsgLjZukuJ0iB5hqAk"
+    },
+    {
+      "artistName": "Barney Isaacs",
+      "positioning": {
+        "top": 791,
+        "left": 570
+      },
+      "style": {
+        "color": "#37abc2",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99511579ec8d670a419f8310500288cd6a8c3d1d",
+        "title": "e.g. Barney Isaacs \"Maui Medley\"",
+        "trackId": "62gULyemY8x2lcSINqRv2y"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=4W6BPstG1HQuGACzWB99ms",
+      "id": "4W6BPstG1HQuGACzWB99ms"
+    },
+    {
+      "artistName": "Charles Michael Brotman",
+      "positioning": {
+        "top": 94,
+        "left": 1361
+      },
+      "style": {
+        "color": "#78a398",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d428350a6630946e6d06fda7f6c2690c119b5b70",
+        "title": "e.g. Charles Michael Brotman \"Hapuna Sunset\"",
+        "trackId": "2e8L49EKopbLpo1TbyYOLi"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=7CtFwDR8wIK0bVtpaz3x5c",
+      "id": "7CtFwDR8wIK0bVtpaz3x5c"
+    },
+    {
+      "artistName": "John Keawe",
+      "positioning": {
+        "top": 637,
+        "left": 603
+      },
+      "style": {
+        "color": "#4eaf91",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05cd3b3b91297363074688e6fc994c602905e0c5",
+        "title": "e.g. John Keawe \"Pu'uanahulu\"",
+        "trackId": "4r7vVBH5VKV7b05697gTxj"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=2TZpmk4X8XxdnncY10i8N2",
+      "id": "2TZpmk4X8XxdnncY10i8N2"
+    },
+    {
+      "artistName": "Maunalua",
+      "positioning": {
+        "top": 379,
+        "left": 0
+      },
+      "style": {
+        "color": "#61a516",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7d5cb6ce03161d4931dbdd52f328ae29d8e3618",
+        "title": "e.g. Maunalua \"Uilani / Baby Kalae\"",
+        "trackId": "7JJfyOiDqeunc2wUc6Ryx1"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=2xWcXBvJeNWFIfy7HghTIS",
+      "id": "2xWcXBvJeNWFIfy7HghTIS"
+    },
+    {
+      "artistName": "Patrick Landeza",
+      "positioning": {
+        "top": 640,
+        "left": 745
+      },
+      "style": {
+        "color": "#5bb07c",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6dd29b346fc98f3a42cc60db69fb8cd7be6ad0c",
+        "title": "e.g. Patrick Landeza \"Huaka`i\"",
+        "trackId": "0ZAXFqWIT7Abz7RkXeMdFJ"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=7ujNPg1x9Q4n0CRNZ8JseP",
+      "id": "7ujNPg1x9Q4n0CRNZ8JseP"
+    },
+    {
+      "artistName": "Moses Kahumoku",
+      "positioning": {
+        "top": 792,
+        "left": 1378
+      },
+      "style": {
+        "color": "#4ea2b0",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/df695490efdaba9fd6ddb11f6be1e77f9f0ae9e2",
+        "title": "e.g. Moses Kahumoku \"Pōhakuloa\"",
+        "trackId": "10C2DhNclvG7xrg5HH3M22"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=093YEJpuMtLbZIw1VL1swT",
+      "id": "093YEJpuMtLbZIw1VL1swT"
+    },
+    {
+      "artistName": "Paul Togioka",
+      "positioning": {
+        "top": 537,
+        "left": 358
+      },
+      "style": {
+        "color": "#6fb4cb",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/105f628bdde967e6b75982894fa604dfa49ecb9b",
+        "title": "e.g. Paul Togioka \"Kekaha Chimes\"",
+        "trackId": "5Sh7509By9UUx8r2hIyBxe"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=1eoRHMxHREH5lGWkHqvpfw",
+      "id": "1eoRHMxHREH5lGWkHqvpfw"
+    },
+    {
+      "artistName": "Cindy Combs",
+      "positioning": {
+        "top": 824,
+        "left": 599
+      },
+      "style": {
+        "color": "#3eae90",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9316d0c64a7b0f84c22357f2a237711108d531c2",
+        "title": "e.g. Cindy Combs \"Ka Makani Kaili Aloha\"",
+        "trackId": "5rK5LUMzEPRCjcCO3wCCSM"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=4GRqHgkJshaKVABJgR8nmT",
+      "id": "4GRqHgkJshaKVABJgR8nmT"
+    },
+    {
+      "artistName": "Mike Kaawa",
+      "positioning": {
+        "top": 571,
+        "left": 583
+      },
+      "style": {
+        "color": "#789a20",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e4c13436e938821b130172af823ce9c98cf3ec93",
+        "title": "e.g. Mike Kaawa \"Kalena Kai\"",
+        "trackId": "0LpBXv1J7rJ1h2pdUAqwvN"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=7KtbS2lQxxvA4N75pIVCtX",
+      "id": "7KtbS2lQxxvA4N75pIVCtX"
+    },
+    {
+      "artistName": "George Kahumoku, Jr.",
+      "positioning": {
+        "top": 704,
+        "left": 304
+      },
+      "style": {
+        "color": "#4dae51",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e98fbdd1e0869b48449f34c2a8cd394d8390630c",
+        "title": "e.g. George Kahumoku, Jr. \"Aloha 'Oe - Instrumental\"",
+        "trackId": "0pReYMmdh4WnHRvo2R9TRP"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=2Oe0KaKfSCiUssxzHRX61j",
+      "id": "2Oe0KaKfSCiUssxzHRX61j"
+    },
+    {
+      "artistName": "Danny Carvalho",
+      "positioning": {
+        "top": 584,
+        "left": 579
+      },
+      "style": {
+        "color": "#5ca98f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/56c4762f681d92b58b9eefb3fdda2ea60c9dd20c",
+        "title": "e.g. Danny Carvalho \"Hawaiian Soul\"",
+        "trackId": "6ofc3xBYAjNBXtMuOa1Dts"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=6PWUZZrHN9MnFaqEy6M20V",
+      "id": "6PWUZZrHN9MnFaqEy6M20V"
+    },
+    {
+      "artistName": "Ken Emerson",
+      "positioning": {
+        "top": 682,
+        "left": 687
+      },
+      "style": {
+        "color": "#3aa8be",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/90ebf8e4884e54da3cba550b5e18c0e5ae286225",
+        "title": "e.g. Ken Emerson \"Paniolo Medley\"",
+        "trackId": "16j4ngpuU9pwt4tLd85inC"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=2OQ1ShJLRj3cW56wir5W5Q",
+      "id": "2OQ1ShJLRj3cW56wir5W5Q"
+    },
+    {
+      "artistName": "Raymond Kane",
+      "positioning": {
+        "top": 756,
+        "left": 595
+      },
+      "style": {
+        "color": "#47aaad",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3446947e9475623bad66ce602aeec17840cf29ba",
+        "title": "e.g. Raymond Kane \"Ka Punahou\"",
+        "trackId": "1Lb56N1xbhcVuFv0PynfSB"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=2v5DKEPJBhQCIxy2hc4qeI",
+      "id": "2v5DKEPJBhQCIxy2hc4qeI"
+    },
+    {
+      "artistName": "Keoki Kahumoku",
+      "positioning": {
+        "top": 804,
+        "left": 608
+      },
+      "style": {
+        "color": "#28b5a1",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/613d8404bab6b913cd050b3865defb7eae5352b3",
+        "title": "e.g. Keoki Kahumoku \"Noe Noe Uakea\"",
+        "trackId": "013XCG6GfPt0aoKQtAmamJ"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=5JyCeduiITiR4Fy4iP01dm",
+      "id": "5JyCeduiITiR4Fy4iP01dm"
+    },
+    {
+      "artistName": "Randy Lorenzo",
+      "positioning": {
+        "top": 351,
+        "left": 1065
+      },
+      "style": {
+        "color": "#57a652",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/330bf318a9a441a1e6793ec55812d588cc582793",
+        "title": "e.g. Randy Lorenzo \"Island Style\"",
+        "trackId": "6cQtTOedwIjk0MsWgBJWvN"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=34b3evbwuaICTdl0YoE7uZ",
+      "id": "34b3evbwuaICTdl0YoE7uZ"
+    },
+    {
+      "artistName": "James \"Bla\" Pahinui",
+      "positioning": {
+        "top": 754,
+        "left": 807
+      },
+      "style": {
+        "color": "#659c3e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5084f1be114a0c1b8fc3a35aec1284d063619b5c",
+        "title": "e.g. James \"Bla\" Pahinui \"Maori Brown Eyes - Instrumental\"",
+        "trackId": "5yW9AcNPW3AQKn8zg0svxF"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=0d6HYe9VuuQnQK8tNxEZg8",
+      "id": "0d6HYe9VuuQnQK8tNxEZg8"
+    },
+    {
+      "artistName": "Stephen Inglis",
+      "positioning": {
+        "top": 627,
+        "left": 466
+      },
+      "style": {
+        "color": "#5daa2f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b19303119d2db30b61626c64c823f53f702a9de5",
+        "title": "e.g. Stephen Inglis \"Redwood Slack Key\"",
+        "trackId": "5tQM8e74R7E2qa5psSbWQc"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=7goK59p6gCo5ylXiggW5zQ",
+      "id": "7goK59p6gCo5ylXiggW5zQ"
+    },
+    {
+      "artistName": "Gabby Pahinui and The Sons of Hawaii",
+      "positioning": {
+        "top": 673,
+        "left": 1198
+      },
+      "style": {
+        "color": "#259b01",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37b6aecc948349d7267fa183719ee20aef8e81af",
+        "title": "e.g. Gabby Pahinui and The Sons of Hawaii \"He`eia\"",
+        "trackId": "5HNa7awJWqjU9cIEtY8397"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=3IAXpQjlUuD4h7YyIYgAcm",
+      "id": "3IAXpQjlUuD4h7YyIYgAcm"
+    },
+    {
+      "artistName": "Barefoot Natives",
+      "positioning": {
+        "top": 124,
+        "left": 957
+      },
+      "style": {
+        "color": "#918b0c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20f0e5fd80e48c55419c0075693cc7153d9cb7c6",
+        "title": "e.g. Barefoot Natives \"Fa Mai Ra Oe\"",
+        "trackId": "3Prkps5ZlrivkreH1yxFPN"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=1OfEJvSf1dHPZJBQLuac9x",
+      "id": "1OfEJvSf1dHPZJBQLuac9x"
+    },
+    {
+      "artistName": "Florent Atem",
+      "positioning": {
+        "top": 0,
+        "left": 508
+      },
+      "style": {
+        "color": "#999874",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e88ad89c06cfbb107eda12196a3edf044eae8179",
+        "title": "e.g. Florent Atem \"Sweet City Woman\"",
+        "trackId": "10pQkECk4ZwVv98amwCxCg"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=1nUvNgh8WvLMu11IBnDuhR",
+      "id": "1nUvNgh8WvLMu11IBnDuhR"
+    },
+    {
+      "artistName": "Uji 'Oma'oma'o",
+      "positioning": {
+        "top": 661,
+        "left": 907
+      },
+      "style": {
+        "color": "#44b0ce",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0af634d3b695aa28fee61fbff7ecfb3209c1ead4",
+        "title": "e.g. Uji 'Oma'oma'o \"Adios Ke Aloha (Prince Leleiohoku) Paniolo Fandango\"",
+        "trackId": "0YRU9KBGd0vTHMxMPjiXM1"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=4jQmn9u7Q6GdLlFs0VOnTC",
+      "id": "4jQmn9u7Q6GdLlFs0VOnTC"
+    },
+    {
+      "artistName": "Dwight Kanae",
+      "positioning": {
+        "top": 569,
+        "left": 724
+      },
+      "style": {
+        "color": "#60b7e2",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/39f48601c226e8eb828aa1637643081c774dde7e",
+        "title": "e.g. Dwight Kanae \"Lokelani's Lullabye\"",
+        "trackId": "2gBBNYe86RWDqGtNnNsCZd"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=0pPk7Mlf7GrZIC2upeTn20",
+      "id": "0pPk7Mlf7GrZIC2upeTn20"
+    },
+    {
+      "artistName": "Barry Flanagan",
+      "positioning": {
+        "top": 447,
+        "left": 579
+      },
+      "style": {
+        "color": "#599e83",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f4126fadbf0007392353403e7a1d1617d73e1f1",
+        "title": "e.g. Barry Flanagan \"Olinda Road\"",
+        "trackId": "09yBFTYSH0102zLRl38jDm"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=2TmJySzjBevNb8yz1bnZQg",
+      "id": "2TmJySzjBevNb8yz1bnZQg"
+    },
+    {
+      "artistName": "Kevin Teves",
+      "positioning": {
+        "top": 669,
+        "left": 1078
+      },
+      "style": {
+        "color": "#2ba676",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/767c669656ab2dd89cbd0c92836e8f3e2ff0e424",
+        "title": "e.g. Kevin Teves \"Saddle Road\"",
+        "trackId": "217S9LncwNyPmHNuzf4vTF"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=0ceGZ32f9aMVMc7Ldn4GR5",
+      "id": "0ceGZ32f9aMVMc7Ldn4GR5"
+    },
+    {
+      "artistName": "Martin Pahinui",
+      "positioning": {
+        "top": 717,
+        "left": 362
+      },
+      "style": {
+        "color": "#689e00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/12832f648c9c6289f4780eea086cb4c0b1d1f74f",
+        "title": "e.g. Martin Pahinui \"Kauoha Mai - The Keyhole Hula\"",
+        "trackId": "7bpE8LFk1lSlru4cETB8qZ"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3oDvX8HEvc7PgiG6tfF3In",
+      "id": "3oDvX8HEvc7PgiG6tfF3In"
+    },
+    {
+      "artistName": "Charlie Recaido",
+      "positioning": {
+        "top": 533,
+        "left": 1387
+      },
+      "style": {
+        "color": "#38b1c2",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8ed926a50bc34b41cacaf23c694edf47274a197",
+        "title": "e.g. Charlie Recaido \"Kanaka Nova\"",
+        "trackId": "5bDw3x92dwYv7aUAlWgs4l"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=7q9rKEVegrXvuUuP5PbyEW",
+      "id": "7q9rKEVegrXvuUuP5PbyEW"
+    },
+    {
+      "artistName": "Kevin & Ikaika Brown",
+      "positioning": {
+        "top": 463,
+        "left": 849
+      },
+      "style": {
+        "color": "#71acee",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c2bf88c7def976f3471f8c22433051bdbe8c1da",
+        "title": "e.g. Kevin & Ikaika Brown \"Vaqueros Lulaby\"",
+        "trackId": "5UfGWodnR3qSAAY7I0Nnw3"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=19k6GwjSSsaVibh2cLGbUw",
+      "id": "19k6GwjSSsaVibh2cLGbUw"
+    },
+    {
+      "artistName": "Mark Kailana Nelson",
+      "positioning": {
+        "top": 703,
+        "left": 1344
+      },
+      "style": {
+        "color": "#50af88",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acae79fe293bbf4d08128398a5e7841a2a5b4c45",
+        "title": "e.g. Mark Kailana Nelson \"Tiare Tahiti\"",
+        "trackId": "4zgPt5R2BWvXeurxBHahwu"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=56ukjgLj8cbdovvOI7mH2J",
+      "id": "56ukjgLj8cbdovvOI7mH2J"
+    },
+    {
+      "artistName": "Milton Lau",
+      "positioning": {
+        "top": 806,
+        "left": 108
+      },
+      "style": {
+        "color": "#5aaae1",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bf1a597202ccd647747b074bd8babbf05ddd930",
+        "title": "e.g. Milton Lau \"Song For Erin\"",
+        "trackId": "06zwVOjRNWZmPlj3dMbMca"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=28fbs645yxlU8vZee4h1xl",
+      "id": "28fbs645yxlU8vZee4h1xl"
+    },
+    {
+      "artistName": "Donald Kaulia",
+      "positioning": {
+        "top": 627,
+        "left": 878
+      },
+      "style": {
+        "color": "#67a871",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b46b7343da272396dd128fffbacc0df9c038059c",
+        "title": "e.g. Donald Kaulia \"Manta Ray\"",
+        "trackId": "6dAHKekv4cypY6avpXaG9a"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=20qbbTlh4yAS1Xaq5uz1hl",
+      "id": "20qbbTlh4yAS1Xaq5uz1hl"
+    },
+    {
+      "artistName": "Leinaala Haili Featuring Sonny Chillingworth",
+      "positioning": {
+        "top": 619,
+        "left": 990
+      },
+      "style": {
+        "color": "#459d00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e8b8bfa515d0ee350e496f5fef4e3570f88c98cb",
+        "title": "e.g. Leinaala Haili Featuring Sonny Chillingworth \"E Ku'U Tutu\"",
+        "trackId": "55f2UXCJVf6P7qkrqsemWW"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=3NR5Nd9eoKo2ERDrWJp6yj",
+      "id": "3NR5Nd9eoKo2ERDrWJp6yj"
+    },
+    {
+      "artistName": "Bobby Moderow",
+      "positioning": {
+        "top": 722,
+        "left": 150
+      },
+      "style": {
+        "color": "#52b121",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/415f37b418e396117cf27c4f9edd76deaed28066",
+        "title": "e.g. Bobby Moderow \"Maunaloa\"",
+        "trackId": "6ipHF79MlffjIYoaqcek05"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=41RY7T5YUbbhDP7kvW8XMX",
+      "id": "41RY7T5YUbbhDP7kvW8XMX"
+    },
+    {
+      "artistName": "Albert Ka'ai",
+      "positioning": {
+        "top": 900,
+        "left": 188
+      },
+      "style": {
+        "color": "#50b2f8",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e6c0a652d2a5c6e4020e437ea609921d7bf0896",
+        "title": "e.g. Albert Ka'ai \"Nani Wale Lihue, Ke Honi\"",
+        "trackId": "6dUkEuAq1xG1wCuQ1oQDWC"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=4G8xiI1QLSrj9BbQ5yc3QD",
+      "id": "4G8xiI1QLSrj9BbQ5yc3QD"
+    },
+    {
+      "artistName": "Philip Gabby Pahinui",
+      "positioning": {
+        "top": 778,
+        "left": 637
+      },
+      "style": {
+        "color": "#4b9883",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41f7493fd1438333eaba05a8749ea240ea7b6104",
+        "title": "e.g. Philip Gabby Pahinui \"Hi' ilawe\"",
+        "trackId": "1KuG5SOmn7t7gyKfVf51fE"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=0JFsXLY9mPP4zcTBzQ4PWR",
+      "id": "0JFsXLY9mPP4zcTBzQ4PWR"
+    },
+    {
+      "artistName": "Abraham Kalauli Konanui",
+      "positioning": {
+        "top": 892,
+        "left": 658
+      },
+      "style": {
+        "color": "#569adc",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89e3a323a1c4d5ce1714d0375a9349ca023e5106",
+        "title": "e.g. Abraham Kalauli Konanui \"Hawaiian Melody\"",
+        "trackId": "1Uprs4YowYDJMAya3kAEJC"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=4CtNobwJsDcCjz6TGSL8fC",
+      "id": "4CtNobwJsDcCjz6TGSL8fC"
+    },
+    {
+      "artistName": "Michael Kaawa",
+      "positioning": {
+        "top": 748,
+        "left": 1400
+      },
+      "style": {
+        "color": "#4bb3d3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fe112a711a1d4ec683c4fe2b0e522a9497b6f22",
+        "title": "e.g. Michael Kaawa \"Sepania Slack\"",
+        "trackId": "6z3Gz5GLB9o1JIHfR22H4Q"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=5HQ7AJSCo3e7s6Ztu6PoSo",
+      "id": "5HQ7AJSCo3e7s6Ztu6PoSo"
+    },
+    {
+      "artistName": "George Keoki Davis",
+      "positioning": {
+        "top": 850,
+        "left": 1306
+      },
+      "style": {
+        "color": "#61a1e4",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e1f42b2e7511eeefe3631436ccb31c3cbb9c0af1",
+        "title": "e.g. George Keoki Davis \"Slack Key Hula\"",
+        "trackId": "15P1vD2aMdWQB4V5gDLFji"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=62eDtL481HSPXHwm1gpDUz",
+      "id": "62eDtL481HSPXHwm1gpDUz"
+    },
+    {
+      "artistName": "William Namahoe",
+      "positioning": {
+        "top": 822,
+        "left": 1344
+      },
+      "style": {
+        "color": "#2fa46d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ade717663aa2863d6e2a67bc54171a9520092391",
+        "title": "e.g. William Namahoe \"Music for Dreaming\"",
+        "trackId": "67J2G0YruaY7uzX3UZqOJo"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=7EyjZu8YSbgqdZSktAkMlR",
+      "id": "7EyjZu8YSbgqdZSktAkMlR"
+    },
+    {
+      "artistName": "Tommy Solomon",
+      "positioning": {
+        "top": 682,
+        "left": 845
+      },
+      "style": {
+        "color": "#2bb2e6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9cf2f9b0a8d5a395cd8b1d4943ee0578cbb3808",
+        "title": "e.g. Tommy Solomon \"Old Timer's Hula\"",
+        "trackId": "7gk6bCa5SgDpcRGOUuBXS0"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=3cgXYo4mNZMqcNuyB1cm1u",
+      "id": "3cgXYo4mNZMqcNuyB1cm1u"
+    },
+    {
+      "artistName": "Henry Kaalekaahi",
+      "positioning": {
+        "top": 713,
+        "left": 828
+      },
+      "style": {
+        "color": "#4face8",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b07137374ff213da4af327f0d877646904343c17",
+        "title": "e.g. Henry Kaalekaahi \"Ho' okipa Paka / Maunawili Medley\"",
+        "trackId": "5G6NLzRF1oARgKPF6tc7XM"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=1zbTdXw4h6MlFTv46ZwHCk",
+      "id": "1zbTdXw4h6MlFTv46ZwHCk"
+    },
+    {
+      "artistName": "Tommy Blaisdell",
+      "positioning": {
+        "top": 563,
+        "left": 1190
+      },
+      "style": {
+        "color": "#82924d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/03f021e69c46abd54a4575688a6f13610ca1380e",
+        "title": "e.g. Tommy Blaisdell \"Mokihana Slack Key\"",
+        "trackId": "0Bf5f1wE1tQJYQngSbb3uX"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=50BDAXguqORg5oK9PqHu9W",
+      "id": "50BDAXguqORg5oK9PqHu9W"
+    },
+    {
+      "artistName": "Native Hawaiian Band",
+      "positioning": {
+        "top": 766,
+        "left": 745
+      },
+      "style": {
+        "color": "#7fa400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41b94d3dca7d45b3e0a0a85bd67a8564ebd6e4ae",
+        "title": "e.g. Native Hawaiian Band \"Hi'ilawe\"",
+        "trackId": "0ssCK7l1uzj98Lz0GEP9EE"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=68mrGrLHAhWVInxUx6UzBv",
+      "id": "68mrGrLHAhWVInxUx6UzBv"
+    },
+    {
+      "artistName": "Slack Key Posse",
+      "positioning": {
+        "top": 725,
+        "left": 820
+      },
+      "style": {
+        "color": "#63a670",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8789250e5669f16c6eb10d4b32aefbfb112dfcf",
+        "title": "e.g. Slack Key Posse \"O Shenandoah\"",
+        "trackId": "3h8TB4dLrhtrwSyNQVWrlC"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=5JVRmP87qCsGcQthgqSfI5",
+      "id": "5JVRmP87qCsGcQthgqSfI5"
+    },
+    {
+      "artistName": "Mama Tina Kaapana",
+      "positioning": {
+        "top": 774,
+        "left": 371
+      },
+      "style": {
+        "color": "#2ca811",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7bad4131cab4368fbe460e51501224875e5c0d7a",
+        "title": "e.g. Mama Tina Kaapana \"Punalu'u\"",
+        "trackId": "23kmxR4hc6kI662oXwu9tZ"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=25ItEuKYgvhGchA0StEyRl",
+      "id": "25ItEuKYgvhGchA0StEyRl"
+    },
+    {
+      "artistName": "Mike Ho'omanawanui",
+      "positioning": {
+        "top": 597,
+        "left": 595
+      },
+      "style": {
+        "color": "#888dde",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8116484bffc2e180f48e4767075b84f9dda8989b",
+        "title": "e.g. Mike Ho'omanawanui \"Hula Medley\"",
+        "trackId": "3IOpgN6eSoazwnTa9q3AJz"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=39bJW7rQ9JjtwvDVWaeiu1",
+      "id": "39bJW7rQ9JjtwvDVWaeiu1"
+    },
+    {
+      "artistName": "Led Kaapana",
+      "positioning": {
+        "top": 499,
+        "left": 341
+      },
+      "style": {
+        "color": "#6da68f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6cf4c9caa2b2e33589baeb24e1125b18da40321c",
+        "title": "e.g. Led Kaapana \"Theme From \"Fllipper\"\"",
+        "trackId": "3xq33Zr4eTXdrgo1kqKwa4"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=2ThUWuem33Jyx62UXEzvv8",
+      "id": "2ThUWuem33Jyx62UXEzvv8"
+    },
+    {
+      "artistName": "David Kamikahi",
+      "positioning": {
+        "top": 786,
+        "left": 296
+      },
+      "style": {
+        "color": "#6ea900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=0tbqQ3iopYH4RG8eSndz5o",
+      "id": "0tbqQ3iopYH4RG8eSndz5o"
+    },
+    {
+      "artistName": "Bla Pahinui (slack key guitar)",
+      "positioning": {
+        "top": 862,
+        "left": 1344
+      },
+      "style": {
+        "color": "#47b8e6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=4A7us1zCFFvHeMFE92aIYB",
+      "id": "4A7us1zCFFvHeMFE92aIYB"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=slack-key%20guitar"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/3AcB5ov4dAX8jddis4Bafm"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4Q8wdO4sIQGbwk6iwCjW1r"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/18wdjIXcwyuhSZ5BLkuN5b"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/28zPj8MtrmubK9KE7fsBbG"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=slack-key%20guitar"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "hawaiian",
+      "positioning": {
+        "top": 139,
+        "left": 31
+      },
+      "style": {
+        "color": "#5d9d12",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/56538f52f2000d7a17c3ac7f4f9a61c90719d610",
+        "title": "e.g. Hi'ikua \"Ka Pili Oha\"",
+        "trackId": "6hBLBxmYJgqp5NkW05pFO1"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-hawaiian.html#tunnel"
+    },
+    {
+      "genreName": "thai instrumental",
+      "positioning": {
+        "top": 217,
+        "left": 122
+      },
+      "style": {
+        "color": "#53a662",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5ffa7b5ce4a2ca5884e05ee367a6a758213dab9",
+        "title": "e.g. สมานย์ น้อยนิตย์ \"อรุณไขแสง\"",
+        "trackId": "7kPBWtUH6Z4zh9IiclNG83"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-thaiinstrumental.html#tunnel"
+    },
+    {
+      "genreName": "vietnamese traditional",
+      "positioning": {
+        "top": 164,
+        "left": 202
+      },
+      "style": {
+        "color": "#4d9c5f",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/df08bc677b04e77115c0421114fc484be53a05ac",
+        "title": "e.g. Phạm Đức Thành \"Ly Ngua O\"",
+        "trackId": "6v86PBCIQwFInFfNnHnQTi"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-vietnamesetraditional.html#tunnel"
+    },
+    {
+      "genreName": "string folk",
+      "positioning": {
+        "top": 290,
+        "left": 128
+      },
+      "style": {
+        "color": "#46ab76",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0469a845b380593de453cd34a322bb7acbbaaf61",
+        "title": "e.g. Kim Robertson \"Dance of the Lambs\"",
+        "trackId": "1X8Niy3GcoEu1w082edqqE"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-stringfolk.html#tunnel"
+    },
+    {
+      "genreName": "hammered dulcimer",
+      "positioning": {
+        "top": 110,
+        "left": 107
+      },
+      "style": {
+        "color": "#60a4a0",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf2044545136ea182fe77b2a4d8bd1381f18223a",
+        "title": "e.g. Maggie Sansone \"Bressay Lullaby/Don Oiche\"",
+        "trackId": "0CRfeOLeXkctY5OfhzbXHC"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-hammereddulcimer.html#tunnel"
+    },
+    {
+      "genreName": "sundanese traditional",
+      "positioning": {
+        "top": 266,
+        "left": 248
+      },
+      "style": {
+        "color": "#59a47c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a9eeae0e95ca93ce617a79e7dc99b3a7768d8c1",
+        "title": "e.g. LS Gentra Pasundan \"Gending\"",
+        "trackId": "6O9Ooy4sk5rZnwtM6LQlE0"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-sundanesetraditional.html#tunnel"
+    },
+    {
+      "genreName": "korean jazz",
+      "positioning": {
+        "top": 149,
+        "left": 180
+      },
+      "style": {
+        "color": "#589d59",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a09e7f2ad279253cac7ac42ee32f96c0f0e1346e",
+        "title": "e.g. Ju Yoon Ha \"Quando Quando Quando\"",
+        "trackId": "4J9S36AI3JRTU3DJiqYIPv"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-koreanjazz.html#tunnel"
+    },
+    {
+      "genreName": "kazakh traditional",
+      "positioning": {
+        "top": 81,
+        "left": 233
+      },
+      "style": {
+        "color": "#67987f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/778c8ccb1742acaea46f63d3e618b9f6ec417e27",
+        "title": "e.g. Mamer \"Mountain Wind\"",
+        "trackId": "0L7xYekUink5RY89DHpczl"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-kazakhtraditional.html#tunnel"
+    },
+    {
+      "genreName": "icelandic jazz",
+      "positioning": {
+        "top": 176,
+        "left": 181
+      },
+      "style": {
+        "color": "#4b9d94",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fcc8f6b5a78ab61c84ab5bb9c0ccf3d94e78ee65",
+        "title": "e.g. Tómas R. Einarsson \"Hægt en bítandi\"",
+        "trackId": "6h8tulrA0y64CVCi4rGG9z"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-icelandicjazz.html#tunnel"
+    },
+    {
+      "genreName": "piano mpb",
+      "positioning": {
+        "top": 255,
+        "left": 178
+      },
+      "style": {
+        "color": "#599d9d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/648ea5bb5522dd0e1f88927375a2aa49e86a2ab9",
+        "title": "e.g. Gilson Peranzzetta \"Com Que Roupa\"",
+        "trackId": "5ZrKovXoraoca4V1JIq8dr"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-pianompb.html#tunnel"
+    },
+    {
+      "genreName": "central asian folk",
+      "positioning": {
+        "top": 278,
+        "left": 141
+      },
+      "style": {
+        "color": "#4d9d51",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83e354d1a3dc50fd8500bdbf4bec37336e3021a0",
+        "title": "e.g. Ensemble Tengir-Too \"Attila Khan\"",
+        "trackId": "1NEjEihf23tA2H5EGzkjl0"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-centralasianfolk.html#tunnel"
+    },
+    {
+      "genreName": "argentine jazz",
+      "positioning": {
+        "top": 242,
+        "left": 235
+      },
+      "style": {
+        "color": "#539b9a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ceae8cd37b3d9a58ba4e4263dd9ec6c077ed755a",
+        "title": "e.g. Hernán Jacinto \"Here, There And Everywhere\"",
+        "trackId": "56Uv8bzvUrNrbRspPjA7wv"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-argentinejazz.html#tunnel"
+    },
+    {
+      "genreName": "acoustic chill",
+      "positioning": {
+        "top": 135,
+        "left": 185
+      },
+      "style": {
+        "color": "#49a615",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c26ebfca624f6d26779f8c834876052b446c8fb",
+        "title": "e.g. Le Vitates \"Say So\"",
+        "trackId": "0G6ahxwKbvjmufbRyK7nOv"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-acousticchill.html#tunnel"
+    },
+    {
+      "genreName": "african percussion",
+      "positioning": {
+        "top": 230,
+        "left": 165
+      },
+      "style": {
+        "color": "#4c9fb2",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57ca44919433aeb1ac0c0ab58ad1c3c3146d0280",
+        "title": "e.g. Koungbanan Conde Ensemble \"Kassa\"",
+        "trackId": "2TGKSbYXuEqulfA1ENlGnW"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-africanpercussion.html#tunnel"
+    },
+    {
+      "genreName": "alpenpanorama",
+      "positioning": {
+        "top": 176,
+        "left": 300
+      },
+      "style": {
+        "color": "#47adbb",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d09157986e71e8def863be6878e51bd9689aabc1",
+        "title": "e.g. Dölsacher Saitenmusik \"Morgentau\"",
+        "trackId": "6JDWGuixA1DDXtFsjo2uku"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-alpenpanorama.html#tunnel"
+    },
+    {
+      "genreName": "alphorn",
+      "positioning": {
+        "top": 96,
+        "left": 0
+      },
+      "style": {
+        "color": "#63a39d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/720ea0dd7bccb99875602f283d0bfa0095f22695",
+        "title": "e.g. Lisa Stoll \"Tanz der Kühe\"",
+        "trackId": "7i4H1zqeVH2TmVVCqLqdVj"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-alphorn.html#tunnel"
+    },
+    {
+      "genreName": "ancient mediterranean",
+      "positioning": {
+        "top": 300,
+        "left": 222
+      },
+      "style": {
+        "color": "#38a995",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc496f0c36d3788161217cc6c217d48e87e2feca",
+        "title": "e.g. Petros Tabouris \"First Delphic Hymn to Apollo\"",
+        "trackId": "3xTjheYYPaVBi5gzY9Pt7B"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-ancientmediterranean.html#tunnel"
+    },
+    {
+      "genreName": "arab folk",
+      "positioning": {
+        "top": 303,
+        "left": 72
+      },
+      "style": {
+        "color": "#529c75",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1bdeaa37d8ae165fb8fd2939b8e9836e97ba660",
+        "title": "e.g. Munir Bashir \"Taqsîm en maqâm : Nahawand-kabîr\"",
+        "trackId": "6UWZUL60UVWXE2CwbntY7B"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-arabfolk.html#tunnel"
+    },
+    {
+      "genreName": "arabic instrumental",
+      "positioning": {
+        "top": 0,
+        "left": 41
+      },
+      "style": {
+        "color": "#629a9f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/965b8a8dc867361faecb97d4683e73ed452f647b",
+        "title": "e.g. Amr Ismail \"Abu Ali\"",
+        "trackId": "2K9EVUVhOZkHgURBQYOLQb"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-arabicinstrumental.html#tunnel"
+    },
+    {
+      "genreName": "arabic jazz",
+      "positioning": {
+        "top": 123,
+        "left": 137
+      },
+      "style": {
+        "color": "#659889",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f26de524a21fdbb7fb75ad7f86f3194268bc10ea",
+        "title": "e.g. Le Trio Joubran \"Masâr\"",
+        "trackId": "5FU96SFEwMyiKnLsPhoNuh"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-arabicjazz.html#tunnel"
+    }
+  ]
+}

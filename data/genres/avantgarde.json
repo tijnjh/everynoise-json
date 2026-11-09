@@ -1,0 +1,2431 @@
+{
+  "schemaVersion": 3,
+  "genreName": "avant-garde",
+  "artists": [
+    {
+      "artistName": "Nikolai Rimsky-Korsakov",
+      "positioning": {
+        "top": 808,
+        "left": 417
+      },
+      "style": {
+        "color": "#2b9683",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f342f2479f0fe6ae2c084540d1b9e5a6ae76348",
+        "title": "e.g. Nikolai Rimsky-Korsakov \"Scheherazade: The Tale of the Kalendar Prince\"",
+        "trackId": "04eShjKTWijeJJqGnhxpYK"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=2kXJ68O899XvWOBdpzlXgs",
+      "id": "2kXJ68O899XvWOBdpzlXgs"
+    },
+    {
+      "artistName": "Yusef Lateef",
+      "positioning": {
+        "top": 351,
+        "left": 1138
+      },
+      "style": {
+        "color": "#519658",
+        "fontSize": "141%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09c506e7aba4129c7f691ae12ccdac024f009291",
+        "title": "e.g. Yusef Lateef \"The Plum Blossom - Rudy Van Gelder Remaster\"",
+        "trackId": "4HL2XUimEYLv0KDxD3Xpqz"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=33XkS6h90eeK7e6OJHw0mq",
+      "id": "33XkS6h90eeK7e6OJHw0mq"
+    },
+    {
+      "artistName": "Pierre Boulez",
+      "positioning": {
+        "top": 866,
+        "left": 383
+      },
+      "style": {
+        "color": "#1c937c",
+        "fontSize": "134%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b0db592a2d2a27e3183931ecb4bf29f727623ad",
+        "title": "e.g. Pierre Boulez \"Water Music: Suite No. 2 in D Major, HWV 349, II. Alla Hornpipe\"",
+        "trackId": "1iWqwgEbHd1okS2dXQe6LT"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=2prZJWfQMnIgwUKxKcBxH7",
+      "id": "2prZJWfQMnIgwUKxKcBxH7"
+    },
+    {
+      "artistName": "Krzysztof Penderecki",
+      "positioning": {
+        "top": 895,
+        "left": 376
+      },
+      "style": {
+        "color": "#209a82",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30e2435eda87cf4de360e298d2070b5cfa5dd92d",
+        "title": "e.g. Krzysztof Penderecki \"Symphony No. 3: Passacaglia - Allegro moderato\"",
+        "trackId": "22QDTO46bo3W6pJ7AZhHmS"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=0qEO82Hj3SvjoNyEfKpRku",
+      "id": "0qEO82Hj3SvjoNyEfKpRku"
+    },
+    {
+      "artistName": "György Kurtág",
+      "positioning": {
+        "top": 616,
+        "left": 721
+      },
+      "style": {
+        "color": "#0da06c",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41264f080e28848256ba3e9b6967855f45082efc",
+        "title": "e.g. György Kurtág \"Scraps of a Colinda Melody – Faintly Recollected (Hommage à Farkas Ferenc) (from Játékok / Book 3) - Grand Piano\"",
+        "trackId": "4QTwcOW9s6y4EAakU17LcT"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=1ygboTdafDwlY7TUYEj37E",
+      "id": "1ygboTdafDwlY7TUYEj37E"
+    },
+    {
+      "artistName": "John Cage",
+      "positioning": {
+        "top": 589,
+        "left": 1210
+      },
+      "style": {
+        "color": "#178c83",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2aeaffc67625ec826307b8215ad569d085e35a6",
+        "title": "e.g. John Cage \"In a Landscape\"",
+        "trackId": "1qbrS9PKOzsack0g7LiBhh"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=1Z3fF5lZdCM0ZHugkGoH8s",
+      "id": "1Z3fF5lZdCM0ZHugkGoH8s"
+    },
+    {
+      "artistName": "Luciano Berio",
+      "positioning": {
+        "top": 906,
+        "left": 561
+      },
+      "style": {
+        "color": "#18a15f",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a37d8c83deeae393f69db3da273c37a6058b02e7",
+        "title": "e.g. Luciano Berio \"Clarinet Sonata No. 1 in F Minor, Op. 120 (orch. L. Berio): II. Andante un poco adagio\"",
+        "trackId": "3uUMsBHXgZj3QlBFLoN8Q9"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=5M1ZBrPeHjV8y3qFKnq7hO",
+      "id": "5M1ZBrPeHjV8y3qFKnq7hO"
+    },
+    {
+      "artistName": "György Ligeti",
+      "positioning": {
+        "top": 793,
+        "left": 671
+      },
+      "style": {
+        "color": "#2296a4",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b630ceb551471dc8df7b1ff1662354e07e90afc4",
+        "title": "e.g. György Ligeti \"Ligeti: Requiem: II. Kyrie. Molto espressivo\"",
+        "trackId": "2OWzoQiL6VDTczQwBxmWVx"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=1zb5zmIuX2lTbzcn7YeQlg",
+      "id": "1zb5zmIuX2lTbzcn7YeQlg"
+    },
+    {
+      "artistName": "Morton Feldman",
+      "positioning": {
+        "top": 703,
+        "left": 683
+      },
+      "style": {
+        "color": "#06996e",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7533b606f9154cb78bcd65171b94b6ec7b4ea130",
+        "title": "e.g. Morton Feldman \"Something Wild in the City: Mary Ann's Theme (1960) for horn, celesta, and string Quartet\"",
+        "trackId": "1p7PMNcrcRC8AZ5aQRHB8u"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=3Vmj59eAzsbiISxcCBHRCM",
+      "id": "3Vmj59eAzsbiISxcCBHRCM"
+    },
+    {
+      "artistName": "Terry Riley",
+      "positioning": {
+        "top": 450,
+        "left": 709
+      },
+      "style": {
+        "color": "#429f9b",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ebf816cc705544460cc05dab25b874e149f624f",
+        "title": "e.g. Terry Riley \"A Rainbow in the Curved Air - Instrumental\"",
+        "trackId": "0aGvcIUEdMq9PelZIGJOBU"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=7DnLQaXsqcYkgm0nyDrB3r",
+      "id": "7DnLQaXsqcYkgm0nyDrB3r"
+    },
+    {
+      "artistName": "Thomas Adès",
+      "positioning": {
+        "top": 773,
+        "left": 599
+      },
+      "style": {
+        "color": "#1d9669",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/38f374fa59ce319180d11e4ac6e6ea765fda8c5c",
+        "title": "e.g. Thomas Adès \"Colette\"",
+        "trackId": "3SAhuaew7Hqkf7UdFGUg57"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=4F7KfJQw9lIXvFydi4TOyi",
+      "id": "4F7KfJQw9lIXvFydi4TOyi"
+    },
+    {
+      "artistName": "Olivier Messiaen",
+      "positioning": {
+        "top": 785,
+        "left": 444
+      },
+      "style": {
+        "color": "#1e9599",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a12020d27fdce54cb11c9150691be1408917630e",
+        "title": "e.g. Olivier Messiaen \"Louange à l'Éternité de Jésus (From \"Quartet for the End of Time\")\"",
+        "trackId": "03KngREOofgcM2LsJCORkw"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=6CS9O2pE67oq44GZuBEBuD",
+      "id": "6CS9O2pE67oq44GZuBEBuD"
+    },
+    {
+      "artistName": "Anton Webern",
+      "positioning": {
+        "top": 642,
+        "left": 523
+      },
+      "style": {
+        "color": "#0ca138",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3fced4c6405979df21f897fbab58be99bdb0ca84",
+        "title": "e.g. Anton Webern \"Langsamer Satz\"",
+        "trackId": "0R2qyLsZ2RGLTVuWYqaRWS"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6cg7ooZDeSSLYVTWGpASjX",
+      "id": "6cg7ooZDeSSLYVTWGpASjX"
+    },
+    {
+      "artistName": "Toru Takemitsu",
+      "positioning": {
+        "top": 851,
+        "left": 740
+      },
+      "style": {
+        "color": "#0ba69a",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0cdc9634375333bf8bdf70be07abd77dff66c84",
+        "title": "e.g. Toru Takemitsu \"The Last Waltz\"",
+        "trackId": "5BGvH8WO5jGi45um82BFgo"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=5p6TCmGe9IygOnvamIaZpA",
+      "id": "5p6TCmGe9IygOnvamIaZpA"
+    },
+    {
+      "artistName": "Alfred Schnittke",
+      "positioning": {
+        "top": 852,
+        "left": 376
+      },
+      "style": {
+        "color": "#1e9a84",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f9374206ee4e0340e830e5028e280a38a792527f",
+        "title": "e.g. Alfred Schnittke \"Die Geschichte Eines Unbekannten Schauspielers (The Story of the Unknown Actor): Waltzer (Abschied)\"",
+        "trackId": "10W4Zw13J0njYnTaHn5N14"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=7A29QKpDvdkEuTM6vcY17z",
+      "id": "7A29QKpDvdkEuTM6vcY17z"
+    },
+    {
+      "artistName": "Alban Berg",
+      "positioning": {
+        "top": 923,
+        "left": 345
+      },
+      "style": {
+        "color": "#22964b",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/142bbad9c3e14b7ea9e4f77090d0e420dfba9ff5",
+        "title": "e.g. Alban Berg \"Piano Sonata, Op. 1\"",
+        "trackId": "1ogq47ooAoHghVxykpOOXo"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=60ju8DuNEmkdLw3ymddLje",
+      "id": "60ju8DuNEmkdLw3ymddLje"
+    },
+    {
+      "artistName": "Charles Ives",
+      "positioning": {
+        "top": 882,
+        "left": 421
+      },
+      "style": {
+        "color": "#1d9b7d",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/718081a639ab5465d4462dedf96577fcca49cfe0",
+        "title": "e.g. Charles Ives \"The Unanswered Question\"",
+        "trackId": "2NhR7a45fouihE2r1XgAJU"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=73s17iW5LTtXRMVoofi9sU",
+      "id": "73s17iW5LTtXRMVoofi9sU"
+    },
+    {
+      "artistName": "Karlheinz Stockhausen",
+      "positioning": {
+        "top": 667,
+        "left": 876
+      },
+      "style": {
+        "color": "#199469",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11913d0eac73b4efa49ee923325f6f175a5f4077",
+        "title": "e.g. Karlheinz Stockhausen \"Gesang der Jünlinge\"",
+        "trackId": "5pqgzs5NQ8f1CX5NO45R0V"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=5PkKmEWhfJ9jHVHXbZl0Ks",
+      "id": "5PkKmEWhfJ9jHVHXbZl0Ks"
+    },
+    {
+      "artistName": "Pauline Oliveros",
+      "positioning": {
+        "top": 502,
+        "left": 345
+      },
+      "style": {
+        "color": "#3a7e6d",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8def4264ccd9b0c088f49c6dbdcb67be0852e0b6",
+        "title": "e.g. Pauline Oliveros \"Suiren\"",
+        "trackId": "3Q6okpLoq2ZhOzZfBHpmei"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=27RypxD9VhgrvCg9QePTLi",
+      "id": "27RypxD9VhgrvCg9QePTLi"
+    },
+    {
+      "artistName": "Kaija Saariaho",
+      "positioning": {
+        "top": 679,
+        "left": 209
+      },
+      "style": {
+        "color": "#20946b",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/68cd1db9f0550a4f30a1e0b178c0cc264e954290",
+        "title": "e.g. Kaija Saariaho \"Petals\"",
+        "trackId": "4OUIlW4ECedLytyPVTKcnF"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=35ooFrlJDRGXeuI2fL70d3",
+      "id": "35ooFrlJDRGXeuI2fL70d3"
+    },
+    {
+      "artistName": "Witold Lutosławski",
+      "positioning": {
+        "top": 877,
+        "left": 561
+      },
+      "style": {
+        "color": "#24978a",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a034d6a13dab31f7c9ec96bfc114156de9c46369",
+        "title": "e.g. Witold Lutosławski \"パガニーニの主題による変奏曲\"",
+        "trackId": "0foBbtRN3FXBDlP2mIga1Q"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=5Ks8fS8lZJnTFbtvxkDOkM",
+      "id": "5Ks8fS8lZJnTFbtvxkDOkM"
+    },
+    {
+      "artistName": "Unsuk Chin",
+      "positioning": {
+        "top": 697,
+        "left": 501
+      },
+      "style": {
+        "color": "#308a77",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/468390dfbd86d759fe87edcbd1607b4fc35719bf",
+        "title": "e.g. Unsuk Chin \"Piano Concerto: III.\"",
+        "trackId": "4SuBulVt2w8TiyZkJAsDH4"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=6FiLRj0EeeMGtgQAWFWO0A",
+      "id": "6FiLRj0EeeMGtgQAWFWO0A"
+    },
+    {
+      "artistName": "Harry Partch",
+      "positioning": {
+        "top": 588,
+        "left": 1377
+      },
+      "style": {
+        "color": "#2f8d4b",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/108eb72eaa10db0fca42795dfa2e459cba55b93c",
+        "title": "e.g. Harry Partch \"Two Studies on Ancient Greek Scales: 1) Olympos' Pentatonic 2) Archytas' Enharmonic\"",
+        "trackId": "7mnl3DqzeAjfoPQ0dgnBko"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1iNl8IPt07m90D9KU31GrK",
+      "id": "1iNl8IPt07m90D9KU31GrK"
+    },
+    {
+      "artistName": "Frederic Rzewski",
+      "positioning": {
+        "top": 754,
+        "left": 1024
+      },
+      "style": {
+        "color": "#259abc",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/072984ec400db1ecac987130d654058a65a69f17",
+        "title": "e.g. Frederic Rzewski \"Winnsboro Cotton Mill Blues\"",
+        "trackId": "7AByQet4kpLEH67Re3FZJf"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=1kt7FN4DSyZUkiSMRx0XE8",
+      "id": "1kt7FN4DSyZUkiSMRx0XE8"
+    },
+    {
+      "artistName": "Iannis Xenakis",
+      "positioning": {
+        "top": 466,
+        "left": 884
+      },
+      "style": {
+        "color": "#5376a6",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/237d792ebcca1bf56620c7446693d0b3078041c5",
+        "title": "e.g. Iannis Xenakis \"Metastaseis\"",
+        "trackId": "1efDBHuz4k6Zei6chsAwfq"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=399s62PfwKlLnrLvBjWFYB",
+      "id": "399s62PfwKlLnrLvBjWFYB"
+    },
+    {
+      "artistName": "Ensemble Intercontemporain",
+      "positioning": {
+        "top": 760,
+        "left": 535
+      },
+      "style": {
+        "color": "#1a9d46",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0a2517a6b549bfe3a76bf1bb1eb6d2683bfecef9",
+        "title": "e.g. Ensemble Intercontemporain \"Reich/Richter: Opening\"",
+        "trackId": "4pQUu6BLJhPS8FZco7SefQ"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=6auEkE1nJDzSod1SE6aVmZ",
+      "id": "6auEkE1nJDzSod1SE6aVmZ"
+    },
+    {
+      "artistName": "Arditti Quartet",
+      "positioning": {
+        "top": 710,
+        "left": 474
+      },
+      "style": {
+        "color": "#159850",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d076923f78eb0b8a1faa0a46fa4e549b85bcb7b",
+        "title": "e.g. Arditti Quartet \"Apartment House 1776: Harmony No. 5, The Lord Descended\"",
+        "trackId": "4rfPvbT2JTeyKiSgZihg5Y"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=1A6VSPPUJADy9l9nHcGFG5",
+      "id": "1A6VSPPUJADy9l9nHcGFG5"
+    },
+    {
+      "artistName": "Ensemble Modern",
+      "positioning": {
+        "top": 600,
+        "left": 580
+      },
+      "style": {
+        "color": "#30886e",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0323e709b0c11281dd4078c7505c947df87291fa",
+        "title": "e.g. Ensemble Modern \"City Life: I. Check It Out\"",
+        "trackId": "4LWqBg6qLjiDWfwPosGZAC"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=3VoMlEsMCX6sDnTmqYL8Qp",
+      "id": "3VoMlEsMCX6sDnTmqYL8Qp"
+    },
+    {
+      "artistName": "Sabine Liebner",
+      "positioning": {
+        "top": 663,
+        "left": 1371
+      },
+      "style": {
+        "color": "#0898b4",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4c06a874f0968ff3d049dc6858bf5c03d8776f2c",
+        "title": "e.g. Sabine Liebner \"Tilbury\"",
+        "trackId": "511zNPdOBwVqqs97Kdp2sc"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=6ScdAInlJ9Dy1wiluDCnGm",
+      "id": "6ScdAInlJ9Dy1wiluDCnGm"
+    },
+    {
+      "artistName": "Ensemble Recherche",
+      "positioning": {
+        "top": 629,
+        "left": 402
+      },
+      "style": {
+        "color": "#149455",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b4d12bf0b398fb96540543e92eef845a85300389",
+        "title": "e.g. Ensemble Recherche \"In nomine after William Byrd (2001) for flute, oboe, clarinet, piano, vibraphone, violin, viola and Violoncello\"",
+        "trackId": "3QNcX3uXTGQHzxWs5pG9yj"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=3cw77VyRnMgYPeMR2ssObL",
+      "id": "3cw77VyRnMgYPeMR2ssObL"
+    },
+    {
+      "artistName": "Ned Rorem",
+      "positioning": {
+        "top": 865,
+        "left": 573
+      },
+      "style": {
+        "color": "#18a157",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acf4b1b7e15bbf376b99d8542987cbd9e2dc1d08",
+        "title": "e.g. Ned Rorem \"Symphony No. 2: II. Tranquillo\"",
+        "trackId": "0Alu6BKjINJ9Jm6bXFW5AE"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6olAQ3T7TK9g1IJIq2OTYt",
+      "id": "6olAQ3T7TK9g1IJIq2OTYt"
+    },
+    {
+      "artistName": "Hans Abrahamsen",
+      "positioning": {
+        "top": 684,
+        "left": 474
+      },
+      "style": {
+        "color": "#1a9a96",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f2c6bf8ae2a44f3dc11c8f0439145e50bf42bd6",
+        "title": "e.g. Hans Abrahamsen \"Let Me Tell You, Pt. I: Let Me Tell You How It Was\"",
+        "trackId": "4o06QW9B4eLrodDKymGk9w"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=7lFNEy6KsssnTZPNg78ZJM",
+      "id": "7lFNEy6KsssnTZPNg78ZJM"
+    },
+    {
+      "artistName": "Julia Wolfe",
+      "positioning": {
+        "top": 221,
+        "left": 565
+      },
+      "style": {
+        "color": "#618b8d",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50790efe47aee8a2f979b5da20f196e6c55c0baf",
+        "title": "e.g. Julia Wolfe \"Anthracite Fields: IV. Flowers\"",
+        "trackId": "6zyRNdOZbIX9U2LszJf8mq"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=5uEap55hXon4eBDyIlYtQg",
+      "id": "5uEap55hXon4eBDyIlYtQg"
+    },
+    {
+      "artistName": "George Crumb",
+      "positioning": {
+        "top": 565,
+        "left": 558
+      },
+      "style": {
+        "color": "#19826f",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4db443707dbd38618002328d364c2347c6fc70de",
+        "title": "e.g. George Crumb \"Black Angels: I. Departure\"",
+        "trackId": "506GxMmrVqxTsTDd28116F"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=0EyIzyLSylDC0h0y7JP7am",
+      "id": "0EyIzyLSylDC0h0y7JP7am"
+    },
+    {
+      "artistName": "Lou Harrison",
+      "positioning": {
+        "top": 561,
+        "left": 812
+      },
+      "style": {
+        "color": "#2aa195",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/275c32c1c510424b4dfa32422649b47101d8d0cc",
+        "title": "e.g. Lou Harrison \"Suite for Symphonic Strings: 2. Chorale \"Et in Arcadio Ego\"\"",
+        "trackId": "7KYMgCZD7vKUmHOGVnFJUP"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=1FuQc9iJv3gdypigXiZ136",
+      "id": "1FuQc9iJv3gdypigXiZ136"
+    },
+    {
+      "artistName": "Edgard Varèse",
+      "positioning": {
+        "top": 537,
+        "left": 565
+      },
+      "style": {
+        "color": "#347e78",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aaccfd34fedfa977225e05cb9a4b1ed6a256272e",
+        "title": "e.g. Edgard Varèse \"Poème Electronique\"",
+        "trackId": "6gdOMWMd4WKHU03vfmxkIp"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=0enRaCZSvIUa2nVC7I4roi",
+      "id": "0enRaCZSvIUa2nVC7I4roi"
+    },
+    {
+      "artistName": "Sofia Gubaidulina",
+      "positioning": {
+        "top": 747,
+        "left": 440
+      },
+      "style": {
+        "color": "#139672",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bffd59b41d8743374db2f2e44ca756d0ef02ce74",
+        "title": "e.g. Sofia Gubaidulina \"String Quartet No. 2\"",
+        "trackId": "0SmH4R3Crc2MjeKXZRWszq"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=2xcUqNAHTLVnHeK0YLA9IO",
+      "id": "2xcUqNAHTLVnHeK0YLA9IO"
+    },
+    {
+      "artistName": "Hans Werner Henze",
+      "positioning": {
+        "top": 852,
+        "left": 573
+      },
+      "style": {
+        "color": "#228e6b",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/56528ee6d50eed34be5ec6f181f2679db6aecbf5",
+        "title": "e.g. Hans Werner Henze \"Tristan: I. Prologue\"",
+        "trackId": "2p6gUusMSTkppTHzlfARWc"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=7xkiLJgEoKMVDgTh0s2Mqu",
+      "id": "7xkiLJgEoKMVDgTh0s2Mqu"
+    },
+    {
+      "artistName": "Steffen Schleiermacher",
+      "positioning": {
+        "top": 767,
+        "left": 1081
+      },
+      "style": {
+        "color": "#0e9e93",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c5c380c79452d10306a48ae40691ac2fa6565ec",
+        "title": "e.g. Steffen Schleiermacher \"Mad Rush\"",
+        "trackId": "6WrtDfe7BiqQ14Fg8dBCOb"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=2cuZAM4jmtKDLUOhnPbEsx",
+      "id": "2cuZAM4jmtKDLUOhnPbEsx"
+    },
+    {
+      "artistName": "Giacinto Scelsi",
+      "positioning": {
+        "top": 934,
+        "left": 554
+      },
+      "style": {
+        "color": "#12a8a2",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c26a7cd8476934b96481773a549e6e8e1a63317",
+        "title": "e.g. Giacinto Scelsi \"Uaxuctum: III. —\"",
+        "trackId": "39yRzZ04DlLoK7AJH44zFT"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=1jn3OKI59KA2OJEwkUfaI6",
+      "id": "1jn3OKI59KA2OJEwkUfaI6"
+    },
+    {
+      "artistName": "Éliane Radigue",
+      "positioning": {
+        "top": 656,
+        "left": 615
+      },
+      "style": {
+        "color": "#14a17e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c0e2bcaeddaa98a15d02dbf7a62378dc759cf761",
+        "title": "e.g. Éliane Radigue \"Occam River I\"",
+        "trackId": "1o3dUfh1miVQGFrWDyZS50"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1oG3G8tFIIseWu474ardvh",
+      "id": "1oG3G8tFIIseWu474ardvh"
+    },
+    {
+      "artistName": "George Benjamin",
+      "positioning": {
+        "top": 840,
+        "left": 474
+      },
+      "style": {
+        "color": "#139860",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7355ff3ed70f1697daf5d23b3c149b7d7b8292f0",
+        "title": "e.g. George Benjamin \"Part One, Scene I: Chorus of Angels I\"",
+        "trackId": "7GZLWyAD7SjZIQLLp7aMH1"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=5g9zIZkmU9m893xgFpbkfe",
+      "id": "5g9zIZkmU9m893xgFpbkfe"
+    },
+    {
+      "artistName": "Louis Andriessen",
+      "positioning": {
+        "top": 786,
+        "left": 804
+      },
+      "style": {
+        "color": "#249d81",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/08b1c589eb3900dae0b78b0ccfd2effec31edfab",
+        "title": "e.g. Louis Andriessen \"M is for Man, Music, Mozart: The Eisenstein Song\"",
+        "trackId": "0MhO2ihcdPUcY47DIKPV7X"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=2k91aXkeSCPtrFGQzvIgu3",
+      "id": "2k91aXkeSCPtrFGQzvIgu3"
+    },
+    {
+      "artistName": "Charles Wuorinen",
+      "positioning": {
+        "top": 838,
+        "left": 812
+      },
+      "style": {
+        "color": "#1e9c67",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd6cf93524cb8cf4dbbf48898ccb8c0f5b8e0d5b",
+        "title": "e.g. Charles Wuorinen \"Josquiniana: I. Helas madame\"",
+        "trackId": "30HvTNx4XWK8mOYf0wEauq"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=5XymGDm97lwt7hLHZJ0zq6",
+      "id": "5XymGDm97lwt7hLHZJ0zq6"
+    },
+    {
+      "artistName": "Henry Cowell",
+      "positioning": {
+        "top": 691,
+        "left": 713
+      },
+      "style": {
+        "color": "#2597a2",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85650bb345726da50645b97370259d2a0f7fd15f",
+        "title": "e.g. Henry Cowell \"3 Irish Legends: I, The Tides of Manaunaun\"",
+        "trackId": "2vQydP8GwFN6ep6WSmbYTl"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=0AMoPrd9OLxMC38dQPnSQA",
+      "id": "0AMoPrd9OLxMC38dQPnSQA"
+    },
+    {
+      "artistName": "Elliott Carter",
+      "positioning": {
+        "top": 834,
+        "left": 599
+      },
+      "style": {
+        "color": "#16a18b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30b231f0e4020720940a435c882f7762dc6e2b29",
+        "title": "e.g. Elliott Carter \"2 Thoughts About the Piano: No. 2. Catenaires\"",
+        "trackId": "7qp6AJ49f7xIN3B2q1bHt1"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=7IqwNdpG9USkkEH36pkKEB",
+      "id": "7IqwNdpG9USkkEH36pkKEB"
+    },
+    {
+      "artistName": "Robert Ashley",
+      "positioning": {
+        "top": 462,
+        "left": 1149
+      },
+      "style": {
+        "color": "#398b23",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01ab0c60c6820d4e23ff151306588fc29a73366e",
+        "title": "e.g. Robert Ashley \"She Was A Visitor (1967)\"",
+        "trackId": "3Aw4DFRmrkoXmNsPgOYK2q"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=7JYwa2oDNk9dibRnqLep97",
+      "id": "7JYwa2oDNk9dibRnqLep97"
+    },
+    {
+      "artistName": "La Monte Young",
+      "positioning": {
+        "top": 0,
+        "left": 1165
+      },
+      "style": {
+        "color": "#3a94ad",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3263255619fb61db3a0da5ac8c7c888811f5d84c",
+        "title": "e.g. La Monte Young \"Compositions 1960: No. 9 - Arr. for Guitar\"",
+        "trackId": "1Zz6xYuOpRWyo79i52wmt6"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=5h2yl4fuAyztOOBgMRyQhE",
+      "id": "5h2yl4fuAyztOOBgMRyQhE"
+    },
+    {
+      "artistName": "Peter Eötvös",
+      "positioning": {
+        "top": 723,
+        "left": 413
+      },
+      "style": {
+        "color": "#2f8659",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e0ec3a6c578680539b35afbf70d48cd8e0441b9",
+        "title": "e.g. Peter Eötvös \"Speaking Drums: I. Tanzlied / Dance Songs\"",
+        "trackId": "2sTZGXdx24NLFU0PnvJfdF"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=3pYJ8R30XjH8PutGI42wtL",
+      "id": "3pYJ8R30XjH8PutGI42wtL"
+    },
+    {
+      "artistName": "Pierre Schaeffer",
+      "positioning": {
+        "top": 604,
+        "left": 1115
+      },
+      "style": {
+        "color": "#625271",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2e91a110b56eae48b162dd131e9a14d6b1d6b8c9",
+        "title": "e.g. Pierre Schaeffer \"Etude Violette\"",
+        "trackId": "4qpLYe1bJmUGVfCkuv8xln"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=47ypz2bndV4j06Xx8yPDZl",
+      "id": "47ypz2bndV4j06Xx8yPDZl"
+    },
+    {
+      "artistName": "Conlon Nancarrow",
+      "positioning": {
+        "top": 601,
+        "left": 1400
+      },
+      "style": {
+        "color": "#368f99",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86b6a6d895a5c3444d228f49b70647a8aa5a6175",
+        "title": "e.g. Conlon Nancarrow \"Studies for Player Piano: Study No. 6\"",
+        "trackId": "6YpyKmgTxZahaGmMb4yakx"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=05BYEPhmF0YRqm7MKdu81V",
+      "id": "05BYEPhmF0YRqm7MKdu81V"
+    },
+    {
+      "artistName": "Aki Takahashi",
+      "positioning": {
+        "top": 813,
+        "left": 1092
+      },
+      "style": {
+        "color": "#159fb2",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acd2cd127fe0f96e24985d50704e3d45fb3537fb",
+        "title": "e.g. Aki Takahashi \"Waves Breaking on Rocks: III. Summer, Again\"",
+        "trackId": "0G8nof73PZGbvGMjfwJoZw"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=3JETbxKqCxDmrEczDKv9DT",
+      "id": "3JETbxKqCxDmrEczDKv9DT"
+    },
+    {
+      "artistName": "JACK Quartet",
+      "positioning": {
+        "top": 616,
+        "left": 493
+      },
+      "style": {
+        "color": "#2b9767",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b4bade4e8f2d07da32dd708677104a031359797",
+        "title": "e.g. JACK Quartet \"The Wind in High Places: II. Maclaren Summit\"",
+        "trackId": "1XCZpT1N99FvmHtfZxBFoW"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=5IIlEwQ9WqXulFI8JZ8QNw",
+      "id": "5IIlEwQ9WqXulFI8JZ8QNw"
+    },
+    {
+      "artistName": "Bernard Parmegiani",
+      "positioning": {
+        "top": 146,
+        "left": 516
+      },
+      "style": {
+        "color": "#5d667f",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1abe445eeba3d2c7873fe8be232781ae769696b",
+        "title": "e.g. Bernard Parmegiani \"L'espace-temps\"",
+        "trackId": "4uIVSDCk1xt2XRDIMpbLq3"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=5F5PIdJtRh6MsFIKa3KY3y",
+      "id": "5F5PIdJtRh6MsFIKa3KY3y"
+    },
+    {
+      "artistName": "Klangforum Wien",
+      "positioning": {
+        "top": 604,
+        "left": 406
+      },
+      "style": {
+        "color": "#2f7d3d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/049241a35ca464b1e114f6dbfc36e9c51826d3d3",
+        "title": "e.g. Klangforum Wien \"Radical Narrowness Concert, Sections 1-6: Each Time You Carry Me This Way\"",
+        "trackId": "6I4XL3qqfjy8p8BOYPvGQA"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=46bIDJnKANGCISmg6PWuz5",
+      "id": "46bIDJnKANGCISmg6PWuz5"
+    },
+    {
+      "artistName": "Alvin Lucier",
+      "positioning": {
+        "top": 738,
+        "left": 205
+      },
+      "style": {
+        "color": "#1aa0bf",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d24b794117fdb2ee880ba9f65dd388367fcae5e",
+        "title": "e.g. Alvin Lucier \"I Am Sitting in a Room\"",
+        "trackId": "09pHNT4RIvhLui6eIi4HKO"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=0ARBCE8g4PI0TO7PEYMm0Z",
+      "id": "0ARBCE8g4PI0TO7PEYMm0Z"
+    },
+    {
+      "artistName": "Salvatore Sciarrino",
+      "positioning": {
+        "top": 578,
+        "left": 633
+      },
+      "style": {
+        "color": "#1a8237",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06fe20fbdf2d5ce511d1cfc3e5fdb90c1b2a66cb",
+        "title": "e.g. Salvatore Sciarrino \"Perduto in una citta d'acque\"",
+        "trackId": "79InrLEveYYrF0meTCQrTb"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=3X2fwmmbjJ9V42SLAtl12X",
+      "id": "3X2fwmmbjJ9V42SLAtl12X"
+    },
+    {
+      "artistName": "Deep Listening Band",
+      "positioning": {
+        "top": 722,
+        "left": 0
+      },
+      "style": {
+        "color": "#307ba6",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ea20822392c04d359acbebe73bc83c287bfb31e5",
+        "title": "e.g. Deep Listening Band \"Deep Hockets\"",
+        "trackId": "673pN6FlbtibkwJYmmwZzm"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=3PdYPN7CRANy7IXME7O4vk",
+      "id": "3PdYPN7CRANy7IXME7O4vk"
+    },
+    {
+      "artistName": "Olga Neuwirth",
+      "positioning": {
+        "top": 632,
+        "left": 205
+      },
+      "style": {
+        "color": "#2a8a74",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a03b04ad81b214bcbdfad4446da16956f996861f",
+        "title": "e.g. Olga Neuwirth \"…miramondo multiplo… (2006) for trumpet and Orchestra: I. Aria dell' Angelo\"",
+        "trackId": "0bgzHDoHH34uT9VqwCORel"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=6WskeEIb76L1xQUfLimAbA",
+      "id": "6WskeEIb76L1xQUfLimAbA"
+    },
+    {
+      "artistName": "Wolfgang Rihm",
+      "positioning": {
+        "top": 773,
+        "left": 489
+      },
+      "style": {
+        "color": "#149960",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bcded5505ac55ada6ca54af561d20f8feef880d6",
+        "title": "e.g. Wolfgang Rihm \"\"Gesungene Zeit\" 1991/92 - Music for Violin and Orchestra: I. Beginning: Quasi Senza\"",
+        "trackId": "10zyOg2ObvRQYm5exJiVfZ"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=1LqZaxmZNvkNyC5FaICGkW",
+      "id": "1LqZaxmZNvkNyC5FaICGkW"
+    },
+    {
+      "artistName": "Luc Ferrari",
+      "positioning": {
+        "top": 288,
+        "left": 891
+      },
+      "style": {
+        "color": "#545f62",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d862c4b9c9d750aec4c8c37fb39df876901bb1a",
+        "title": "e.g. Luc Ferrari \"Didascalies\"",
+        "trackId": "45IQgRWLrBWFi3ouBGtsun"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=6zaiVGhHTJtQfEUUDd9ORu",
+      "id": "6zaiVGhHTJtQfEUUDd9ORu"
+    },
+    {
+      "artistName": "Gérard Grisey",
+      "positioning": {
+        "top": 659,
+        "left": 364
+      },
+      "style": {
+        "color": "#1c8771",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2db6e1d99306010b628006cb3bab774d2b529e4b",
+        "title": "e.g. Gérard Grisey \"Prologue (1976) pour alto Seul\"",
+        "trackId": "39ZUSX1cWvwyh7VZrOAais"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=0l7szYDH6HXQghKQYpJpNO",
+      "id": "0l7szYDH6HXQghKQYpJpNO"
+    },
+    {
+      "artistName": "Morton Subotnick",
+      "positioning": {
+        "top": 470,
+        "left": 679
+      },
+      "style": {
+        "color": "#3f8081",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51220a921e8c6cda077d93e575e07d7bdefd9cab",
+        "title": "e.g. Morton Subotnick \"4 Butterflies: Butterfly No. 4\"",
+        "trackId": "0m1YZ3v6FK7oapluBxxoBf"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=60p2TqH9OKWfKB46wWaGIQ",
+      "id": "60p2TqH9OKWfKB46wWaGIQ"
+    },
+    {
+      "artistName": "Luigi Nono",
+      "positioning": {
+        "top": 683,
+        "left": 46
+      },
+      "style": {
+        "color": "#178b46",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a05d7ebbbb4c6cb5bc4ae2645b2a82dc93182fa8",
+        "title": "e.g. Luigi Nono \"....Sofferte onde serene....for piano and magnetic tape\"",
+        "trackId": "3pQYkc6kCPafFKQ2ZSCngq"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=6asnrWmE3QdFPTeCxfjLe5",
+      "id": "6asnrWmE3QdFPTeCxfjLe5"
+    },
+    {
+      "artistName": "Helmut Lachenmann",
+      "positioning": {
+        "top": 359,
+        "left": 808
+      },
+      "style": {
+        "color": "#295f56",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6fcb73302392d354224d8e5d200c8027c12debd6",
+        "title": "e.g. Helmut Lachenmann \"Lachenmann: Wiegenmusik\"",
+        "trackId": "4cKk4ZQSOcZU6A5yz8oAVd"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=0VelZYNiFVkSlRrLP2w9G8",
+      "id": "0VelZYNiFVkSlRrLP2w9G8"
+    },
+    {
+      "artistName": "Ruth Crawford Seeger",
+      "positioning": {
+        "top": 814,
+        "left": 762
+      },
+      "style": {
+        "color": "#17a2a8",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a3d0dc7e22246a16b4f95753ca434a93a378b40",
+        "title": "e.g. Ruth Crawford Seeger \"Andante for Strings\"",
+        "trackId": "0ARS9EXBUHXdfgIVz31K8s"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=1xw2D0SqXA6qm7akRYJCMg",
+      "id": "1xw2D0SqXA6qm7akRYJCMg"
+    },
+    {
+      "artistName": "Cornelius Cardew",
+      "positioning": {
+        "top": 655,
+        "left": 1077
+      },
+      "style": {
+        "color": "#289ca3",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f88a0186c98e8eac9b1630770621f0a91937c6f",
+        "title": "e.g. Cornelius Cardew \"Autumn 60\"",
+        "trackId": "4dUMlhxYkAMcz7pWEDtnr8"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=2RmRj2lS1Zh8HNTexTJkBE",
+      "id": "2RmRj2lS1Zh8HNTexTJkBE"
+    },
+    {
+      "artistName": "David Tudor",
+      "positioning": {
+        "top": 501,
+        "left": 982
+      },
+      "style": {
+        "color": "#445059",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6d9889ae9c0181cd14a13417eb2c0c09faf9c167",
+        "title": "e.g. David Tudor \"Music for Carillon, No. 1\"",
+        "trackId": "0xe3YfKDKgchGndHuUzpyX"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=1yD5aG8UUxsRwjya7fIa6s",
+      "id": "1yD5aG8UUxsRwjya7fIa6s"
+    },
+    {
+      "artistName": "Vladimir Ussachevsky",
+      "positioning": {
+        "top": 751,
+        "left": 258
+      },
+      "style": {
+        "color": "#3477ab",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/392d845f4bc3b0a6f2f08895b876832b94425a73",
+        "title": "e.g. Vladimir Ussachevsky \"Wireless Fantasy\"",
+        "trackId": "7vhbmeGiOhS1MAjUxoLIRW"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=7IGFUlUZeXQrb9xcEAInD4",
+      "id": "7IGFUlUZeXQrb9xcEAInD4"
+    },
+    {
+      "artistName": "Mauricio Kagel",
+      "positioning": {
+        "top": 723,
+        "left": 523
+      },
+      "style": {
+        "color": "#288a59",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63698ef81359e07c10cb821da91de595964a90c9",
+        "title": "e.g. Mauricio Kagel \"Rrrrrrr...: Ragtime-Waltz\"",
+        "trackId": "0VwHK9mdXaAoLcP0D03btO"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=0IdJUMh8xVuehu7qlMcDth",
+      "id": "0IdJUMh8xVuehu7qlMcDth"
+    },
+    {
+      "artistName": "Walter Piston",
+      "positioning": {
+        "top": 659,
+        "left": 516
+      },
+      "style": {
+        "color": "#2798ad",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7682b3201b632628bdb35ec1ad88a07e275bfbed",
+        "title": "e.g. Walter Piston \"Fantasy\"",
+        "trackId": "5mzmQbvMMfJPTx91GAlw7P"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=6TaiLV0CFJSuRhPfFLhnY8",
+      "id": "6TaiLV0CFJSuRhPfFLhnY8"
+    },
+    {
+      "artistName": "Bernd Alois Zimmermann",
+      "positioning": {
+        "top": 680,
+        "left": 846
+      },
+      "style": {
+        "color": "#209278",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cafd706d04a73e571597f8f63ccd282a915d6b7",
+        "title": "e.g. Bernd Alois Zimmermann \"Zimmermann: Die Soldaten: Preludio\"",
+        "trackId": "0BjIadDQUBJMtgMw9lln8T"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=0plu70NGQ4NmWNAIpUTZ3P",
+      "id": "0plu70NGQ4NmWNAIpUTZ3P"
+    },
+    {
+      "artistName": "Matthias Pintscher",
+      "positioning": {
+        "top": 672,
+        "left": 338
+      },
+      "style": {
+        "color": "#1a883f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3785926b8bcd2951a710a38aea260447d7e81ad1",
+        "title": "e.g. Matthias Pintscher \"Nemeton for Solo Percussion\"",
+        "trackId": "7bmkhBR9ppUMJV4CNCglbi"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=69vvuLr29oiG02SjKP7fdO",
+      "id": "69vvuLr29oiG02SjKP7fdO"
+    },
+    {
+      "artistName": "Brian Ferneyhough",
+      "positioning": {
+        "top": 730,
+        "left": 740
+      },
+      "style": {
+        "color": "#129345",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/606d4ac78befbad46a67c85cb555101b5b1f4633",
+        "title": "e.g. Brian Ferneyhough \"Cassandra's Dream Song\"",
+        "trackId": "31xGqQM3SfS7gutBNOdTMQ"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=1Ypd2wLcUoQ7v5iH7yrWDm",
+      "id": "1Ypd2wLcUoQ7v5iH7yrWDm"
+    },
+    {
+      "artistName": "Irvine Arditti",
+      "positioning": {
+        "top": 707,
+        "left": 853
+      },
+      "style": {
+        "color": "#0f9f3e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/939c5f70384e281f4fb19aa6af133eee542e816d",
+        "title": "e.g. Irvine Arditti \"Acid Rain\"",
+        "trackId": "2ELfF0mqzKFsi5IuBqTlKN"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=2S8fOPKVcnCSIpkK93FjZq",
+      "id": "2S8fOPKVcnCSIpkK93FjZq"
+    },
+    {
+      "artistName": "Bruno Maderna",
+      "positioning": {
+        "top": 827,
+        "left": 489
+      },
+      "style": {
+        "color": "#1a954f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af2161d9c62be1a89af46d9cb508875f8088df73",
+        "title": "e.g. Bruno Maderna \"Serenata per un satellite\"",
+        "trackId": "3RiDRGbhohUBmDNMukX4Ab"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=074KQsY66BZlVAn9zrvxH2",
+      "id": "074KQsY66BZlVAn9zrvxH2"
+    },
+    {
+      "artistName": "James Tenney",
+      "positioning": {
+        "top": 742,
+        "left": 1070
+      },
+      "style": {
+        "color": "#1c9daa",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1042d56e6319b50ce48a5e7002ac4f087fca3728",
+        "title": "e.g. James Tenney \"Having Never Written a Note for Percussion\"",
+        "trackId": "7vL2Ba0GyNFistrRVNFb1Y"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=6nQHpfuC7mFDp6FfgOZZYA",
+      "id": "6nQHpfuC7mFDp6FfgOZZYA"
+    },
+    {
+      "artistName": "Milton Babbitt",
+      "positioning": {
+        "top": 861,
+        "left": 1187
+      },
+      "style": {
+        "color": "#14a359",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d5729e0484a5a3a9bcf3ae2158b7352884d486e3",
+        "title": "e.g. Milton Babbitt \"Philomel for soprano, recorded soprano, and synthesized sound\"",
+        "trackId": "4MjQC5OCRVZxB7jHKnADBj"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=1s4OwCgHh16FZOkmmNLWeO",
+      "id": "1s4OwCgHh16FZOkmmNLWeO"
+    },
+    {
+      "artistName": "Fausto Romitelli",
+      "positioning": {
+        "top": 642,
+        "left": 330
+      },
+      "style": {
+        "color": "#33915d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/129232c30f0fe938937c722903b500aad9e4decb",
+        "title": "e.g. Fausto Romitelli \"Professor Bad Trip: I. Lesson 1\"",
+        "trackId": "7Me1VnwfXKuU8f66ICxQ37"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=6k58rH11mWdV3LyytlsUKQ",
+      "id": "6k58rH11mWdV3LyytlsUKQ"
+    },
+    {
+      "artistName": "Tristan Murail",
+      "positioning": {
+        "top": 921,
+        "left": 535
+      },
+      "style": {
+        "color": "#1b9191",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c476522caadfe1cc8bc999b55183711ca43ed56",
+        "title": "e.g. Tristan Murail \"Winter Fragments\"",
+        "trackId": "2uiPaCeJttOPtpIDDNhL5b"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=4mnATs9xEaQgFB3KiMN6NE",
+      "id": "4mnATs9xEaQgFB3KiMN6NE"
+    },
+    {
+      "artistName": "Friedrich Cerha",
+      "positioning": {
+        "top": 608,
+        "left": 850
+      },
+      "style": {
+        "color": "#21924d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59846d4ac4e8a00e308d5b6dc501bd13b5dd22b8",
+        "title": "e.g. Friedrich Cerha \"4 Hölderlin-Fragmente: No. 4, Ihr wandelt droben im Licht\"",
+        "trackId": "5C21FXnbEOP5EgZEu6OkLG"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=4S4oIxSwFzDCb0XSU8eSAW",
+      "id": "4S4oIxSwFzDCb0XSU8eSAW"
+    },
+    {
+      "artistName": "Beat Furrer",
+      "positioning": {
+        "top": 553,
+        "left": 641
+      },
+      "style": {
+        "color": "#147d48",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a1060c2cc3803260b8c86feffcb29453b07b169",
+        "title": "e.g. Beat Furrer \"Enigma (Excerpts): No. 6, —\"",
+        "trackId": "1JJJGhPCemJzMO5x3skMBs"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=3rwXUAL1mCPOxbKO4Jcxhq",
+      "id": "3rwXUAL1mCPOxbKO4Jcxhq"
+    },
+    {
+      "artistName": "Georg Friedrich Haas",
+      "positioning": {
+        "top": 692,
+        "left": 140
+      },
+      "style": {
+        "color": "#199879",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28b5d56e098f3a4b9d139e14ac6bb5bdcb5407c0",
+        "title": "e.g. Georg Friedrich Haas \"In Nomine (2001) for bass flute, english horn, clarinet, piano, vibraphone, violin, viola and Violoncello\"",
+        "trackId": "5h972EFohYYWn6kIv6SI9D"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=5aP6nb57FU4o9GkvL5dgLa",
+      "id": "5aP6nb57FU4o9GkvL5dgLa"
+    },
+    {
+      "artistName": "Enno Poppe",
+      "positioning": {
+        "top": 672,
+        "left": 474
+      },
+      "style": {
+        "color": "#298668",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9228052c864405c29a8b4888e69b7a3bb3f2392",
+        "title": "e.g. Enno Poppe \"Fleisch für Tenorsaxofon, E-Gitarre, Keyboard und Drumset: I\"",
+        "trackId": "5zVCl4VBNSHcmwWO1uXcTw"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=5yfSkE14xNkOGFjtK2Urp8",
+      "id": "5yfSkE14xNkOGFjtK2Urp8"
+    },
+    {
+      "artistName": "Henri Sauguet",
+      "positioning": {
+        "top": 865,
+        "left": 664
+      },
+      "style": {
+        "color": "#269f80",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0defe16fd097c83adf7034a022f2a4de5dfdb39c",
+        "title": "e.g. Henri Sauguet \"Les Forains: II. Entrée des Forains\"",
+        "trackId": "3R3D0Axwnojnes9IAm94MG"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=1EKhJjacXmWNA8zJaBF7Cm",
+      "id": "1EKhJjacXmWNA8zJaBF7Cm"
+    },
+    {
+      "artistName": "Christian Wolff",
+      "positioning": {
+        "top": 576,
+        "left": 1142
+      },
+      "style": {
+        "color": "#149b77",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/723da7a927bca254b2d2b5dbd3adf06ee815cc35",
+        "title": "e.g. Christian Wolff \"For Morty\"",
+        "trackId": "2eMJ9x1w8bxi0zVdxUleg0"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=2DmWanCaWZav4TZ2K1JlcD",
+      "id": "2DmWanCaWZav4TZ2K1JlcD"
+    },
+    {
+      "artistName": "Otto Luening",
+      "positioning": {
+        "top": 891,
+        "left": 577
+      },
+      "style": {
+        "color": "#1aa48a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cacca954afe39d8d43f72042156fd5de69620004",
+        "title": "e.g. Otto Luening \"Low Speed\"",
+        "trackId": "1vOU0sMhecuB07bmUhyvUy"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=27YluXpxOS5Bsvl2yb5iRZ",
+      "id": "27YluXpxOS5Bsvl2yb5iRZ"
+    },
+    {
+      "artistName": "Aldo Clementi",
+      "positioning": {
+        "top": 946,
+        "left": 531
+      },
+      "style": {
+        "color": "#0eac9e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/764d7dcd85ac382f11b259a33ba7ca86249a58a2",
+        "title": "e.g. Aldo Clementi \"Madrigale (1979)\"",
+        "trackId": "1oCkrxnIN1U4zwB6i7g9od"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=23yTbU8lF4i8iU43J9BDvD",
+      "id": "23yTbU8lF4i8iU43J9BDvD"
+    },
+    {
+      "artistName": "Claude Vivier",
+      "positioning": {
+        "top": 911,
+        "left": 402
+      },
+      "style": {
+        "color": "#12a473",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b60be7b16ea14147f224d6eea1d03e0028c0c28c",
+        "title": "e.g. Claude Vivier \"Lonely Child\"",
+        "trackId": "489yI9JUMbPnEgs4YaX3gf"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=40lnPEElT844RiQV8duFgS",
+      "id": "40lnPEElT844RiQV8duFgS"
+    },
+    {
+      "artistName": "Bernhard Lang",
+      "positioning": {
+        "top": 450,
+        "left": 1028
+      },
+      "style": {
+        "color": "#398728",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/64d820d887f4e52795e6cfa53ce69d42c38ba243",
+        "title": "e.g. Bernhard Lang \"The Cold Trip, Pt. 1: The Weathervane (II)\"",
+        "trackId": "7d4gK2wiubcdLWULPTrEQ4"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=0mNYw0XhjIrsDYJR4LV8xO",
+      "id": "0mNYw0XhjIrsDYJR4LV8xO"
+    },
+    {
+      "artistName": "Georges Aperghis",
+      "positioning": {
+        "top": 699,
+        "left": 1312
+      },
+      "style": {
+        "color": "#208e35",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6444bd303071e8c3f70721053f634572e358b6c8",
+        "title": "e.g. Georges Aperghis \"Récitations: No. 7, Récitation\"",
+        "trackId": "1wOWQ26wwiihSo2vjhTG6w"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=4uczKYJWvxA1XP7zGmDQGW",
+      "id": "4uczKYJWvxA1XP7zGmDQGW"
+    },
+    {
+      "artistName": "Franco Donatoni",
+      "positioning": {
+        "top": 837,
+        "left": 1115
+      },
+      "style": {
+        "color": "#179a76",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/795d8006df39353e8cb1aabc5f8137b999d3a44c",
+        "title": "e.g. Franco Donatoni \"Omar: Movement 1\"",
+        "trackId": "6ArMr8wbVS2ifzFJg2LnGn"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=1FZGsW5PFVNvAN1G6PX4FX",
+      "id": "1FZGsW5PFVNvAN1G6PX4FX"
+    },
+    {
+      "artistName": "Rebecca Saunders",
+      "positioning": {
+        "top": 692,
+        "left": 300
+      },
+      "style": {
+        "color": "#167d5c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/231ae498d9d82e10fa31e2fcccd883bd9320c107",
+        "title": "e.g. Rebecca Saunders \"Fury for Double Bass Solo\"",
+        "trackId": "69AhURF1CtR6V2N2MxSyet"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=4E8IYlLszov2INdjPUZXfr",
+      "id": "4E8IYlLszov2INdjPUZXfr"
+    },
+    {
+      "artistName": "Horaţiu Rădulescu",
+      "positioning": {
+        "top": 801,
+        "left": 895
+      },
+      "style": {
+        "color": "#139da7",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dde664d87a87a76dab2232797b7fad016de1cbf0",
+        "title": "e.g. Horaţiu Rădulescu \"Das Andere opus 49\"",
+        "trackId": "0lLvkRilSCUz30sNCPZK7F"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=5JY8XqLXMgdLf3JDcPjWMn",
+      "id": "5JY8XqLXMgdLf3JDcPjWMn"
+    },
+    {
+      "artistName": "Earle Brown",
+      "positioning": {
+        "top": 616,
+        "left": 1108
+      },
+      "style": {
+        "color": "#198b57",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4c667879f247e2f3e91bb1ad5c7510b8ae2af341",
+        "title": "e.g. Earle Brown \"Times Five\"",
+        "trackId": "3oTmBrdJV4se9beSMDl3VU"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=6QRlTP3eeypm5s3w0mJ9KL",
+      "id": "6QRlTP3eeypm5s3w0mJ9KL"
+    },
+    {
+      "artistName": "Mark Andre",
+      "positioning": {
+        "top": 122,
+        "left": 319
+      },
+      "style": {
+        "color": "#1c674d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78513f77fec13c0f71e7d430affc93048a4529a1",
+        "title": "e.g. Mark Andre \"... auf ...: 1\"",
+        "trackId": "2tzdPN1wpEfPdDrK4e2dQM"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=0Xgcm8bSs8DiQTdJPZ3mrK",
+      "id": "0Xgcm8bSs8DiQTdJPZ3mrK"
+    },
+    {
+      "artistName": "Peter Ablinger",
+      "positioning": {
+        "top": 339,
+        "left": 945
+      },
+      "style": {
+        "color": "#3a7887",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/722470a38103b2685f2b89a2a6c18c8a934dd736",
+        "title": "e.g. Peter Ablinger \"Voices and Piano (Since 1998) for Piano and Loudspeaker: Bonnie Barnett\"",
+        "trackId": "1a6bLD4RjlflLccmlbJZu6"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=4iye2PNjCUGr2ecYkkDEUm",
+      "id": "4iye2PNjCUGr2ecYkkDEUm"
+    },
+    {
+      "artistName": "Francis Dhomont",
+      "positioning": {
+        "top": 221,
+        "left": 205
+      },
+      "style": {
+        "color": "#714549",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cb1af397b59e5fab43289e91d3cbb7834a3f6bf",
+        "title": "e.g. Francis Dhomont \"A l'oree du conte\"",
+        "trackId": "2JhawP6yDBuUfpXOA4eU6u"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=7u7APlLOIZOXhJ04H18rly",
+      "id": "7u7APlLOIZOXhJ04H18rly"
+    },
+    {
+      "artistName": "Vinko Globokar",
+      "positioning": {
+        "top": 631,
+        "left": 690
+      },
+      "style": {
+        "color": "#326e25",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/15927e0dff6f7025fc5f661e30406475f82c8498",
+        "title": "e.g. Vinko Globokar \"Discours II - Pt. 2\"",
+        "trackId": "1U4Lu3vDi1BbMWXZTKX2r1"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=390xd9xbh7ZBVARL0nkyRT",
+      "id": "390xd9xbh7ZBVARL0nkyRT"
+    },
+    {
+      "artistName": "Chaya Czernowin",
+      "positioning": {
+        "top": 515,
+        "left": 300
+      },
+      "style": {
+        "color": "#18722f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32e87aa4d2a8f3eb09b798fc9889a763725296b6",
+        "title": "e.g. Chaya Czernowin \"Ayre \"Towed Through Plumes, Thicket, Asphalt, Sawdust and Hazardous Air I Shall Not Forget the Sound Of\"\"",
+        "trackId": "4rmrI69Md41JzFOVKIl7qh"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=53vqQxNLfhWwQohiqvcMJE",
+      "id": "53vqQxNLfhWwQohiqvcMJE"
+    },
+    {
+      "artistName": "Franck Bedrossian",
+      "positioning": {
+        "top": 489,
+        "left": 353
+      },
+      "style": {
+        "color": "#3f6b48",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/93d287302fd44ac3eae4beb1d1bcb3eb820e7cbe",
+        "title": "e.g. Franck Bedrossian \"It\"",
+        "trackId": "2K6ZkOxEihH4BD7CbsAJlq"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=0XM4WYpNyBSt6e9Eys906n",
+      "id": "0XM4WYpNyBSt6e9Eys906n"
+    },
+    {
+      "artistName": "Pierluigi Billone",
+      "positioning": {
+        "top": 527,
+        "left": 269
+      },
+      "style": {
+        "color": "#187c64",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f9c0ee35401379e653ce363c98840f597a179252",
+        "title": "e.g. Pierluigi Billone \"Mani.Matta for Marimba, 2 Log Drums, Woodblock, and China Gong\"",
+        "trackId": "1VqAJ95ZU9q7cfRyetEelE"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=0J6Dj4hxvuuWRi1A97lXZh",
+      "id": "0J6Dj4hxvuuWRi1A97lXZh"
+    },
+    {
+      "artistName": "Clara Iannotta",
+      "positioning": {
+        "top": 272,
+        "left": 292
+      },
+      "style": {
+        "color": "#386230",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/940013b6a3197cf49d62d06a4d1d3ea5071905ff",
+        "title": "e.g. Clara Iannotta \"MOULT (2018-19) for chamber Orchestra\"",
+        "trackId": "0wCITGfBKaClSLYZNx1gDy"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=3NC5YsUP1Y0B2Rc4MMpDl5",
+      "id": "3NC5YsUP1Y0B2Rc4MMpDl5"
+    },
+    {
+      "artistName": "Marco Stroppa",
+      "positioning": {
+        "top": 735,
+        "left": 565
+      },
+      "style": {
+        "color": "#188485",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16313f000c87064094cd6bf23ddebcb7b88dcbef",
+        "title": "e.g. Marco Stroppa \"Miniature estrose, 1st book: Tangatu manu\"",
+        "trackId": "0Zl3ehZcjz5iaHuMF4q5N1"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=4GLqifRzwUWGDxeTyA7UIc",
+      "id": "4GLqifRzwUWGDxeTyA7UIc"
+    },
+    {
+      "artistName": "Jean Barraqué",
+      "positioning": {
+        "top": 826,
+        "left": 819
+      },
+      "style": {
+        "color": "#109065",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc6fba43215e059c3add3460330f5495774b4687",
+        "title": "e.g. Jean Barraqué \"Sonata for Piano: 1. Allegro\"",
+        "trackId": "4aS36Mw8teIPnmlETtfYU1"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=43HLL69Scp9cuOJxd76rl6",
+      "id": "43HLL69Scp9cuOJxd76rl6"
+    },
+    {
+      "artistName": "Aaron Cassidy",
+      "positioning": {
+        "top": 691,
+        "left": 1028
+      },
+      "style": {
+        "color": "#337e44",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b38a80f3ad5144b1e8694a37459da6ace920b70",
+        "title": "e.g. Aaron Cassidy \"The wreck of former boundaries (2015) contrabass solo\"",
+        "trackId": "67AGD6QjcyZQnvBATZgtZE"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=5R1ScmpYS6tZB1Si8TicXq",
+      "id": "5R1ScmpYS6tZB1Si8TicXq"
+    },
+    {
+      "artistName": "Claus-Steffen Mahnkopf",
+      "positioning": {
+        "top": 718,
+        "left": 641
+      },
+      "style": {
+        "color": "#17864e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f41e20d6b209c5f63538eb317b268f74f6ba0b3",
+        "title": "e.g. Claus-Steffen Mahnkopf \"Kurtag-Duo\"",
+        "trackId": "0YFuiSkteAkDMfvyVm0XFf"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=605Odp6GU8DKzXCpdFo7Lu",
+      "id": "605Odp6GU8DKzXCpdFo7Lu"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=avant-garde"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/2pz31tSbwDrb4p9F8LrWhM"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7C4cJV470yFUcTUEloKFFV"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/3M6gT4tmsOtJtbIO0yQVql"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/3POy7zOErhWFxrBTp7tioB"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=avant-garde"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "contemporary classical",
+      "positioning": {
+        "top": 390,
+        "left": 73
+      },
+      "style": {
+        "color": "#1d9e96",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bffd59b41d8743374db2f2e44ca756d0ef02ce74",
+        "title": "e.g. Sofia Gubaidulina \"String Quartet No. 2\"",
+        "trackId": "0SmH4R3Crc2MjeKXZRWszq"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-contemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "serialism",
+      "positioning": {
+        "top": 406,
+        "left": 120
+      },
+      "style": {
+        "color": "#1c9a67",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c496980d420bd64a8e8f0b48011cedaa495f68d",
+        "title": "e.g. Luciano Berio \"6 Encores for Piano (1965): No. 3, Wasserklavier\"",
+        "trackId": "0RnF44RV45by9HTtZuttgl"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-serialism.html#tunnel"
+    },
+    {
+      "genreName": "italian contemporary classical",
+      "positioning": {
+        "top": 338,
+        "left": 154
+      },
+      "style": {
+        "color": "#1c9a78",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c26a7cd8476934b96481773a549e6e8e1a63317",
+        "title": "e.g. Giacinto Scelsi \"Uaxuctum: III. —\"",
+        "trackId": "39yRzZ04DlLoK7AJH44zFT"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-italiancontemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "21st century classical",
+      "positioning": {
+        "top": 309,
+        "left": 0
+      },
+      "style": {
+        "color": "#219b79",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8bdd921b862a94ac918984e3eb71710d036b2e0f",
+        "title": "e.g. Thomas Adès \"Arcadiana, Op. 12: VI. O Albion\"",
+        "trackId": "5qU2ayuH27qR9pN8YzzOo4"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-21stcenturyclassical.html#tunnel"
+    },
+    {
+      "genreName": "american contemporary classical",
+      "positioning": {
+        "top": 323,
+        "left": 141
+      },
+      "style": {
+        "color": "#1ea1a1",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2aeaffc67625ec826307b8215ad569d085e35a6",
+        "title": "e.g. John Cage \"In a Landscape\"",
+        "trackId": "1qbrS9PKOzsack0g7LiBhh"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-americancontemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "acousmatic",
+      "positioning": {
+        "top": 137,
+        "left": 227
+      },
+      "style": {
+        "color": "#3d7e7f",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8dfaf59c06e6a963b9b625c36f9947d97c33c617",
+        "title": "e.g. Laurie Spiegel \"The Unquestioned Answer\"",
+        "trackId": "2Xi2uBeFHI8zs5spiNmyqg"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-acousmatic.html#tunnel"
+    },
+    {
+      "genreName": "german contemporary classical",
+      "positioning": {
+        "top": 253,
+        "left": 110
+      },
+      "style": {
+        "color": "#1e9166",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6fcb73302392d354224d8e5d200c8027c12debd6",
+        "title": "e.g. Helmut Lachenmann \"Lachenmann: Wiegenmusik\"",
+        "trackId": "4cKk4ZQSOcZU6A5yz8oAVd"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-germancontemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "xenharmonic",
+      "positioning": {
+        "top": 214,
+        "left": 156
+      },
+      "style": {
+        "color": "#259c89",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32015f1be5d154b258e7d981d6640cba5e5bee3f",
+        "title": "e.g. Harry Partch \"Eleven Intrusions I: Study on Olympos' Pentatonic\"",
+        "trackId": "76GsjRyhDKVkw98G3y56I4"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-xenharmonic.html#tunnel"
+    },
+    {
+      "genreName": "musique concrete",
+      "positioning": {
+        "top": 116,
+        "left": 190
+      },
+      "style": {
+        "color": "#43767b",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af16d538bad6b366ec21a609121156a6a091b498",
+        "title": "e.g. Pierre Henry \"Messe pour le temps présent: 2. Psyché rock\"",
+        "trackId": "1SeFJKXiXP8o374gDUylL9"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-musiqueconcrete.html#tunnel"
+    },
+    {
+      "genreName": "early modern classical",
+      "positioning": {
+        "top": 295,
+        "left": 124
+      },
+      "style": {
+        "color": "#209d99",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/657f11208b7634b7e309a9e2f59e4af51633e838",
+        "title": "e.g. Arnold Bax \"Folk Tale\"",
+        "trackId": "43RnDSM6Odhajk4TVhwxAa"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-earlymodernclassical.html#tunnel"
+    },
+    {
+      "genreName": "french contemporary classical",
+      "positioning": {
+        "top": 227,
+        "left": 29
+      },
+      "style": {
+        "color": "#258e88",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ae15e53811b32ea934419c58534f4f8a4cce531",
+        "title": "e.g. Gérard Pesson \"Nebenstück\"",
+        "trackId": "1nDU8fzyQAwIsn6Shr1AP4"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-frenchcontemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "austrian contemporary classical",
+      "positioning": {
+        "top": 167,
+        "left": 144
+      },
+      "style": {
+        "color": "#2e8962",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a1060c2cc3803260b8c86feffcb29453b07b169",
+        "title": "e.g. Beat Furrer \"Enigma (Excerpts): No. 6, —\"",
+        "trackId": "1JJJGhPCemJzMO5x3skMBs"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-austriancontemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "austro-german modernism",
+      "positioning": {
+        "top": 421,
+        "left": 127
+      },
+      "style": {
+        "color": "#1e9b6a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd1cff361456d3fd6e4ae50b99a83ed4a808e123",
+        "title": "e.g. Arnold Schoenberg \"Notturno for Strings and Harp\"",
+        "trackId": "7nGA1sRfLDWXYb3VPstnZf"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-austrogermanmodernism.html#tunnel"
+    },
+    {
+      "genreName": "classical",
+      "positioning": {
+        "top": 378,
+        "left": 137
+      },
+      "style": {
+        "color": "#24a193",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13025c200f29b51f981e9821274b18090cd7d2d0",
+        "title": "e.g. Richard Strauss \"Morgen, Op. 27 No. 4 (Arr. Reger for Piano)\"",
+        "trackId": "1YHB1xwXPgCkuGjQ0prNdb"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-classical.html#tunnel"
+    },
+    {
+      "genreName": "swiss contemporary classical",
+      "positioning": {
+        "top": 353,
+        "left": 98
+      },
+      "style": {
+        "color": "#1f9674",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30ce12b032e2a2bcaadbf6b97dd1750c1fef4d48",
+        "title": "e.g. Michael Jarrell \"Émergences-Résurgences: I. —\"",
+        "trackId": "5RuEzhoKAlYo4Cmc5Kp0k9"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-swisscontemporaryclassical.html#tunnel"
+    },
+    {
+      "genreName": "tzadik",
+      "positioning": {
+        "top": 0,
+        "left": 300
+      },
+      "style": {
+        "color": "#4b8c84",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/506079c98361ec599da5216d6a77bc98a65826da",
+        "title": "e.g. Morton Feldman \"Rothko Chapel 5\"",
+        "trackId": "3ci95cJaK7fYZN3o9YBTXf"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-tzadik.html#tunnel"
+    },
+    {
+      "genreName": "laboratorio",
+      "positioning": {
+        "top": 12,
+        "left": 205
+      },
+      "style": {
+        "color": "#4b8f86",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40536d269299fb7020fcd01b7fad8f4774448676",
+        "title": "e.g. Pauline Oliveros \"Sound Patterns\"",
+        "trackId": "4A7U5MG1gtnEciBG9MxNP5"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-laboratorio.html#tunnel"
+    },
+    {
+      "genreName": "electroacoustic composition",
+      "positioning": {
+        "top": 33,
+        "left": 129
+      },
+      "style": {
+        "color": "#516777",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7f859c4d9fbd40e62b488ae4530a32fe118bd64",
+        "title": "e.g. Daphne Oram \"Rotolock\"",
+        "trackId": "6UAaByvqqfvzVVLBbsj6MC"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-electroacousticcomposition.html#tunnel"
+    },
+    {
+      "genreName": "minimalism",
+      "positioning": {
+        "top": 241,
+        "left": 105
+      },
+      "style": {
+        "color": "#23a7af",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ebf816cc705544460cc05dab25b874e149f624f",
+        "title": "e.g. Terry Riley \"A Rainbow in the Curved Air - Instrumental\"",
+        "trackId": "0aGvcIUEdMq9PelZIGJOBU"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-minimalism.html#tunnel"
+    },
+    {
+      "genreName": "russian contemporary classical",
+      "positioning": {
+        "top": 365,
+        "left": 80
+      },
+      "style": {
+        "color": "#229b8f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c317181ceca621478e88a8f86eb703e562cba381",
+        "title": "e.g. Vladimir Martynov \"Vladimir Martynov: The Beatitudes\"",
+        "trackId": "35bfCo1peMNIjrsrMPm7Aw"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-russiancontemporaryclassical.html#tunnel"
+    }
+  ]
+}

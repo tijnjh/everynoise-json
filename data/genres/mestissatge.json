@@ -1,0 +1,1386 @@
+{
+  "schemaVersion": 3,
+  "genreName": "mestissatge",
+  "artists": [
+    {
+      "artistName": "Txarango",
+      "positioning": {
+        "top": 251,
+        "left": 835
+      },
+      "style": {
+        "color": "#ae8a00",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d479e0c0abeb0463de9a7cc08115dbe377c0caa2",
+        "title": "e.g. Txarango \"Una Lluna a L'Aigua\"",
+        "trackId": "5ju5eWBU56D87aflOhyuR1"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=6XYRpcgPIK9OejoVzA7PbC",
+      "id": "6XYRpcgPIK9OejoVzA7PbC"
+    },
+    {
+      "artistName": "ZOO",
+      "positioning": {
+        "top": 327,
+        "left": 938
+      },
+      "style": {
+        "color": "#c57600",
+        "fontSize": "159%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f71905418719754550abf44c8fba80d4e96f323",
+        "title": "e.g. ZOO \"Tobogan\"",
+        "trackId": "4VTUvh41TeBWemxxBHGxOV"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=7a3ryRcO3alwbqaX4RagzM",
+      "id": "7a3ryRcO3alwbqaX4RagzM"
+    },
+    {
+      "artistName": "Doctor Prats",
+      "positioning": {
+        "top": 154,
+        "left": 1037
+      },
+      "style": {
+        "color": "#bb8901",
+        "fontSize": "137%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b3217a8c8f435734fb2d826d2e725eb32526696",
+        "title": "e.g. Doctor Prats \"Les Nits No Moren Mai\"",
+        "trackId": "6MAyp12bbJz8zUUSPa6Ddg"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=7ncQ3AmAxYqTv2vY46YclW",
+      "id": "7ncQ3AmAxYqTv2vY46YclW"
+    },
+    {
+      "artistName": "Suu",
+      "positioning": {
+        "top": 423,
+        "left": 681
+      },
+      "style": {
+        "color": "#a39403",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cadf1273d91865c74f209a2b33de3d580c89d35e",
+        "title": "e.g. Suu \"Eres un Temazo\"",
+        "trackId": "6Xk2u0r27AztzglwVUvohC"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=7He3EH9c66ZwBtIMHGdyIA",
+      "id": "7He3EH9c66ZwBtIMHGdyIA"
+    },
+    {
+      "artistName": "Auxili",
+      "positioning": {
+        "top": 190,
+        "left": 1285
+      },
+      "style": {
+        "color": "#b28a01",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8054312e339e010f1fbe21d0c133d1824986c9f",
+        "title": "e.g. Auxili \"Rude Girl\"",
+        "trackId": "4WEpx43cE3iz2uzjVOkxkH"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=4RwMQgPzQB228Lh2YCnI1B",
+      "id": "4RwMQgPzQB228Lh2YCnI1B"
+    },
+    {
+      "artistName": "Strombers",
+      "positioning": {
+        "top": 256,
+        "left": 368
+      },
+      "style": {
+        "color": "#b98301",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/03a0c2acd9fe575173497b2b96ea5091e1e6438a",
+        "title": "e.g. Strombers \"Cada Cop Que Rius\"",
+        "trackId": "4EfeSSiuuQSUmKeZcBsxMD"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=53QBC13AaAEh9AgmUFx5CH",
+      "id": "53QBC13AaAEh9AgmUFx5CH"
+    },
+    {
+      "artistName": "El Diluvi",
+      "positioning": {
+        "top": 129,
+        "left": 942
+      },
+      "style": {
+        "color": "#a79107",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ed7b5ab39bd82a811961311da83afd30764ab75",
+        "title": "e.g. El Diluvi \"Alegria\"",
+        "trackId": "2N9w1m5NgWzJKr0xJ1039x"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=21OW9V8Wv1j0zqVTqz5V94",
+      "id": "21OW9V8Wv1j0zqVTqz5V94"
+    },
+    {
+      "artistName": "Xanguito",
+      "positioning": {
+        "top": 697,
+        "left": 921
+      },
+      "style": {
+        "color": "#9c8d03",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9474c6a8119b6964c5889b4e4a37b468b17e6ce3",
+        "title": "e.g. Xanguito \"Milions D'Estrelles\"",
+        "trackId": "2LAuBXg68LrTDr9UGKmybm"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=6IBu1sEZuZb5fSADgjncHJ",
+      "id": "6IBu1sEZuZb5fSADgjncHJ"
+    },
+    {
+      "artistName": "EBRI KNIGHT",
+      "positioning": {
+        "top": 482,
+        "left": 47
+      },
+      "style": {
+        "color": "#c77408",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f19dde8c225d1b871fe31e13f04cfe3bf1b630e",
+        "title": "e.g. EBRI KNIGHT \"Vientos del Pueblo\"",
+        "trackId": "07FuqEEXxSQfM9V7QDQevL"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=2GBUTum66FDsK1M6zd3u7G",
+      "id": "2GBUTum66FDsK1M6zd3u7G"
+    },
+    {
+      "artistName": "La Troba Kung-Fú",
+      "positioning": {
+        "top": 228,
+        "left": 1277
+      },
+      "style": {
+        "color": "#d17714",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d0e29c53b6bc4c33265ddc5769c3077beecbf491",
+        "title": "e.g. La Troba Kung-Fú \"Flor de primavera\"",
+        "trackId": "5b7VmS9UwlzncCkernBW4v"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=78LSyERttuORro7Rz8ar3L",
+      "id": "78LSyERttuORro7Rz8ar3L"
+    },
+    {
+      "artistName": "Porto Bello",
+      "positioning": {
+        "top": 0,
+        "left": 450
+      },
+      "style": {
+        "color": "#c98500",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e4904f133d6fc2ba1cf31a9c5ff71e47b70890c",
+        "title": "e.g. Porto Bello \"Cantar-te\"",
+        "trackId": "0TuX5YYhHTSKBPZ9m5b2Ey"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=2hZTwRCdE5JFf7ohaIs6W2",
+      "id": "2hZTwRCdE5JFf7ohaIs6W2"
+    },
+    {
+      "artistName": "XEIC!",
+      "positioning": {
+        "top": 173,
+        "left": 506
+      },
+      "style": {
+        "color": "#cd8500",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2506e4a5a7f61c629f95ac8ea788122913230645",
+        "title": "e.g. XEIC! \"Ilargia\"",
+        "trackId": "16TUa3zshXrlUferevYfZN"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=3V8Ri9UHBCg1YeAwfqW6yz",
+      "id": "3V8Ri9UHBCg1YeAwfqW6yz"
+    },
+    {
+      "artistName": "Animal",
+      "positioning": {
+        "top": 271,
+        "left": 887
+      },
+      "style": {
+        "color": "#a78d0f",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e58b99e61a634ca48004550bd7e285c74032d4d",
+        "title": "e.g. Animal \"Només amb Tu\"",
+        "trackId": "2HVq3zbtKcMPOb0sasFtJj"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=4R5uqcGNfcfkFpUKxSPCfK",
+      "id": "4R5uqcGNfcfkFpUKxSPCfK"
+    },
+    {
+      "artistName": "Zulu 9.30",
+      "positioning": {
+        "top": 270,
+        "left": 1212
+      },
+      "style": {
+        "color": "#c9780a",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/00fd0bced87e299da63b0ee5681ead4d7437c840",
+        "title": "e.g. Zulu 9.30 \"Por Si No Te vuelvo a Ver\"",
+        "trackId": "2fHZh2MLqFdYr6LrlBUyen"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=0yybOebhlD8kOO8GY9nL4X",
+      "id": "0yybOebhlD8kOO8GY9nL4X"
+    },
+    {
+      "artistName": "Mabel Flores",
+      "positioning": {
+        "top": 796,
+        "left": 1028
+      },
+      "style": {
+        "color": "#909200",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a32a67380f0d0aed4b42cefbef2bfc452cd257ea",
+        "title": "e.g. Mabel Flores \"Vamos a Volar\"",
+        "trackId": "6XZCuVUVwfaFyfYeixAnIx"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=5nu2RYUhE093k61C9godJg",
+      "id": "5nu2RYUhE093k61C9godJg"
+    },
+    {
+      "artistName": "Hora de Joglar",
+      "positioning": {
+        "top": 385,
+        "left": 1294
+      },
+      "style": {
+        "color": "#9c8e02",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6089dfef685c9159d94db109e746b1c9ea9b4ca",
+        "title": "e.g. Hora de Joglar \"Sóc Feliç\"",
+        "trackId": "3T2h8s9v01f3JcRgHWwgTn"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=1sQ37MtYVVfUuiLcSFpbV4",
+      "id": "1sQ37MtYVVfUuiLcSFpbV4"
+    },
+    {
+      "artistName": "08001",
+      "positioning": {
+        "top": 340,
+        "left": 840
+      },
+      "style": {
+        "color": "#958f11",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63d5a0bee296854daddadc8b40dfc6a9c5007e02",
+        "title": "e.g. 08001 \"Don't Trouble\"",
+        "trackId": "7clqFhb2zpNztwW8w0KFnK"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=2uJemh5uB98ZBC8Jb83CCR",
+      "id": "2uJemh5uB98ZBC8Jb83CCR"
+    },
+    {
+      "artistName": "Segonamà",
+      "positioning": {
+        "top": 435,
+        "left": 840
+      },
+      "style": {
+        "color": "#a68d00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83464ecc89d606b9b99a68d2e8d511788e9afc6d",
+        "title": "e.g. Segonamà \"Crida\"",
+        "trackId": "4ws298MFn7GudNqrGcXCRV"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=2MfmnDDoxSFWHGsMth1WAp",
+      "id": "2MfmnDDoxSFWHGsMth1WAp"
+    },
+    {
+      "artistName": "Escarràs",
+      "positioning": {
+        "top": 129,
+        "left": 754
+      },
+      "style": {
+        "color": "#ae8800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c32aa587c65b016ebbb9b333ad3813835d5683db",
+        "title": "e.g. Escarràs \"Pinassa\"",
+        "trackId": "0AG9HAUcDS37yF9hIxpvC0"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=31Y9C7MfEfQilzkg2wEJit",
+      "id": "31Y9C7MfEfQilzkg2wEJit"
+    },
+    {
+      "artistName": "Ojo de Buen Cubero",
+      "positioning": {
+        "top": 543,
+        "left": 844
+      },
+      "style": {
+        "color": "#b38b00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98b8a2f04882800f1d9b24b5bf0f14251a4519ea",
+        "title": "e.g. Ojo de Buen Cubero \"En tu calle\"",
+        "trackId": "1OzpG7YViM4RUp2L3QKMaq"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=4P1eP3PeYntOLIJmM3QMC2",
+      "id": "4P1eP3PeYntOLIJmM3QMC2"
+    },
+    {
+      "artistName": "Cheb Balowski",
+      "positioning": {
+        "top": 406,
+        "left": 805
+      },
+      "style": {
+        "color": "#b38c01",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/56d6eb48d22560ecc7cbf0fe1b89c1aac145d24a",
+        "title": "e.g. Cheb Balowski \"La Bonica\"",
+        "trackId": "5Pm0yMQvPArhxLXCCEpxiC"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=1VoQDa1ZCseF4oY3ONTUSX",
+      "id": "1VoQDa1ZCseF4oY3ONTUSX"
+    },
+    {
+      "artistName": "La Mulata",
+      "positioning": {
+        "top": 302,
+        "left": 831
+      },
+      "style": {
+        "color": "#cf830e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78b12155579269cb363cf1925ae11bf9f277e1d8",
+        "title": "e.g. La Mulata \"Tenim la Negra\"",
+        "trackId": "4pw4AEvbUk4MhBlKo2s5Zo"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=0skAR7HEF25jUAP1RoWzfw",
+      "id": "0skAR7HEF25jUAP1RoWzfw"
+    },
+    {
+      "artistName": "Trast",
+      "positioning": {
+        "top": 281,
+        "left": 386
+      },
+      "style": {
+        "color": "#c08100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1440c9c4f65d4a34993e03ae1d907fff91a39299",
+        "title": "e.g. Trast \"De Nit (feat. La Raíz)\"",
+        "trackId": "0xiBqC1RX9OWusrddtSQtU"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=2WrKPpovtol0EVZl6zzQUY",
+      "id": "2WrKPpovtol0EVZl6zzQUY"
+    },
+    {
+      "artistName": "Insoma",
+      "positioning": {
+        "top": 156,
+        "left": 643
+      },
+      "style": {
+        "color": "#d17f00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5fcaa8d2f806c8eac2465e8a52acf962d8019efb",
+        "title": "e.g. Insoma \"Mortal\"",
+        "trackId": "3uVa4ezFZnzzK7DpZqgfnh"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=5XA38EfVTfeQYzAuULkXVB",
+      "id": "5XA38EfVTfeQYzAuULkXVB"
+    },
+    {
+      "artistName": "Pellikana",
+      "positioning": {
+        "top": 518,
+        "left": 398
+      },
+      "style": {
+        "color": "#b98405",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ab8c299a1ae26e524524e8a9bdfe18125e868707",
+        "title": "e.g. Pellikana \"Al poble de les rondalles\"",
+        "trackId": "60OdKd3fUirmrbm9nf4O1u"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=6xU70rwgN4Ho3OP6Q28pQY",
+      "id": "6xU70rwgN4Ho3OP6Q28pQY"
+    },
+    {
+      "artistName": "Arsènic",
+      "positioning": {
+        "top": 357,
+        "left": 390
+      },
+      "style": {
+        "color": "#bb8800",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/593731c52905a97502d65bb7b94d2406780d8440",
+        "title": "e.g. Arsènic \"L'últim Anhel\"",
+        "trackId": "6V8gadobmiD3iBzXsOEPKZ"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=1h4IPwoOt7Eska0XosbW8A",
+      "id": "1h4IPwoOt7Eska0XosbW8A"
+    },
+    {
+      "artistName": "Bemba Saoco",
+      "positioning": {
+        "top": 143,
+        "left": 930
+      },
+      "style": {
+        "color": "#e07800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6406f0909f90ff0f03294f8da35d9e6bea7ac36",
+        "title": "e.g. Bemba Saoco \"Crújelo\"",
+        "trackId": "5HYHt5TCkcATOVst0GzYcD"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=2yeaYMlVy4qYyuByxeb6zQ",
+      "id": "2yeaYMlVy4qYyuByxeb6zQ"
+    },
+    {
+      "artistName": "Mugroman",
+      "positioning": {
+        "top": 338,
+        "left": 17
+      },
+      "style": {
+        "color": "#d07605",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/812362f2f7d02b15bd13b05d49b34c100bcdb118",
+        "title": "e.g. Mugroman \"Moltes veus - Veus Valencianes\"",
+        "trackId": "3LD6EzQVstg7LwJzhONchA"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=1m6u5tMbhX5uV7hJZXlP1m",
+      "id": "1m6u5tMbhX5uV7hJZXlP1m"
+    },
+    {
+      "artistName": "Can Canalla",
+      "positioning": {
+        "top": 412,
+        "left": 1324
+      },
+      "style": {
+        "color": "#af8e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/da1f02a678c6631f2f60b763dc8431a5e6713a2a",
+        "title": "e.g. Can Canalla \"El Más Humilde del Mundo\"",
+        "trackId": "5kJFGd7LRo9dc1XkeOG8jz"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=07m9PUasJWjSHA7RjgffvV",
+      "id": "07m9PUasJWjSHA7RjgffvV"
+    },
+    {
+      "artistName": "Égalité",
+      "positioning": {
+        "top": 25,
+        "left": 1032
+      },
+      "style": {
+        "color": "#cc8d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53e9bb4424430a53baf72a7af71d3bc848bcbd22",
+        "title": "e.g. Égalité \"VAMOS A TOCAR EL CIELO\"",
+        "trackId": "0gwSPYsnhGND4Kr7zXsoPJ"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1iLe9pNGPGLaFqu5RmojhF",
+      "id": "1iLe9pNGPGLaFqu5RmojhF"
+    },
+    {
+      "artistName": "Aramateix",
+      "positioning": {
+        "top": 241,
+        "left": 578
+      },
+      "style": {
+        "color": "#ce6f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bcafff67dc3c9bb17e0cb8312e2907ef8e02b2f2",
+        "title": "e.g. Aramateix \"300 Anys\"",
+        "trackId": "07w2FzgkSJqDpHDFS0zMm3"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6JRRUpjVVnO7XYwUsQQdjX",
+      "id": "6JRRUpjVVnO7XYwUsQQdjX"
+    },
+    {
+      "artistName": "Jaleo Real",
+      "positioning": {
+        "top": 697,
+        "left": 1255
+      },
+      "style": {
+        "color": "#bc750a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/62ec5c93b2b44dc2a3d8be13aa02025c4ab0c8f4",
+        "title": "e.g. Jaleo Real \"maria\"",
+        "trackId": "3ex4rzHG5GspqPdl5SUSbR"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=47zehi5kEJb9Su7MRiB9bC",
+      "id": "47zehi5kEJb9Su7MRiB9bC"
+    },
+    {
+      "artistName": "La Colònia",
+      "positioning": {
+        "top": 900,
+        "left": 591
+      },
+      "style": {
+        "color": "#7b9700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/12898059506260d00ea2874b069b2b42448ba53d",
+        "title": "e.g. La Colònia \"Pernil Dolç\"",
+        "trackId": "01Fm0llCax5KLCS7SvpaJG"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=3JdyeQPnk8nadzlqltdRsR",
+      "id": "3JdyeQPnk8nadzlqltdRsR"
+    },
+    {
+      "artistName": "Raska",
+      "positioning": {
+        "top": 209,
+        "left": 925
+      },
+      "style": {
+        "color": "#bb8713",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a19d3d018e08ad78ac9b85a7b9b49b2ce3b09332",
+        "title": "e.g. Raska \"Fills de la revolució\"",
+        "trackId": "1qNBlDFEoMIHnNssi2HFLS"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=5W1dRa497wSysMIjq2Rn2w",
+      "id": "5W1dRa497wSysMIjq2Rn2w"
+    },
+    {
+      "artistName": "El Ventilador",
+      "positioning": {
+        "top": 480,
+        "left": 1032
+      },
+      "style": {
+        "color": "#9a8d0a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96fd05d64a06de87da1a3136b8fb02c0ecfd3fbe",
+        "title": "e.g. El Ventilador \"Gritaré\"",
+        "trackId": "3xxMOeqlSvadiOIsBHs8Cr"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=1wtgguShYH4W7UQjHbNLue",
+      "id": "1wtgguShYH4W7UQjHbNLue"
+    },
+    {
+      "artistName": "Cuits",
+      "positioning": {
+        "top": 55,
+        "left": 1015
+      },
+      "style": {
+        "color": "#cb7d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0289c8b22a5509b98724a7c7366c010135583f2a",
+        "title": "e.g. Cuits \"Musa\"",
+        "trackId": "5dUN1eYnkCd0eeMqhuja8n"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=3EvYGoKtIL6sG7ONPhdenx",
+      "id": "3EvYGoKtIL6sG7ONPhdenx"
+    },
+    {
+      "artistName": "Tashkenti",
+      "positioning": {
+        "top": 325,
+        "left": 998
+      },
+      "style": {
+        "color": "#b67d01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47be2dcd0e216aa471a91a816aa1b9e9688d48a1",
+        "title": "e.g. Tashkenti \"Corprés\"",
+        "trackId": "0ZZnS71gLza0zNs7SY6Y01"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=36VeNx9THSXYMwqGKxuYI7",
+      "id": "36VeNx9THSXYMwqGKxuYI7"
+    },
+    {
+      "artistName": "Mampön",
+      "positioning": {
+        "top": 325,
+        "left": 608
+      },
+      "style": {
+        "color": "#e37486",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24c5fd897751bc592ff4ab0433605b0bed524fa9",
+        "title": "e.g. Mampön \"Quiérete\"",
+        "trackId": "6xTB55w3uKbUy0rlwq2Uuk"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=7ftxpyToVnvSxsn8w98K8w",
+      "id": "7ftxpyToVnvSxsn8w98K8w"
+    },
+    {
+      "artistName": "Arreu",
+      "positioning": {
+        "top": 739,
+        "left": 840
+      },
+      "style": {
+        "color": "#c37e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/81b8afcbc92adfa7a86c240f53ecd39536807873",
+        "title": "e.g. Arreu \"Temporal\"",
+        "trackId": "3n2Jx5QTpPUoYcLjYugim3"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=6fSKXP6SKZKgNW4MySFE09",
+      "id": "6fSKXP6SKZKgNW4MySFE09"
+    },
+    {
+      "artistName": "Vizuri versions",
+      "positioning": {
+        "top": 142,
+        "left": 1024
+      },
+      "style": {
+        "color": "#909700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b1f4c5e7115736ea3f838eefd164e3cecb95081",
+        "title": "e.g. Vizuri versions \"La Plaça\"",
+        "trackId": "6WUiPc98TxfAySXCrQvX8k"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=0QLPN5yf7l5joP3TF8XP8q",
+      "id": "0QLPN5yf7l5joP3TF8XP8q"
+    },
+    {
+      "artistName": "El Último Mono",
+      "positioning": {
+        "top": 382,
+        "left": 0
+      },
+      "style": {
+        "color": "#d16b27",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8a9385bf27dd90cd1cc55cf15cadf3426b0f797f",
+        "title": "e.g. El Último Mono \"Nadie Va a Salvarnos\"",
+        "trackId": "1PsyJIfGRki5ngvmCdbLYI"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=6CyofsUqh1FPrZ5ZpAOzT2",
+      "id": "6CyofsUqh1FPrZ5ZpAOzT2"
+    },
+    {
+      "artistName": "El Corredor Polonès",
+      "positioning": {
+        "top": 509,
+        "left": 26
+      },
+      "style": {
+        "color": "#a87b1e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b4891e1d34c7823bba4835a157649db5e60b005",
+        "title": "e.g. El Corredor Polonès \"Cigarrets\"",
+        "trackId": "3xl5pqpqOpElhHPyqBV5cz"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1uLaTyYFUP6DWhNy50hFtG",
+      "id": "1uLaTyYFUP6DWhNy50hFtG"
+    },
+    {
+      "artistName": "La Fulla Kaduka",
+      "positioning": {
+        "top": 293,
+        "left": 420
+      },
+      "style": {
+        "color": "#bb7f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=5RsjVivbYDkBGEDtAPcC6D",
+      "id": "5RsjVivbYDkBGEDtAPcC6D"
+    },
+    {
+      "artistName": "Malagana",
+      "positioning": {
+        "top": 284,
+        "left": 878
+      },
+      "style": {
+        "color": "#cd7912",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad508f76e2be53e9e8011622dd5618b9fc0d9f68",
+        "title": "e.g. Malagana \"Desitjos\"",
+        "trackId": "0owMBCSEVWukKV8pIepyCU"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=0UwL1xVAPhYRlmJpKBAAOI",
+      "id": "0UwL1xVAPhYRlmJpKBAAOI"
+    },
+    {
+      "artistName": "Rereguarda",
+      "positioning": {
+        "top": 123,
+        "left": 1234
+      },
+      "style": {
+        "color": "#d07e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a4562f11a1666770f7daf15bc1a45dc55cda226",
+        "title": "e.g. Rereguarda \"Vergonya\"",
+        "trackId": "5kIVYgjY6KAzOmbo0VDz0I"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=12PrXHkKy96BtaRj8eePwM",
+      "id": "12PrXHkKy96BtaRj8eePwM"
+    },
+    {
+      "artistName": "Mama Patxanga",
+      "positioning": {
+        "top": 513,
+        "left": 591
+      },
+      "style": {
+        "color": "#c18300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4aa2883aee60b342eecfe5ae7e4e5c288ac1d5c8",
+        "title": "e.g. Mama Patxanga \"Seguem Arran\"",
+        "trackId": "7K3lUMXjfa9dL3RzTbK3EX"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=20TWpnG77zwZbvN3e2JHT0",
+      "id": "20TWpnG77zwZbvN3e2JHT0"
+    },
+    {
+      "artistName": "CampikiPugui",
+      "positioning": {
+        "top": 315,
+        "left": 514
+      },
+      "style": {
+        "color": "#a47900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e132caaa38ea8dbec4fdc17406c0b18d3e4d0501",
+        "title": "e.g. CampikiPugui \"Carregant\"",
+        "trackId": "2PdeuCEbQVQgG0AGL9rRfD"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=4H62wRbeFAQcZ1oYe1qdrA",
+      "id": "4H62wRbeFAQcZ1oYe1qdrA"
+    },
+    {
+      "artistName": "Assabè",
+      "positioning": {
+        "top": 135,
+        "left": 424
+      },
+      "style": {
+        "color": "#ab8b26",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa0e0c2ff97f982fd657ca9e67e61e538ca466b8",
+        "title": "e.g. Assabè \"Animalada\"",
+        "trackId": "7k9aHsxvmGTLHX8eHQ2I08"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=17r2KX0n7rVOr4KtduhJZY",
+      "id": "17r2KX0n7rVOr4KtduhJZY"
+    },
+    {
+      "artistName": "Zoom Musiqueta",
+      "positioning": {
+        "top": 651,
+        "left": 1400
+      },
+      "style": {
+        "color": "#c16b02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2abcb5547bb1e41ffbb3cca4af296522883ee796",
+        "title": "e.g. Zoom Musiqueta \"Mapalés\"",
+        "trackId": "7DJ2YGgnVEOy8scc0wPdda"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=3Ij4882YtfjvZtlTPEO3VP",
+      "id": "3Ij4882YtfjvZtlTPEO3VP"
+    },
+    {
+      "artistName": "Atzagaia",
+      "positioning": {
+        "top": 636,
+        "left": 685
+      },
+      "style": {
+        "color": "#b28300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af53b7f4c19707ea9a2d1d6452b900d0775692ed",
+        "title": "e.g. Atzagaia \"Brindarem\"",
+        "trackId": "0M3HP9Esx7FV7CQuBR5aYC"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=2AjQoSoI71kBfkGRH5Q3h2",
+      "id": "2AjQoSoI71kBfkGRH5Q3h2"
+    },
+    {
+      "artistName": "Crònics",
+      "positioning": {
+        "top": 268,
+        "left": 1045
+      },
+      "style": {
+        "color": "#c78300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e32228ed30e9d7604c947df2bfeebf36c59ad6d4",
+        "title": "e.g. Crònics \"Ni-Ni\"",
+        "trackId": "2rL3BotbqB3fzlYFAujQBu"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=22teKCFVXeAq62x2AYt6CY",
+      "id": "22teKCFVXeAq62x2AYt6CY"
+    },
+    {
+      "artistName": "Camí de l'Est",
+      "positioning": {
+        "top": 387,
+        "left": 227
+      },
+      "style": {
+        "color": "#c37700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6368b89a3c7ca2251b980dce081112cd4fdc8da",
+        "title": "e.g. Camí de l'Est \"Avança!\"",
+        "trackId": "0wMOVNM67U2DMxDvYLir7e"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=6DGA6pcpexaPMH0pEQb2El",
+      "id": "6DGA6pcpexaPMH0pEQb2El"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=mestissatge"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4mP5F204pWRtMTznnfHVhr"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7JIdus9Eke8O4YrJmNjcgl"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/41ahrDHtvddWN1aJIdKO2l"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5W2kEDMUXtuGEbg6cO4cEL"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=mestissatge"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "reggae catala",
+      "positioning": {
+        "top": 154,
+        "left": 291
+      },
+      "style": {
+        "color": "#b88407",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ca824a4be79eb1e929a4a386898ffe1bf262e3d",
+        "title": "e.g. Pirat's Sound Sistema \"Poemes i cançons\"",
+        "trackId": "38IXc9QBBOGliyvCXvlqnx"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-reggaecatala.html#tunnel"
+    },
+    {
+      "genreName": "rock catala",
+      "positioning": {
+        "top": 300,
+        "left": 0
+      },
+      "style": {
+        "color": "#928812",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e167bc842fc3bfd750c7cc0aa726c73f6b0c856e",
+        "title": "e.g. Gossos \"Corren\"",
+        "trackId": "05PSmIGYiyhu3h4woxunJz"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-rockcatala.html#tunnel"
+    },
+    {
+      "genreName": "ska catala",
+      "positioning": {
+        "top": 154,
+        "left": 189
+      },
+      "style": {
+        "color": "#c17c0a",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a414c4244d3890921c0c269b56c0f3e7e123a025",
+        "title": "e.g. Atzembla \"El Teu Viatge\"",
+        "trackId": "1dIw9vsylQnxm07D1bGg0S"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-skacatala.html#tunnel"
+    },
+    {
+      "genreName": "musica catalana",
+      "positioning": {
+        "top": 217,
+        "left": 144
+      },
+      "style": {
+        "color": "#a08b09",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/de3844c0b513934afef97c0b0b028994278efb15",
+        "title": "e.g. Roba Estesa \"Una Altra Ronda\"",
+        "trackId": "1I5Gy5q4FduDMYmCIKntZ9"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-musicacatalana.html#tunnel"
+    },
+    {
+      "genreName": "bulgarian pop",
+      "positioning": {
+        "top": 80,
+        "left": 270
+      },
+      "style": {
+        "color": "#b6860c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/873b564abd3d47e35a6c41764e16b1b85c95d0b9",
+        "title": "e.g. Yanitsa \"Vartelezhkata\"",
+        "trackId": "3nVOYCyx1tmmOrNO87SPoN"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-bulgarianpop.html#tunnel"
+    },
+    {
+      "genreName": "classic portuguese pop",
+      "positioning": {
+        "top": 180,
+        "left": 174
+      },
+      "style": {
+        "color": "#b28306",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd69b0680a347016b38aa669930d9929e932d2ce",
+        "title": "e.g. Broa de Mel \"O fim de uma vida a dois\"",
+        "trackId": "10fvG6zEL2bZcUZla7MzUx"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-classicportuguesepop.html#tunnel"
+    },
+    {
+      "genreName": "polish reggae",
+      "positioning": {
+        "top": 130,
+        "left": 207
+      },
+      "style": {
+        "color": "#bb7c12",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07d9cd777be69c200e0e93bf56ff61cf9f0ea523",
+        "title": "e.g. Habakuk \"Mury\"",
+        "trackId": "7qKGsLPUGRKCLKevj7dnSS"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-polishreggae.html#tunnel"
+    },
+    {
+      "genreName": "russian pop",
+      "positioning": {
+        "top": 12,
+        "left": 195
+      },
+      "style": {
+        "color": "#ba8308",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9e94096a21faab92eab886e8b06dda16aed694e",
+        "title": "e.g. Elena Temnikova \"Импульсы города\"",
+        "trackId": "62nHtpBeYC0LVKLGkq1UyK"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-russianpop.html#tunnel"
+    },
+    {
+      "genreName": "finnish dance pop",
+      "positioning": {
+        "top": 68,
+        "left": 222
+      },
+      "style": {
+        "color": "#b58505",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d71cd86a965444675ef4e25196591d638dfd238",
+        "title": "e.g. Nikke Ankara \"Rikkinäinen Prinsessa\"",
+        "trackId": "5eKpOnlRJC70PfzunR3UWO"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-finnishdancepop.html#tunnel"
+    },
+    {
+      "genreName": "deep turkish pop",
+      "positioning": {
+        "top": 93,
+        "left": 216
+      },
+      "style": {
+        "color": "#b8820c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8a3e540648ac0b817be3de813c796937c25f95a1",
+        "title": "e.g. Yeşim Erçetin \"Banane\"",
+        "trackId": "3qrEVGdufyYa4K9l1fBt5V"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-deepturkishpop.html#tunnel"
+    },
+    {
+      "genreName": "cartoni animati",
+      "positioning": {
+        "top": 105,
+        "left": 180
+      },
+      "style": {
+        "color": "#b47d14",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddc202baf231651927b775c79e63c67d02ea785a",
+        "title": "e.g. Enzo Draghi \"Lupin l'incorreggibile Lupin\"",
+        "trackId": "4P8Tlo4lrzZe2wDHWuasEY"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-cartonianimati.html#tunnel"
+    },
+    {
+      "genreName": "hungarian pop",
+      "positioning": {
+        "top": 205,
+        "left": 210
+      },
+      "style": {
+        "color": "#b47f0c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f0d89c56f1a6d4359e11ed9b0b1356c05978375",
+        "title": "e.g. Dér Heni \"Ég Veled\"",
+        "trackId": "0LFvSXQYM0Z2anlD3iqJ8x"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-hungarianpop.html#tunnel"
+    },
+    {
+      "genreName": "kavkaz",
+      "positioning": {
+        "top": 26,
+        "left": 279
+      },
+      "style": {
+        "color": "#c48009",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b174a6ce5bab7cabc95da303903b433f322612a3",
+        "title": "e.g. Азамат Пхешхов \"Роза\"",
+        "trackId": "4Go2WIMeY06Ri6NcB9Xkyt"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-kavkaz.html#tunnel"
+    },
+    {
+      "genreName": "uzbek pop",
+      "positioning": {
+        "top": 192,
+        "left": 252
+      },
+      "style": {
+        "color": "#be8204",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e03a819e50bc515ae0900db0fe0f9b1aaa33878",
+        "title": "e.g. Rayhon \"Aldandim\"",
+        "trackId": "4W08gMh4tM95kshR0byjOZ"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-uzbekpop.html#tunnel"
+    },
+    {
+      "genreName": "ska chileno",
+      "positioning": {
+        "top": 142,
+        "left": 231
+      },
+      "style": {
+        "color": "#bd7b0f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/52c0d91233d4c4f068fc93eb70824cd312daf567",
+        "title": "e.g. Santiago Rebelde \"Mardito Querer\"",
+        "trackId": "4xjdgqwKIZE4WEHmf0DiOc"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-skachileno.html#tunnel"
+    },
+    {
+      "genreName": "indonesian ska",
+      "positioning": {
+        "top": 117,
+        "left": 207
+      },
+      "style": {
+        "color": "#b8841f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4de22810897b299ea48b109d65d57ed7cd589423",
+        "title": "e.g. Sentimental Moods \"Sunny Sunday\"",
+        "trackId": "0X1lFHVpDf6zB5mBlVAnXj"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-indonesianska.html#tunnel"
+    },
+    {
+      "genreName": "russian chanson",
+      "positioning": {
+        "top": 14,
+        "left": 300
+      },
+      "style": {
+        "color": "#bc7d03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4d5ec104533a63bda5712f4b493252e0d576a151",
+        "title": "e.g. Lyubov Shepilova \"Мужики\"",
+        "trackId": "5XmrilhW55ireGG8oaDiMU"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-russianchanson.html#tunnel"
+    },
+    {
+      "genreName": "reggae uruguayo",
+      "positioning": {
+        "top": 34,
+        "left": 36
+      },
+      "style": {
+        "color": "#b38008",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b889bc8b664831b4f688fd51869a2a60687f014d",
+        "title": "e.g. Congo \"Una Piedra\"",
+        "trackId": "7GBW1B1XXYdeeDhvZEkeWg"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-reggaeuruguayo.html#tunnel"
+    },
+    {
+      "genreName": "gospel amapiano",
+      "positioning": {
+        "top": 0,
+        "left": 258
+      },
+      "style": {
+        "color": "#b78a18",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d4a0e6575c8056276f9852e48c28a3301d033b6a",
+        "title": "e.g. yoyo michael \"Suo Mé\"",
+        "trackId": "4ItJnL2F1kAyk1GFiyB8kS"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-gospelamapiano.html#tunnel"
+    },
+    {
+      "genreName": "pop argentino",
+      "positioning": {
+        "top": 168,
+        "left": 192
+      },
+      "style": {
+        "color": "#ab8b04",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53bc9a1d933c4ff4bba5201e06b6e2bb443340d6",
+        "title": "e.g. Natalie Perez \"Algo Tiene\"",
+        "trackId": "40n1j3nwbuF44QZOiKDsQ3"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-popargentino.html#tunnel"
+    }
+  ]
+}
