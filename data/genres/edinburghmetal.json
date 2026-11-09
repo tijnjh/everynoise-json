@@ -1,0 +1,1431 @@
+{
+  "schemaVersion": 3,
+  "genreName": "edinburgh metal",
+  "artists": [
+    {
+      "artistName": "Frontierer",
+      "positioning": {
+        "top": 489,
+        "left": 280
+      },
+      "style": {
+        "color": "#fa1fc5",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8be3b38cadd62c0b514d1955b79ef95d59a9510f",
+        "title": "e.g. Frontierer \"Heirloom\"",
+        "trackId": "1k7z7AfvknUlJ703fjqeRU"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=6AMqkTWbhukzRS5je3Q5qt",
+      "id": "6AMqkTWbhukzRS5je3Q5qt"
+    },
+    {
+      "artistName": "Dvne",
+      "positioning": {
+        "top": 750,
+        "left": 340
+      },
+      "style": {
+        "color": "#b270aa",
+        "fontSize": "152%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c25f3768de9ce15fbdab3320a1e5192fc281742",
+        "title": "e.g. Dvne \"Sì-XIV\"",
+        "trackId": "18np3mLcrafFVaydqTNRAV"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1isrot4GGRmnqFT2vMAa5q",
+      "id": "1isrot4GGRmnqFT2vMAa5q"
+    },
+    {
+      "artistName": "Endless Swarm",
+      "positioning": {
+        "top": 507,
+        "left": 487
+      },
+      "style": {
+        "color": "#d23680",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc02d3f2f3440fe65d2ca41228055ac04fd189e3",
+        "title": "e.g. Endless Swarm \"P.T.M.\"",
+        "trackId": "08MncikYCNnYVRILs4r4kw"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=0Mt971osfNFxZ3X6jqFwXf",
+      "id": "0Mt971osfNFxZ3X6jqFwXf"
+    },
+    {
+      "artistName": "Sapien",
+      "positioning": {
+        "top": 645,
+        "left": 1400
+      },
+      "style": {
+        "color": "#8a89a5",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/000bfbd2b65cd6eb444d4bf9cc356d68f4ea2372",
+        "title": "e.g. Sapien \"Signals\"",
+        "trackId": "5GvGPQw5ZujtkzAWpVyfDo"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=18adM5rdagK55DE4mYH4aU",
+      "id": "18adM5rdagK55DE4mYH4aU"
+    },
+    {
+      "artistName": "Sectioned",
+      "positioning": {
+        "top": 457,
+        "left": 133
+      },
+      "style": {
+        "color": "#f4398b",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f7ff91542c8f668b74a4fcec371d909711b09b3",
+        "title": "e.g. Sectioned \"Annihilated\"",
+        "trackId": "4Y4kZxbOWc0uaSp3iquN8h"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=1u7EB7U6Qs5RJK0hQJrfCn",
+      "id": "1u7EB7U6Qs5RJK0hQJrfCn"
+    },
+    {
+      "artistName": "Ramage Inc",
+      "positioning": {
+        "top": 161,
+        "left": 541
+      },
+      "style": {
+        "color": "#e6578c",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8d39ddb52bfe4d5b08d54ad5c38b974b172bbdf3",
+        "title": "e.g. Ramage Inc \"Humanity Has Failed\"",
+        "trackId": "59KRfz2jhTDNtNkF1hIrwk"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=4xB97vKL5OxLMVEG4yRYWN",
+      "id": "4xB97vKL5OxLMVEG4yRYWN"
+    },
+    {
+      "artistName": "Iron Altar",
+      "positioning": {
+        "top": 279,
+        "left": 590
+      },
+      "style": {
+        "color": "#e9587a",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eee67576e9ba58224bfbc3448d4fb0063771ab09",
+        "title": "e.g. Iron Altar \"Megalith\"",
+        "trackId": "6BK9k6g5XSiFLrjwZeDKXr"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=6MQMwkemI81wKGAR95r7I7",
+      "id": "6MQMwkemI81wKGAR95r7I7"
+    },
+    {
+      "artistName": "Dog Tired",
+      "positioning": {
+        "top": 738,
+        "left": 767
+      },
+      "style": {
+        "color": "#de5d8f",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f7361b225fee282f4238294bbe2686851f7eecd",
+        "title": "e.g. Dog Tired \"Eyes of the Divine\"",
+        "trackId": "3Y8OGYaOUoI2eTst1ISLmD"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=54hHvaP9y5oUGIZu5qg1wE",
+      "id": "54hHvaP9y5oUGIZu5qg1wE"
+    },
+    {
+      "artistName": "Holocaust",
+      "positioning": {
+        "top": 164,
+        "left": 1357
+      },
+      "style": {
+        "color": "#cd7240",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2cf559fe0eb21f85e44cc896a6b1291ab0c18bf8",
+        "title": "e.g. Holocaust \"Master of Puppets\"",
+        "trackId": "4vPH2dTgdeiAXgGbKza5l9"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=6NwP3xfmDDnxqeLsSUzaS4",
+      "id": "6NwP3xfmDDnxqeLsSUzaS4"
+    },
+    {
+      "artistName": "Tiberius",
+      "positioning": {
+        "top": 188,
+        "left": 468
+      },
+      "style": {
+        "color": "#fa3304",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b09840cb1ed7f850885bb08556e175acfcfa9c2a",
+        "title": "e.g. Tiberius \"Mechanical Messiah\"",
+        "trackId": "4APcjxD8gK3wH0Z0faDRAH"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=3Ji0rbbKLOH8B3crNuco1f",
+      "id": "3Ji0rbbKLOH8B3crNuco1f"
+    },
+    {
+      "artistName": "Perpetua",
+      "positioning": {
+        "top": 0,
+        "left": 961
+      },
+      "style": {
+        "color": "#f25d2c",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/642265fc450014726b23084bf2651ba0d8eaf0f2",
+        "title": "e.g. Perpetua \"Tethered\"",
+        "trackId": "6eIY87HXl3anvgcBUaHVy1"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=4EN0tUv2w7B5Vm7zSSnx7i",
+      "id": "4EN0tUv2w7B5Vm7zSSnx7i"
+    },
+    {
+      "artistName": "KING WITCH",
+      "positioning": {
+        "top": 736,
+        "left": 590
+      },
+      "style": {
+        "color": "#d26963",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e741cf2cec7c4014e92ea8c6073004aa3baa319",
+        "title": "e.g. KING WITCH \"Of Rock and Stone\"",
+        "trackId": "6Vdj79gYqvcoxQfLXrqBnW"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=43YKLzHi1rFSnS0mCX4ujp",
+      "id": "43YKLzHi1rFSnS0mCX4ujp"
+    },
+    {
+      "artistName": "A Ritual Spirit",
+      "positioning": {
+        "top": 134,
+        "left": 1217
+      },
+      "style": {
+        "color": "#db620e",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/133a206b091c528ce9d6e88740bd29df9c8491dc",
+        "title": "e.g. A Ritual Spirit \"Revolutionary\"",
+        "trackId": "1dqg80gcXs7h0CFYcoqIWP"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=3Qw5peDbETYbhn3nSIalkF",
+      "id": "3Qw5peDbETYbhn3nSIalkF"
+    },
+    {
+      "artistName": "Vantage Point",
+      "positioning": {
+        "top": 251,
+        "left": 1089
+      },
+      "style": {
+        "color": "#d85b15",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f7a84adc845c57330eec28ccf18dccfcfda0395",
+        "title": "e.g. Vantage Point \"24 Hours of Freedom\"",
+        "trackId": "5hokzj6dARUE9uXSkXV6Uy"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=7tol02E2aAs5bNJR7XiolS",
+      "id": "7tol02E2aAs5bNJR7XiolS"
+    },
+    {
+      "artistName": "Hair of the Dog",
+      "positioning": {
+        "top": 708,
+        "left": 846
+      },
+      "style": {
+        "color": "#b96d5b",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b9bb95fe278d7ca30ac7c4b7a219245a534d858",
+        "title": "e.g. Hair of the Dog \"Weary Bones\"",
+        "trackId": "3AVAytUJUf7dGCfj6Vrs6M"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4BZ4J0nuj7ySq4RAohcrBe",
+      "id": "4BZ4J0nuj7ySq4RAohcrBe"
+    },
+    {
+      "artistName": "Scumpulse",
+      "positioning": {
+        "top": 224,
+        "left": 97
+      },
+      "style": {
+        "color": "#d05dd0",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/62b9e9f1888a37687e7db441ad93aa22d60ecef5",
+        "title": "e.g. Scumpulse \"Alba Gu Bràth\"",
+        "trackId": "4hFcUVvaIeDv1eg8uK6zfX"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=7jyafuRMRDMuCbIfNfDjDK",
+      "id": "7jyafuRMRDMuCbIfNfDjDK"
+    },
+    {
+      "artistName": "Disposable",
+      "positioning": {
+        "top": 413,
+        "left": 505
+      },
+      "style": {
+        "color": "#f43832",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cd14d4a43b6b86144e71388f41ca60ad7cee613",
+        "title": "e.g. Disposable \"Introverted Cross\"",
+        "trackId": "1YwlkPI40IzmpCZR7N9ex8"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3tgFHdkrLgt3ZTi43YdTTV",
+      "id": "3tgFHdkrLgt3ZTi43YdTTV"
+    },
+    {
+      "artistName": "Juniper Grave",
+      "positioning": {
+        "top": 712,
+        "left": 535
+      },
+      "style": {
+        "color": "#c36318",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/136bd1be7331ad96ec436ad388129d013a0c59d6",
+        "title": "e.g. Juniper Grave \"The Forest\"",
+        "trackId": "4NlTZZpfYA4cACFtOS9Lsa"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=3bIPYIeFY6kCRMxHngELQd",
+      "id": "3bIPYIeFY6kCRMxHngELQd"
+    },
+    {
+      "artistName": "Bròn",
+      "positioning": {
+        "top": 501,
+        "left": 5
+      },
+      "style": {
+        "color": "#be72c3",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=2FbYG178TwkuB6EABbyFxg",
+      "id": "2FbYG178TwkuB6EABbyFxg"
+    },
+    {
+      "artistName": "Haar",
+      "positioning": {
+        "top": 647,
+        "left": 200
+      },
+      "style": {
+        "color": "#db477e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f0ba9d894710c2e221d8dd870a45d711c09069c0",
+        "title": "e.g. Haar \"The Anticipated Fist of Gelid Trauma\"",
+        "trackId": "0V9pEPp9BSCVhIgBluvHIr"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=7I2P0hebiHezTP9wYmP45k",
+      "id": "7I2P0hebiHezTP9wYmP45k"
+    },
+    {
+      "artistName": "Farseer",
+      "positioning": {
+        "top": 247,
+        "left": 566
+      },
+      "style": {
+        "color": "#e14b06",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0f8d061b05516a8c1b16132b6535579938553427",
+        "title": "e.g. Farseer \"Luck of the Joker\"",
+        "trackId": "27udnRS6qf9PBVYwGDZtzJ"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=5yTMuavtSJSm79mchHWoRw",
+      "id": "5yTMuavtSJSm79mchHWoRw"
+    },
+    {
+      "artistName": "Cancerous Womb",
+      "positioning": {
+        "top": 465,
+        "left": 547
+      },
+      "style": {
+        "color": "#f038d4",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/478ff46dc5a34aca93d258775b635fb1c4d702c9",
+        "title": "e.g. Cancerous Womb \"Up To My Nuts In Guts\"",
+        "trackId": "6RFyUTZJQjdbR0Flk7Db7g"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=0bQ6GU2p5SwW0S7letfIDX",
+      "id": "0bQ6GU2p5SwW0S7letfIDX"
+    },
+    {
+      "artistName": "Black Talon",
+      "positioning": {
+        "top": 543,
+        "left": 523
+      },
+      "style": {
+        "color": "#fb1515",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a17eecbd6213139b89d8334ab005f32bff6da9d4",
+        "title": "e.g. Black Talon \"Existential Crisis\"",
+        "trackId": "1w7ZDv0sSeiwXEMSE3wnRc"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=21fv1CtVV0VPLGkdcIDnv2",
+      "id": "21fv1CtVV0VPLGkdcIDnv2"
+    },
+    {
+      "artistName": "Engines of Vengeance",
+      "positioning": {
+        "top": 567,
+        "left": 797
+      },
+      "style": {
+        "color": "#e74301",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd8bafc75eca12094300fc0bdf680d442229e745",
+        "title": "e.g. Engines of Vengeance \"The Dead Stay Dead\"",
+        "trackId": "3TRTwLcOGo4rIFguFfFk5O"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=6CPFaAydj82DzhJvPuPdjF",
+      "id": "6CPFaAydj82DzhJvPuPdjF"
+    },
+    {
+      "artistName": "Death Kommander",
+      "positioning": {
+        "top": 20,
+        "left": 231
+      },
+      "style": {
+        "color": "#ed248a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78f520feff796af49db35785bc4aa5b111a87d8f",
+        "title": "e.g. Death Kommander \"Shock Trooper\"",
+        "trackId": "0heUGYPG9S5cmSWNp6RBPo"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=4h9V74ckvSDSqNBmd8dfQV",
+      "id": "4h9V74ckvSDSqNBmd8dfQV"
+    },
+    {
+      "artistName": "Firebrand Super Rock",
+      "positioning": {
+        "top": 333,
+        "left": 712
+      },
+      "style": {
+        "color": "#e35619",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ac548b519cd21cf44d36c78a2db844cb6e2cebd",
+        "title": "e.g. Firebrand Super Rock \"Into The Black\"",
+        "trackId": "779YERwwbh9Xfs10m9mZlC"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=7pDyXH1bef0pNuD6xZrzwd",
+      "id": "7pDyXH1bef0pNuD6xZrzwd"
+    },
+    {
+      "artistName": "Somaesthesia",
+      "positioning": {
+        "top": 471,
+        "left": 450
+      },
+      "style": {
+        "color": "#c46382",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/de92d651af527ebd92dacf292ea0d0a4ee3415e4",
+        "title": "e.g. Somaesthesia \"Somaesthesia\"",
+        "trackId": "6W6V7MN5IShNQ0hMKR4gqM"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=2aDVIXEtT1PY2znQv8V6P7",
+      "id": "2aDVIXEtT1PY2znQv8V6P7"
+    },
+    {
+      "artistName": "Lords Of Bastard",
+      "positioning": {
+        "top": 643,
+        "left": 560
+      },
+      "style": {
+        "color": "#a973d7",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ab8857045262c128db0c9d868d3c376d6aa6eca",
+        "title": "e.g. Lords Of Bastard \"Off With Their Heads\"",
+        "trackId": "5T7U3N3QhHarVyWh21Upei"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=0T2w9TtIzd6AfKtVQdvJYz",
+      "id": "0T2w9TtIzd6AfKtVQdvJYz"
+    },
+    {
+      "artistName": "Atragon",
+      "positioning": {
+        "top": 718,
+        "left": 0
+      },
+      "style": {
+        "color": "#a17c42",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/62d9529f00996991c5088194e15f79423f5d3ab9",
+        "title": "e.g. Atragon \"I, Necromancer\"",
+        "trackId": "6YFpYYBnLQDxF2S8E95ab2"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=2VAX9qOzV2cCXGvsg3ELvO",
+      "id": "2VAX9qOzV2cCXGvsg3ELvO"
+    },
+    {
+      "artistName": "Ifreann",
+      "positioning": {
+        "top": 120,
+        "left": 1144
+      },
+      "style": {
+        "color": "#fa4c1b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/420b12a1fb9459b6699984efc9f3e561f9038074",
+        "title": "e.g. Ifreann \"Of Blade & Blackened Wing\"",
+        "trackId": "0azrok8dyS1LslxVhQwiXV"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1TDzNVvdgyyiLzjR90PvWb",
+      "id": "1TDzNVvdgyyiLzjR90PvWb"
+    },
+    {
+      "artistName": "The Tyrant Lizard Kings",
+      "positioning": {
+        "top": 607,
+        "left": 578
+      },
+      "style": {
+        "color": "#c77193",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd8e6220675fddf7eee5aecc0e9d028892f4aea4",
+        "title": "e.g. The Tyrant Lizard Kings \"Yippee-Ki-Yay Motherfucker\"",
+        "trackId": "3VsHs6SJPlD3vtyWoCM65V"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=005A36KboUZ12FJMpO9GwF",
+      "id": "005A36KboUZ12FJMpO9GwF"
+    },
+    {
+      "artistName": "Dolour",
+      "positioning": {
+        "top": 637,
+        "left": 273
+      },
+      "style": {
+        "color": "#d177e3",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66cd9892afe94bedd5047d363863a5525d1fb5a5",
+        "title": "e.g. Dolour \"Penitence (Through Physical Pain)\"",
+        "trackId": "35eMPJH4pSx5pmn6aH5PvP"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=0i3J22SciHuiUgg4qfQmgJ",
+      "id": "0i3J22SciHuiUgg4qfQmgJ"
+    },
+    {
+      "artistName": "Tommy Concrete and the Werewolves",
+      "positioning": {
+        "top": 529,
+        "left": 633
+      },
+      "style": {
+        "color": "#c562a7",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acb8064e43a0def22dfa2ad2060e17035a803db2",
+        "title": "e.g. Tommy Concrete and the Werewolves \"Fucked by Werewolves\"",
+        "trackId": "480I9wfQsHGiBNxQv0pmIx"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=5ZJjeI43EpNsIxemNR6rxt",
+      "id": "5ZJjeI43EpNsIxemNR6rxt"
+    },
+    {
+      "artistName": "Zillah",
+      "positioning": {
+        "top": 553,
+        "left": 1010
+      },
+      "style": {
+        "color": "#eb3543",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6387463c5ebc004248552e00495c762d26cb1f9b",
+        "title": "e.g. Zillah \"Defy the Fragile\"",
+        "trackId": "4GBpeARG3wEEARh47DFAff"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=7ydsmvdlsrJEQbNJK2bWBU",
+      "id": "7ydsmvdlsrJEQbNJK2bWBU"
+    },
+    {
+      "artistName": "Desolate Dreams",
+      "positioning": {
+        "top": 345,
+        "left": 651
+      },
+      "style": {
+        "color": "#c878b2",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4666f85875d0d24f470e7e14e767fb12496b5ce4",
+        "title": "e.g. Desolate Dreams \"Inherit the Earth\"",
+        "trackId": "07BlDGJmK3Bv0ItWUbvqjw"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=6F0aOXEA3zNHb1x8XvLmOX",
+      "id": "6F0aOXEA3zNHb1x8XvLmOX"
+    },
+    {
+      "artistName": "Of Spire & Throne",
+      "positioning": {
+        "top": 900,
+        "left": 389
+      },
+      "style": {
+        "color": "#5d8ac8",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ac3892bc68008a383ed7ca82761702bb5785f06c",
+        "title": "e.g. Of Spire & Throne \"Legacy\"",
+        "trackId": "7JiRxFqYe3cH3gaPULewik"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=3JRarySIprbGcDgkBuAG1a",
+      "id": "3JRarySIprbGcDgkBuAG1a"
+    },
+    {
+      "artistName": "Tidings",
+      "positioning": {
+        "top": 649,
+        "left": 773
+      },
+      "style": {
+        "color": "#8e90ca",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0a5e12932f9079024f6e997ee6068363694858a2",
+        "title": "e.g. Tidings \"On His Wings Hung Regret and Remorse\"",
+        "trackId": "63yV7wmfydWtwz0XBzUmKW"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=7oE8XdIhn2jPZmX2cYOJ3D",
+      "id": "7oE8XdIhn2jPZmX2cYOJ3D"
+    },
+    {
+      "artistName": "Catharist",
+      "positioning": {
+        "top": 231,
+        "left": 578
+      },
+      "style": {
+        "color": "#e44b74",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/805f52f27929ece4b57de1c4fb0cde380e6c5d33",
+        "title": "e.g. Catharist \"Tarzan Boy - Instrumental Version\"",
+        "trackId": "2ZRaNiRNeaG6LuTwPRuiQN"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=0c1H6X3Sp5KK9oEikQUnLK",
+      "id": "0c1H6X3Sp5KK9oEikQUnLK"
+    },
+    {
+      "artistName": "Glass City",
+      "positioning": {
+        "top": 563,
+        "left": 602
+      },
+      "style": {
+        "color": "#ac6772",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ceaa751e3ba87663143eff7f99b9b66ffa69bf97",
+        "title": "e.g. Glass City \"Arcarsenal\"",
+        "trackId": "1ozI92fU9GOWhTwTP3r62A"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=7g3DCMexElhJMLRJ8VrwJX",
+      "id": "7g3DCMexElhJMLRJ8VrwJX"
+    },
+    {
+      "artistName": "Anomos",
+      "positioning": {
+        "top": 445,
+        "left": 535
+      },
+      "style": {
+        "color": "#f243c2",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84a6f186cb3cb3a98d64439dd90c06d02fc4818f",
+        "title": "e.g. Anomos \"The Cult Of Pandora\"",
+        "trackId": "7zBKwc52OHEI7jSYLtGeL4"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=6CNxNImAUeVctUQq1Rgr6b",
+      "id": "6CNxNImAUeVctUQq1Rgr6b"
+    },
+    {
+      "artistName": "Gareeda",
+      "positioning": {
+        "top": 686,
+        "left": 931
+      },
+      "style": {
+        "color": "#c86b7c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f624ba0b52e11fac165e3e6d3251c168218deea4",
+        "title": "e.g. Gareeda \"Arkham Vale\"",
+        "trackId": "5mfU8IseheX331L09qFkS4"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=5hBrehVGefhOXyD2052gyM",
+      "id": "5hBrehVGefhOXyD2052gyM"
+    },
+    {
+      "artistName": "Abandoned Stars",
+      "positioning": {
+        "top": 208,
+        "left": 858
+      },
+      "style": {
+        "color": "#dc5c41",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/da0eb122454b865902e7c5bffbdd886fba6d9211",
+        "title": "e.g. Abandoned Stars \"Betrayed By Blood\"",
+        "trackId": "1WX3C1r7DLFwlCTNroT2Qs"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=2erZaBtn8MSxA4lOIYRbge",
+      "id": "2erZaBtn8MSxA4lOIYRbge"
+    },
+    {
+      "artistName": "Tower of Flies",
+      "positioning": {
+        "top": 148,
+        "left": 517
+      },
+      "style": {
+        "color": "#d470cb",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e08020ddc3951c2f9dc8d550c820ea2ccec6f00e",
+        "title": "e.g. Tower of Flies \"Throne of Chainsaws\"",
+        "trackId": "2dwzcXj3pQ2He4Qh4xOIjD"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=5EkmBAQAk0Bkb9exdOQ6V7",
+      "id": "5EkmBAQAk0Bkb9exdOQ6V7"
+    },
+    {
+      "artistName": "Eve, The Betrayer",
+      "positioning": {
+        "top": 358,
+        "left": 706
+      },
+      "style": {
+        "color": "#e44f3a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a4402e09b03b6ae87901df2358628589387b95e",
+        "title": "e.g. Eve, The Betrayer \"Animus\"",
+        "trackId": "2cwjK11dF7HpJ6hfdfqP2C"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=3HXtbWL3cZaBm0siEX8sjG",
+      "id": "3HXtbWL3cZaBm0siEX8sjG"
+    },
+    {
+      "artistName": "God Damn Brewery",
+      "positioning": {
+        "top": 696,
+        "left": 773
+      },
+      "style": {
+        "color": "#d853ce",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/79ce534bbc5bfd26b425e08c5b01e5aa2feef1dd",
+        "title": "e.g. God Damn Brewery \"Forty Five Beers\"",
+        "trackId": "503u9htXREu6jeua2UFWBg"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=3Zp0reQVlhf52yFKhlTxsQ",
+      "id": "3Zp0reQVlhf52yFKhlTxsQ"
+    },
+    {
+      "artistName": "Anaxor",
+      "positioning": {
+        "top": 724,
+        "left": 359
+      },
+      "style": {
+        "color": "#ea5505",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2973f84e4b77c1d0dbeec4bed7daaadb7cdb27cd",
+        "title": "e.g. Anaxor \"Tale of the Hammeraxe\"",
+        "trackId": "5KGh7a8xpmYvKqMjPzeYU0"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=44rFSpZZTxym6XOUCuBLhI",
+      "id": "44rFSpZZTxym6XOUCuBLhI"
+    },
+    {
+      "artistName": "Danny, Champion of Nothing",
+      "positioning": {
+        "top": 756,
+        "left": 974
+      },
+      "style": {
+        "color": "#99758e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c84667ddeb3321d8d16dcf7a0522195d965bb3b3",
+        "title": "e.g. Danny, Champion of Nothing \"Hawthorn Ridge\"",
+        "trackId": "5DrrJVSiJGLkTReNI58YEL"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=3JI9Fijl6kWx3eaia1D8TY",
+      "id": "3JI9Fijl6kWx3eaia1D8TY"
+    },
+    {
+      "artistName": "Immanis",
+      "positioning": {
+        "top": 505,
+        "left": 913
+      },
+      "style": {
+        "color": "#e33c85",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/676ce362beb68646452ecbf0d9b12d7996ce6929",
+        "title": "e.g. Immanis \"Thirteen\"",
+        "trackId": "424flqU9kEL4ZmCgKrgTpy"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=1Vc3ejNPCZJqFt6aqtfJ1K",
+      "id": "1Vc3ejNPCZJqFt6aqtfJ1K"
+    },
+    {
+      "artistName": "Doubts Cast Shadows",
+      "positioning": {
+        "top": 595,
+        "left": 742
+      },
+      "style": {
+        "color": "#d25303",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7a353ddc6f9c62fa4fef4b05616d3eb8b67a07d7",
+        "title": "e.g. Doubts Cast Shadows \"Painted Picture\"",
+        "trackId": "3O3EfFvbthAc64eUo2zcfR"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=1XgVXBxBMt1vyOzkvfC1lL",
+      "id": "1XgVXBxBMt1vyOzkvfC1lL"
+    },
+    {
+      "artistName": "Demonic Obedience",
+      "positioning": {
+        "top": 138,
+        "left": 249
+      },
+      "style": {
+        "color": "#f55cd6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3654a69d165559e32be2554083220d94d2449c7",
+        "title": "e.g. Demonic Obedience \"Conjuration\"",
+        "trackId": "6VrRanmu49ULHxxfkI8SjW"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=3QMQjzwhgLqbXV2WUCtEM8",
+      "id": "3QMQjzwhgLqbXV2WUCtEM8"
+    },
+    {
+      "artistName": "Denomolos",
+      "positioning": {
+        "top": 305,
+        "left": 590
+      },
+      "style": {
+        "color": "#f05f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db47f416e738c015386eb97ba2b1f310a17b52e1",
+        "title": "e.g. Denomolos \"Led by Hand\"",
+        "trackId": "0SNsVG9iPhjhKRDCAICewM"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=2D8vsYtoiloSwn7g3X5wtL",
+      "id": "2D8vsYtoiloSwn7g3X5wtL"
+    },
+    {
+      "artistName": "Runemaster",
+      "positioning": {
+        "top": 724,
+        "left": 608
+      },
+      "style": {
+        "color": "#e14c70",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ac4acd1a080f56bd174f26e113cfae0b32a2bc1",
+        "title": "e.g. Runemaster \"Hagalaz\"",
+        "trackId": "1GmuWrpjATkpPP2HxOt09r"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=1R94WBPVfJiR4CGAGSJ7Np",
+      "id": "1R94WBPVfJiR4CGAGSJ7Np"
+    },
+    {
+      "artistName": "Úir",
+      "positioning": {
+        "top": 381,
+        "left": 304
+      },
+      "style": {
+        "color": "#ef40e9",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59e8e116a209ebf33d7586e1d2138b51af41b720",
+        "title": "e.g. Úir \"Duinbrunde\"",
+        "trackId": "4HCdisUWcgVN2B00kB7uV2"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=7Bnkpsc9V0MJzStjLhQDft",
+      "id": "7Bnkpsc9V0MJzStjLhQDft"
+    },
+    {
+      "artistName": "Bitter Lake",
+      "positioning": {
+        "top": 762,
+        "left": 16
+      },
+      "style": {
+        "color": "#a24be3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/88c7a3d3b4b6a625bb815fba5f6a24f2ec25139b",
+        "title": "e.g. Bitter Lake \"Siberia\"",
+        "trackId": "7xAJU4QGcVieMJAmhPxVCh"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=6xnT8JF1HEgbTPtPZQVUV4",
+      "id": "6xnT8JF1HEgbTPtPZQVUV4"
+    },
+    {
+      "artistName": "Psychotic Depression",
+      "positioning": {
+        "top": 589,
+        "left": 1260
+      },
+      "style": {
+        "color": "#a9616f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=0VREKWM0zUFHG6SokCLFef",
+      "id": "0VREKWM0zUFHG6SokCLFef"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=edinburgh%20metal"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/6g2ys3gdIubcz7auNWTC5l"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=edinburgh%20metal"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "scottish metal",
+      "positioning": {
+        "top": 0,
+        "left": 180
+      },
+      "style": {
+        "color": "#de5448",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99501090b3d54b8223e3306e1079f7f46017cb36",
+        "title": "e.g. Bleed From Within \"The End of All We Know\"",
+        "trackId": "68ae1LwQdpHhYwPrz7rTdl"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-scottishmetal.html#tunnel"
+    },
+    {
+      "genreName": "utah metal",
+      "positioning": {
+        "top": 291,
+        "left": 167
+      },
+      "style": {
+        "color": "#d25c66",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1deee64a201504f11d34a54ecb92a0f297419af",
+        "title": "e.g. Visigoth \"Dungeon Master\"",
+        "trackId": "48m9uy3iM1YPt9QIuqMchF"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-utahmetal.html#tunnel"
+    },
+    {
+      "genreName": "tennessee metal",
+      "positioning": {
+        "top": 207,
+        "left": 153
+      },
+      "style": {
+        "color": "#d55366",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/377266d426c3911b03f7767b73cb7b8c1a387429",
+        "title": "e.g. Whitechapel \"The Saw Is the Law\"",
+        "trackId": "6rLEeo9rNT87t2xHry8xUl"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-tennesseemetal.html#tunnel"
+    },
+    {
+      "genreName": "new england metal",
+      "positioning": {
+        "top": 278,
+        "left": 140
+      },
+      "style": {
+        "color": "#da4e6c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/412160a8245fd35d516a2ab5c3ca4ef670506355",
+        "title": "e.g. Revocation \"Enter the Hall\"",
+        "trackId": "20aCHltA0fUvnd1cADm13j"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-newenglandmetal.html#tunnel"
+    },
+    {
+      "genreName": "austin metal",
+      "positioning": {
+        "top": 163,
+        "left": 160
+      },
+      "style": {
+        "color": "#d95460",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/283219d6ffcab71b5d25d0e4e41086af981c13d9",
+        "title": "e.g. The High Cost of Playing God \"Judge. Jury. Executioner.\"",
+        "trackId": "0cPXVvXhFwqTnskHFtDMZ4"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-austinmetal.html#tunnel"
+    },
+    {
+      "genreName": "boston metal",
+      "positioning": {
+        "top": 266,
+        "left": 47
+      },
+      "style": {
+        "color": "#d75057",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a723deb644338717f2180129e45e3382c1131676",
+        "title": "e.g. Killswitch Engage \"My Curse\"",
+        "trackId": "6zKF4293k44ItKWJJgrhXv"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-bostonmetal.html#tunnel"
+    },
+    {
+      "genreName": "kentucky metal",
+      "positioning": {
+        "top": 316,
+        "left": 207
+      },
+      "style": {
+        "color": "#d1535d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d98df251e113cebd483aacb1106074dd0c0e621d",
+        "title": "e.g. ISOLATOR \"Cutting Teeth\"",
+        "trackId": "4FPbvrRAbAl1uxuK2G98Zc"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-kentuckymetal.html#tunnel"
+    },
+    {
+      "genreName": "icelandic metal",
+      "positioning": {
+        "top": 253,
+        "left": 87
+      },
+      "style": {
+        "color": "#ca5c61",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4bc40f4c493297bd6dbda71f9040d0dd4325a2c1",
+        "title": "e.g. Misþyrming \"Hælið\"",
+        "trackId": "7h9Vtbws7PZsCKAYBkxSwL"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-icelandicmetal.html#tunnel"
+    },
+    {
+      "genreName": "seattle metal",
+      "positioning": {
+        "top": 300,
+        "left": 7
+      },
+      "style": {
+        "color": "#d45669",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7eeb346a88cfc64887023d92b61197c60d414690",
+        "title": "e.g. Big Business \"Chump Chance\"",
+        "trackId": "2748v8CnwHyDainyfxuVVA"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-seattlemetal.html#tunnel"
+    },
+    {
+      "genreName": "arkansas metal",
+      "positioning": {
+        "top": 303,
+        "left": 153
+      },
+      "style": {
+        "color": "#cc5b56",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a556657339c2ed3e4e71eed08c084d34422a2e29",
+        "title": "e.g. Pallbearer \"I Saw the End\"",
+        "trackId": "2SV69wiCCKzoFLDs6NWM5N"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-arkansasmetal.html#tunnel"
+    },
+    {
+      "genreName": "north carolina metal",
+      "positioning": {
+        "top": 253,
+        "left": 220
+      },
+      "style": {
+        "color": "#d05953",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3713c622594a7911d85533ebdd45be79ee14e197",
+        "title": "e.g. Corrosion Of Conformity \"Clean My Wounds\"",
+        "trackId": "6g48vpikqU2atsrDXdGzKo"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-northcarolinametal.html#tunnel"
+    },
+    {
+      "genreName": "minneapolis metal",
+      "positioning": {
+        "top": 139,
+        "left": 33
+      },
+      "style": {
+        "color": "#d7505e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/976132d5ffc92090ec8dccc82988b98e556b70f5",
+        "title": "e.g. After The Burial \"Lost In The Static\"",
+        "trackId": "7zKoAeplPMS3bcqIZ4crp4"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-minneapolismetal.html#tunnel"
+    },
+    {
+      "genreName": "metal paranaense",
+      "positioning": {
+        "top": 178,
+        "left": 220
+      },
+      "style": {
+        "color": "#d9505c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63f6e3c11499f79d6b70b42ef65c4009e8f5efba",
+        "title": "e.g. Semblant \"What Lies Ahead\"",
+        "trackId": "0r1z4x797gTR4lf6z6UkXR"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-metalparanaense.html#tunnel"
+    },
+    {
+      "genreName": "birmingham metal",
+      "positioning": {
+        "top": 266,
+        "left": 140
+      },
+      "style": {
+        "color": "#d14d4c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/65f7a628ea029b7ca78825f3d050619f28fe043b",
+        "title": "e.g. Memoriam \"Undefeated\"",
+        "trackId": "3fh241Vermb9OusRhK8IEm"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-birminghammetal.html#tunnel"
+    },
+    {
+      "genreName": "west virginia metal",
+      "positioning": {
+        "top": 266,
+        "left": 280
+      },
+      "style": {
+        "color": "#d55f6f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07be36b697810f32265693ce26825d02a4f1fbd5",
+        "title": "e.g. Zao \"Lies Of Serpents, A River Of Tears\"",
+        "trackId": "0rZafkLnrcAFbVTrMo2NIl"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-westvirginiametal.html#tunnel"
+    },
+    {
+      "genreName": "irish metal",
+      "positioning": {
+        "top": 163,
+        "left": 7
+      },
+      "style": {
+        "color": "#cf565a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a656526d15fb6347c2a272910ed242255b52ed7e",
+        "title": "e.g. Ten Ton Slug \"Matriarch of Slime\"",
+        "trackId": "2LaqAG5yaeIADkmzZQLz9b"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-irishmetal.html#tunnel"
+    },
+    {
+      "genreName": "belgian metal",
+      "positioning": {
+        "top": 151,
+        "left": 73
+      },
+      "style": {
+        "color": "#db5059",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/102295f7c5e91caf2da6f8300e6c841a19cec97b",
+        "title": "e.g. STAKE \"Dickhead\"",
+        "trackId": "34uwL0ulkK25wNFeilwXYa"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-belgianmetal.html#tunnel"
+    },
+    {
+      "genreName": "minnesota metal",
+      "positioning": {
+        "top": 180,
+        "left": 0
+      },
+      "style": {
+        "color": "#d64f74",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae8ab95b166681523bea9d50d5640da20e1bc96c",
+        "title": "e.g. Sentenced 2 Die \"Desecrated Tombstones\"",
+        "trackId": "5tAPrkNPCWrUSd7NwwOjA3"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-minnesotametal.html#tunnel"
+    },
+    {
+      "genreName": "uk noise rock",
+      "positioning": {
+        "top": 278,
+        "left": 300
+      },
+      "style": {
+        "color": "#c85483",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d129a64c87087b7da38b43ba78dd197f9ebfa7fd",
+        "title": "e.g. USA Nails \"Feel Worse\"",
+        "trackId": "6LVlE83FazWk11sNVZ5NdX"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-uknoiserock.html#tunnel"
+    },
+    {
+      "genreName": "swedish metal",
+      "positioning": {
+        "top": 124,
+        "left": 7
+      },
+      "style": {
+        "color": "#d9515e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b50626139688fb2d89577134403b88f96607c41d",
+        "title": "e.g. Necrophobic \"Black Moon Rising\"",
+        "trackId": "07joZaONeftWMUyrXi7F7a"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-swedishmetal.html#tunnel"
+    }
+  ]
+}

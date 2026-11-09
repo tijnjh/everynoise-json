@@ -1,0 +1,983 @@
+{
+  "schemaVersion": 3,
+  "genreName": "guqin",
+  "artists": [
+    {
+      "artistName": "Shuishan Yu",
+      "positioning": {
+        "top": 411,
+        "left": 904
+      },
+      "style": {
+        "color": "#12a56e",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9316cd99c296ebe37573b5da141f4be6a9fbd08f",
+        "title": "e.g. Shuishan Yu \"Drunken Madness\"",
+        "trackId": "3oxCt6TcX0HGrnw8mq1DvO"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=3KFgQlbyLDvXu8wZ5yDEhS",
+      "id": "3KFgQlbyLDvXu8wZ5yDEhS"
+    },
+    {
+      "artistName": "任静",
+      "positioning": {
+        "top": 350,
+        "left": 1005
+      },
+      "style": {
+        "color": "#139754",
+        "fontSize": "136%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19731fc2a98ba95c5cc74aa56f2b7030db33d278",
+        "title": "e.g. 任静 \"庄周梦蝶「唐开元督龙琴」\"",
+        "trackId": "3ANQNYKbqKqq88jjxI44kp"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=6x1DaRqI7KQyt4JfCvFqlc",
+      "id": "6x1DaRqI7KQyt4JfCvFqlc"
+    },
+    {
+      "artistName": "蘇思棣 (Sou Si-tai)",
+      "positioning": {
+        "top": 507,
+        "left": 726
+      },
+      "style": {
+        "color": "#02aa4a",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=4vMrsBTs5OI7hhnG14KgsO",
+      "id": "4vMrsBTs5OI7hhnG14KgsO"
+    },
+    {
+      "artistName": "Zeng Chengwei",
+      "positioning": {
+        "top": 652,
+        "left": 497
+      },
+      "style": {
+        "color": "#28a072",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ffc7d28eac2f188ec3f92e56226b1b0699802ff9",
+        "title": "e.g. Zeng Chengwei \"Peach Orchard\"",
+        "trackId": "69csqe4BlIOA8FD3m5ybtr"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=6jMjIrnQO8BaCTJrYJE0jC",
+      "id": "6jMjIrnQO8BaCTJrYJE0jC"
+    },
+    {
+      "artistName": "李祥霆 Li Xiangting",
+      "positioning": {
+        "top": 670,
+        "left": 813
+      },
+      "style": {
+        "color": "#0ea741",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b2d7ca22d6c63cb249e4643ddded8b11d6ea8e8d",
+        "title": "e.g. 李祥霆 Li Xiangting \"普庵咒 Puan Zhou\"",
+        "trackId": "3kTShu0StPsE5FTuKODZN0"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=3qm7FKiTwo6fpP0v6Wrx6j",
+      "id": "3qm7FKiTwo6fpP0v6Wrx6j"
+    },
+    {
+      "artistName": "Ruan Ji",
+      "positioning": {
+        "top": 387,
+        "left": 112
+      },
+      "style": {
+        "color": "#06b1f0",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=1EnLvW1xdkeZ4OIX9bhxDf",
+      "id": "1EnLvW1xdkeZ4OIX9bhxDf"
+    },
+    {
+      "artistName": "Guan Pinghu",
+      "positioning": {
+        "top": 568,
+        "left": 842
+      },
+      "style": {
+        "color": "#438ec0",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b06223654896e5ae257e5333b06acdd8b6f4c6a6",
+        "title": "e.g. Guan Pinghu \"Flowing Water (Liu Shui)\"",
+        "trackId": "71GtnfJ016TnCzYz5H5KbN"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=6P0CnNvFO9ttHurhRVWfnU",
+      "id": "6P0CnNvFO9ttHurhRVWfnU"
+    },
+    {
+      "artistName": "蔡德允",
+      "positioning": {
+        "top": 652,
+        "left": 1074
+      },
+      "style": {
+        "color": "#238bb1",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16e7e80fe20d6d26649787cd46a483072bb26a62",
+        "title": "e.g. 蔡德允 \"梅花三弄\"",
+        "trackId": "4SEQ5oUax4ZiOy8KVGabpU"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=6PXrSCN5YM4WvcQsNZjBqw",
+      "id": "6PXrSCN5YM4WvcQsNZjBqw"
+    },
+    {
+      "artistName": "Wu Jinglue",
+      "positioning": {
+        "top": 791,
+        "left": 486
+      },
+      "style": {
+        "color": "#0faaa0",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3dec14907c58e7fbc1796d959d5c83329cb59ba",
+        "title": "e.g. Wu Jinglue \"Chat Between A Fisherman And A Woodcutter\"",
+        "trackId": "3iL9Vktt4kb9rNx6PitM2T"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=041bc9EtBuYjjVzCyaN4XA",
+      "id": "041bc9EtBuYjjVzCyaN4XA"
+    },
+    {
+      "artistName": "Yao Bingyan",
+      "positioning": {
+        "top": 719,
+        "left": 1223
+      },
+      "style": {
+        "color": "#13a4e7",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e8174adc7ee203c6f6618c70cdcf46c8c756911b",
+        "title": "e.g. Yao Bingyan \"A Feigned Drunkard (Jiu Kuang)\"",
+        "trackId": "2hN7O0SJriT4d3e2Su3sxX"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=2GiCstSoILG3hKlopaCfME",
+      "id": "2GiCstSoILG3hKlopaCfME"
+    },
+    {
+      "artistName": "Zhao Jiazhen",
+      "positioning": {
+        "top": 121,
+        "left": 17
+      },
+      "style": {
+        "color": "#2da37f",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ad36c4ffa83042c3192c69505a17e636c839e6b",
+        "title": "e.g. Zhao Jiazhen \"Plum Blossom Melody - Three Variations\"",
+        "trackId": "7KCDLNNVJapVIY85kyMwwy"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=7G3NKQfEdMWbvAPQGxBjYR",
+      "id": "7G3NKQfEdMWbvAPQGxBjYR"
+    },
+    {
+      "artistName": "袁中平",
+      "positioning": {
+        "top": 272,
+        "left": 697
+      },
+      "style": {
+        "color": "#1a9b2c",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/525eae2ec206ebe661584c1e9ac0e931569b1354",
+        "title": "e.g. 袁中平 \"梅花三弄\"",
+        "trackId": "3BiuzGSiQ5ixZYeLEyddU5"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=71GHt28llAdedN7r6Nw6iM",
+      "id": "71GHt28llAdedN7r6Nw6iM"
+    },
+    {
+      "artistName": "Gong Yi",
+      "positioning": {
+        "top": 640,
+        "left": 229
+      },
+      "style": {
+        "color": "#10a066",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/523798b2bc5700e48e87a314fa0323cf8bc8eaa5",
+        "title": "e.g. Gong Yi \"River Flows\"",
+        "trackId": "0UtvgA0mYJgNrpGm4tVspQ"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=7ek8mDMKDhazcTSxYrjT6B",
+      "id": "7ek8mDMKDhazcTSxYrjT6B"
+    },
+    {
+      "artistName": "Zhang Ziqian",
+      "positioning": {
+        "top": 815,
+        "left": 1187
+      },
+      "style": {
+        "color": "#1ca1da",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/364e91c2f9065fff6273f3c38dabf5a9e1f1cb03",
+        "title": "e.g. Zhang Ziqian \"Plum Blossom Melody - Three Variations (Mei Hua San Nong)\"",
+        "trackId": "4kNixFFc1UGqZf6TR9t7FN"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=79Ziuw2utefedqZKz9EzzU",
+      "id": "79Ziuw2utefedqZKz9EzzU"
+    },
+    {
+      "artistName": "Fu Xuezhai",
+      "positioning": {
+        "top": 773,
+        "left": 689
+      },
+      "style": {
+        "color": "#1494bc",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/12ff5bc1703a41aa6fc741112c553fcc0483e235",
+        "title": "e.g. Fu Xuezhai \"Plum Blossom Melody - Three Variations\"",
+        "trackId": "7xssZNoUOh4dVKwo9ERFL6"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=2vD9mwMvyd6WQ3dzo9MvJE",
+      "id": "2vD9mwMvyd6WQ3dzo9MvJE"
+    },
+    {
+      "artistName": "Tsar Teh-yun",
+      "positioning": {
+        "top": 667,
+        "left": 1071
+      },
+      "style": {
+        "color": "#268bb1",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fb1db222f807eec2d497c298db52c96555bd0ba",
+        "title": "e.g. Tsar Teh-yun \"Sunny Spring\"",
+        "trackId": "4Rz8GXNQxO4d3PoHUFI9zM"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=545sASEkIKIG8h2aR1K5S5",
+      "id": "545sASEkIKIG8h2aR1K5S5"
+    },
+    {
+      "artistName": "Lin Youren",
+      "positioning": {
+        "top": 0,
+        "left": 276
+      },
+      "style": {
+        "color": "#01a401",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=2f7iBWsqBNbZBpINXWfdcJ",
+      "id": "2f7iBWsqBNbZBpINXWfdcJ"
+    },
+    {
+      "artistName": "Wei Zhongyue",
+      "positioning": {
+        "top": 689,
+        "left": 62
+      },
+      "style": {
+        "color": "#3995d7",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66bc2123dd2405551e677f28f563658b5dcc1efd",
+        "title": "e.g. Wei Zhongyue \"Moon Reflection In The Er Quan\"",
+        "trackId": "5tX9bxWq936vmJDVbrxMBg"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=1C34VbbFE0KttWT4Bt6HAB",
+      "id": "1C34VbbFE0KttWT4Bt6HAB"
+    },
+    {
+      "artistName": "Le Ying",
+      "positioning": {
+        "top": 779,
+        "left": 962
+      },
+      "style": {
+        "color": "#189be3",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95c5701374897c94b1f3076e03b6ee85f22f2ead",
+        "title": "e.g. Le Ying \"Thrice Wearing Out The Hide (Wei Bian San Jue)\"",
+        "trackId": "32Cgariy70oYy659rLlqCU"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=2pK0v4w8n4xCCWZo54iGmt",
+      "id": "2pK0v4w8n4xCCWZo54iGmt"
+    },
+    {
+      "artistName": "Yang Baoyuan",
+      "positioning": {
+        "top": 773,
+        "left": 1027
+      },
+      "style": {
+        "color": "#13819d",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=0bIqjstNZ1vIcqyUZThwpC",
+      "id": "0bIqjstNZ1vIcqyUZThwpC"
+    },
+    {
+      "artistName": "Zha Fuxi",
+      "positioning": {
+        "top": 574,
+        "left": 1169
+      },
+      "style": {
+        "color": "#117a77",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2d5a839eea964090a207b849f49a2c65e1e2804b",
+        "title": "e.g. Zha Fuxi \"A Grieved Life in Changmen Palace\"",
+        "trackId": "6TJDxW8RSGayyAXzlKuP3t"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=3kOYIapiHnATu1UyQzsCAC",
+      "id": "3kOYIapiHnATu1UyQzsCAC"
+    },
+    {
+      "artistName": "Cheng Gong Liang",
+      "positioning": {
+        "top": 368,
+        "left": 20
+      },
+      "style": {
+        "color": "#1ba266",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b522f79aff0367521fa13d86f31bfc4643f2635",
+        "title": "e.g. Cheng Gong Liang \"Homeward Prose\"",
+        "trackId": "2smCxLgsWsNV7pMZXG8tnI"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=1aerQaG0nSz5pqPJRYNvTB",
+      "id": "1aerQaG0nSz5pqPJRYNvTB"
+    },
+    {
+      "artistName": "Pu Xuezhai",
+      "positioning": {
+        "top": 743,
+        "left": 1350
+      },
+      "style": {
+        "color": "#247ad7",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4981692e96b015e9211fdc040a4a1f8b5004d206",
+        "title": "e.g. Pu Xuezhai \"Chanting Incantation\"",
+        "trackId": "5G8UJuI1MiNWUUxFfc6WVy"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1ivfO9FTflgQRtoJRNLEvM",
+      "id": "1ivfO9FTflgQRtoJRNLEvM"
+    },
+    {
+      "artistName": "Hong Deng",
+      "positioning": {
+        "top": 713,
+        "left": 432
+      },
+      "style": {
+        "color": "#08aab3",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/156f90e16f11b2b69e4e35a83e9a76db8b85ab35",
+        "title": "e.g. Hong Deng \"Chunxiao yin (Spring Morning)\"",
+        "trackId": "7stAYGoQHyqnn7OLhdnSyy"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=7hFDuIqpYuZpSH6cwtlDG8",
+      "id": "7hFDuIqpYuZpSH6cwtlDG8"
+    },
+    {
+      "artistName": "Wu Zhao",
+      "positioning": {
+        "top": 12,
+        "left": 885
+      },
+      "style": {
+        "color": "#049105",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2xpImFjeTDhQlfnA5hAVco",
+      "id": "2xpImFjeTDhQlfnA5hAVco"
+    },
+    {
+      "artistName": "Yang Xinlun",
+      "positioning": {
+        "top": 622,
+        "left": 1361
+      },
+      "style": {
+        "color": "#1797c6",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71d7be8cc5b258bafe54678ce29ff28650be719e",
+        "title": "e.g. Yang Xinlun \"The Midnight Crow\"",
+        "trackId": "3MoKx7Z10jyplYDilsvgiT"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=3TJMhFzqhlzcwcdsVZEaHF",
+      "id": "3TJMhFzqhlzcwcdsVZEaHF"
+    },
+    {
+      "artistName": "Wu Zhaoji",
+      "positioning": {
+        "top": 840,
+        "left": 0
+      },
+      "style": {
+        "color": "#00abc3",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3db129bbceaf20a3145b357c2d5337b3776b6949",
+        "title": "e.g. Wu Zhaoji \"Fishermens Song\"",
+        "trackId": "3AtBTOxMS1tn9r06zbY22R"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=3xGq3WCdurLqTGxjsF5S0V",
+      "id": "3xGq3WCdurLqTGxjsF5S0V"
+    },
+    {
+      "artistName": "Xia Yifeng",
+      "positioning": {
+        "top": 640,
+        "left": 131
+      },
+      "style": {
+        "color": "#0b931e",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=5kFa3AA1ltvYQhRnSgfT4i",
+      "id": "5kFa3AA1ltvYQhRnSgfT4i"
+    },
+    {
+      "artistName": "陈雷激",
+      "positioning": {
+        "top": 668,
+        "left": 483
+      },
+      "style": {
+        "color": "#04a77b",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/893aaa0002fbbaf8485de0a5faf352b70e83f43f",
+        "title": "e.g. 陈雷激 \"酒狂\"",
+        "trackId": "6pB9NWfO3dmd7gi2L36xPR"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=6yrgdNQvZNgRFzAG0pgkg6",
+      "id": "6yrgdNQvZNgRFzAG0pgkg6"
+    },
+    {
+      "artistName": "Xu Lisun",
+      "positioning": {
+        "top": 756,
+        "left": 1400
+      },
+      "style": {
+        "color": "#4a80cf",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a0b2821461f656958b002d6281ce202732f530f",
+        "title": "e.g. Xu Lisun \"Pounding the Clothes\"",
+        "trackId": "7tbq7vpnr6B9zFvw6lbGEF"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=7KyA8XVdE0o55Io7P10I3m",
+      "id": "7KyA8XVdE0o55Io7P10I3m"
+    },
+    {
+      "artistName": "Yu Shaoze",
+      "positioning": {
+        "top": 769,
+        "left": 1365
+      },
+      "style": {
+        "color": "#1c88da",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e01726b912205114660748c85441af4d7f3392f5",
+        "title": "e.g. Yu Shaoze \"Orchid\"",
+        "trackId": "5MYSGPvqBSsk7GuSGdhsey"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=7klh3fJj0SZ0FOEXQXBgMA",
+      "id": "7klh3fJj0SZ0FOEXQXBgMA"
+    },
+    {
+      "artistName": "Gu Meigeng",
+      "positioning": {
+        "top": 755,
+        "left": 740
+      },
+      "style": {
+        "color": "#316de1",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/079aef958ed5c86f591c3f04f835f483a21b26a4",
+        "title": "e.g. Gu Meigeng \"Flowing Water\"",
+        "trackId": "76ERB6Ri6vNrOQjyAS41dv"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=2dH5f2M4Ym616om4VjPN3m",
+      "id": "2dH5f2M4Ym616om4VjPN3m"
+    },
+    {
+      "artistName": "Zhang Ziquan",
+      "positioning": {
+        "top": 374,
+        "left": 1372
+      },
+      "style": {
+        "color": "#5491e5",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/00b39f6d77a09e370e3bf83a9c6db87d87adbdb5",
+        "title": "e.g. Zhang Ziquan \"Soaring Dragon\"",
+        "trackId": "0rj5CThEV8RGgUO4zVp8KX"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=2vBuDP5NqZIOCy79e96lUW",
+      "id": "2vBuDP5NqZIOCy79e96lUW"
+    },
+    {
+      "artistName": "Wu Na",
+      "positioning": {
+        "top": 91,
+        "left": 232
+      },
+      "style": {
+        "color": "#2498c0",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84f6a215d95d2bf3f925e0edba6cf4948194aa8e",
+        "title": "e.g. Wu Na \"Flowing Water II\"",
+        "trackId": "3pKU6TiIOWKDh0yKWDU8yz"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=2gAu82YSbr7gBI1S6brTqz",
+      "id": "2gAu82YSbr7gBI1S6brTqz"
+    },
+    {
+      "artistName": "Ding Chengyum",
+      "positioning": {
+        "top": 598,
+        "left": 1227
+      },
+      "style": {
+        "color": "#44a1e0",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba86ac06e76aa8dc0e03ce9a90b1861bdb387080",
+        "title": "e.g. Ding Chengyum \"The Song Of King Yao\"",
+        "trackId": "1CFUnQVE1DREGSdzePfmNZ"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=37rYTe4Wsh80toW2HcN5cP",
+      "id": "37rYTe4Wsh80toW2HcN5cP"
+    },
+    {
+      "artistName": "Xu Yuanbai",
+      "positioning": {
+        "top": 900,
+        "left": 864
+      },
+      "style": {
+        "color": "#1592e9",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b47662904171814dee51b7f60db3bcb501d00581",
+        "title": "e.g. Xu Yuanbai \"Forgetting The Vulgar Ideas\"",
+        "trackId": "0J2tRUmyMA4JrRhKKwD8Ku"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=4ADHLOuHLoyCL1uBpBsG4I",
+      "id": "4ADHLOuHLoyCL1uBpBsG4I"
+    },
+    {
+      "artistName": "Mei Yueqiang",
+      "positioning": {
+        "top": 677,
+        "left": 1183
+      },
+      "style": {
+        "color": "#12b3db",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/348cd394af2aa82d3dc8e78a261cf46677d33dac",
+        "title": "e.g. Mei Yueqiang \"Three Variations Of Plum Blossom\"",
+        "trackId": "2twvYMF41gIr2e8RXnEyjx"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=0cWKtg08NtqmHJXe0aU49m",
+      "id": "0cWKtg08NtqmHJXe0aU49m"
+    },
+    {
+      "artistName": "Yue Ying",
+      "positioning": {
+        "top": 622,
+        "left": 933
+      },
+      "style": {
+        "color": "#0b97d8",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=5ZsP2tnNScUQ30ykCuwvHT",
+      "id": "5ZsP2tnNScUQ30ykCuwvHT"
+    },
+    {
+      "artistName": "Dai Xiaolian",
+      "positioning": {
+        "top": 381,
+        "left": 631
+      },
+      "style": {
+        "color": "#06a632",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=3R49l0liVcsbQ185pg2pKU",
+      "id": "3R49l0liVcsbQ185pg2pKU"
+    },
+    {
+      "artistName": "Zhan Chengqiu",
+      "positioning": {
+        "top": 544,
+        "left": 864
+      },
+      "style": {
+        "color": "#0aa1d6",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c1ecc9d9a342200412efd843b1cb51394a1dc69c",
+        "title": "e.g. Zhan Chengqiu \"Flowing Spring on the Rock\"",
+        "trackId": "0uCfWnB1NRxxH3N9n9uWQO"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=0y1xIPzMChKKCsRWCIXArY",
+      "id": "0y1xIPzMChKKCsRWCIXArY"
+    },
+    {
+      "artistName": "Guang Pinghu",
+      "positioning": {
+        "top": 809,
+        "left": 802
+      },
+      "style": {
+        "color": "#178bde",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1442282a0493df24567b2a2eed33be70c3049369",
+        "title": "e.g. Guang Pinghu \"Liushui\"",
+        "trackId": "4IyrDfwHHMAwkqBXgVqDAb"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1ZVK5xih1xUHA4vCYiVeaC",
+      "id": "1ZVK5xih1xUHA4vCYiVeaC"
+    },
+    {
+      "artistName": "Guan Zhonghang",
+      "positioning": {
+        "top": 858,
+        "left": 1314
+      },
+      "style": {
+        "color": "#1d84a7",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=3DNuNlfpEQTrKmz7OHp9qP",
+      "id": "3DNuNlfpEQTrKmz7OHp9qP"
+    },
+    {
+      "artistName": "Ding Chengyun",
+      "positioning": {
+        "top": 664,
+        "left": 1179
+      },
+      "style": {
+        "color": "#18afd6",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fac5edbf6667921633f307367663b29e0e8fd5e",
+        "title": "e.g. Ding Chengyun \"Yu Jiao Wen Da\"",
+        "trackId": "51sLIXA9KOoesC9kJbMXa2"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=7yO0nyxeB4YUtRUit8MmUL",
+      "id": "7yO0nyxeB4YUtRUit8MmUL"
+    },
+    {
+      "artistName": "Sou Si-tai",
+      "positioning": {
+        "top": 523,
+        "left": 650
+      },
+      "style": {
+        "color": "#04ab4c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=15hXq2RsWRs2mNaT1sN1rw",
+      "id": "15hXq2RsWRs2mNaT1sN1rw"
+    },
+    {
+      "artistName": "Liu Jingshao",
+      "positioning": {
+        "top": 713,
+        "left": 628
+      },
+      "style": {
+        "color": "#1488f1",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/15fe06879dc48c55d24efaf15db589eccd941fc5",
+        "title": "e.g. Liu Jingshao \"The Song of the Woodcutter\"",
+        "trackId": "1Mpi6Tg0LbCiB0zuFIvn3o"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=54TN10rWSZLpI0Qnqqv2Du",
+      "id": "54TN10rWSZLpI0Qnqqv2Du"
+    },
+    {
+      "artistName": "Cheng Gongliang",
+      "positioning": {
+        "top": 489,
+        "left": 1005
+      },
+      "style": {
+        "color": "#10b8ae",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=4CdjHGb61jNDKWRRVcKRZe",
+      "id": "4CdjHGb61jNDKWRRVcKRZe"
+    },
+    {
+      "artistName": "Xia Fuxi",
+      "positioning": {
+        "top": 532,
+        "left": 755
+      },
+      "style": {
+        "color": "#029000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=42pyu8usqfOphaLZZZLhJx",
+      "id": "42pyu8usqfOphaLZZZLhJx"
+    },
+    {
+      "artistName": "趙曉霞",
+      "positioning": {
+        "top": 477,
+        "left": 885
+      },
+      "style": {
+        "color": "#0e9e43",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=3oYttHZ3kEx8a0dJaSN4wv",
+      "id": "3oYttHZ3kEx8a0dJaSN4wv"
+    },
+    {
+      "artistName": "Lo Ka Ping",
+      "positioning": {
+        "top": 686,
+        "left": 795
+      },
+      "style": {
+        "color": "#2484ae",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=4RrqO2cs4SNUrsd6v0Rsm8",
+      "id": "4RrqO2cs4SNUrsd6v0Rsm8"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=guqin"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/59r5KTXDuXTXZcIKo2rHFH"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4Q6r0iMBQi5vYDgjxHV3Ch"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5e876F3nn8465RI6Wi4pwE"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=guqin"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "chinese traditional",
+      "positioning": {
+        "top": 0,
+        "left": 0
+      },
+      "style": {
+        "color": "#27a1b7",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fae68aa5880aa717ae489853f8830b1b2a911cbe",
+        "title": "e.g. Xiang Sihua \"The Lofty Mountain And Running Water\"",
+        "trackId": "1igZdImTTMlFTk69hQRrVI"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-chinesetraditional.html#tunnel"
+    }
+  ]
+}

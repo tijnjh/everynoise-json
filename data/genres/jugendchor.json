@@ -1,0 +1,1564 @@
+{
+  "schemaVersion": 3,
+  "genreName": "jugendchor",
+  "artists": [
+    {
+      "artistName": "Kölner Jugendchor St. Stephan",
+      "positioning": {
+        "top": 371,
+        "left": 963
+      },
+      "style": {
+        "color": "#ac8004",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc5f8772189ea11ed6f4f5eaf268383575b57895",
+        "title": "e.g. Kölner Jugendchor St. Stephan \"Carol of the Bells\"",
+        "trackId": "6HQFPItDJGrzKP6NwhlKsb"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=1oXxoIWhpFlRYTDmvolBEx",
+      "id": "1oXxoIWhpFlRYTDmvolBEx"
+    },
+    {
+      "artistName": "Rundfunk-Jugendchor Wernigerode",
+      "positioning": {
+        "top": 958,
+        "left": 539
+      },
+      "style": {
+        "color": "#269b08",
+        "fontSize": "141%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b7b652482b024f104930cedd9a3e8f9d867f007b",
+        "title": "e.g. Rundfunk-Jugendchor Wernigerode \"Kein schöner Land in dieser Zeit\"",
+        "trackId": "7AgcKpiA33PQbg5rWbJu6F"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=6txQXluQEiRdJKWgE3hr8O",
+      "id": "6txQXluQEiRdJKWgE3hr8O"
+    },
+    {
+      "artistName": "Jugendchor Tulfes",
+      "positioning": {
+        "top": 822,
+        "left": 392
+      },
+      "style": {
+        "color": "#20a402",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1c5f8d239a8937f7324f294ad7e87f41672e4f3",
+        "title": "e.g. Jugendchor Tulfes \"Meine Zeit steht in deinen Händen\"",
+        "trackId": "6HfhjpraJTpJ8nTVTxfnEt"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=4kdkHx1O9yalz0eoQf40rd",
+      "id": "4kdkHx1O9yalz0eoQf40rd"
+    },
+    {
+      "artistName": "Rundfunk-Jugendchor Wernigerode (Männerchor)",
+      "positioning": {
+        "top": 987,
+        "left": 682
+      },
+      "style": {
+        "color": "#3c8a00",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19693d6ac75c3e2f720d110d56bb032951001352",
+        "title": "e.g. Rundfunk-Jugendchor Wernigerode (Männerchor) \"Loreley (Ich weiß nicht, was soll es bedeuten)\"",
+        "trackId": "1bsjqdqT1kvvGRYnQDatfn"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=45fv9yRsZ1SFEc4Lau7qaa",
+      "id": "45fv9yRsZ1SFEc4Lau7qaa"
+    },
+    {
+      "artistName": "Schweizer Jugendchor",
+      "positioning": {
+        "top": 921,
+        "left": 148
+      },
+      "style": {
+        "color": "#1e984f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ac8087be3b99f44244d972ed2fff564ac024ac3d",
+        "title": "e.g. Schweizer Jugendchor \"Noël\"",
+        "trackId": "0N5HMk7wq7mvGTN2a6tyu5"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=3Xh6K9lCGRRV83wjax2csg",
+      "id": "3Xh6K9lCGRRV83wjax2csg"
+    },
+    {
+      "artistName": "Kinder- und Jugendchor Unterwegs Achern-Fautenbach",
+      "positioning": {
+        "top": 884,
+        "left": 421
+      },
+      "style": {
+        "color": "#20a868",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3615ac6cb77962b6f7fc581c95409d09c39c7346",
+        "title": "e.g. Kinder- und Jugendchor Unterwegs Achern-Fautenbach \"Gottes Wort ist wie Licht in der Nacht\"",
+        "trackId": "1XDaeuEJ6Q1p495fB2X06C"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=6wsGd0cVBhdeAavbGXiTNN",
+      "id": "6wsGd0cVBhdeAavbGXiTNN"
+    },
+    {
+      "artistName": "Rundfunk-Jugendchor Leipzig",
+      "positioning": {
+        "top": 824,
+        "left": 873
+      },
+      "style": {
+        "color": "#2da011",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8efd127264c389e10d441cd9b4b59c4d19b92179",
+        "title": "e.g. Rundfunk-Jugendchor Leipzig \"Wer will fleißige Arbeiter sehn\"",
+        "trackId": "5F2GFLCqNbZp6ErJ9QVH7n"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=3BCsLnQ6mJyQU4wE3uM37C",
+      "id": "3BCsLnQ6mJyQU4wE3uM37C"
+    },
+    {
+      "artistName": "Audi Jugendchorakademie",
+      "positioning": {
+        "top": 983,
+        "left": 429
+      },
+      "style": {
+        "color": "#1a994f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/daa5145c3658cfa9769e6da00e47a3995ab3c464",
+        "title": "e.g. Audi Jugendchorakademie \"Der Königssohn, Op. 116: No. 1, Feierlich\"",
+        "trackId": "6yf9c1KBMTpdS7mm7I8ko1"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=6oM6SBIMMD42rHBnVvh5h3",
+      "id": "6oM6SBIMMD42rHBnVvh5h3"
+    },
+    {
+      "artistName": "Jugendchor Eisleben",
+      "positioning": {
+        "top": 596,
+        "left": 1256
+      },
+      "style": {
+        "color": "#836d00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=75QOqMN9sCtrVwjK77KFS7",
+      "id": "75QOqMN9sCtrVwjK77KFS7"
+    },
+    {
+      "artistName": "Jugendchöre der Arbeiterfestspiele",
+      "positioning": {
+        "top": 760,
+        "left": 1345
+      },
+      "style": {
+        "color": "#37a202",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1b24cd3ea47d4ec5b21294f086c40d0bead12aa1",
+        "title": "e.g. Jugendchöre der Arbeiterfestspiele \"Ich weiß schon, was ich werden will\"",
+        "trackId": "1YTc2w3RDBkNMoIdSZZKQW"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=4pJRcgpJwmqAjL3Kt17nLD",
+      "id": "4pJRcgpJwmqAjL3Kt17nLD"
+    },
+    {
+      "artistName": "Kinder- und Jugendchor St. Fidelis/St. Johann Sigmaringen",
+      "positioning": {
+        "top": 872,
+        "left": 458
+      },
+      "style": {
+        "color": "#14ab4c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53418069efd43bceb34db0e8e00a5e35ff859173",
+        "title": "e.g. Kinder- und Jugendchor St. Fidelis/St. Johann Sigmaringen \"Du bist bei uns in unsrer Mitte\"",
+        "trackId": "4iTTlUpaXeFHv8WiRahmoY"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=1lAA8ZE2BKouIn4NUloXzz",
+      "id": "1lAA8ZE2BKouIn4NUloXzz"
+    },
+    {
+      "artistName": "Jugendchor Ostallgäu",
+      "positioning": {
+        "top": 885,
+        "left": 54
+      },
+      "style": {
+        "color": "#209600",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=26Uy8RXt3c08ccOrpFeHf7",
+      "id": "26Uy8RXt3c08ccOrpFeHf7"
+    },
+    {
+      "artistName": "Jugendchor der Volksoper Wien",
+      "positioning": {
+        "top": 468,
+        "left": 1199
+      },
+      "style": {
+        "color": "#da6b00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=5qeSVlVAsAnrbRM4n8VxSE",
+      "id": "5qeSVlVAsAnrbRM4n8VxSE"
+    },
+    {
+      "artistName": "Bayerischer Jugendchor",
+      "positioning": {
+        "top": 975,
+        "left": 694
+      },
+      "style": {
+        "color": "#30961e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=4hUYr72ht7nkesyxY2bVPk",
+      "id": "4hUYr72ht7nkesyxY2bVPk"
+    },
+    {
+      "artistName": "Kinder- und Jugendchor der Ev. Paulusgemeinde Halle/Saale",
+      "positioning": {
+        "top": 608,
+        "left": 1400
+      },
+      "style": {
+        "color": "#3e9800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/39294f713e9afa4f14a18756ccdfec6a55283770",
+        "title": "e.g. Kinder- und Jugendchor der Ev. Paulusgemeinde Halle/Saale \"Der Alte Mann\"",
+        "trackId": "5P6TuCLFDWFjjOcIwEcVsu"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=1rH0zsvqdTHtJWEop5pNoe",
+      "id": "1rH0zsvqdTHtJWEop5pNoe"
+    },
+    {
+      "artistName": "Kinder- und Jugendchor Eisleben",
+      "positioning": {
+        "top": 685,
+        "left": 1350
+      },
+      "style": {
+        "color": "#697a00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=4edUrQhG0oSveuOso0eEMZ",
+      "id": "4edUrQhG0oSveuOso0eEMZ"
+    },
+    {
+      "artistName": "Rundfunk-Jugendchor Wernigerode (Chor der Ehemaligen)",
+      "positioning": {
+        "top": 971,
+        "left": 58
+      },
+      "style": {
+        "color": "#318e00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72aca7b57af00ad89c648c289eae56c3bcb41f10",
+        "title": "e.g. Rundfunk-Jugendchor Wernigerode (Chor der Ehemaligen) \"Wer hat dich, du schöner Wald\"",
+        "trackId": "1TmCD8GBIPVyM5KTSohk9c"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=6ivQxgrAQHsNWKGUycKfyF",
+      "id": "6ivQxgrAQHsNWKGUycKfyF"
+    },
+    {
+      "artistName": "Knaben- und Jugendchor St. Michaelis zu Hamburg",
+      "positioning": {
+        "top": 872,
+        "left": 35
+      },
+      "style": {
+        "color": "#219d18",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=6yLoud85ufHJwaYConPT3p",
+      "id": "6yLoud85ufHJwaYConPT3p"
+    },
+    {
+      "artistName": "Frankenberger Jugendchor & Michael Praetorius",
+      "positioning": {
+        "top": 983,
+        "left": 10
+      },
+      "style": {
+        "color": "#0b9835",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=2GzypR5UwQfhky91bqsLN5",
+      "id": "2GzypR5UwQfhky91bqsLN5"
+    },
+    {
+      "artistName": "Rheydter Kinder- und Jugendchor",
+      "positioning": {
+        "top": 921,
+        "left": 360
+      },
+      "style": {
+        "color": "#31a925",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09cdebec9c0902347acc41b7241bb58097e3676a",
+        "title": "e.g. Rheydter Kinder- und Jugendchor \"Ade zur guten Nacht\"",
+        "trackId": "4apveexZdYjncyATLk5BJy"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=7u4xBG8RzWzb6MjyP31vhN",
+      "id": "7u4xBG8RzWzb6MjyP31vhN"
+    },
+    {
+      "artistName": "Jugendchor Maria Saal",
+      "positioning": {
+        "top": 837,
+        "left": 910
+      },
+      "style": {
+        "color": "#459e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee8a3d5074ff2d0f105ac82c3004f5ad97b22362",
+        "title": "e.g. Jugendchor Maria Saal \"Jesus in My House\"",
+        "trackId": "2NVbYZG7v65b5I2iWYj2f2"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=1r37567KZXNJrAPU0VOfzH",
+      "id": "1r37567KZXNJrAPU0VOfzH"
+    },
+    {
+      "artistName": "Jugendchor St. Josef Siebenhügel Klagenfurt",
+      "positioning": {
+        "top": 749,
+        "left": 401
+      },
+      "style": {
+        "color": "#33a700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5d16f3360b0b55c5513ccf0e6a256c73e143c14",
+        "title": "e.g. Jugendchor St. Josef Siebenhügel Klagenfurt \"Shine, Jesus, Shine!\"",
+        "trackId": "2O3QtAuG955zvg6sLjVOgs"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2HniyMP10JhgKXYSIZ3cM2",
+      "id": "2HniyMP10JhgKXYSIZ3cM2"
+    },
+    {
+      "artistName": "Jugendchor und Orchester Mönchen-Gladbach",
+      "positioning": {
+        "top": 934,
+        "left": 164
+      },
+      "style": {
+        "color": "#119f09",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/569b0c5ac47b820492e2452a4ca62084e088184e",
+        "title": "e.g. Jugendchor und Orchester Mönchen-Gladbach \"The Magic Flute: Sarastro, In diesen heiligen Hallen\"",
+        "trackId": "28zo6QTLCDeYV8sthkvuRr"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1DlXJjW70wazu8Q4tPjk2X",
+      "id": "1DlXJjW70wazu8Q4tPjk2X"
+    },
+    {
+      "artistName": "Der Overbacher Jugendchor",
+      "positioning": {
+        "top": 427,
+        "left": 519
+      },
+      "style": {
+        "color": "#c95b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57296bf2649717a209b664e1705e411d7126d8ec",
+        "title": "e.g. Der Overbacher Jugendchor \"Sonnengesang\"",
+        "trackId": "4Y0bog9taDhSG4jJh6RzTO"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=0znzxRIn0iogGlPJMfyGFZ",
+      "id": "0znzxRIn0iogGlPJMfyGFZ"
+    },
+    {
+      "artistName": "Evangelischer Jugendchor Nagold",
+      "positioning": {
+        "top": 897,
+        "left": 221
+      },
+      "style": {
+        "color": "#1ab193",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=59Whivv3gdXOCNxuKXBJIs",
+      "id": "59Whivv3gdXOCNxuKXBJIs"
+    },
+    {
+      "artistName": "Jugendchor Friedrichshain",
+      "positioning": {
+        "top": 723,
+        "left": 535
+      },
+      "style": {
+        "color": "#23a800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=5Cwb8hiwmkuyAT5Q90xi5L",
+      "id": "5Cwb8hiwmkuyAT5Q90xi5L"
+    },
+    {
+      "artistName": "Jugendchor Breitenbach",
+      "positioning": {
+        "top": 378,
+        "left": 568
+      },
+      "style": {
+        "color": "#4b9600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=1vTkvMfp6ghiXlEnkj9zzP",
+      "id": "1vTkvMfp6ghiXlEnkj9zzP"
+    },
+    {
+      "artistName": "Nordhollands Jugendchor",
+      "positioning": {
+        "top": 840,
+        "left": 132
+      },
+      "style": {
+        "color": "#129741",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=2XXRbdJTy2LR24LSeOINq8",
+      "id": "2XXRbdJTy2LR24LSeOINq8"
+    },
+    {
+      "artistName": "Bayrischer Jugendchor",
+      "positioning": {
+        "top": 884,
+        "left": 861
+      },
+      "style": {
+        "color": "#33961e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=0VRJntx89jljWDAAxBgyPD",
+      "id": "0VRJntx89jljWDAAxBgyPD"
+    },
+    {
+      "artistName": "Chorgemeinschaft und Jugendchor Seeon",
+      "positioning": {
+        "top": 933,
+        "left": 490
+      },
+      "style": {
+        "color": "#31a824",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1Qw6iakFUmgU8SxpsBqjqS",
+      "id": "1Qw6iakFUmgU8SxpsBqjqS"
+    },
+    {
+      "artistName": "Jugendchor Kufstein",
+      "positioning": {
+        "top": 792,
+        "left": 1337
+      },
+      "style": {
+        "color": "#25a800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=1gtCoiNrEFntC7DbIwy672",
+      "id": "1gtCoiNrEFntC7DbIwy672"
+    },
+    {
+      "artistName": "Jugendchor Rotholz",
+      "positioning": {
+        "top": 847,
+        "left": 739
+      },
+      "style": {
+        "color": "#1da50a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=4xk5Utov8JYDPUpoGoshln",
+      "id": "4xk5Utov8JYDPUpoGoshln"
+    },
+    {
+      "artistName": "Jugendchor Oberolang",
+      "positioning": {
+        "top": 451,
+        "left": 1179
+      },
+      "style": {
+        "color": "#6e9800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13df8347833ed3b0d6a778e95cf8979d0b6b7c81",
+        "title": "e.g. Jugendchor Oberolang \"Jesus Doesn't Want Me for a Sunbeam\"",
+        "trackId": "2MAx9GksdjLckpG4ptL5uK"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=1MxqYZ0usi9EHG4wPkPqsv",
+      "id": "1MxqYZ0usi9EHG4wPkPqsv"
+    },
+    {
+      "artistName": "Eisenbahner Jugendchor Schmöckwitz",
+      "positioning": {
+        "top": 897,
+        "left": 564
+      },
+      "style": {
+        "color": "#21a000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4df4ce2c17e80ca6e02f4a0e622f27bdbf981a82",
+        "title": "e.g. Eisenbahner Jugendchor Schmöckwitz \"Am Brunnen vor dem Tore\"",
+        "trackId": "4z7wZIVGlhPERDy5AuaLZM"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=6w8r51jT99vneBm5wJyPws",
+      "id": "6w8r51jT99vneBm5wJyPws"
+    },
+    {
+      "artistName": "Rheydter Kinder & Jugendchor",
+      "positioning": {
+        "top": 504,
+        "left": 1146
+      },
+      "style": {
+        "color": "#808e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71be16e5167dfaba318c519e0562e2888b94f53d",
+        "title": "e.g. Rheydter Kinder & Jugendchor \"Das Wandern ist des Müllers Lust\"",
+        "trackId": "0RoJW5XC35JEFqhY0IfPyP"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=7jhYN17fsiD9S4n7BbGgUS",
+      "id": "7jhYN17fsiD9S4n7BbGgUS"
+    },
+    {
+      "artistName": "Jugendchor",
+      "positioning": {
+        "top": 900,
+        "left": 0
+      },
+      "style": {
+        "color": "#0e9482",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=4Q3TdnVMz7fa6O1rIhgaUz",
+      "id": "4Q3TdnVMz7fa6O1rIhgaUz"
+    },
+    {
+      "artistName": "Jugendchor Mainz",
+      "positioning": {
+        "top": 763,
+        "left": 132
+      },
+      "style": {
+        "color": "#549c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=7xGkzvXnMEhJEb3s8zjiiC",
+      "id": "7xGkzvXnMEhJEb3s8zjiiC"
+    },
+    {
+      "artistName": "Jugendchor Seeon",
+      "positioning": {
+        "top": 860,
+        "left": 295
+      },
+      "style": {
+        "color": "#24ac2c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=0wXXOJ9g9gWXILz61nhZCT",
+      "id": "0wXXOJ9g9gWXILz61nhZCT"
+    },
+    {
+      "artistName": "Der Hamburger Jugendchor",
+      "positioning": {
+        "top": 477,
+        "left": 698
+      },
+      "style": {
+        "color": "#899700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=3ozGlPL2RL3otBO0Tk6Rtu",
+      "id": "3ozGlPL2RL3otBO0Tk6Rtu"
+    },
+    {
+      "artistName": "Rundfunk-Jugendchor",
+      "positioning": {
+        "top": 800,
+        "left": 995
+      },
+      "style": {
+        "color": "#697500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f4e91d59854e24197956212f62e91f7d3797c302",
+        "title": "e.g. Rundfunk-Jugendchor \"Die junge Welt ist in Berlin zu Gast\"",
+        "trackId": "6QNG4mENMTSd8cVKb0XhtY"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=5t6X8UdbTnUbgKnv1PLfQq",
+      "id": "5t6X8UdbTnUbgKnv1PLfQq"
+    },
+    {
+      "artistName": "Jugendchor Der Liebfrauenkirche Koblenz",
+      "positioning": {
+        "top": 859,
+        "left": 527
+      },
+      "style": {
+        "color": "#438000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=7GHprTGTrabfu91WM8Foye",
+      "id": "7GHprTGTrabfu91WM8Foye"
+    },
+    {
+      "artistName": "Jugendchor Flaurling",
+      "positioning": {
+        "top": 480,
+        "left": 1384
+      },
+      "style": {
+        "color": "#729210",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb776686652554934e15fab339ac8bb4d13c2841",
+        "title": "e.g. Jugendchor Flaurling \"Conquest of paradise\"",
+        "trackId": "0bSMZlGvc4Ky0JiMujUI6V"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1lY1dMnvAHV4luH5RYXLjB",
+      "id": "1lY1dMnvAHV4luH5RYXLjB"
+    },
+    {
+      "artistName": "Jugendchor Christkindl",
+      "positioning": {
+        "top": 946,
+        "left": 75
+      },
+      "style": {
+        "color": "#3d9a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=5rLJyiZPJ4Oh7lyfxX2beb",
+      "id": "5rLJyiZPJ4Oh7lyfxX2beb"
+    },
+    {
+      "artistName": "Kölner Jugendchor St.Stephan",
+      "positioning": {
+        "top": 320,
+        "left": 1373
+      },
+      "style": {
+        "color": "#c86900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=2ppcMJp0GD3eLUlJ8QuMdP",
+      "id": "2ppcMJp0GD3eLUlJ8QuMdP"
+    },
+    {
+      "artistName": "Jugendchor der HS Prutz-Ried",
+      "positioning": {
+        "top": 857,
+        "left": 1398
+      },
+      "style": {
+        "color": "#109400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=1lcVnntjRNs0aAwXmGePm4",
+      "id": "1lcVnntjRNs0aAwXmGePm4"
+    },
+    {
+      "artistName": "Kinder und Jugendchor Gutweiler",
+      "positioning": {
+        "top": 788,
+        "left": 19
+      },
+      "style": {
+        "color": "#2fa8bc",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=59hHZmnjwOFsUOvZjviEKY",
+      "id": "59hHZmnjwOFsUOvZjviEKY"
+    },
+    {
+      "artistName": "Jugendchor Schramberg",
+      "positioning": {
+        "top": 995,
+        "left": 144
+      },
+      "style": {
+        "color": "#0fba00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fda5f6fb3e7918d04b0d28ee3a48e0df2bf884e",
+        "title": "e.g. Jugendchor Schramberg \"Kum ba yah! - Remastered\"",
+        "trackId": "0zjZ0gaz3pOEm0B0TJ5CU5"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=0swon7RkS9VX8oHsbnoqYy",
+      "id": "0swon7RkS9VX8oHsbnoqYy"
+    },
+    {
+      "artistName": "Bad Tölzer Jugendchor",
+      "positioning": {
+        "top": 776,
+        "left": 124
+      },
+      "style": {
+        "color": "#409f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6JK4eX5MpqWIlRzfGqp9V5",
+      "id": "6JK4eX5MpqWIlRzfGqp9V5"
+    },
+    {
+      "artistName": "Jugendchor Köpenick",
+      "positioning": {
+        "top": 946,
+        "left": 511
+      },
+      "style": {
+        "color": "#1e9c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0be14828aa65076d20959a72032d376ac17b6ff0",
+        "title": "e.g. Jugendchor Köpenick \"Ein Jäger längs dem Weiher ging\"",
+        "trackId": "4Q6MjdoDassBWvT0dWMoKe"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=1ndEjnKI95kYQ3XmByts46",
+      "id": "1ndEjnKI95kYQ3XmByts46"
+    },
+    {
+      "artistName": "Jugendchor St. Aegidus Wiedenbrück",
+      "positioning": {
+        "top": 958,
+        "left": 41
+      },
+      "style": {
+        "color": "#08a602",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/994fa50d2ce643dded17de7afce13e6bf4b4ee37",
+        "title": "e.g. Jugendchor St. Aegidus Wiedenbrück \"Chichester Psalms - 2nd Movement\"",
+        "trackId": "3F1nQLpRmcs31nHowxjDL9"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=2T3SdMjaSAyThRzUYJfaN7",
+      "id": "2T3SdMjaSAyThRzUYJfaN7"
+    },
+    {
+      "artistName": "Jugendchor Mönchengladbach",
+      "positioning": {
+        "top": 909,
+        "left": 189
+      },
+      "style": {
+        "color": "#23a700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=7jr8wVPDZSL9da0M1cBqiq",
+      "id": "7jr8wVPDZSL9da0M1cBqiq"
+    },
+    {
+      "artistName": "Runddunk Jugendchor",
+      "positioning": {
+        "top": 909,
+        "left": 678
+      },
+      "style": {
+        "color": "#319500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe354570ea70cd48f856c9a4225fc46cdeff21f8",
+        "title": "e.g. Runddunk Jugendchor \"Dreimol oms Städtele\"",
+        "trackId": "6853a7lKwqREEL5bMfOvVk"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=1CtEaSg97L6hJTCcAZyGZN",
+      "id": "1CtEaSg97L6hJTCcAZyGZN"
+    },
+    {
+      "artistName": "Jugendchor Roggwil",
+      "positioning": {
+        "top": 896,
+        "left": 959
+      },
+      "style": {
+        "color": "#498506",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a0f784647bc183c68e92506d506653f81235c73",
+        "title": "e.g. Jugendchor Roggwil \"Peter Schlemihl: Teile No. 3\"",
+        "trackId": "5FhfVNNymthSXuYwFEBD88"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=6xFynHubwesLlrDPtWCaZl",
+      "id": "6xFynHubwesLlrDPtWCaZl"
+    },
+    {
+      "artistName": "Jugendchor Gymnasium Nordhausen",
+      "positioning": {
+        "top": 105,
+        "left": 1343
+      },
+      "style": {
+        "color": "#998805",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=08ks8sypVSx0GjBkpaKNe9",
+      "id": "08ks8sypVSx0GjBkpaKNe9"
+    },
+    {
+      "artistName": "Jugendchor St. Theresia Klagenfurt",
+      "positioning": {
+        "top": 844,
+        "left": 482
+      },
+      "style": {
+        "color": "#35ab26",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/68698ab1460048768f99e15f782122dca856bfd4",
+        "title": "e.g. Jugendchor St. Theresia Klagenfurt \"Glory to the Lord\"",
+        "trackId": "4f3NP1opOWb4gx0pqyUY6g"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=76pQdupQjtfpCogs649OgA",
+      "id": "76pQdupQjtfpCogs649OgA"
+    },
+    {
+      "artistName": "Jugendchor Tanzenberg",
+      "positioning": {
+        "top": 958,
+        "left": 360
+      },
+      "style": {
+        "color": "#436500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ab90ab111c0fd860ca943a353133d6030d23cd9",
+        "title": "e.g. Jugendchor Tanzenberg \"In der Maienzeit\"",
+        "trackId": "1UShNifMjxPBpJ9yyV1fGE"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=3mVM2xoy0YuS2g0Uf6Kz5s",
+      "id": "3mVM2xoy0YuS2g0Uf6Kz5s"
+    },
+    {
+      "artistName": "Jugendchor der Hauptschule Prutz",
+      "positioning": {
+        "top": 845,
+        "left": 1338
+      },
+      "style": {
+        "color": "#08b100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=5i64cx74CFSlXx01M65Oxe",
+      "id": "5i64cx74CFSlXx01M65Oxe"
+    },
+    {
+      "artistName": "Kinder- und Jugendchor St. Trudpert Munstertal",
+      "positioning": {
+        "top": 832,
+        "left": 531
+      },
+      "style": {
+        "color": "#259ccc",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=5LsyJnhJCZReZ5aPmIW4zM",
+      "id": "5LsyJnhJCZReZ5aPmIW4zM"
+    },
+    {
+      "artistName": "Jugendchor Speicher",
+      "positioning": {
+        "top": 825,
+        "left": 229
+      },
+      "style": {
+        "color": "#468c03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2093a4ce3ad64ec42539b54fa6e761cd4ee8ccf3",
+        "title": "e.g. Jugendchor Speicher \"Jetzt wömmer e Tschöppeli luschtig see\"",
+        "trackId": "492f6vLj58j0r5sYmpwINc"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=417HjnJoPcm6Ots25v6Pns",
+      "id": "417HjnJoPcm6Ots25v6Pns"
+    },
+    {
+      "artistName": "Kinder- und Jugendchor der Kiekemal Grundschule Berlin-Mahlsdorf",
+      "positioning": {
+        "top": 0,
+        "left": 1363
+      },
+      "style": {
+        "color": "#ec8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=5kbs7EIwhulBywRHbQHOcy",
+      "id": "5kbs7EIwhulBywRHbQHOcy"
+    },
+    {
+      "artistName": "Jugendchor St. Martin",
+      "positioning": {
+        "top": 789,
+        "left": 246
+      },
+      "style": {
+        "color": "#41af00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=5R7XiLrYeYAMOkQfGEREQe",
+      "id": "5R7XiLrYeYAMOkQfGEREQe"
+    },
+    {
+      "artistName": "Rundfunk-Jugendchor und das Rundfunk-Blasorchester Leipzig",
+      "positioning": {
+        "top": 812,
+        "left": 995
+      },
+      "style": {
+        "color": "#697500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=37AmGTcgFd7tgO0sCQgOKH",
+      "id": "37AmGTcgFd7tgO0sCQgOKH"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=jugendchor"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/0HbEsUZEhUiNZwMPzzMk5u"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=jugendchor"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "kinderchor",
+      "positioning": {
+        "top": 0,
+        "left": 300
+      },
+      "style": {
+        "color": "#40a627",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/558392c3005d9cdc37b73f62ce6081946d453dbc",
+        "title": "e.g. Berlin Radio Children's Choir \"Mein Körper gehört mir\"",
+        "trackId": "7IrGrdzthrHVSjVbFAUk7K"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-kinderchor.html#tunnel"
+    },
+    {
+      "genreName": "icelandic choir",
+      "positioning": {
+        "top": 238,
+        "left": 4
+      },
+      "style": {
+        "color": "#36981b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c18e2d9fbae31e1c4df86fc54c8f9391534d27e4",
+        "title": "e.g. Karlakór Reykjavíkur \"Undir Dalanna sól\"",
+        "trackId": "5hmAuY5JF2q1t48JUiWSa0"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-icelandicchoir.html#tunnel"
+    },
+    {
+      "genreName": "kapa haka",
+      "positioning": {
+        "top": 196,
+        "left": 116
+      },
+      "style": {
+        "color": "#448605",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c8f57a4e77b363ebfce1ffa4b91efac46ae2b60",
+        "title": "e.g. St. Joseph's Maori Girls College \"Te Hokinga Mai\"",
+        "trackId": "6hwfQKtBely0EbbNjc4QTq"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-kapahaka.html#tunnel"
+    },
+    {
+      "genreName": "polyphony",
+      "positioning": {
+        "top": 193,
+        "left": 0
+      },
+      "style": {
+        "color": "#3d9f12",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/960dc5bac6dae8387ca80850f333919c60a1e3aa",
+        "title": "e.g. Voci di a Gravona \"Sucietà\"",
+        "trackId": "6Bbdmt1zcZb1yDNW455cht"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-polyphony.html#tunnel"
+    },
+    {
+      "genreName": "albanian iso polyphony",
+      "positioning": {
+        "top": 290,
+        "left": 39
+      },
+      "style": {
+        "color": "#4f9504",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a3de4435572eba0e7e7ac42adcd286f707a44d11",
+        "title": "e.g. Këngë labe \"Balluket e ballit moj\"",
+        "trackId": "3olVZCzBxO4EfXYtmly33X"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-albanianisopolyphony.html#tunnel"
+    },
+    {
+      "genreName": "barbershop",
+      "positioning": {
+        "top": 114,
+        "left": 130
+      },
+      "style": {
+        "color": "#479111",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94096b2735a6ced51ac5cbbdd18b85e57fc95be2",
+        "title": "e.g. Michigan Jake \"I'm Beginning to See the Light\"",
+        "trackId": "78Q9OKjmstmtXVvjicoxNB"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-barbershop.html#tunnel"
+    },
+    {
+      "genreName": "canti alpini",
+      "positioning": {
+        "top": 172,
+        "left": 115
+      },
+      "style": {
+        "color": "#488f23",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6959a8d001b2652df074a01ea987e79dd5b56d4",
+        "title": "e.g. Coro A.N.A. Coste Bianche \"La Tradotta\"",
+        "trackId": "1Zt77VET6cefhYNicbgl5Q"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-cantialpini.html#tunnel"
+    },
+    {
+      "genreName": "caucasian folk",
+      "positioning": {
+        "top": 266,
+        "left": 45
+      },
+      "style": {
+        "color": "#459f43",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/620bb9c4f8730b74ec5713628aebe486c76eadc6",
+        "title": "e.g. Lela Tataraidze \"Tskhrajer chavshale\"",
+        "trackId": "7mpWdvDqim1pah3WVGYqJG"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-caucasianfolk.html#tunnel"
+    },
+    {
+      "genreName": "chant religieux",
+      "positioning": {
+        "top": 159,
+        "left": 28
+      },
+      "style": {
+        "color": "#3fa31e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/35f6799ac332576c70ba745522f764be5d0faa39",
+        "title": "e.g. Fabienne Martet \"Cantique de frère Soleil\"",
+        "trackId": "5iB9IrVCrWVkgAvlidFfbK"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-chantreligieux.html#tunnel"
+    },
+    {
+      "genreName": "classical baritone",
+      "positioning": {
+        "top": 314,
+        "left": 113
+      },
+      "style": {
+        "color": "#34911f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44cf3bcc37a3eb4598ddf4d5d8e21ea161825c32",
+        "title": "e.g. Piero Cappuccilli \"Cavalleria rusticana: \"Il cavallo scalpita\"\"",
+        "trackId": "77zxiTOBQFxv2nq9YKzt2S"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-classicalbaritone.html#tunnel"
+    },
+    {
+      "genreName": "classical bass",
+      "positioning": {
+        "top": 351,
+        "left": 97
+      },
+      "style": {
+        "color": "#369031",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4eac45d26e97f09e6d9decb0707e363b5cd7bf62",
+        "title": "e.g. George London \"Das Rheingold, WWV 86A / Scene 2: \"Auf, Loge, hinab zu mir!...Hehe! Hehe!\"\"",
+        "trackId": "0pT8EyJBlbEYPYc0GLfsUQ"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-classicalbass.html#tunnel"
+    },
+    {
+      "genreName": "classical countertenor",
+      "positioning": {
+        "top": 302,
+        "left": 108
+      },
+      "style": {
+        "color": "#28a016",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb37d7b2d3793999ba72e02b97addd229193d592",
+        "title": "e.g. Bejun Mehta \"Orlando, HWV 31 / Act 1: No. 5 Acc. \"Imagini funeste\" - No. 6 Aria \"Non fu già\"\"",
+        "trackId": "15G14k8tvF53Q5akmsI3NI"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-classicalcountertenor.html#tunnel"
+    },
+    {
+      "genreName": "classical mezzo-soprano",
+      "positioning": {
+        "top": 338,
+        "left": 94
+      },
+      "style": {
+        "color": "#2c9d13",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/537f4aa2521f16930b9ad8600406565fb9814398",
+        "title": "e.g. Fiorenza Cossotto \"Madama Butterfly / Act 2: Una nave da guerra...Scuoti quelle fronda\"",
+        "trackId": "2H4NCqL2WAiU3t7fWNcxUJ"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-classicalmezzosoprano.html#tunnel"
+    },
+    {
+      "genreName": "georgian folk",
+      "positioning": {
+        "top": 250,
+        "left": 36
+      },
+      "style": {
+        "color": "#469f29",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/971ea28e109795c6f2929d21e8d8b5f452e221fa",
+        "title": "e.g. Niaz Diasamidze \"Ai Mtazeda\"",
+        "trackId": "2oPTAEgD5eAlcCrvMk2HQ0"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-georgianfolk.html#tunnel"
+    },
+    {
+      "genreName": "german choir",
+      "positioning": {
+        "top": 302,
+        "left": 6
+      },
+      "style": {
+        "color": "#2e981f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/355c4e55fc74527e810fa237de9cf053a70fbe15",
+        "title": "e.g. RIAS Kammerchor \"St. Matthew Passion, BWV 244, Part I: No. 1, \"Kommt, ihr Töchter, helft mir klagen\" (Chorus I & II)\"",
+        "trackId": "7nVJBlD3jmbaq3w6iv6Ygm"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-germanchoir.html#tunnel"
+    },
+    {
+      "genreName": "irish ballad",
+      "positioning": {
+        "top": 254,
+        "left": 147
+      },
+      "style": {
+        "color": "#37a10c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37d3935270e3ea9d5bf50215627a88e352ef67c4",
+        "title": "e.g. John McCormack \"It's a Long Way to Tipperary\"",
+        "trackId": "4aBBqSZiVocWEuJmmtw9rb"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-irishballad.html#tunnel"
+    },
+    {
+      "genreName": "italian bass",
+      "positioning": {
+        "top": 363,
+        "left": 103
+      },
+      "style": {
+        "color": "#3e8e25",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d4f3e698a38edf3487cd436d8433228be9430858",
+        "title": "e.g. Renato Capecchi \"Il barbiere di Siviglia / Act 1: \"Largo al factotum\" - \"Ah, ah! che bella vita!\" (Figaro / Figaro, Conte, Rosina, Bartolo)\"",
+        "trackId": "3wXwjsQDAsq7MdoFCJ0UlT"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-italianbass.html#tunnel"
+    },
+    {
+      "genreName": "italian tenor",
+      "positioning": {
+        "top": 278,
+        "left": 50
+      },
+      "style": {
+        "color": "#459d1e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b6f6ae2f6b4980d5b5205c0a04f51cbd2c3e6f48",
+        "title": "e.g. Giacomo Lauri Volpi \"Turandot: Nessun dorma (Recorded 1942)\"",
+        "trackId": "6mwCVHkhmc8Vy2vlZBQfmg"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-italiantenor.html#tunnel"
+    },
+    {
+      "genreName": "japanese buddhist chant",
+      "positioning": {
+        "top": 86,
+        "left": 68
+      },
+      "style": {
+        "color": "#449f2b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c12c977c22836aa4cf5858f1e8901afd9c938f75",
+        "title": "e.g. 真言宗派京都青年部 \"般若心経\"",
+        "trackId": "60TYlSwHZyezibO67DupsT"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-japanesebuddhistchant.html#tunnel"
+    },
+    {
+      "genreName": "karntner volksmusik",
+      "positioning": {
+        "top": 326,
+        "left": 24
+      },
+      "style": {
+        "color": "#2da21b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1069739d3d05136565865e1f7d1a92854655db00",
+        "title": "e.g. Kärntner Viergesang \"Dås Radl der Zeit\"",
+        "trackId": "1skvVOvjb02QFV8vaPojWt"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-karntnervolksmusik.html#tunnel"
+    }
+  ]
+}

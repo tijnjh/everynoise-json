@@ -1,0 +1,944 @@
+{
+  "schemaVersion": 3,
+  "genreName": "bangla gojol",
+  "artists": [
+    {
+      "artistName": "Abu Rayhan",
+      "positioning": {
+        "top": 660,
+        "left": 523
+      },
+      "style": {
+        "color": "#46ac00",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4b474deef85f73e3522a8fd32157719bdd3a3e57",
+        "title": "e.g. Abu Rayhan \"Janaza\"",
+        "trackId": "2hBU8Se5GWzZlGAP4g7cuZ"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=7buml4Y2u9QimVcbYN6qvR",
+      "id": "7buml4Y2u9QimVcbYN6qvR"
+    },
+    {
+      "artistName": "Abu ubayda",
+      "positioning": {
+        "top": 678,
+        "left": 133
+      },
+      "style": {
+        "color": "#35ad01",
+        "fontSize": "156%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9df792209ac1219a2846cc0c82ab0571fb0e4cfa",
+        "title": "e.g. Abu ubayda \"Maula Ya Salli Wa Sallim\"",
+        "trackId": "61PDYZpzgv5ck9TgB0lVAe"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1fyFmy2K3SqMhKpFxF1EDv",
+      "id": "1fyFmy2K3SqMhKpFxF1EDv"
+    },
+    {
+      "artistName": "Aqib Farid",
+      "positioning": {
+        "top": 139,
+        "left": 248
+      },
+      "style": {
+        "color": "#569f00",
+        "fontSize": "155%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42c27c6a512de1a921d7161eb7c096d63d38f574",
+        "title": "e.g. Aqib Farid \"Humne Ankhon Se Dekha Nahi Hai Magar Vocals Only\"",
+        "trackId": "7jygz08hk5E8mXA3Uco6TT"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=2V2MmCVPw0B1huWlprmMe2",
+      "id": "2V2MmCVPw0B1huWlprmMe2"
+    },
+    {
+      "artistName": "Ishrak Hussain",
+      "positioning": {
+        "top": 293,
+        "left": 708
+      },
+      "style": {
+        "color": "#38aa04",
+        "fontSize": "149%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/155e3dfc32034e5ba96e4fc04c77c1ea122e6887",
+        "title": "e.g. Ishrak Hussain \"Hera Hote Hele Dule\"",
+        "trackId": "2XRGIUMwxQn8fTVBhpvt4D"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=1CgQ1C02I23920r7CUV74c",
+      "id": "1CgQ1C02I23920r7CUV74c"
+    },
+    {
+      "artistName": "Mazharul Islam",
+      "positioning": {
+        "top": 563,
+        "left": 198
+      },
+      "style": {
+        "color": "#37ab00",
+        "fontSize": "142%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/74f9b49960d6b114d7af8dab43c21c2e1d07ce1e",
+        "title": "e.g. Mazharul Islam \"Sawfa Nabqa Huna\"",
+        "trackId": "2jPSNY47Vnnz5vPywwo7kf"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=0hhj53MFhrl35LbozRaVoZ",
+      "id": "0hhj53MFhrl35LbozRaVoZ"
+    },
+    {
+      "artistName": "Sayed Ahmad",
+      "positioning": {
+        "top": 400,
+        "left": 843
+      },
+      "style": {
+        "color": "#5fa200",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c1bd45ced04e452ad8f0fe0d11149c36c2c2f19",
+        "title": "e.g. Sayed Ahmad \"Gorecho Tumi Ei Prithibi Jahan\"",
+        "trackId": "2ck2XAZleY5k0PQSUt0Uti"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=7iwrYrLJSmjWGYmXmqi2vt",
+      "id": "7iwrYrLJSmjWGYmXmqi2vt"
+    },
+    {
+      "artistName": "Kalarab Shilpigosthi",
+      "positioning": {
+        "top": 432,
+        "left": 963
+      },
+      "style": {
+        "color": "#5ba301",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/90601b8521762144fa4325c734fcf89f40be6421",
+        "title": "e.g. Kalarab Shilpigosthi \"Elo Mahe Ramjan\"",
+        "trackId": "2jmqQ8fZykjjs2Gg66oYbC"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=2EZ4e6nlli4GahfF2j2OgB",
+      "id": "2EZ4e6nlli4GahfF2j2OgB"
+    },
+    {
+      "artistName": "Mahfuzul Alam",
+      "positioning": {
+        "top": 531,
+        "left": 733
+      },
+      "style": {
+        "color": "#3eab00",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a38ada17d0d93426fab444300bc8a4a7242c0f4",
+        "title": "e.g. Mahfuzul Alam \"Hridoy Majhe Mala Gathi (Kalarab)\"",
+        "trackId": "07GDqWh5UFtOppUvYvhW5S"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=1EpnfEMy1pJopPWg3ZdZCO",
+      "id": "1EpnfEMy1pJopPWg3ZdZCO"
+    },
+    {
+      "artistName": "Muhammad Badruzzaman",
+      "positioning": {
+        "top": 503,
+        "left": 728
+      },
+      "style": {
+        "color": "#59a300",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f8b4d6f242acd9c0d252cd2b63edaba0613e92a",
+        "title": "e.g. Muhammad Badruzzaman \"Hasbi Rabbi Jallallah (Kalarab)\"",
+        "trackId": "1VCE38ryTOZtYT8WCQyuRx"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=0U9NJ8msAQ4aOsDokeLzjy",
+      "id": "0U9NJ8msAQ4aOsDokeLzjy"
+    },
+    {
+      "artistName": "Munaem Billah",
+      "positioning": {
+        "top": 471,
+        "left": 208
+      },
+      "style": {
+        "color": "#40ab00",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b844af946315ebb3e352ec0b532717adf4c12fb5",
+        "title": "e.g. Munaem Billah \"Meherban\"",
+        "trackId": "3vGHne7I2jSMFZnyNoQGmq"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=7mbuWQqocHoLSjXWsIveMl",
+      "id": "7mbuWQqocHoLSjXWsIveMl"
+    },
+    {
+      "artistName": "Tawhid Jamil",
+      "positioning": {
+        "top": 382,
+        "left": 788
+      },
+      "style": {
+        "color": "#54a600",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b77dc9553d16052c63ea31fadb46a80c9f821123",
+        "title": "e.g. Tawhid Jamil \"Madina\"",
+        "trackId": "0RvGpa6WdCYxZ4Afo34T4F"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=2syZXQqOLhiyDRGUt2ShV3",
+      "id": "2syZXQqOLhiyDRGUt2ShV3"
+    },
+    {
+      "artistName": "Mahfuz Kalarab",
+      "positioning": {
+        "top": 642,
+        "left": 498
+      },
+      "style": {
+        "color": "#43ac00",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c47d97adcc50c7f275fd3f21acb4247e6beefd6",
+        "title": "e.g. Mahfuz Kalarab \"Kalima Nosibe Mor Dio\"",
+        "trackId": "1f171nkGSl5mVHIJJ65v6B"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=0zeb7j7xBJ7lHmPikuA6Mo",
+      "id": "0zeb7j7xBJ7lHmPikuA6Mo"
+    },
+    {
+      "artistName": "Baapon",
+      "positioning": {
+        "top": 0,
+        "left": 808
+      },
+      "style": {
+        "color": "#25b31f",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b13c5b16bbefc3affbda54e7b697beaf45cd86a",
+        "title": "e.g. Baapon \"Muhammad Er Nam Jopechili\"",
+        "trackId": "5im9q0wWpULiM89sXj5ffw"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=2H3LWhLucDGBVPOIJLWUNv",
+      "id": "2H3LWhLucDGBVPOIJLWUNv"
+    },
+    {
+      "artistName": "TS Records",
+      "positioning": {
+        "top": 551,
+        "left": 1043
+      },
+      "style": {
+        "color": "#44b200",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a383e537d740ccc415243a50f64df8dcf2f9aad",
+        "title": "e.g. TS Records \"Prithibi Amar Asol Thikana Noy\"",
+        "trackId": "7sTKIEWBqvCThB5cQ4WPoV"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=0Bjx5pALtYQhltmgDXwegZ",
+      "id": "0Bjx5pALtYQhltmgDXwegZ"
+    },
+    {
+      "artistName": "Iqbal Hj",
+      "positioning": {
+        "top": 115,
+        "left": 573
+      },
+      "style": {
+        "color": "#809a00",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4c90a9d08dc4591f0ee46c48f4c0c13258049c3",
+        "title": "e.g. Iqbal Hj \"Hasbi Rabbi\"",
+        "trackId": "1nM6EHlo1zB6PZVoxcE4Ni"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=2NALVoOpHBh9tB9cgp5kGn",
+      "id": "2NALVoOpHBh9tB9cgp5kGn"
+    },
+    {
+      "artistName": "Sadman Sakib",
+      "positioning": {
+        "top": 619,
+        "left": 808
+      },
+      "style": {
+        "color": "#30a700",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1a07a45e44288cdd8caa3337f5aa83f8769f189",
+        "title": "e.g. Sadman Sakib \"Muhammad Mustafa Salli Ala\"",
+        "trackId": "3zysGTmRVwfLeROHFcs5gh"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=50fD2hc0Uyah6oZM6lnuLK",
+      "id": "50fD2hc0Uyah6oZM6lnuLK"
+    },
+    {
+      "artistName": "Jaima Noor",
+      "positioning": {
+        "top": 731,
+        "left": 768
+      },
+      "style": {
+        "color": "#37b100",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/636cfeb54ec9d07e3b23ce4749b1437bd8eb1ec5",
+        "title": "e.g. Jaima Noor \"Quraner Mohasur\"",
+        "trackId": "2HLozdvqaSoiwMgRV72CaA"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=18QWW2LbResMBAuiY9rSuV",
+      "id": "18QWW2LbResMBAuiY9rSuV"
+    },
+    {
+      "artistName": "Iqbal Mahmud",
+      "positioning": {
+        "top": 571,
+        "left": 553
+      },
+      "style": {
+        "color": "#4baa00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/39f267e6fa9fa8e3bd9aae408674222fa270ea0b",
+        "title": "e.g. Iqbal Mahmud \"Mohammad\"",
+        "trackId": "07jPUvwVOfdnxYVO596JLG"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=6BGRMGj0MsHgkTzWcsahOt",
+      "id": "6BGRMGj0MsHgkTzWcsahOt"
+    },
+    {
+      "artistName": "Tarek Monawar",
+      "positioning": {
+        "top": 859,
+        "left": 503
+      },
+      "style": {
+        "color": "#4aa300",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/607b5bc5dd84347681c04db038ddd18ca68f1485",
+        "title": "e.g. Tarek Monawar \"Jete Sonar Madina\"",
+        "trackId": "0tFNy2vmAXlOTGrOoWbK3G"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=2T3BYAtJf01mR0swUMgvUE",
+      "id": "2T3BYAtJf01mR0swUMgvUE"
+    },
+    {
+      "artistName": "Ahmod Abdullah",
+      "positioning": {
+        "top": 554,
+        "left": 838
+      },
+      "style": {
+        "color": "#3aad00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f80e0867357ee4a17156eb35eb4e7cb2ce74f67",
+        "title": "e.g. Ahmod Abdullah \"Jazakallah\"",
+        "trackId": "4Iaps8MNk9lFwtxwVP6X25"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=5B0DgeDDQ607RvgyySEMD1",
+      "id": "5B0DgeDDQ607RvgyySEMD1"
+    },
+    {
+      "artistName": "Moyaj Ali",
+      "positioning": {
+        "top": 619,
+        "left": 918
+      },
+      "style": {
+        "color": "#3cb400",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16e50513411de1f255701bcc7fdce516d98223a7",
+        "title": "e.g. Moyaj Ali \"Salam Salam Hajar Salam\"",
+        "trackId": "4PObzDMRgxNVNuyIugxuyU"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=5PhEdnFkztLnycc0iwuIH6",
+      "id": "5PhEdnFkztLnycc0iwuIH6"
+    },
+    {
+      "artistName": "Rokonuzzaman",
+      "positioning": {
+        "top": 811,
+        "left": 718
+      },
+      "style": {
+        "color": "#43ac00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8b520e960d7b87bcd83897a939244d301892065a",
+        "title": "e.g. Rokonuzzaman \"Allah Tomay Dakar Moto, Vol. 1\"",
+        "trackId": "4U5nMqCoSYl5VhiXnGTXAS"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=45ulDGKCLdtkvsF0zVews8",
+      "id": "45ulDGKCLdtkvsF0zVews8"
+    },
+    {
+      "artistName": "Iqbal Hossain Jibon",
+      "positioning": {
+        "top": 56,
+        "left": 593
+      },
+      "style": {
+        "color": "#859a00",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0bea90874a8f8dea9a5b17769c35b6dd7d5e9c02",
+        "title": "e.g. Iqbal Hossain Jibon \"Hotasha Voice\"",
+        "trackId": "3X1DNsUoLcrXI9sJDfufOX"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=0c7dLwwXiVv3bbg8LoPjQz",
+      "id": "0c7dLwwXiVv3bbg8LoPjQz"
+    },
+    {
+      "artistName": "Saifullah Mansur",
+      "positioning": {
+        "top": 660,
+        "left": 718
+      },
+      "style": {
+        "color": "#3e9800",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/412900d531bcd123acbce66abc869e72768a321d",
+        "title": "e.g. Saifullah Mansur \"Tumi Rohoman Tumi Meherban\"",
+        "trackId": "2ypezkx9xCxjrXH3BBiQvE"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=7mBiJNd32MzUpF85MWeY85",
+      "id": "7mBiJNd32MzUpF85MWeY85"
+    },
+    {
+      "artistName": "Saimum Shilpigosthi",
+      "positioning": {
+        "top": 767,
+        "left": 783
+      },
+      "style": {
+        "color": "#579a09",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/204e544c0a29af2bd4556b9b2c9fb914cd1dd69f",
+        "title": "e.g. Saimum Shilpigosthi \"He Prio Rasul\"",
+        "trackId": "6F5XVAy9dq64HPyIZWDLQz"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=703U768QA3YpHVxPR7n7UA",
+      "id": "703U768QA3YpHVxPR7n7UA"
+    },
+    {
+      "artistName": "i Studio",
+      "positioning": {
+        "top": 438,
+        "left": 33
+      },
+      "style": {
+        "color": "#4ea404",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/777cf12883a980cbfa3daa9598a3c1fb54d80ad6",
+        "title": "e.g. i Studio \"ঐ খুঁটিহীন নীল আকাশ ভূবন মাঝে\"",
+        "trackId": "39HvRThjr33AG0ToRZkcPW"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=64dRSTBKTLaK8evFIzgurF",
+      "id": "64dRSTBKTLaK8evFIzgurF"
+    },
+    {
+      "artistName": "Suraiya Akter Saifa",
+      "positioning": {
+        "top": 450,
+        "left": 1391
+      },
+      "style": {
+        "color": "#4ab500",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8139e98cfc6784ace4f1b53b9162d7ef103f3bca",
+        "title": "e.g. Suraiya Akter Saifa \"Rahman Ya Rahman\"",
+        "trackId": "2GTJzc5Is8ldOuz6R97lIU"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=17C6YMnJ1qtq8EaPaThXZQ",
+      "id": "17C6YMnJ1qtq8EaPaThXZQ"
+    },
+    {
+      "artistName": "Sheikh Anam",
+      "positioning": {
+        "top": 773,
+        "left": 143
+      },
+      "style": {
+        "color": "#26ab00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/977830c5bb6f50ff3b8548f715a08a7cc24249d6",
+        "title": "e.g. Sheikh Anam \"Ek Roz Mominon\"",
+        "trackId": "6tZSDSOUfIDgmTqjO3yQSn"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=5wGuo7jEzShphzDuPp7m90",
+      "id": "5wGuo7jEzShphzDuPp7m90"
+    },
+    {
+      "artistName": "Fazle Elahi Sakib",
+      "positioning": {
+        "top": 530,
+        "left": 353
+      },
+      "style": {
+        "color": "#4aaa00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1acc15625581f9f8489e428e064609b3528d475f",
+        "title": "e.g. Fazle Elahi Sakib \"Bondho Duar\"",
+        "trackId": "1XGmWDVG9svpXBPcklNp9Y"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=2yZnjv6rHPNF6JVXEBx2IV",
+      "id": "2yZnjv6rHPNF6JVXEBx2IV"
+    },
+    {
+      "artistName": "Mosiur Rahman",
+      "positioning": {
+        "top": 787,
+        "left": 908
+      },
+      "style": {
+        "color": "#5c9a00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9dc2a14c4798df80e51ec11109f34b218861f48c",
+        "title": "e.g. Mosiur Rahman \"Dao Khoda Dao\"",
+        "trackId": "3ZqCsAPadXZWUcskPEwLxN"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=6B3oVfHhXNhi0o3EzwMaf0",
+      "id": "6B3oVfHhXNhi0o3EzwMaf0"
+    },
+    {
+      "artistName": "Abul Ala Masum",
+      "positioning": {
+        "top": 571,
+        "left": 888
+      },
+      "style": {
+        "color": "#4eaa00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aaeb87e454b0e09bd1b57ffe430642c2b107609a",
+        "title": "e.g. Abul Ala Masum \"Choy Din Pore Nokh Khose Zabe\"",
+        "trackId": "74iZZefnRz1Qndf9B0DpTO"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=3MbYOEmj3Kji319FYQJcqi",
+      "id": "3MbYOEmj3Kji319FYQJcqi"
+    },
+    {
+      "artistName": "Humayra Afrin Era",
+      "positioning": {
+        "top": 450,
+        "left": 718
+      },
+      "style": {
+        "color": "#55a900",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0250db6b1b620bc8a806be1aef48ac1472e2ffba",
+        "title": "e.g. Humayra Afrin Era \"Shoheed Cheler Maa\"",
+        "trackId": "45TCqjdX3pgDXEkKmqb4bN"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=0SuSt7n5DoygXt2xYQNb6t",
+      "id": "0SuSt7n5DoygXt2xYQNb6t"
+    },
+    {
+      "artistName": "Mahfuzul Alam",
+      "positioning": {
+        "top": 542,
+        "left": 863
+      },
+      "style": {
+        "color": "#46a800",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ba67f4266c1e1a644a87cc242ac004609e9865e",
+        "title": "e.g. Mahfuzul Alam \"Apon Kare Vabo Tumi\"",
+        "trackId": "70k5OVryfnWNR5Wv3nP0Io"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=7t1s2OxGcsxFPVuhS1XN9l",
+      "id": "7t1s2OxGcsxFPVuhS1XN9l"
+    },
+    {
+      "artistName": "Obydullah Tarek",
+      "positioning": {
+        "top": 678,
+        "left": 848
+      },
+      "style": {
+        "color": "#56a300",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8635ff500ab5b80d7799454ee4ca3d5ad5ec7d07",
+        "title": "e.g. Obydullah Tarek \"Tumi Asmane Thako Provu\"",
+        "trackId": "10SlU1Xuoz1svdXplfwbg7"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=0LSIfiMvClxeLgHvgo7oYJ",
+      "id": "0LSIfiMvClxeLgHvgo7oYJ"
+    },
+    {
+      "artistName": "Aynuddin Al Azad",
+      "positioning": {
+        "top": 835,
+        "left": 833
+      },
+      "style": {
+        "color": "#62a010",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d687b4518c7b453d1c8188d42184bff208cf377d",
+        "title": "e.g. Aynuddin Al Azad \"Bondhu\"",
+        "trackId": "580bZcrkzIU8otTEhhEO75"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=6ngQzEgAy9SXUBBcuEEFWx",
+      "id": "6ngQzEgAy9SXUBBcuEEFWx"
+    },
+    {
+      "artistName": "Muhibbur Rahman Khan",
+      "positioning": {
+        "top": 234,
+        "left": 1400
+      },
+      "style": {
+        "color": "#828b00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c3f8578bacbc05086dc898daa4ef9f3f93c533a3",
+        "title": "e.g. Muhibbur Rahman Khan \"Allahu Allahu\"",
+        "trackId": "5oOZkUTHrC8LBwfiXUe93g"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=6FQYE1OVZ8XTxfvKyHgiki",
+      "id": "6FQYE1OVZ8XTxfvKyHgiki"
+    },
+    {
+      "artistName": "Nasif Muhammad",
+      "positioning": {
+        "top": 397,
+        "left": 0
+      },
+      "style": {
+        "color": "#25ac31",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e99ebfae8ea404821124ee0aa1f9123a5393a52e",
+        "title": "e.g. Nasif Muhammad \"Shunechi Azan\"",
+        "trackId": "40ZEX6ST95JT2UIDfNrlNa"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=4hZg3PUsdEh6TCru1OBz2N",
+      "id": "4hZg3PUsdEh6TCru1OBz2N"
+    },
+    {
+      "artistName": "Ahnaf Khalid",
+      "positioning": {
+        "top": 468,
+        "left": 823
+      },
+      "style": {
+        "color": "#4fa800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a3024da0b88775677212dec27e7248296db6ff2",
+        "title": "e.g. Ahnaf Khalid \"Chole Jabo Ekdin\"",
+        "trackId": "1Z6XwquPmVfx79Jp5QniQs"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=5jy2d8AgpqLlWCJTte3Oa0",
+      "id": "5jy2d8AgpqLlWCJTte3Oa0"
+    },
+    {
+      "artistName": "Didarul Islam",
+      "positioning": {
+        "top": 518,
+        "left": 713
+      },
+      "style": {
+        "color": "#3eab00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb17d0d94b8a434915b26d80995acb1a136bfe00",
+        "title": "e.g. Didarul Islam \"Najater Bani\"",
+        "trackId": "7qCQhEHSyrP1e6LdclIwby"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=4ql9mD7WsL8g0qHvWLplLI",
+      "id": "4ql9mD7WsL8g0qHvWLplLI"
+    },
+    {
+      "artistName": "Md Aminul Islam",
+      "positioning": {
+        "top": 680,
+        "left": 523
+      },
+      "style": {
+        "color": "#25b100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b82cc7b83b6f33987c259cb767ced37b8c88d26f",
+        "title": "e.g. Md Aminul Islam \"Allahu Allahu\"",
+        "trackId": "2wXAI8fjW644yNBiFLn0g1"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=3ZUukLQ4BE75SVrDzDmCs1",
+      "id": "3ZUukLQ4BE75SVrDzDmCs1"
+    },
+    {
+      "artistName": "Al Amin Saad",
+      "positioning": {
+        "top": 592,
+        "left": 428
+      },
+      "style": {
+        "color": "#54a600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1cc12b88ee8727cb6246437a8e1b4aa47414cd92",
+        "title": "e.g. Al Amin Saad \"Mohammad Mostafa\"",
+        "trackId": "2lvUUBkx7BzGJlBvwiP012"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=6dIBkZ9BuuOlpojS4j1FC2",
+      "id": "6dIBkZ9BuuOlpojS4j1FC2"
+    },
+    {
+      "artistName": "Tahsinul Islam",
+      "positioning": {
+        "top": 628,
+        "left": 478
+      },
+      "style": {
+        "color": "#4caa00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/03287eff5ab026b6ac6a78950a03edabc8682435",
+        "title": "e.g. Tahsinul Islam \"Ke Gorechen Akash Mati\"",
+        "trackId": "0217h3s8wGoZSOoutwHOpA"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=6DR6kNg6ZLCya7piqvdTXv",
+      "id": "6DR6kNg6ZLCya7piqvdTXv"
+    },
+    {
+      "artistName": "Ehsaan Tahmid",
+      "positioning": {
+        "top": 722,
+        "left": 568
+      },
+      "style": {
+        "color": "#3baf00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/969734647eb47a5c95b7c58791c94eada9e50a4c",
+        "title": "e.g. Ehsaan Tahmid \"Isn't It so Funny\"",
+        "trackId": "1Z7sxqHMolBjESPEIZCxCG"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=6xD9epVxHw6HDP3pBkUGMB",
+      "id": "6xD9epVxHw6HDP3pBkUGMB"
+    },
+    {
+      "artistName": "Tanvir Khan",
+      "positioning": {
+        "top": 92,
+        "left": 1396
+      },
+      "style": {
+        "color": "#65aa00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47b84a70b0ccc644519a0d55aa6259925e5a50fc",
+        "title": "e.g. Tanvir Khan \"Priyo Kore Nao\"",
+        "trackId": "0D0PBaz2lWfXmwCBm3AjKs"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=0brLsHOhh7GNPiUOJW2vMk",
+      "id": "0brLsHOhh7GNPiUOJW2vMk"
+    },
+    {
+      "artistName": "Rajiya Risha",
+      "positioning": {
+        "top": 900,
+        "left": 723
+      },
+      "style": {
+        "color": "#26ba00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee15da469fe1bfe3878cc94e2c9c9f9519603b65",
+        "title": "e.g. Rajiya Risha \"Baba mane hajar\"",
+        "trackId": "1awRW7Fnk3gEwku1VZnwTK"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=1LfGFLxw7v2WoUWp0xt9x4",
+      "id": "1LfGFLxw7v2WoUWp0xt9x4"
+    },
+    {
+      "artistName": "Abdullah Al Muazz Rifat",
+      "positioning": {
+        "top": 692,
+        "left": 613
+      },
+      "style": {
+        "color": "#3dac00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c52b1145775cd5e721c32c29789490822eb77bee",
+        "title": "e.g. Abdullah Al Muazz Rifat \"Subhanallah\"",
+        "trackId": "58UUnT9JcqHTSvzxWFjqqe"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=6hPukulXhm6LJvz2cUXeC6",
+      "id": "6hPukulXhm6LJvz2cUXeC6"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=bangla%20gojol"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4l9Au9k4gNnPq5curJUKRz"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0Ncevy1gH1XOv8cYorYciB"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2gZiyyiEVC5kPo63MVEjMw"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=bangla%20gojol"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "fado antigo",
+      "positioning": {
+        "top": 300,
+        "left": 127
+      },
+      "style": {
+        "color": "#43a211",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/43d5cc1b8fee96ace70882e143a7567cac33f62c",
+        "title": "e.g. Fernando Farinha \"Menina do Rés-Do-Chão\"",
+        "trackId": "0hyRoNCaTUHeq1XMOTGPfs"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-fadoantigo.html#tunnel"
+    },
+    {
+      "genreName": "zikir",
+      "positioning": {
+        "top": 0,
+        "left": 0
+      },
+      "style": {
+        "color": "#4fa102",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/252ba0c2f70cb3d5aa3b93726fdfedf84987c335",
+        "title": "e.g. Ustaz Akhil Hayy \"Solatullah Salamullah\"",
+        "trackId": "2UFX4cLOlb8HYTY80COvhI"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-zikir.html#tunnel"
+    }
+  ]
+}

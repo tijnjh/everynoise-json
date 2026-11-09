@@ -1,0 +1,1792 @@
+{
+  "schemaVersion": 3,
+  "genreName": "guitar case",
+  "artists": [
+    {
+      "artistName": "Jesse Rice",
+      "positioning": {
+        "top": 311,
+        "left": 607
+      },
+      "style": {
+        "color": "#ae8f00",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95427ae7dca8149ce188ecfe64d1ff18736c198c",
+        "title": "e.g. Jesse Rice \"Key West Time\"",
+        "trackId": "6OMrxjkARz7GpSLn5HTrp2"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=053e8lWzA8BFhruid11TKQ",
+      "id": "053e8lWzA8BFhruid11TKQ"
+    },
+    {
+      "artistName": "Nathan Finfrock",
+      "positioning": {
+        "top": 318,
+        "left": 9
+      },
+      "style": {
+        "color": "#b98000",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cffcffdda6d54dae159417d95e78039b27242015",
+        "title": "e.g. Nathan Finfrock \"The One I Hold\"",
+        "trackId": "3ZOavVnHBZvVrXTHyMbEHc"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1DBY3eatp0YEIcmcWbiAnj",
+      "id": "1DBY3eatp0YEIcmcWbiAnj"
+    },
+    {
+      "artistName": "Jordan Janzen",
+      "positioning": {
+        "top": 369,
+        "left": 39
+      },
+      "style": {
+        "color": "#b18000",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d52b10524a9007f591360d65bb0c6caeeb04e762",
+        "title": "e.g. Jordan Janzen \"You Can Let Go\"",
+        "trackId": "6pXZZFklknM2X5x3sDFtHY"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=1F02L0YGC3v6gOqgvdPrg1",
+      "id": "1F02L0YGC3v6gOqgvdPrg1"
+    },
+    {
+      "artistName": "Matt Stamm",
+      "positioning": {
+        "top": 503,
+        "left": 721
+      },
+      "style": {
+        "color": "#889a0f",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/314289b69c5c06db1f1481e6e706f892c169e9bd",
+        "title": "e.g. Matt Stamm \"I've Just Seen a Face\"",
+        "trackId": "6Hly2x3jKeb99v82NL0fef"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=4t3QtQnT3emUEkqZvBNvpP",
+      "id": "4t3QtQnT3emUEkqZvBNvpP"
+    },
+    {
+      "artistName": "Kip Fox",
+      "positioning": {
+        "top": 624,
+        "left": 679
+      },
+      "style": {
+        "color": "#6e9d00",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fb723e8c41eea183997acbfacfe9db1dbc30e0af",
+        "title": "e.g. Kip Fox \"Right Time\"",
+        "trackId": "1bRZCUycgi7acUlwkljqQT"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=5rXHpjfFpvvdsI2XxbFShf",
+      "id": "5rXHpjfFpvvdsI2XxbFShf"
+    },
+    {
+      "artistName": "Jared Campbell",
+      "positioning": {
+        "top": 331,
+        "left": 710
+      },
+      "style": {
+        "color": "#968c00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1edb6bd02f7f1ec36d02b74afafa67fbb3c24b1a",
+        "title": "e.g. Jared Campbell \"The Superhero Song\"",
+        "trackId": "42PYS20EwPWc3wOW1Cindd"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=2l9FRIhVfQlIFrfp5Vb3hS",
+      "id": "2l9FRIhVfQlIFrfp5Vb3hS"
+    },
+    {
+      "artistName": "Marc Ribler",
+      "positioning": {
+        "top": 229,
+        "left": 196
+      },
+      "style": {
+        "color": "#ba8004",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c568ee0bfbfaaa44f9975483ccd60b3ad21f771",
+        "title": "e.g. Marc Ribler \"Dick Cavett\"",
+        "trackId": "1z8zPfp5OHXg9hE6BQGyND"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=1hTO4UBjuz3bC25LS3CLml",
+      "id": "1hTO4UBjuz3bC25LS3CLml"
+    },
+    {
+      "artistName": "Luke Boor",
+      "positioning": {
+        "top": 303,
+        "left": 459
+      },
+      "style": {
+        "color": "#988f00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a8c64cf354797fc88a8214be02e536ea8355a87",
+        "title": "e.g. Luke Boor \"Queens\"",
+        "trackId": "2GFkYVsrC5h1fsrrUsAPhf"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=1h18WVcpIia9bavkcuy7bl",
+      "id": "1h18WVcpIia9bavkcuy7bl"
+    },
+    {
+      "artistName": "Jason Adamo",
+      "positioning": {
+        "top": 472,
+        "left": 481
+      },
+      "style": {
+        "color": "#ad7a00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c8cbc4fb23ab9028bdb8afa920c882e383e741c5",
+        "title": "e.g. Jason Adamo \"All I Need\"",
+        "trackId": "2RdXzLYF4zKGA3lZXygHfL"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=5GoAmJIcLMpBXDxiVlltsW",
+      "id": "5GoAmJIcLMpBXDxiVlltsW"
+    },
+    {
+      "artistName": "Josh Halverson",
+      "positioning": {
+        "top": 617,
+        "left": 523
+      },
+      "style": {
+        "color": "#6a9801",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a79b87d42e540d86b9d6e2d6589ceef919db08f3",
+        "title": "e.g. Josh Halverson \"House Of The Rising Sun - The Voice Performance\"",
+        "trackId": "65Q73NfmnD6g354gLHHBtI"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=02CTDFMSqrERKLmymVuSGy",
+      "id": "02CTDFMSqrERKLmymVuSGy"
+    },
+    {
+      "artistName": "Jim Gaven",
+      "positioning": {
+        "top": 359,
+        "left": 862
+      },
+      "style": {
+        "color": "#759d42",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c15b59340a0aee4e1b1440b3495b57073c0306a6",
+        "title": "e.g. Jim Gaven \"Make This Moment Last\"",
+        "trackId": "60g5x89cjtYUoO9F6toNP2"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=6SgmZpojENypJiRXqZu9Q9",
+      "id": "6SgmZpojENypJiRXqZu9Q9"
+    },
+    {
+      "artistName": "Taylor Carson",
+      "positioning": {
+        "top": 473,
+        "left": 748
+      },
+      "style": {
+        "color": "#929403",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8b8d69bee745394a17092ea54af20dbde381c45e",
+        "title": "e.g. Taylor Carson \"Tucson\"",
+        "trackId": "4xlv7EYQVQW77AsmjEan5q"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=2O8wUq3dZLFKCwylQnLo0g",
+      "id": "2O8wUq3dZLFKCwylQnLo0g"
+    },
+    {
+      "artistName": "Scott Celani",
+      "positioning": {
+        "top": 216,
+        "left": 618
+      },
+      "style": {
+        "color": "#b57800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b78234cf1491100649233338b5ff36d4e75b1c6c",
+        "title": "e.g. Scott Celani \"Christmas By The Lake\"",
+        "trackId": "2zEQcCNsSrtYvAziT5mT7g"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6joy5EnuTbswzxoUxsQvdA",
+      "id": "6joy5EnuTbswzxoUxsQvdA"
+    },
+    {
+      "artistName": "Eren Cannata",
+      "positioning": {
+        "top": 372,
+        "left": 744
+      },
+      "style": {
+        "color": "#8e8b04",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f47372a06580e596edde100c0b527e4f3dc38bbf",
+        "title": "e.g. Eren Cannata \"(lol)\"",
+        "trackId": "4DS2UXeR2V5W7R9aype6t1"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=41RREi0dkr25wYIjgL6O69",
+      "id": "41RREi0dkr25wYIjgL6O69"
+    },
+    {
+      "artistName": "Pete Mroz",
+      "positioning": {
+        "top": 694,
+        "left": 451
+      },
+      "style": {
+        "color": "#649e04",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f3211f1256a75046e8313382bebfac528b0e15c8",
+        "title": "e.g. Pete Mroz \"We Belong - The Voice Performance\"",
+        "trackId": "4jjC6tPCx1y7EuE7lJW4oy"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=6f10SSRtdYXf2bqMfSAMdH",
+      "id": "6f10SSRtdYXf2bqMfSAMdH"
+    },
+    {
+      "artistName": "Craig Demelo",
+      "positioning": {
+        "top": 580,
+        "left": 607
+      },
+      "style": {
+        "color": "#819000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd8cf078d62b10184cf89fab421eb343d33441a8",
+        "title": "e.g. Craig Demelo \"Sweet Hangover\"",
+        "trackId": "35qK38ngxuxFlbH379y82i"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=2atNql2gfGDAts3aUCDNkk",
+      "id": "2atNql2gfGDAts3aUCDNkk"
+    },
+    {
+      "artistName": "Phil Marshall",
+      "positioning": {
+        "top": 502,
+        "left": 325
+      },
+      "style": {
+        "color": "#839628",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/997346e81bcd051e2d01084fba7545620be52684",
+        "title": "e.g. Phil Marshall \"Come Over Here\"",
+        "trackId": "4Lb3XOF4GFg6RS6yD0wCdP"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=7E8P9rxicDcBT3dKg0sjYS",
+      "id": "7E8P9rxicDcBT3dKg0sjYS"
+    },
+    {
+      "artistName": "Qwill",
+      "positioning": {
+        "top": 385,
+        "left": 786
+      },
+      "style": {
+        "color": "#9b9128",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c445820b24160674b429d53b0b116c582da2bd5",
+        "title": "e.g. Qwill \"CTRL\"",
+        "trackId": "76OcALhESwhtpuZlCt1ccH"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=7HyoLiaxCYKsg4SkpQqj7r",
+      "id": "7HyoLiaxCYKsg4SkpQqj7r"
+    },
+    {
+      "artistName": "Landon Smith",
+      "positioning": {
+        "top": 458,
+        "left": 843
+      },
+      "style": {
+        "color": "#749f00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e7331e2af981bf59bfffb35fa0bf0001d12d8a6",
+        "title": "e.g. Landon Smith \"Already Down (Acoustic Version)\"",
+        "trackId": "2tO5BW5gc6JSCoJnKuzY6Q"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=6k4O7CoxeUfhbmJJsV7THb",
+      "id": "6k4O7CoxeUfhbmJJsV7THb"
+    },
+    {
+      "artistName": "Steve Gregory",
+      "positioning": {
+        "top": 0,
+        "left": 1384
+      },
+      "style": {
+        "color": "#d17d3d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0e46f9b7d56d6cfd6fbe36d025cf3ce1a0c7dcfb",
+        "title": "e.g. Steve Gregory \"On the Radio - House Bros Vocal Mix\"",
+        "trackId": "06zAZMMtYln99fhJgqEqFv"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3sYUshUPuwqlWqIGIOhfEq",
+      "id": "3sYUshUPuwqlWqIGIOhfEq"
+    },
+    {
+      "artistName": "David Thiele",
+      "positioning": {
+        "top": 347,
+        "left": 557
+      },
+      "style": {
+        "color": "#9d8d22",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/61548333ac5d0f11f1a5cb6a5947995c03e971a1",
+        "title": "e.g. David Thiele \"Fall For Love\"",
+        "trackId": "3PuFrGFexZu7fUZCVFGmBO"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=2t2vqNEkJxz2bK3FG3aiYM",
+      "id": "2t2vqNEkJxz2bK3FG3aiYM"
+    },
+    {
+      "artistName": "Nate McDonough",
+      "positioning": {
+        "top": 193,
+        "left": 645
+      },
+      "style": {
+        "color": "#a48b00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9c8210254029fd3b18e971c63bb1f50889f3e00",
+        "title": "e.g. Nate McDonough \"Breathe\"",
+        "trackId": "5hhTZhTQQTJDk3CVxbLCaV"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=5pufamR9PmnKIRu5jbw1uz",
+      "id": "5pufamR9PmnKIRu5jbw1uz"
+    },
+    {
+      "artistName": "Nate Schierman",
+      "positioning": {
+        "top": 658,
+        "left": 413
+      },
+      "style": {
+        "color": "#739945",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/221f525648347ed5308a7281bc983e1f02446062",
+        "title": "e.g. Nate Schierman \"Necessary\"",
+        "trackId": "7LKLg83HELOs1pxuirmxUM"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1zcQjQ1Gpmxxko5w2GdZFP",
+      "id": "1zcQjQ1Gpmxxko5w2GdZFP"
+    },
+    {
+      "artistName": "Joe Cameron",
+      "positioning": {
+        "top": 259,
+        "left": 698
+      },
+      "style": {
+        "color": "#a38601",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/781499f17a0981cdf0b0fb46e9aa8edda4f8a892",
+        "title": "e.g. Joe Cameron \"Fallin'\"",
+        "trackId": "4SAtxbUiEdqllKjz3MjlZB"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=2UedS2CYljDoSFtBxFjgAi",
+      "id": "2UedS2CYljDoSFtBxFjgAi"
+    },
+    {
+      "artistName": "Mikal Blue",
+      "positioning": {
+        "top": 280,
+        "left": 192
+      },
+      "style": {
+        "color": "#9f9000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d402a7bc52ba8b798cf9db6e7e3a40e5daa69cf",
+        "title": "e.g. Mikal Blue \"Gold\"",
+        "trackId": "04pRDbryRfeyysaFHfqRVU"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2o4opMdnfioclB47Mo61CB",
+      "id": "2o4opMdnfioclB47Mo61CB"
+    },
+    {
+      "artistName": "James Kinne",
+      "positioning": {
+        "top": 540,
+        "left": 862
+      },
+      "style": {
+        "color": "#80903b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0cefc781c2b02560285969ce7819dd86102404f",
+        "title": "e.g. James Kinne \"Reaching Towards Dawn\"",
+        "trackId": "2jQEhQnpNVwS04ZhqEjnPH"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=75w47DCZZCwZAVTFuvcvA4",
+      "id": "75w47DCZZCwZAVTFuvcvA4"
+    },
+    {
+      "artistName": "Jim Mullin",
+      "positioning": {
+        "top": 383,
+        "left": 599
+      },
+      "style": {
+        "color": "#99900b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a47e44d3a27d8c7ee12f33a20daa5b6154ed44c1",
+        "title": "e.g. Jim Mullin \"Another Minute\"",
+        "trackId": "10n2ixzl5JGRs9kCLFmN7d"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=7xJ1pmDUkDUTOFAciJt0Zu",
+      "id": "7xJ1pmDUkDUTOFAciJt0Zu"
+    },
+    {
+      "artistName": "Nathan Anderson",
+      "positioning": {
+        "top": 387,
+        "left": 428
+      },
+      "style": {
+        "color": "#a08e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b94e8f0ee38d4989576ae14df1715053bb1935b",
+        "title": "e.g. Nathan Anderson \"Sweet Misery\"",
+        "trackId": "1qdp8uPdTAwIo9ykFlUoj3"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=3wB8uSJUR9uMGW3we0itsJ",
+      "id": "3wB8uSJUR9uMGW3we0itsJ"
+    },
+    {
+      "artistName": "Joe Beleznay",
+      "positioning": {
+        "top": 658,
+        "left": 573
+      },
+      "style": {
+        "color": "#7d980b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2f1a9fbe7e04af312d578714dffedb4f7365bd20",
+        "title": "e.g. Joe Beleznay \"Alibi\"",
+        "trackId": "4XqIlhzknsnKEJXeWl4hOw"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=32ZxAyyI2W2scPK3ECGXRR",
+      "id": "32ZxAyyI2W2scPK3ECGXRR"
+    },
+    {
+      "artistName": "Jon Davidson",
+      "positioning": {
+        "top": 204,
+        "left": 398
+      },
+      "style": {
+        "color": "#a6880d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8122f88955853663a9ca4cd4f41e372c501ffc6d",
+        "title": "e.g. Jon Davidson \"What Can I Say?\"",
+        "trackId": "4TQRs6UnkjSlJhgp6sULvW"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1Z4jBdcpr88dcGuNHwo2No",
+      "id": "1Z4jBdcpr88dcGuNHwo2No"
+    },
+    {
+      "artistName": "Rick Knowles",
+      "positioning": {
+        "top": 154,
+        "left": 436
+      },
+      "style": {
+        "color": "#b78a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/abd86579dc0a208cca2fba32bf0a499bb5704497",
+        "title": "e.g. Rick Knowles \"Small Crowd\"",
+        "trackId": "1BCDraj3mkk4EtqP61RXS1"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=4xvz80J40EMVGaG1iPcezB",
+      "id": "4xvz80J40EMVGaG1iPcezB"
+    },
+    {
+      "artistName": "alexander webb",
+      "positioning": {
+        "top": 605,
+        "left": 622
+      },
+      "style": {
+        "color": "#939801",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ece5839413d74266f3f0904e77aebd9424079c26",
+        "title": "e.g. alexander webb \"At The End\"",
+        "trackId": "1nUUxrKL4QbulLtDKrXeaR"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=5iELIGfUEdISLA7jkQLO07",
+      "id": "5iELIGfUEdISLA7jkQLO07"
+    },
+    {
+      "artistName": "Jim Major",
+      "positioning": {
+        "top": 521,
+        "left": 573
+      },
+      "style": {
+        "color": "#7f9006",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b91a3286eb8f03b6a74057e8db3bd3691b527dd1",
+        "title": "e.g. Jim Major \"Eddie Would Go\"",
+        "trackId": "4ZE96L7kNxGcS0vsamehRG"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=5e8YMcJi0VI49s8IYkpo5y",
+      "id": "5e8YMcJi0VI49s8IYkpo5y"
+    },
+    {
+      "artistName": "Russ Bonagura",
+      "positioning": {
+        "top": 460,
+        "left": 485
+      },
+      "style": {
+        "color": "#9e8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05a66ef0d20ab6f9fb5ba10eddb006d193bdcfb0",
+        "title": "e.g. Russ Bonagura \"What If\"",
+        "trackId": "2h7QRCe5WXCeWelOx2jxLV"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=603NHhR5kVNvJbG5jPl1O6",
+      "id": "603NHhR5kVNvJbG5jPl1O6"
+    },
+    {
+      "artistName": "Jake Oken-Berg",
+      "positioning": {
+        "top": 356,
+        "left": 656
+      },
+      "style": {
+        "color": "#7c9d30",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ace39b711016055a0ce3adda3b352a7416df9f66",
+        "title": "e.g. Jake Oken-Berg \"It's Me\"",
+        "trackId": "3wVPZNAsKcMsVFrFc3yxdD"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=5n9NzcKvxaGtou5o7brHew",
+      "id": "5n9NzcKvxaGtou5o7brHew"
+    },
+    {
+      "artistName": "Jon Patrick McClaren",
+      "positioning": {
+        "top": 400,
+        "left": 462
+      },
+      "style": {
+        "color": "#969100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c1cb57e64134dfb91bd90b85bc4857d482fc528",
+        "title": "e.g. Jon Patrick McClaren \"Another Teenage Lovesong\"",
+        "trackId": "6u170Miq2R7xKCdBGycp94"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=5fDAH7vzSY4vy3NG7gvvsv",
+      "id": "5fDAH7vzSY4vy3NG7gvvsv"
+    },
+    {
+      "artistName": "Jon Hainstock",
+      "positioning": {
+        "top": 323,
+        "left": 466
+      },
+      "style": {
+        "color": "#a0870f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c027e4e0075a8cb0b5a5ff5d27b31a4d23ed3642",
+        "title": "e.g. Jon Hainstock \"After All Theses Years\"",
+        "trackId": "3X1y0fjSnziiZQ3L9YVLMM"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=52S8k878PRn8AaWpayc6ht",
+      "id": "52S8k878PRn8AaWpayc6ht"
+    },
+    {
+      "artistName": "Adam Miner",
+      "positioning": {
+        "top": 487,
+        "left": 641
+      },
+      "style": {
+        "color": "#7c9601",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ca7c47274ef66a453e1e28170f38635df2bc51f1",
+        "title": "e.g. Adam Miner \"Christina\"",
+        "trackId": "79m86O2BIgoRVtCoNxKMeq"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=3R6K5aCDess3bjIjkH34Pg",
+      "id": "3R6K5aCDess3bjIjkH34Pg"
+    },
+    {
+      "artistName": "Ethan Chandler",
+      "positioning": {
+        "top": 33,
+        "left": 637
+      },
+      "style": {
+        "color": "#d882a7",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/479b475e5bbb3c2848df00c2241ae96b34366350",
+        "title": "e.g. Ethan Chandler \"True Romance - Club Mix\"",
+        "trackId": "6aTU8GYc0iFPtvXQxw4FZQ"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=3MIuMHGy8i5vUfE2MXOHsG",
+      "id": "3MIuMHGy8i5vUfE2MXOHsG"
+    },
+    {
+      "artistName": "Ron Irizarry",
+      "positioning": {
+        "top": 345,
+        "left": 36
+      },
+      "style": {
+        "color": "#c9700f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16486c3e22cea7efa2870ae3873aa55346deb687",
+        "title": "e.g. Ron Irizarry \"Don't That Way\"",
+        "trackId": "58T42qp96UbVsjmrstfKKa"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=33DWWm69CgGjH85We7z6Rv",
+      "id": "33DWWm69CgGjH85We7z6Rv"
+    },
+    {
+      "artistName": "Dave Slomin",
+      "positioning": {
+        "top": 453,
+        "left": 607
+      },
+      "style": {
+        "color": "#869812",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/838b6f990a21ffe07e4f5450720c82429b78b693",
+        "title": "e.g. Dave Slomin \"Wendell Gee\"",
+        "trackId": "6zWgID0tWoqN8Zwx2e5URZ"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=6BueoNDnpcjj0Lp1r8ljoo",
+      "id": "6BueoNDnpcjj0Lp1r8ljoo"
+    },
+    {
+      "artistName": "Ryan David",
+      "positioning": {
+        "top": 336,
+        "left": 1400
+      },
+      "style": {
+        "color": "#928800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4b101b10afd5e1b16641fc20bdb985e849a07a14",
+        "title": "e.g. Ryan David \"Only 1 Name\"",
+        "trackId": "500w7djz980YdaX8JxrNiK"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1BeksIilANfdWjBSIoK3vn",
+      "id": "1BeksIilANfdWjBSIoK3vn"
+    },
+    {
+      "artistName": "Seth Bradley",
+      "positioning": {
+        "top": 256,
+        "left": 390
+      },
+      "style": {
+        "color": "#9c8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d85da771d571288a348041bebad0054347efc638",
+        "title": "e.g. Seth Bradley \"Stars On The Ceiling\"",
+        "trackId": "59BbDNzz84ZIgQpX5jkd7G"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=5yEKWOPzsBfBFUC4xDerdZ",
+      "id": "5yEKWOPzsBfBFUC4xDerdZ"
+    },
+    {
+      "artistName": "Manny Trevin",
+      "positioning": {
+        "top": 142,
+        "left": 641
+      },
+      "style": {
+        "color": "#b38500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cbca8c666a0d3d6071ac04514d40ae3a8c281d4",
+        "title": "e.g. Manny Trevin \"Far From Home\"",
+        "trackId": "3CsCzjZERPLsQtabiUKRQ1"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=3VP6l82YtBs569LOCaBAVP",
+      "id": "3VP6l82YtBs569LOCaBAVP"
+    },
+    {
+      "artistName": "Rob Attaway",
+      "positioning": {
+        "top": 333,
+        "left": 4
+      },
+      "style": {
+        "color": "#af801a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/61e9182c2d8e444c9ee0564f45dd1040e60c635c",
+        "title": "e.g. Rob Attaway \"Love Is the Answer\"",
+        "trackId": "5wLmYlGcvg71pXaW0j6jjP"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=1NaE6aEUSQzntNnbofeOJp",
+      "id": "1NaE6aEUSQzntNnbofeOJp"
+    },
+    {
+      "artistName": "Alton Cove",
+      "positioning": {
+        "top": 593,
+        "left": 622
+      },
+      "style": {
+        "color": "#6ea400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb7242ed9be40fb4218a2c123837f1e9e7c25032",
+        "title": "e.g. Alton Cove \"So Sick\"",
+        "trackId": "2wINRvdht45NbXHPcYp0nb"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=2GOsJgat0wExLNSQGLTP3z",
+      "id": "2GOsJgat0wExLNSQGLTP3z"
+    },
+    {
+      "artistName": "Doug Painter",
+      "positioning": {
+        "top": 267,
+        "left": 27
+      },
+      "style": {
+        "color": "#bc6405",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f601885290f26ca62ab5a5713fd28e1f3b70b235",
+        "title": "e.g. Doug Painter \"Homeless\"",
+        "trackId": "6Bl1veCNaL91WAIRZBcsLU"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=76J7dWV2mnwtr7kM0cc2ie",
+      "id": "76J7dWV2mnwtr7kM0cc2ie"
+    },
+    {
+      "artistName": "Kyle Stevens",
+      "positioning": {
+        "top": 347,
+        "left": 805
+      },
+      "style": {
+        "color": "#ae8d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3fb2c00e378b931ea6490a2b13f27a284daa4cb",
+        "title": "e.g. Kyle Stevens \"This Is Not A Love Song\"",
+        "trackId": "2axUmjmCH0mD1f1Kt2Q0ZO"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=4grQHJjPQjkvVxYxmr3hdP",
+      "id": "4grQHJjPQjkvVxYxmr3hdP"
+    },
+    {
+      "artistName": "Chase Thompson",
+      "positioning": {
+        "top": 682,
+        "left": 508
+      },
+      "style": {
+        "color": "#69a609",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7f317b5a9de7ae298c4651640619f2e1576b380",
+        "title": "e.g. Chase Thompson \"Hollow/We Are Lifted\"",
+        "trackId": "6lpy5PbEmAI35A5ikL9tIn"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=45fpweKdpnE5e3DU5wH3tV",
+      "id": "45fpweKdpnE5e3DU5wH3tV"
+    },
+    {
+      "artistName": "Nate Davenport",
+      "positioning": {
+        "top": 368,
+        "left": 234
+      },
+      "style": {
+        "color": "#978c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5e409fc12822a0833b13cd1a71e218d0fb8e1695",
+        "title": "e.g. Nate Davenport \"All That I Can Say\"",
+        "trackId": "02hWPA5CNM3H4Dcj65nYSF"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=5Pq7AYU4dIwebIAZe6a3dx",
+      "id": "5Pq7AYU4dIwebIAZe6a3dx"
+    },
+    {
+      "artistName": "Michael Bourne",
+      "positioning": {
+        "top": 149,
+        "left": 1147
+      },
+      "style": {
+        "color": "#d37281",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4d379c2deab185daf6f75269ea10bb36390278c9",
+        "title": "e.g. Michael Bourne \"I Remember Every Word You Say\"",
+        "trackId": "5mdB4tJUXjjAse7eTz1hG9"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=5e6dIZ8V5B01cX0jQBPVjB",
+      "id": "5e6dIZ8V5B01cX0jQBPVjB"
+    },
+    {
+      "artistName": "Cameron Vail",
+      "positioning": {
+        "top": 237,
+        "left": 922
+      },
+      "style": {
+        "color": "#979400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf13a73c9d85a43c0323688fd1ba860474dd9f64",
+        "title": "e.g. Cameron Vail \"Sweet Sweet Love\"",
+        "trackId": "6RVmvaW6HNH6gdEHaztH7Y"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=0lt22uL0i5LjUP7PqHEbY7",
+      "id": "0lt22uL0i5LjUP7PqHEbY7"
+    },
+    {
+      "artistName": "Stephen Temple",
+      "positioning": {
+        "top": 424,
+        "left": 588
+      },
+      "style": {
+        "color": "#8a9f07",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c4502f3a3d46cedeee94142d18dd69a8dd706aa",
+        "title": "e.g. Stephen Temple \"Short.\"",
+        "trackId": "5lEJv5tBNAv2vghTWygynN"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=1AiWIzAk7VBLfK9EkQNu7N",
+      "id": "1AiWIzAk7VBLfK9EkQNu7N"
+    },
+    {
+      "artistName": "Rod Lunn",
+      "positioning": {
+        "top": 459,
+        "left": 154
+      },
+      "style": {
+        "color": "#8c9601",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/158d72404d1765f697aad2e54f451d9b7b30ca1c",
+        "title": "e.g. Rod Lunn \"You And I\"",
+        "trackId": "6bQbswK8DFEbfwdUpfjmEL"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=0KLuqb5D7dA70KRqGVBol2",
+      "id": "0KLuqb5D7dA70KRqGVBol2"
+    },
+    {
+      "artistName": "Ed Nicholson",
+      "positioning": {
+        "top": 130,
+        "left": 569
+      },
+      "style": {
+        "color": "#a88500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a74bb2022667b388792b873085796d3386714e11",
+        "title": "e.g. Ed Nicholson \"Totally God\"",
+        "trackId": "77sTFfPxVSDzKFTHGGoyMg"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=5cJ9TfwE0dEdEm29X8Dqyl",
+      "id": "5cJ9TfwE0dEdEm29X8Dqyl"
+    },
+    {
+      "artistName": "Zack Nichols",
+      "positioning": {
+        "top": 696,
+        "left": 987
+      },
+      "style": {
+        "color": "#51a601",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/efc487f973816d3062783a1c70ef57a9c852e5cf",
+        "title": "e.g. Zack Nichols \"Can’t Stop Thinking About You\"",
+        "trackId": "2XixYYKuuqa6mjvwNS5MF9"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=26EdfctRaZImike6sAZWZx",
+      "id": "26EdfctRaZImike6sAZWZx"
+    },
+    {
+      "artistName": "Mik Morley",
+      "positioning": {
+        "top": 138,
+        "left": 333
+      },
+      "style": {
+        "color": "#bb8a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/df6ce68b9cfcce6a7c675405a5686247e84cdc19",
+        "title": "e.g. Mik Morley \"Run Away\"",
+        "trackId": "25VX5ECefEm3KhxtEfS3Z9"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=6dHhJM6mTdIPy5R9Y9UwQ5",
+      "id": "6dHhJM6mTdIPy5R9Y9UwQ5"
+    },
+    {
+      "artistName": "Tim Corley",
+      "positioning": {
+        "top": 412,
+        "left": 580
+      },
+      "style": {
+        "color": "#829400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba1b83cf2c334f1bdab5e070f463857296ac30ae",
+        "title": "e.g. Tim Corley \"Beautiful\"",
+        "trackId": "1dPCld0IxwK4rmzOgXBQxT"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=5WZ2kz5zI0iI3c1wzX3Fsh",
+      "id": "5WZ2kz5zI0iI3c1wzX3Fsh"
+    },
+    {
+      "artistName": "Ryan Fawcett",
+      "positioning": {
+        "top": 368,
+        "left": 607
+      },
+      "style": {
+        "color": "#b98f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/301fc66ac7b1cf36c3de59eb64a693aaebca41cd",
+        "title": "e.g. Ryan Fawcett \"Carry On\"",
+        "trackId": "1m7dJ7s4scfSQ4KmsbKzpa"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=1A7CP6URyQKo3IJBvJwwcg",
+      "id": "1A7CP6URyQKo3IJBvJwwcg"
+    },
+    {
+      "artistName": "Jordan Tyler",
+      "positioning": {
+        "top": 646,
+        "left": 512
+      },
+      "style": {
+        "color": "#799b30",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20d140efba3887991ea530df9e27db89f34f081f",
+        "title": "e.g. Jordan Tyler \"Postcards From Salem\"",
+        "trackId": "1G7Ic9zTkAmo0lFkYCLPJe"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=2KJkBHtSTtQT5s6ibOUPJv",
+      "id": "2KJkBHtSTtQT5s6ibOUPJv"
+    },
+    {
+      "artistName": "Greg Hyde",
+      "positioning": {
+        "top": 900,
+        "left": 983
+      },
+      "style": {
+        "color": "#549f08",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a45bdd822dae800555133998919a6cd2240b8462",
+        "title": "e.g. Greg Hyde \"Young Summer Nights\"",
+        "trackId": "6FXavDqfsVZTO0doWxnnZv"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=1PMTkvb5ckdHhI5lPl8SZG",
+      "id": "1PMTkvb5ckdHhI5lPl8SZG"
+    },
+    {
+      "artistName": "Nick Rallis",
+      "positioning": {
+        "top": 438,
+        "left": 892
+      },
+      "style": {
+        "color": "#7f8d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/501e115bf2f4b2fb8b28c190b06902b4b9e1e661",
+        "title": "e.g. Nick Rallis \"Is It Love\"",
+        "trackId": "5DRfL6vrSatDmEdodiK3zB"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=6r4IJqRQpwuiRppqHPDOEz",
+      "id": "6r4IJqRQpwuiRppqHPDOEz"
+    },
+    {
+      "artistName": "Cameron Dobb",
+      "positioning": {
+        "top": 422,
+        "left": 303
+      },
+      "style": {
+        "color": "#89930b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d9efc2cc2867c702a2aaae0d000989f2aed974ed",
+        "title": "e.g. Cameron Dobb \"Safe\"",
+        "trackId": "7A2GxaokOZyNAxcf0fIqwg"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=3zZ7UZFzA56th6vRgvIOA1",
+      "id": "3zZ7UZFzA56th6vRgvIOA1"
+    },
+    {
+      "artistName": "Eddie Prez",
+      "positioning": {
+        "top": 689,
+        "left": 1132
+      },
+      "style": {
+        "color": "#659b08",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a53f2e5fdba460c99d626929a7c9d4e153320ff7",
+        "title": "e.g. Eddie Prez \"April Fools\"",
+        "trackId": "3X5bVQJqNR3uX1rZ5lXLl1"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=6Du7kjyVtH3MInPeKXWObG",
+      "id": "6Du7kjyVtH3MInPeKXWObG"
+    },
+    {
+      "artistName": "Pat Hyland",
+      "positioning": {
+        "top": 845,
+        "left": 633
+      },
+      "style": {
+        "color": "#898b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/352800f141346d693c785ba40568572c7deb1a71",
+        "title": "e.g. Pat Hyland \"Set Me Free\"",
+        "trackId": "7q0EQe2L7vKDpT6cwx2E8E"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=7rdTaDa2yQ6fa3FYGP3mIV",
+      "id": "7rdTaDa2yQ6fa3FYGP3mIV"
+    },
+    {
+      "artistName": "Garrett Ramquist",
+      "positioning": {
+        "top": 387,
+        "left": 147
+      },
+      "style": {
+        "color": "#998d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f6612be4701f2da79b9a452ae38eadbb7db6ad1c",
+        "title": "e.g. Garrett Ramquist \"Innocence\"",
+        "trackId": "0cifOVNmezmb44LQzRiAnG"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=3sN9k8DNoI99zzTSR8crJe",
+      "id": "3sN9k8DNoI99zzTSR8crJe"
+    },
+    {
+      "artistName": "Garfield Mayor",
+      "positioning": {
+        "top": 209,
+        "left": 246
+      },
+      "style": {
+        "color": "#bd8800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d0a35a6992b19e38a2f90384c497d91529ccc3a4",
+        "title": "e.g. Garfield Mayor \"Let Love Be Your Energy\"",
+        "trackId": "4PXDVYgCAMNGxASWfo7Tr1"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=21jWsBR79dvJILIF8CC7gs",
+      "id": "21jWsBR79dvJILIF8CC7gs"
+    },
+    {
+      "artistName": "Case Shannon",
+      "positioning": {
+        "top": 236,
+        "left": 508
+      },
+      "style": {
+        "color": "#858f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/056ea855ea0781de8f9d8154e9e4274401f613c7",
+        "title": "e.g. Case Shannon \"Bite Down\"",
+        "trackId": "5AVWwQqEy0wFHSlRnyZ8yp"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=28CkA3uqVb8prNFIrj9qMv",
+      "id": "28CkA3uqVb8prNFIrj9qMv"
+    },
+    {
+      "artistName": "Blake Bollinger",
+      "positioning": {
+        "top": 294,
+        "left": 42
+      },
+      "style": {
+        "color": "#a78c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d74c8116512a29350a0a3b53de740c182d25f354",
+        "title": "e.g. Blake Bollinger \"Falling Faster\"",
+        "trackId": "5elqnDFh3V3m8tUhr5FktU"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=0PFLW4YCovEu39cx1Rfcd7",
+      "id": "0PFLW4YCovEu39cx1Rfcd7"
+    },
+    {
+      "artistName": "Daniel Pashman",
+      "positioning": {
+        "top": 208,
+        "left": 0
+      },
+      "style": {
+        "color": "#c47d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=5ikRAWtB7or6xt7itlFPz7",
+      "id": "5ikRAWtB7or6xt7itlFPz7"
+    },
+    {
+      "artistName": "Jerry Fuentes",
+      "positioning": {
+        "top": 440,
+        "left": 25
+      },
+      "style": {
+        "color": "#ac7d1c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d664457dd594167580733eb54a083b5113891d2c",
+        "title": "e.g. Jerry Fuentes \"What It Is\"",
+        "trackId": "2OFmb8NnZ5nVsXLtiQrF1l"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=3eJ8KthQhtpWO1rdaULBHD",
+      "id": "3eJ8KthQhtpWO1rdaULBHD"
+    },
+    {
+      "artistName": "Kiyoshi Graves",
+      "positioning": {
+        "top": 305,
+        "left": 287
+      },
+      "style": {
+        "color": "#b87d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=08r0yLint92BE5iBaQeSty",
+      "id": "08r0yLint92BE5iBaQeSty"
+    },
+    {
+      "artistName": "Matthew Lindstrom",
+      "positioning": {
+        "top": 448,
+        "left": 421
+      },
+      "style": {
+        "color": "#918424",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=5L6TqZW8o6tsBClKgSSMzF",
+      "id": "5L6TqZW8o6tsBClKgSSMzF"
+    },
+    {
+      "artistName": "Ryan Hammer",
+      "positioning": {
+        "top": 634,
+        "left": 455
+      },
+      "style": {
+        "color": "#778b0f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b5d442bd253b204c83d39bec9f75178862cb4691",
+        "title": "e.g. Ryan Hammer \"Famous\"",
+        "trackId": "0jAZxpNqLz17EHJSrARkjU"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=0GgZuF9c3SEK7lZ2VcRRBm",
+      "id": "0GgZuF9c3SEK7lZ2VcRRBm"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=guitar%20case"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/0ZEV56fLOnyx0lWRueQwhO"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=guitar%20case"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "greenlandic pop",
+      "positioning": {
+        "top": 0,
+        "left": 184
+      },
+      "style": {
+        "color": "#95911b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84bfbe24d556f1a0701236406642a921b18476af",
+        "title": "e.g. Jenseeraq \"Tusaannga\"",
+        "trackId": "7FTTt3N1sZbpJZagG2aPnE"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-greenlandicpop.html#tunnel"
+    },
+    {
+      "genreName": "vispop",
+      "positioning": {
+        "top": 251,
+        "left": 273
+      },
+      "style": {
+        "color": "#92901c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2216d4255cc52f74183d01c12bd757e80ecb77ef",
+        "title": "e.g. Jacky Chang \"Pero Atik Ra\"",
+        "trackId": "3xhcnKHG0I1ZMHbuXr8Rh8"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-vispop.html#tunnel"
+    },
+    {
+      "genreName": "swiss indie",
+      "positioning": {
+        "top": 208,
+        "left": 273
+      },
+      "style": {
+        "color": "#918d23",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cae16e6b52e35f910ab6b8c14f2d18e1507f34ab",
+        "title": "e.g. Jeans for Jesus \"Wosch no chli blibä\"",
+        "trackId": "2TM3OJa7OdmGOPyDOo4OwW"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-swissindie.html#tunnel"
+    },
+    {
+      "genreName": "comedie musicale",
+      "positioning": {
+        "top": 226,
+        "left": 123
+      },
+      "style": {
+        "color": "#938f0f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cbdd94d04b91d058692ae0d5f82233b5df6df8d1",
+        "title": "e.g. Damien Sargue \"Les rois du monde - Roméo & Juliette, Les enfants de Vérone\"",
+        "trackId": "2QxpVhguEv67Lwlf3wwltb"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-comediemusicale.html#tunnel"
+    },
+    {
+      "genreName": "northeast indian indie",
+      "positioning": {
+        "top": 238,
+        "left": 170
+      },
+      "style": {
+        "color": "#8d9120",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9a1262eb4a6f211d3ba3b2b18ccc573992da5fa",
+        "title": "e.g. Taba Chake \"Aao Chalein\"",
+        "trackId": "7ADt3F5qdx8qPYdy6ODCar"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-northeastindianindie.html#tunnel"
+    },
+    {
+      "genreName": "australian alternative pop",
+      "positioning": {
+        "top": 146,
+        "left": 245
+      },
+      "style": {
+        "color": "#938f15",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f0aff5f4ec2acbc65127197157cb5bb4dde54c18",
+        "title": "e.g. Sycco \"Ripple\"",
+        "trackId": "6oEC3xbIgUG2TEUXZXUFCv"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-australianalternativepop.html#tunnel"
+    },
+    {
+      "genreName": "japanese alternative pop",
+      "positioning": {
+        "top": 184,
+        "left": 157
+      },
+      "style": {
+        "color": "#9a882a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e629ccf4887455457a1f4ab97b935e1a5dd13a5a",
+        "title": "e.g. ROTH BART BARON \"Closer\"",
+        "trackId": "24Ai9oaKiidTGV4Keotqml"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-japanesealternativepop.html#tunnel"
+    },
+    {
+      "genreName": "nantes indie",
+      "positioning": {
+        "top": 196,
+        "left": 266
+      },
+      "style": {
+        "color": "#968d36",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f927027619e3f2e2a9fc6803324fa81cc083ecf4",
+        "title": "e.g. Mansfield.TYA \"Cavaliers\"",
+        "trackId": "3Nm61Yhwx49O6r3Tpy55Ae"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-nantesindie.html#tunnel"
+    },
+    {
+      "genreName": "uk alternative pop",
+      "positioning": {
+        "top": 159,
+        "left": 164
+      },
+      "style": {
+        "color": "#968d1c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c70671d300023689f92f565aa23cfa82c6daf39",
+        "title": "e.g. James Blake \"Mile High (feat. Travis Scott & Metro Boomin)\"",
+        "trackId": "4cQrSREMqBSvJ8ZzBZjVb8"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-ukalternativepop.html#tunnel"
+    },
+    {
+      "genreName": "hindi indie",
+      "positioning": {
+        "top": 251,
+        "left": 177
+      },
+      "style": {
+        "color": "#919321",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d6e8a1b1be309d548927a9eceffe05630a91425",
+        "title": "e.g. Anand Bhaskar Collective \"Jaadoogari\"",
+        "trackId": "0HDm8hVrpUDAXLmvortmoy"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-hindiindie.html#tunnel"
+    },
+    {
+      "genreName": "musica rondoniense",
+      "positioning": {
+        "top": 134,
+        "left": 239
+      },
+      "style": {
+        "color": "#998b1a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c512b3df145fd5ab3d061e79dfc7fe43ed92840e",
+        "title": "e.g. Gabriê \"Magia Leonina\"",
+        "trackId": "0wIA3vCMYsAmyRtyYkwFnI"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-musicarondoniense.html#tunnel"
+    },
+    {
+      "genreName": "chilean indie",
+      "positioning": {
+        "top": 263,
+        "left": 164
+      },
+      "style": {
+        "color": "#998b2f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8338e5ac34ad64bff3f03decc13c6aa7f18695e3",
+        "title": "e.g. Chini and The Technicians \"Arriba\"",
+        "trackId": "7o3kKOdoMX38izCcM4PdRQ"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-chileanindie.html#tunnel"
+    },
+    {
+      "genreName": "latin christian",
+      "positioning": {
+        "top": 191,
+        "left": 34
+      },
+      "style": {
+        "color": "#9c8b13",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f9a7fb3ee6f52b149f29c2a4b2c7b9ac08f21bf",
+        "title": "e.g. Jaime Murrell \"Yo Quiero Más De Ti\"",
+        "trackId": "635ZYBBghUS9A5Yl55HPhM"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-latinchristian.html#tunnel"
+    },
+    {
+      "genreName": "indie michoacano",
+      "positioning": {
+        "top": 74,
+        "left": 0
+      },
+      "style": {
+        "color": "#988b27",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9acfafb9c11331f891e97385481c3c8e1926dfd5",
+        "title": "e.g. Axel Catalán \"Valer Verga\"",
+        "trackId": "5UoXtlTJjEfotk1I0fRME0"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-indiemichoacano.html#tunnel"
+    },
+    {
+      "genreName": "peruvian indie",
+      "positioning": {
+        "top": 171,
+        "left": 300
+      },
+      "style": {
+        "color": "#9c8b2d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f969dd98a1c65151b6c451f8ea234946ff20291",
+        "title": "e.g. Almirante Ackbar \"Messi 420\"",
+        "trackId": "125D7RhrIHxzCNckQqmumX"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-peruvianindie.html#tunnel"
+    },
+    {
+      "genreName": "rome indie",
+      "positioning": {
+        "top": 249,
+        "left": 68
+      },
+      "style": {
+        "color": "#978d29",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dec8bf0ded325c45c86117ee46815da09cc54996",
+        "title": "e.g. Calcutta  \"2minuti\"",
+        "trackId": "7yS8LfvvFEhtGhKLk29j5a"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-romeindie.html#tunnel"
+    },
+    {
+      "genreName": "norwegian pop",
+      "positioning": {
+        "top": 275,
+        "left": 109
+      },
+      "style": {
+        "color": "#8e9112",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e786a574eb5ba9cf3cf84a88b6024d19584b55eb",
+        "title": "e.g. Sondre Justad \"Ikke som de andre\"",
+        "trackId": "3lYlbSVfxrSDE7FwO5fzzI"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-norwegianpop.html#tunnel"
+    },
+    {
+      "genreName": "chinese indie pop",
+      "positioning": {
+        "top": 16,
+        "left": 136
+      },
+      "style": {
+        "color": "#978f30",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42ab1a0f63b67c09844ce1964b2fc854452067ac",
+        "title": "e.g. The Life Journey \"逝去的歌\"",
+        "trackId": "0LN0GhK0LvmKp1vIc1rpP9"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-chineseindiepop.html#tunnel"
+    },
+    {
+      "genreName": "argentine indie",
+      "positioning": {
+        "top": 300,
+        "left": 170
+      },
+      "style": {
+        "color": "#968a2b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd242912b9b2e9bd7d247e6ffc2a78e8ac6207f0",
+        "title": "e.g. Los Besos \"Helados Verdes\"",
+        "trackId": "1RfqoUWIhPB7hCwMAC65CD"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-argentineindie.html#tunnel"
+    },
+    {
+      "genreName": "bohol indie",
+      "positioning": {
+        "top": 206,
+        "left": 27
+      },
+      "style": {
+        "color": "#928c10",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/633aaa5ed5e72f324807c8e2f01e0858d74f361b",
+        "title": "e.g. Willfreedo \"I Will Make You Katawa\"",
+        "trackId": "1clZO33bUNRdQ46YF7nacM"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-boholindie.html#tunnel"
+    }
+  ]
+}
