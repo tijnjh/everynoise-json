@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "pregenerate:genres": "node src/scripts/genres.ts",
+    "pregenerate:genre-pages": "node src/scripts/genre-pages.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

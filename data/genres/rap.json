@@ -1,0 +1,3647 @@
+{
+  "schemaVersion": 3,
+  "genreName": "rap",
+  "artists": [
+    {
+      "artistName": "Drake",
+      "positioning": {
+        "top": 616,
+        "left": 548
+      },
+      "style": {
+        "color": "#8f9103",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c23e9088d5bbab9edfb8e6c37af8e8eee0016e39",
+        "title": "e.g. Drake \"IDGAF (feat. Yeat)\"",
+        "trackId": "2YSzYUF3jWqb9YP9VXmpjE"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "artistName": "Travis Scott",
+      "positioning": {
+        "top": 303,
+        "left": 495
+      },
+      "style": {
+        "color": "#a49b02",
+        "fontSize": "141%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71d86e04987feee653ae3087aa76e782bced382d",
+        "title": "e.g. Travis Scott \"I KNOW ?\"",
+        "trackId": "6wsqVwoiVH2kde4k4KKAFU"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=0Y5tJX1MQlPlqiwlOH1tJY",
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
+      "artistName": "Kanye West",
+      "positioning": {
+        "top": 670,
+        "left": 331
+      },
+      "style": {
+        "color": "#a78207",
+        "fontSize": "139%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fbd46f2d5b764a86a8e883530054fb346d4c2d07",
+        "title": "e.g. Kanye West \"Flashing Lights\"",
+        "trackId": "5TRPicyLGbAF2LGBFbHGvO"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=5K4W6rqBFWDnAN6FQUkS6x",
+      "id": "5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "artistName": "SZA",
+      "positioning": {
+        "top": 648,
+        "left": 371
+      },
+      "style": {
+        "color": "#899a03",
+        "fontSize": "136%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4bd2dc84016f3743add7eea8b988407b1b900672",
+        "title": "e.g. SZA \"Kill Bill\"",
+        "trackId": "1Qrg8KqiBpW07V7PNxwwwL"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=7tYKF4w9nC0nq9CsPZTHyP",
+      "id": "7tYKF4w9nC0nq9CsPZTHyP"
+    },
+    {
+      "artistName": "Eminem",
+      "positioning": {
+        "top": 532,
+        "left": 912
+      },
+      "style": {
+        "color": "#b97905",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/35fc7456c892c11867fe1513b92dc44e9664eaba",
+        "title": "e.g. Eminem \"Without Me\"",
+        "trackId": "7lQ8MOhq6IN2w8EYcFNSUk"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=7dGJo4pcD2V6oG8kP0tJRR",
+      "id": "7dGJo4pcD2V6oG8kP0tJRR"
+    },
+    {
+      "artistName": "21 Savage",
+      "positioning": {
+        "top": 212,
+        "left": 996
+      },
+      "style": {
+        "color": "#929d08",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47a0a844bde0ea1941ecdcfc8f7ddc328afd6d73",
+        "title": "e.g. 21 Savage \"Glock In My Lap\"",
+        "trackId": "6pcywuOeGGWeOQzdUyti6k"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=1URnnhqYAYcrqrcwql10ft",
+      "id": "1URnnhqYAYcrqrcwql10ft"
+    },
+    {
+      "artistName": "Post Malone",
+      "positioning": {
+        "top": 391,
+        "left": 104
+      },
+      "style": {
+        "color": "#a49602",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c0788c6aba94192edcb497d9a02075bf76c5400",
+        "title": "e.g. Post Malone \"Sunflower - Spider-Man: Into the Spider-Verse\"",
+        "trackId": "0RiRZpuVRbi7oqRdSMwhQY"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=246dkjvS1zLTtiykXe5h60",
+      "id": "246dkjvS1zLTtiykXe5h60"
+    },
+    {
+      "artistName": "Future",
+      "positioning": {
+        "top": 255,
+        "left": 778
+      },
+      "style": {
+        "color": "#9aa008",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/38e12dbcba624463f1a360afd5dcceaf281b1ea5",
+        "title": "e.g. Future \"WAIT FOR U (feat. Drake & Tems)\"",
+        "trackId": "59nOXPmaKlBfGMDeOVGrIK"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=1RyvyyTE3xzB2ZywiAwp0i",
+      "id": "1RyvyyTE3xzB2ZywiAwp0i"
+    },
+    {
+      "artistName": "Metro Boomin",
+      "positioning": {
+        "top": 365,
+        "left": 650
+      },
+      "style": {
+        "color": "#84a217",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bc4e23d051aad9abdbb90183b4e1e682afd75308",
+        "title": "e.g. Metro Boomin \"Space Cadet (feat. Gunna)\"",
+        "trackId": "1fewSx2d5KIZ04wsooEBOz"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=0iEtIxbK0KxaSlF7G42ZOp",
+      "id": "0iEtIxbK0KxaSlF7G42ZOp"
+    },
+    {
+      "artistName": "Kendrick Lamar",
+      "positioning": {
+        "top": 698,
+        "left": 575
+      },
+      "style": {
+        "color": "#a68800",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/918a048521fe4c233f781943bd1194c20a12505a",
+        "title": "e.g. Kendrick Lamar \"Money Trees\"",
+        "trackId": "2HbKqm4o0w5wEeEFXm2sD4"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "artistName": "J. Cole",
+      "positioning": {
+        "top": 727,
+        "left": 685
+      },
+      "style": {
+        "color": "#9a8d02",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/062b69c85ad8361d6d7e484aa798b3596d174306",
+        "title": "e.g. J. Cole \"No Role Modelz\"",
+        "trackId": "68Dni7IE4VyPkTOH9mRWHr"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=6l3HvQ5sa6mXTsMTB19rO5",
+      "id": "6l3HvQ5sa6mXTsMTB19rO5"
+    },
+    {
+      "artistName": "Juice WRLD",
+      "positioning": {
+        "top": 292,
+        "left": 304
+      },
+      "style": {
+        "color": "#a09c02",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85ba40ef782e993bac9ee1c945f90c123b11ffec",
+        "title": "e.g. Juice WRLD \"Lucid Dreams\"",
+        "trackId": "285pBltuF7vW8TeWk8hdRR"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=4MCBfE4596Uoi2O4DtmEMz",
+      "id": "4MCBfE4596Uoi2O4DtmEMz"
+    },
+    {
+      "artistName": "Chris Brown",
+      "positioning": {
+        "top": 375,
+        "left": 131
+      },
+      "style": {
+        "color": "#ad8d02",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/52295df71df20e33e1510e3983975cd59f6664a4",
+        "title": "e.g. Chris Brown \"Under The Influence\"",
+        "trackId": "5IgjP7X4th6nMNDh4akUHb"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=7bXgB6jMjp9ATFy66eO08Z",
+      "id": "7bXgB6jMjp9ATFy66eO08Z"
+    },
+    {
+      "artistName": "Lil Baby",
+      "positioning": {
+        "top": 334,
+        "left": 951
+      },
+      "style": {
+        "color": "#9aa000",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/613d9fe82d39123b5f37cfcbc9e3c22431fd3c8a",
+        "title": "e.g. Lil Baby \"Drip Too Hard (Lil Baby & Gunna)\"",
+        "trackId": "78QR3Wp35dqAhFEc2qAGjE"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=5f7VJjfbwm532GiveGC0ZK",
+      "id": "5f7VJjfbwm532GiveGC0ZK"
+    },
+    {
+      "artistName": "Playboi Carti",
+      "positioning": {
+        "top": 127,
+        "left": 743
+      },
+      "style": {
+        "color": "#af9900",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3832c45b10a896960a57eb72e811a08aeb7d5a5c",
+        "title": "e.g. Playboi Carti \"Sky\"",
+        "trackId": "29TPjc8wxfz4XMn21O7VsZ"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=699OTQXzgjhIYAHMy9RyPD",
+      "id": "699OTQXzgjhIYAHMy9RyPD"
+    },
+    {
+      "artistName": "Jack Harlow",
+      "positioning": {
+        "top": 139,
+        "left": 1364
+      },
+      "style": {
+        "color": "#9d9502",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eeeb6151d0049367b3ad3db0389e9e3b116c0774",
+        "title": "e.g. Jack Harlow \"Lovin On Me\"",
+        "trackId": "4xhsWYTOGcal8zt0J161CU"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=2LIk90788K0zvyj2JJVwkJ",
+      "id": "2LIk90788K0zvyj2JJVwkJ"
+    },
+    {
+      "artistName": "Brent Faiyaz",
+      "positioning": {
+        "top": 886,
+        "left": 211
+      },
+      "style": {
+        "color": "#659a04",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4b0945a347761e01bbc949c604c58c4cc93e6810",
+        "title": "e.g. Brent Faiyaz \"Been Away\"",
+        "trackId": "5PvVkf1Yuq3XyMqqjPiKPd"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3tlXnStJ1fFhdScmQeLpuG",
+      "id": "3tlXnStJ1fFhdScmQeLpuG"
+    },
+    {
+      "artistName": "Lil Uzi Vert",
+      "positioning": {
+        "top": 273,
+        "left": 428
+      },
+      "style": {
+        "color": "#a39d02",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7c70e8d58a8bc2ab5fefac3a9305b459008b46e9",
+        "title": "e.g. Lil Uzi Vert \"Just Wanna Rock\"",
+        "trackId": "4Ls53fBNVfaXTROBi6X8Hw"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=4O15NlyKLIASxsJ0PrXPfz",
+      "id": "4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
+      "artistName": "Tyler, The Creator",
+      "positioning": {
+        "top": 810,
+        "left": 104
+      },
+      "style": {
+        "color": "#a28218",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d",
+        "title": "e.g. Tyler, The Creator \"See You Again (feat. Kali Uchis)\"",
+        "trackId": "7KA4W4McWYRpgf0fWsJZWB"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=4V8LLVI7PbaPR0K2TGSxFF",
+      "id": "4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    {
+      "artistName": "Gunna",
+      "positioning": {
+        "top": 168,
+        "left": 1093
+      },
+      "style": {
+        "color": "#90a500",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f237ab921af697ba9b49e12fa167c2ce1a82d6b4",
+        "title": "e.g. Gunna \"fukumean\"",
+        "trackId": "4rXLjWdF2ZZpXCVTfWcshS"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=2hlmm7s2ICUX0LVIhVFlZQ",
+      "id": "2hlmm7s2ICUX0LVIhVFlZQ"
+    },
+    {
+      "artistName": "Nicki Minaj",
+      "positioning": {
+        "top": 306,
+        "left": 645
+      },
+      "style": {
+        "color": "#b78902",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/394733516cbfb50de32d089428542875e77251ed",
+        "title": "e.g. Nicki Minaj \"Starships\"",
+        "trackId": "1oHNvJVbFkexQc0BpQp7Y4"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=0hCNtLu0JehylgoiP8L4Gh",
+      "id": "0hCNtLu0JehylgoiP8L4Gh"
+    },
+    {
+      "artistName": "YoungBoy Never Broke Again",
+      "positioning": {
+        "top": 418,
+        "left": 920
+      },
+      "style": {
+        "color": "#a79404",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7f2606dd7176acde2a0a666af32838c799c9ed8",
+        "title": "e.g. YoungBoy Never Broke Again \"Make No Sense\"",
+        "trackId": "6klLvorLoo1sxvZcjJIY8I"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=7wlFDEWiM5OoIAt8RSli8b",
+      "id": "7wlFDEWiM5OoIAt8RSli8b"
+    },
+    {
+      "artistName": "Mac Miller",
+      "positioning": {
+        "top": 870,
+        "left": 406
+      },
+      "style": {
+        "color": "#948c02",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8646d3b6544d0126b5b48d36aa857ac4a4a1d82f",
+        "title": "e.g. Mac Miller \"The Spins\"",
+        "trackId": "7FAFkQQZFeNwOFzTrSDFIh"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=4LLpKhyESsyAXpc4laK94U",
+      "id": "4LLpKhyESsyAXpc4laK94U"
+    },
+    {
+      "artistName": "Lil Wayne",
+      "positioning": {
+        "top": 555,
+        "left": 659
+      },
+      "style": {
+        "color": "#a78201",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7c107464757b8dd30f95a7ef5e3284ebede674b7",
+        "title": "e.g. Lil Wayne \"Love Me\"",
+        "trackId": "2XHzzp1j4IfTNp1FTn7YFg"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=55Aa2cqylxrFIXC767Z865",
+      "id": "55Aa2cqylxrFIXC767Z865"
+    },
+    {
+      "artistName": "Lil Durk",
+      "positioning": {
+        "top": 428,
+        "left": 734
+      },
+      "style": {
+        "color": "#9d9d02",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/736c0ff37c1b6b7ca182ea6e78db36163e5e6eae",
+        "title": "e.g. Lil Durk \"All My Life (feat. J. Cole)\"",
+        "trackId": "6T7FXSuXykeGktMLGp8WgE"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=3hcs9uc56yIGFCSy9leWe7",
+      "id": "3hcs9uc56yIGFCSy9leWe7"
+    },
+    {
+      "artistName": "Young Thug",
+      "positioning": {
+        "top": 296,
+        "left": 916
+      },
+      "style": {
+        "color": "#969a00",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0bc5b4bd0c08137d5a0179a355baf99804e0e91",
+        "title": "e.g. Young Thug \"Oh U Went (feat. Drake)\"",
+        "trackId": "7qLr3HMApUbyDkUvgIvHnB"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=50co4Is1HCEo8bhOyUWKpn",
+      "id": "50co4Is1HCEo8bhOyUWKpn"
+    },
+    {
+      "artistName": "Lil Tecca",
+      "positioning": {
+        "top": 362,
+        "left": 872
+      },
+      "style": {
+        "color": "#909600",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54573fc63e075256431d9a8ea0a19a174b3d9112",
+        "title": "e.g. Lil Tecca \"500lbs\"",
+        "trackId": "6rjuKpPydT2SxN15TZpV7r"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=4Ga1P7PMIsmqEZqhYZQgDo",
+      "id": "4Ga1P7PMIsmqEZqhYZQgDo"
+    },
+    {
+      "artistName": "Pop Smoke",
+      "positioning": {
+        "top": 587,
+        "left": 668
+      },
+      "style": {
+        "color": "#a79200",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/00836c2dbe56ca8443a5cb0b411e60f8d1cad615",
+        "title": "e.g. Pop Smoke \"Dior\"",
+        "trackId": "79s5XnCN4TJKTVMSmOx8Ep"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=0eDvMgVFoNV3TpwtrVCoTj",
+      "id": "0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "artistName": "Polo G",
+      "positioning": {
+        "top": 246,
+        "left": 588
+      },
+      "style": {
+        "color": "#a19801",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/26ae09172d72ee19e5752397269942b476fa0b0f",
+        "title": "e.g. Polo G \"Martin & Gina\"",
+        "trackId": "1VLtjHwRWOVJiE5Py7JxoQ"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=6AgTAQt8XS6jRWi4sX7w49",
+      "id": "6AgTAQt8XS6jRWi4sX7w49"
+    },
+    {
+      "artistName": "50 Cent",
+      "positioning": {
+        "top": 671,
+        "left": 703
+      },
+      "style": {
+        "color": "#b47703",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c0199e9be373d6a82ae89071ae34dd38ec72b99c",
+        "title": "e.g. 50 Cent \"In Da Club\"",
+        "trackId": "7iL6o9tox1zgHpKUfh9vuC"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=3q7HBObVc0L8jNeTe5Gofh",
+      "id": "3q7HBObVc0L8jNeTe5Gofh"
+    },
+    {
+      "artistName": "A$AP Rocky",
+      "positioning": {
+        "top": 483,
+        "left": 512
+      },
+      "style": {
+        "color": "#ac8605",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba69e5d1385c353090c2c6c30d398501e611315d",
+        "title": "e.g. A$AP Rocky \"Praise The Lord (Da Shine) (feat. Skepta)\"",
+        "trackId": "7ycWLEP1GsNjVvcjawXz3z"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=13ubrt8QOOCPljQ2FL1Kca",
+      "id": "13ubrt8QOOCPljQ2FL1Kca"
+    },
+    {
+      "artistName": "Kodak Black",
+      "positioning": {
+        "top": 320,
+        "left": 982
+      },
+      "style": {
+        "color": "#8fa100",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7945e97740f920327bebb3d9a0442fdb0b28371e",
+        "title": "e.g. Kodak Black \"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)\"",
+        "trackId": "1vvcEHQdaUTvWt0EIUYcFK"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=46SHBwWsqBkxI7EeeBEQG7",
+      "id": "46SHBwWsqBkxI7EeeBEQG7"
+    },
+    {
+      "artistName": "Trippie Redd",
+      "positioning": {
+        "top": 474,
+        "left": 335
+      },
+      "style": {
+        "color": "#9b9901",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5351db2c4b57b6b9ffb26332c75be9641aaa9c53",
+        "title": "e.g. Trippie Redd \"Miss The Rage\"",
+        "trackId": "46NzAxDzsE443IsyZndZfP"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=6Xgp2XMz1fhVYe7i6yNAax",
+      "id": "6Xgp2XMz1fhVYe7i6yNAax"
+    },
+    {
+      "artistName": "Tory Lanez",
+      "positioning": {
+        "top": 534,
+        "left": 273
+      },
+      "style": {
+        "color": "#969405",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d7c627bf549328110519c4bd21ac39d7ca50ea1",
+        "title": "e.g. Tory Lanez \"The Color Violet\"",
+        "trackId": "3azJifCSqg9fRij2yKIbWz"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=2jku7tDXc6XoB6MO2hFuqg",
+      "id": "2jku7tDXc6XoB6MO2hFuqg"
+    },
+    {
+      "artistName": "JAY-Z",
+      "positioning": {
+        "top": 648,
+        "left": 725
+      },
+      "style": {
+        "color": "#c07002",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a07279cb8c3167fd6533e617f2cf7639dd402340",
+        "title": "e.g. JAY-Z \"Ni**as In Paris\"",
+        "trackId": "2Zb7wnGUnNPCas2E0wWSQ5"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=3nFkdlSjzX9mRTtwJOzDYB",
+      "id": "3nFkdlSjzX9mRTtwJOzDYB"
+    },
+    {
+      "artistName": "Offset",
+      "positioning": {
+        "top": 203,
+        "left": 1111
+      },
+      "style": {
+        "color": "#9d9a0f",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89cee86b4663ac093731d7a433491dd71e286f61",
+        "title": "e.g. Offset \"Ric Flair Drip (with Metro Boomin)\"",
+        "trackId": "7sO5G9EABYOXQKNPNiE9NR"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=4DdkRBBYG6Yk9Ka8tdJ9BW",
+      "id": "4DdkRBBYG6Yk9Ka8tdJ9BW"
+    },
+    {
+      "artistName": "Summer Walker",
+      "positioning": {
+        "top": 842,
+        "left": 437
+      },
+      "style": {
+        "color": "#6fa101",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c9d3480bfe5953e41d408f21a42f2db95fef8a3",
+        "title": "e.g. Summer Walker \"Girls Need Love (with Drake) - Remix\"",
+        "trackId": "14SaZBTjxlorHJQxXh01Hu"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=57LYzLEk2LcFghVwuWbcuS",
+      "id": "57LYzLEk2LcFghVwuWbcuS"
+    },
+    {
+      "artistName": "2Pac",
+      "positioning": {
+        "top": 349,
+        "left": 991
+      },
+      "style": {
+        "color": "#b57c02",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d20079e7952f64534d9ceacd530b156b8cdfd8ea",
+        "title": "e.g. 2Pac \"California Love - Original Version\"",
+        "trackId": "3ia3dJETSOllPsv3LJkE35"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=1ZwdS5xdxEREPySFridCfh",
+      "id": "1ZwdS5xdxEREPySFridCfh"
+    },
+    {
+      "artistName": "Lil Tjay",
+      "positioning": {
+        "top": 485,
+        "left": 765
+      },
+      "style": {
+        "color": "#919a02",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/687f6e37a7d7ae26e7a7a7bd252945da7d1bb894",
+        "title": "e.g. Lil Tjay \"Calling My Phone\"",
+        "trackId": "3J8EOeKLTLXORtWPpOU5bE"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=6jGMq4yGs7aQzuGsMgVgZR",
+      "id": "6jGMq4yGs7aQzuGsMgVgZR"
+    },
+    {
+      "artistName": "Don Toliver",
+      "positioning": {
+        "top": 353,
+        "left": 539
+      },
+      "style": {
+        "color": "#9b9d07",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f83928fb66c8e92a3d5da85d914de54cf20658e",
+        "title": "e.g. Don Toliver \"No Idea\"",
+        "trackId": "7AzlLxHn24DxjgQX73F9fU"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=4Gso3d4CscCijv0lmajZWs",
+      "id": "4Gso3d4CscCijv0lmajZWs"
+    },
+    {
+      "artistName": "A Boogie Wit da Hoodie",
+      "positioning": {
+        "top": 573,
+        "left": 725
+      },
+      "style": {
+        "color": "#a29602",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f770a1a0b3dfb5bc652f89848e45ab9d09f7dc69",
+        "title": "e.g. A Boogie Wit da Hoodie \"Drowning (feat. Kodak Black)\"",
+        "trackId": "1f5cbQtDrykjarZVrShaDI"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=31W5EY0aAly4Qieq6OFu6I",
+      "id": "31W5EY0aAly4Qieq6OFu6I"
+    },
+    {
+      "artistName": "USHER",
+      "positioning": {
+        "top": 242,
+        "left": 322
+      },
+      "style": {
+        "color": "#ad8604",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1eca1cb525c2b0df2ecba52f1105f139323e09a2",
+        "title": "e.g. USHER \"Yeah! (feat. Lil Jon & Ludacris)\"",
+        "trackId": "5rb9QrpfcKFHM1EUbSIurX"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=23zg3TcAtWQy7J6upgbUnj",
+      "id": "23zg3TcAtWQy7J6upgbUnj"
+    },
+    {
+      "artistName": "Swae Lee",
+      "positioning": {
+        "top": 303,
+        "left": 415
+      },
+      "style": {
+        "color": "#a89801",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6ccd9a42cc30f98833e7ba8c02e4c844dccc912",
+        "title": "e.g. Swae Lee \"Won't Be Late (feat. Drake)\"",
+        "trackId": "2sqsNXfN0HtgDEgaHXiUTa"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=1zNqQNIdeOUZHb8zbZRFMX",
+      "id": "1zNqQNIdeOUZHb8zbZRFMX"
+    },
+    {
+      "artistName": "Childish Gambino",
+      "positioning": {
+        "top": 597,
+        "left": 144
+      },
+      "style": {
+        "color": "#958915",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c2ef123d9560e1726c2f7b0f3c8cc22e32bae8d4",
+        "title": "e.g. Childish Gambino \"Les\"",
+        "trackId": "0YsGMHid6sFq5PcToe3JZE"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=73sIBHcqh3Z3NyqHKZ7FOL",
+      "id": "73sIBHcqh3Z3NyqHKZ7FOL"
+    },
+    {
+      "artistName": "NLE Choppa",
+      "positioning": {
+        "top": 320,
+        "left": 1089
+      },
+      "style": {
+        "color": "#b08b01",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b01bc02c42e27c4887a7d4547851c9b872413cc6",
+        "title": "e.g. NLE Choppa \"Walk Em Down (feat. Roddy Ricch)\"",
+        "trackId": "1Z0cZI0UzNbP9L8MzzGxqf"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=0ErzCpIMyLcjPiwT4elrtZ",
+      "id": "0ErzCpIMyLcjPiwT4elrtZ"
+    },
+    {
+      "artistName": "Kid Cudi",
+      "positioning": {
+        "top": 289,
+        "left": 446
+      },
+      "style": {
+        "color": "#a38c19",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eabf194f9e77a1fb5f69f940398ccaf82f90841d",
+        "title": "e.g. Kid Cudi \"AT THE PARTY (feat. Pharrell Williams & Travis Scott)\"",
+        "trackId": "11BbPUv7NlzlcbY7AmHHKy"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=0fA0VVWsXO9YnASrzqfmYu",
+      "id": "0fA0VVWsXO9YnASrzqfmYu"
+    },
+    {
+      "artistName": "Cardi B",
+      "positioning": {
+        "top": 154,
+        "left": 1400
+      },
+      "style": {
+        "color": "#a59301",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b7f907a6418a4ccdf9284584cef4ea80288aedc",
+        "title": "e.g. Cardi B \"Bongos (feat. Megan Thee Stallion)\"",
+        "trackId": "4YQImHflXSiIMXntcwPkx8"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=4kYSro6naA4h99UJvo89HB",
+      "id": "4kYSro6naA4h99UJvo89HB"
+    },
+    {
+      "artistName": "PARTYNEXTDOOR",
+      "positioning": {
+        "top": 576,
+        "left": 206
+      },
+      "style": {
+        "color": "#8c9e02",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aaf4660ba22a6ebeb742bd1424e1c3689c4dc318",
+        "title": "e.g. PARTYNEXTDOOR \"Her Way\"",
+        "trackId": "3JEJwjqLkg2Jbau5922CAb"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=2HPaUgqeutzr3jx5a9WyDV",
+      "id": "2HPaUgqeutzr3jx5a9WyDV"
+    },
+    {
+      "artistName": "Baby Keem",
+      "positioning": {
+        "top": 260,
+        "left": 1240
+      },
+      "style": {
+        "color": "#8ca101",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/376965c332ef1da7f59826c2c12160456e960b8b",
+        "title": "e.g. Baby Keem \"family ties (with Kendrick Lamar)\"",
+        "trackId": "3QFInJAm9eyaho5vBzxInN"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=5SXuuuRpukkTvsLuUknva1",
+      "id": "5SXuuuRpukkTvsLuUknva1"
+    },
+    {
+      "artistName": "Bryson Tiller",
+      "positioning": {
+        "top": 700,
+        "left": 446
+      },
+      "style": {
+        "color": "#8b9400",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7e8de8a2a419c43ddf77af8572e6ad1e4cb64d4",
+        "title": "e.g. Bryson Tiller \"Don't\"",
+        "trackId": "3pXF1nA74528Edde4of9CC"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=2EMAnMvWE2eb56ToJVfCWs",
+      "id": "2EMAnMvWE2eb56ToJVfCWs"
+    },
+    {
+      "artistName": "Megan Thee Stallion",
+      "positioning": {
+        "top": 2,
+        "left": 1071
+      },
+      "style": {
+        "color": "#b48f01",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66df25b7b9590c043c22b825f25594021b3c1fad",
+        "title": "e.g. Megan Thee Stallion \"Cobra\"",
+        "trackId": "3Kh8X9lHztqVBTgw30HbXn"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=181bsRPaVXVlUKXrxwZfHK",
+      "id": "181bsRPaVXVlUKXrxwZfHK"
+    },
+    {
+      "artistName": "Wiz Khalifa",
+      "positioning": {
+        "top": 381,
+        "left": 681
+      },
+      "style": {
+        "color": "#ab9001",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/69c2ac6f1501e5c8bc6970273da5d06fb97a2e76",
+        "title": "e.g. Wiz Khalifa \"See You Again (feat. Charlie Puth)\"",
+        "trackId": "2JzZzZUQj3Qff7wapcbKjc"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=137W8MRPWKqSmrBGDBFSop",
+      "id": "137W8MRPWKqSmrBGDBFSop"
+    },
+    {
+      "artistName": "DaBaby",
+      "positioning": {
+        "top": 361,
+        "left": 1098
+      },
+      "style": {
+        "color": "#ab9100",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72babd91d3e74ef7e967d57bb46f9fe217be9320",
+        "title": "e.g. DaBaby \"ROCKSTAR (feat. Roddy Ricch)\"",
+        "trackId": "7ytR5pFWmSjzHJIeQkgog4"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=4r63FhuTkUYltbVAg5TQnk",
+      "id": "4r63FhuTkUYltbVAg5TQnk"
+    },
+    {
+      "artistName": "Snoop Dogg",
+      "positioning": {
+        "top": 390,
+        "left": 832
+      },
+      "style": {
+        "color": "#b27b02",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7ead2fb0d0be4004af5b912846138692b1fc0f9",
+        "title": "e.g. Snoop Dogg \"Young, Wild & Free (feat. Bruno Mars)\"",
+        "trackId": "6YbhspuOar1D9WSSnfe7ds"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=7hJcb9fa4alzcOq3EaNPoG",
+      "id": "7hJcb9fa4alzcOq3EaNPoG"
+    },
+    {
+      "artistName": "Dr. Dre",
+      "positioning": {
+        "top": 184,
+        "left": 1036
+      },
+      "style": {
+        "color": "#b47211",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7a1ea34238e6d08c87fc17a5c7e30321d79a7aaa",
+        "title": "e.g. Dr. Dre \"Still D.R.E.\"",
+        "trackId": "503OTo2dSqe7qk76rgsbep"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=6DPYiyq5kWVQS4RGwxzPC7",
+      "id": "6DPYiyq5kWVQS4RGwxzPC7"
+    },
+    {
+      "artistName": "Tyga",
+      "positioning": {
+        "top": 390,
+        "left": 1018
+      },
+      "style": {
+        "color": "#aa9100",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec6ef7dcd9e1f7f110a74cf09eed043290ceea0a",
+        "title": "e.g. Tyga \"Taste (feat. Offset)\"",
+        "trackId": "2toVe5hfuIi97ytDPDbQFt"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=5LHRHt1k9lMyONurDHEdrp",
+      "id": "5LHRHt1k9lMyONurDHEdrp"
+    },
+    {
+      "artistName": "The Notorious B.I.G.",
+      "positioning": {
+        "top": 513,
+        "left": 1093
+      },
+      "style": {
+        "color": "#b17203",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7674508c1c15cb2a27323eba7c6ef99256a58300",
+        "title": "e.g. The Notorious B.I.G. \"Big Poppa - 2005 Remaster\"",
+        "trackId": "2g8HN35AnVGIk7B8yMucww"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=5me0Irg2ANcsgc93uaYrpb",
+      "id": "5me0Irg2ANcsgc93uaYrpb"
+    },
+    {
+      "artistName": "Key Glock",
+      "positioning": {
+        "top": 0,
+        "left": 1386
+      },
+      "style": {
+        "color": "#a89204",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1e6a37047b6cdce896d40a6d7f746efcff5f495",
+        "title": "e.g. Key Glock \"Ambition For Cash\"",
+        "trackId": "4mIHgQ3ofK2RK34UdbqMbe"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=0RESbWvOMyua0yuyVrztJ5",
+      "id": "0RESbWvOMyua0yuyVrztJ5"
+    },
+    {
+      "artistName": "Lil Yachty",
+      "positioning": {
+        "top": 315,
+        "left": 854
+      },
+      "style": {
+        "color": "#979a0d",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/421163b2c697c030001baebfa1808a715ce41517",
+        "title": "e.g. Lil Yachty \"Flex Up (feat. Future & Playboi Carti)\"",
+        "trackId": "5Ryu0SlsYjKh78RkJUONFr"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=6icQOAFXDZKsumw3YXyusw",
+      "id": "6icQOAFXDZKsumw3YXyusw"
+    },
+    {
+      "artistName": "DJ Khaled",
+      "positioning": {
+        "top": 548,
+        "left": 202
+      },
+      "style": {
+        "color": "#c38505",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6cb559942aad2251877b4a4d0a911a21cb4b2d80",
+        "title": "e.g. DJ Khaled \"Wild Thoughts (feat. Rihanna & Bryson Tiller)\"",
+        "trackId": "1OAh8uOEOvTDqkKFsKksCi"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=0QHgL1lAIqAw0HtD7YldmP",
+      "id": "0QHgL1lAIqAw0HtD7YldmP"
+    },
+    {
+      "artistName": "Migos",
+      "positioning": {
+        "top": 129,
+        "left": 1093
+      },
+      "style": {
+        "color": "#a49e00",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b8846cd51e85ef157510af3633593df12237fde",
+        "title": "e.g. Migos \"Need It (feat. YoungBoy Never Broke Again)\"",
+        "trackId": "1cMMVJ4FDqhCci9efd1BU6"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=6oMuImdp5ZcFhWP0ESe6mG",
+      "id": "6oMuImdp5ZcFhWP0ESe6mG"
+    },
+    {
+      "artistName": "JID",
+      "positioning": {
+        "top": 559,
+        "left": 778
+      },
+      "style": {
+        "color": "#ae8600",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a3da83ad478d80e5d160d13f8d68d5f22cc0d0af",
+        "title": "e.g. JID \"Dance Now (feat. Kenny Mason)\"",
+        "trackId": "2WrldKXSBVbNNm3A9vJryi"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=6U3ybJ9UHNKEdsH7ktGBZ7",
+      "id": "6U3ybJ9UHNKEdsH7ktGBZ7"
+    },
+    {
+      "artistName": "Roddy Ricch",
+      "positioning": {
+        "top": 363,
+        "left": 1000
+      },
+      "style": {
+        "color": "#94a001",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6306fda4df77cbcaf47c8b9fa3575ce457504c9c",
+        "title": "e.g. Roddy Ricch \"The Box\"",
+        "trackId": "0nbXyq5TXYPCO7pr3N8S4I"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=757aE44tKEUQEqRuT6GnEB",
+      "id": "757aE44tKEUQEqRuT6GnEB"
+    },
+    {
+      "artistName": "Chief Keef",
+      "positioning": {
+        "top": 398,
+        "left": 295
+      },
+      "style": {
+        "color": "#9a9301",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2284e6aedbab90b54f078c7e993711700b171837",
+        "title": "e.g. Chief Keef \"Love Sosa\"",
+        "trackId": "01Lr5YepbgjXAWR9iOEyH1"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=15iVAtD3s3FsQR4w1v6M0P",
+      "id": "15iVAtD3s3FsQR4w1v6M0P"
+    },
+    {
+      "artistName": "Meek Mill",
+      "positioning": {
+        "top": 586,
+        "left": 526
+      },
+      "style": {
+        "color": "#ab8f00",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d99e58e0b5eed07a7fb99f29838dbfdd08178093",
+        "title": "e.g. Meek Mill \"Going Bad (feat. Drake)\"",
+        "trackId": "2IRZnDFmlqMuOrYOLnZZyc"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=20sxb77xiYeusSH8cVdatc",
+      "id": "20sxb77xiYeusSH8cVdatc"
+    },
+    {
+      "artistName": "G-Eazy",
+      "positioning": {
+        "top": 532,
+        "left": 459
+      },
+      "style": {
+        "color": "#a98d02",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0da4593e1107351dd0496f0348b0a64e4e035922",
+        "title": "e.g. G-Eazy \"Tumblr Girls (feat. Christoph Andersson)\"",
+        "trackId": "4Fv6wNYUixnYkj3Dgfrls8"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=02kJSzxNuaWGqwubyUba0Z",
+      "id": "02kJSzxNuaWGqwubyUba0Z"
+    },
+    {
+      "artistName": "Moneybagg Yo",
+      "positioning": {
+        "top": 243,
+        "left": 1036
+      },
+      "style": {
+        "color": "#a39d00",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8d2a2f1f975dede2c80ed588db68faba51c398d",
+        "title": "e.g. Moneybagg Yo \"Ocean Spray\"",
+        "trackId": "6dNOefmb6Lgl5vNtJsSajt"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=3tJoFztHeIJkJWMrx0td2f",
+      "id": "3tJoFztHeIJkJWMrx0td2f"
+    },
+    {
+      "artistName": "Outkast",
+      "positioning": {
+        "top": 404,
+        "left": 912
+      },
+      "style": {
+        "color": "#b6710a",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d24b3c4135ced9157b0ea3015a6bcc048e0c2e3a",
+        "title": "e.g. Outkast \"Hey Ya!\"",
+        "trackId": "2PpruBYCo4H7WOBJ7Q2EwM"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=1G9G7WwrXka3Z1r7aIDjI7",
+      "id": "1G9G7WwrXka3Z1r7aIDjI7"
+    },
+    {
+      "artistName": "Gucci Mane",
+      "positioning": {
+        "top": 257,
+        "left": 849
+      },
+      "style": {
+        "color": "#939801",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a8b8a604866070283a65bc021cb51330555e9c7",
+        "title": "e.g. Gucci Mane \"Wake Up in the Sky\"",
+        "trackId": "2G1tXoGBaEMJ7FKGnkf6ud"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=13y7CgLHjMVRMDqxdx0Xdo",
+      "id": "13y7CgLHjMVRMDqxdx0Xdo"
+    },
+    {
+      "artistName": "6LACK",
+      "positioning": {
+        "top": 687,
+        "left": 406
+      },
+      "style": {
+        "color": "#899a07",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4bda22e1bb78bc7a0d1d9e87bc35fa2dd6648f5b",
+        "title": "e.g. 6LACK \"Pretty Little Fears (feat. J. Cole)\"",
+        "trackId": "4at3d5QWnlibMVN75ECDrp"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=4IVAbR2w4JJNJDDRFP3E83",
+      "id": "4IVAbR2w4JJNJDDRFP3E83"
+    },
+    {
+      "artistName": "Ice Cube",
+      "positioning": {
+        "top": 280,
+        "left": 1058
+      },
+      "style": {
+        "color": "#bc6f04",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ea4eb0210dd50f7b3e1c43136adab0afc86e418f",
+        "title": "e.g. Ice Cube \"It Was A Good Day\"",
+        "trackId": "2qOm7ukLyHUXWyR4ZWLwxA"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=3Mcii5XWf6E0lrY3Uky4cA",
+      "id": "3Mcii5XWf6E0lrY3Uky4cA"
+    },
+    {
+      "artistName": "Quavo",
+      "positioning": {
+        "top": 147,
+        "left": 934
+      },
+      "style": {
+        "color": "#9ea100",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5afc073eead72de22d798d96144116804f4bea94",
+        "title": "e.g. Quavo \"HOTEL LOBBY (Unc & Phew)\"",
+        "trackId": "4vVjPTApwXZwB2H3mBq3ml"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=0VRj0yCOv2FXJNP47XQnx5",
+      "id": "0VRj0yCOv2FXJNP47XQnx5"
+    },
+    {
+      "artistName": "YNW Melly",
+      "positioning": {
+        "top": 402,
+        "left": 606
+      },
+      "style": {
+        "color": "#9a9700",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c177cf9cc65ab2364123707e1784ca72d8e7b39e",
+        "title": "e.g. YNW Melly \"Murder on My Mind\"",
+        "trackId": "7eBqSVxrzQZtK2mmgRG6lC"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=1cNDP5yjU5vjeR8qMf4grg",
+      "id": "1cNDP5yjU5vjeR8qMf4grg"
+    },
+    {
+      "artistName": "Rick Ross",
+      "positioning": {
+        "top": 571,
+        "left": 353
+      },
+      "style": {
+        "color": "#b58601",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76916e04a193832d592d0d9b1899dac07e9e1438",
+        "title": "e.g. Rick Ross \"Aston Martin Music\"",
+        "trackId": "5W7xC99N2Zzfh69r7I7zWK"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=1sBkRIssrMs1AbVkOJbc7a",
+      "id": "1sBkRIssrMs1AbVkOJbc7a"
+    },
+    {
+      "artistName": "Logic",
+      "positioning": {
+        "top": 470,
+        "left": 526
+      },
+      "style": {
+        "color": "#b98602",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e60d9d46d42425e4bab86bedca7597c308958f9b",
+        "title": "e.g. Logic \"1-800-273-8255\"",
+        "trackId": "5tz69p7tJuGPeMGwNTxYuV"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=4xRYI6VqpkE3UwrDrAZL8L",
+      "id": "4xRYI6VqpkE3UwrDrAZL8L"
+    },
+    {
+      "artistName": "Nelly",
+      "positioning": {
+        "top": 55,
+        "left": 978
+      },
+      "style": {
+        "color": "#ad8e02",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/166e4018942f444036157420ef0ba2cb804cc6e5",
+        "title": "e.g. Nelly \"Dilemma\"",
+        "trackId": "0ARK753YaiJbpLUk7z5yIM"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=2gBjLmx6zQnFGQJCAQpRgw",
+      "id": "2gBjLmx6zQnFGQJCAQpRgw"
+    },
+    {
+      "artistName": "NAV",
+      "positioning": {
+        "top": 267,
+        "left": 1058
+      },
+      "style": {
+        "color": "#97a002",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9eb93c4617326b7c1255df60c9a6a80e58fe1997",
+        "title": "e.g. NAV \"Some Way\"",
+        "trackId": "7zxRMhXxJMQCeDDg0rKAVo"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=7rkW85dBwwrJtlHRDkJDAC",
+      "id": "7rkW85dBwwrJtlHRDkJDAC"
+    },
+    {
+      "artistName": "Big Sean",
+      "positioning": {
+        "top": 497,
+        "left": 539
+      },
+      "style": {
+        "color": "#ad9000",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89a99eecb0d0b8d5f8d1c4257d0e26a6b50b58cd",
+        "title": "e.g. Big Sean \"I Don't Fuck With You\"",
+        "trackId": "7FYH5AW3bVfZHJIQpq3UOA"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=0c173mlxpT3dSFRgMO8XPh",
+      "id": "0c173mlxpT3dSFRgMO8XPh"
+    },
+    {
+      "artistName": "French Montana",
+      "positioning": {
+        "top": 562,
+        "left": 224
+      },
+      "style": {
+        "color": "#b97d00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8d5e3c37feb980e60cac2df4256250d4b5cf5b5",
+        "title": "e.g. French Montana \"Unforgettable\"",
+        "trackId": "3B54sVLJ402zGa6Xm4YGNe"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=6vXTefBL93Dj5IqAWq6OTv",
+      "id": "6vXTefBL93Dj5IqAWq6OTv"
+    },
+    {
+      "artistName": "Kehlani",
+      "positioning": {
+        "top": 787,
+        "left": 0
+      },
+      "style": {
+        "color": "#a09500",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/603131313ab97576652b9c0769b2a68296d283ad",
+        "title": "e.g. Kehlani \"Nights Like This (feat. Ty Dolla $ign)\"",
+        "trackId": "6ZRuF2n1CQxyxxAAWsKJOy"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=0cGUm45nv7Z6M6qdXYQGTX",
+      "id": "0cGUm45nv7Z6M6qdXYQGTX"
+    },
+    {
+      "artistName": "Nas",
+      "positioning": {
+        "top": 645,
+        "left": 659
+      },
+      "style": {
+        "color": "#b57905",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200",
+        "title": "e.g. Nas \"N.Y. State of Mind\"",
+        "trackId": "0trHOzAhNpGCsGBEu7dOJo"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=20qISvAhX20dpIbOOzGK3q",
+      "id": "20qISvAhX20dpIbOOzGK3q"
+    },
+    {
+      "artistName": "Young Nudy",
+      "positioning": {
+        "top": 230,
+        "left": 1062
+      },
+      "style": {
+        "color": "#92a402",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c8c99ebe8a3e76ec03247eed3e9eea7de6ba8f33",
+        "title": "e.g. Young Nudy \"Peaches & Eggplants (feat. 21 Savage)\"",
+        "trackId": "2KcQ0PbPj0O3P48B9YX7iN"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=5yPzzu25VzEk8qrGTLIrE1",
+      "id": "5yPzzu25VzEk8qrGTLIrE1"
+    },
+    {
+      "artistName": "Ski Mask The Slump God",
+      "positioning": {
+        "top": 334,
+        "left": 1138
+      },
+      "style": {
+        "color": "#9c8d00",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f350135b409ffad1bff5df7aa6cbcd0c0c52bb38",
+        "title": "e.g. Ski Mask The Slump God \"Faucet Failure\"",
+        "trackId": "1ThmUihH9dF8EV08ku5AXN"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=2rhFzFmezpnW82MNqEKVry",
+      "id": "2rhFzFmezpnW82MNqEKVry"
+    },
+    {
+      "artistName": "Rae Sremmurd",
+      "positioning": {
+        "top": 83,
+        "left": 925
+      },
+      "style": {
+        "color": "#96a300",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9eb6777e86287cb78d8194f802f59e736ffb50cb",
+        "title": "e.g. Rae Sremmurd \"This Could Be Us\"",
+        "trackId": "4jTiyLlOJVJj3mCr7yfPQD"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=7iZtZyCzp3LItcw1wtPI3D",
+      "id": "7iZtZyCzp3LItcw1wtPI3D"
+    },
+    {
+      "artistName": "Joey Bada$$",
+      "positioning": {
+        "top": 803,
+        "left": 552
+      },
+      "style": {
+        "color": "#bc8000",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f056dcc6458ac9a2099cacc0181a1609c194cd21",
+        "title": "e.g. Joey Bada$$ \"Love Is Only a Feeling\"",
+        "trackId": "7umZiitjVsEjMQ6HNddpUI"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=2P5sC9cVZDToPxyomzF1UH",
+      "id": "2P5sC9cVZDToPxyomzF1UH"
+    },
+    {
+      "artistName": "Young Dolph",
+      "positioning": {
+        "top": 244,
+        "left": 920
+      },
+      "style": {
+        "color": "#a19400",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b5dabb851b93b5cbc5f0645da5f233a4adbb926a",
+        "title": "e.g. Young Dolph \"1 Scale (feat. G Herbo)\"",
+        "trackId": "5gmkw2031VVIboYqPIjSWB"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=3HiuzBlSW7pGDXlSFMhO2g",
+      "id": "3HiuzBlSW7pGDXlSFMhO2g"
+    },
+    {
+      "artistName": "The Game",
+      "positioning": {
+        "top": 635,
+        "left": 566
+      },
+      "style": {
+        "color": "#ae7e03",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6d21bd716841ab53e3a665dd4ea8060e9f37ddd4",
+        "title": "e.g. The Game \"Hate It Or Love It\"",
+        "trackId": "2wGSgTmgSF3xjRrHkTc25R"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=0NbfKEOTQCcwd6o7wSDOHI",
+      "id": "0NbfKEOTQCcwd6o7wSDOHI"
+    },
+    {
+      "artistName": "Kevin Gates",
+      "positioning": {
+        "top": 448,
+        "left": 810
+      },
+      "style": {
+        "color": "#aa9001",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5df72a13347062ea9e32c89e743136ee4ccf3de6",
+        "title": "e.g. Kevin Gates \"Really Really\"",
+        "trackId": "10I3CmmwT0BkOVhduDy53o"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=1gPhS1zisyXr5dHTYZyiMe",
+      "id": "1gPhS1zisyXr5dHTYZyiMe"
+    },
+    {
+      "artistName": "H.E.R.",
+      "positioning": {
+        "top": 764,
+        "left": 193
+      },
+      "style": {
+        "color": "#849409",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ea3f13a61edf4fe0ab2fee73669a14dd3d257d7",
+        "title": "e.g. H.E.R. \"Could've Been (feat. Bryson Tiller)\"",
+        "trackId": "6oEVnWKgPqIEPc53OYDNqG"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=3Y7RZ31TRPVadSFVy1o8os",
+      "id": "3Y7RZ31TRPVadSFVy1o8os"
+    },
+    {
+      "artistName": "YG",
+      "positioning": {
+        "top": 347,
+        "left": 1142
+      },
+      "style": {
+        "color": "#8a9902",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cdefaab9e5653917fd2a65dce9474adc93579618",
+        "title": "e.g. YG \"My Nigga\"",
+        "trackId": "19OHDib8Jrqi3o2nm5lzdA"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=0A0FS04o6zMoto8OKPsDwY",
+      "id": "0A0FS04o6zMoto8OKPsDwY"
+    },
+    {
+      "artistName": "Diddy",
+      "positioning": {
+        "top": 272,
+        "left": 739
+      },
+      "style": {
+        "color": "#b5790c",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/174d0af09bcb84373380914586b2e86266bc1dce",
+        "title": "e.g. Diddy \"I'll Be Missing You\"",
+        "trackId": "25tsnA5lDP4UctAQOoa8Ks"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=59wfkuBoNyhDMQGCljbUbA",
+      "id": "59wfkuBoNyhDMQGCljbUbA"
+    },
+    {
+      "artistName": "T-Pain",
+      "positioning": {
+        "top": 481,
+        "left": 446
+      },
+      "style": {
+        "color": "#989403",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7af382c64f472191f8e5ccf8d37b9ca98b5f9e7",
+        "title": "e.g. T-Pain \"Buy U a Drank (Shawty Snappin') (feat. Yung Joc)\"",
+        "trackId": "1tkMs9wDPknQ3ZHcKDw1ES"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=3aQeKQSyrW4qWr35idm0cy",
+      "id": "3aQeKQSyrW4qWr35idm0cy"
+    },
+    {
+      "artistName": "B.o.B",
+      "positioning": {
+        "top": 359,
+        "left": 357
+      },
+      "style": {
+        "color": "#bb7d04",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ba8a14b311c1f4ad446b94b71da3f507d555193",
+        "title": "e.g. B.o.B \"Nothin' on You (feat. Bruno Mars)\"",
+        "trackId": "59dLtGBS26x7kc0rHbaPrq"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=5ndkK3dpZLKtBklKjxNQwT",
+      "id": "5ndkK3dpZLKtBklKjxNQwT"
+    },
+    {
+      "artistName": "Tee Grizzley",
+      "positioning": {
+        "top": 306,
+        "left": 1027
+      },
+      "style": {
+        "color": "#ad9600",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c3b81777e06d483d0c24e1c48bf6d01b33724bf",
+        "title": "e.g. Tee Grizzley \"From The D To The A (feat. Lil Yachty)\"",
+        "trackId": "2NyrXRn4tancYPW6JwtTl2"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=6AUl0ykLLpvTktob97x9hO",
+      "id": "6AUl0ykLLpvTktob97x9hO"
+    },
+    {
+      "artistName": "2 Chainz",
+      "positioning": {
+        "top": 377,
+        "left": 818
+      },
+      "style": {
+        "color": "#a58d01",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae7803bc75bfc5dc45a1d7127b2f2dad93749a68",
+        "title": "e.g. 2 Chainz \"Long Story Short (with Lil Wayne)\"",
+        "trackId": "2jmdxJ60YfV3fVemuLz7pD"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=17lzZA2AlOHwCwFALHttmp",
+      "id": "17lzZA2AlOHwCwFALHttmp"
+    },
+    {
+      "artistName": "A$AP Ferg",
+      "positioning": {
+        "top": 395,
+        "left": 739
+      },
+      "style": {
+        "color": "#b48f03",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/02788afc758468a99a8ed287118abb6a81217180",
+        "title": "e.g. A$AP Ferg \"Dreams, Fairytales, Fantasies (feat. Brent Faiyaz & Salaam Remi)\"",
+        "trackId": "5oady7OSE7dH7LHiqmb3Cr"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=5dHt1vcEm9qb8fCyLcB3HL",
+      "id": "5dHt1vcEm9qb8fCyLcB3HL"
+    },
+    {
+      "artistName": "Takeoff",
+      "positioning": {
+        "top": 143,
+        "left": 1124
+      },
+      "style": {
+        "color": "#9ba100",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a36af7117131bca283f59136acd4854a29b1bbc",
+        "title": "e.g. Takeoff \"Casper\"",
+        "trackId": "1B4gJRq61xTs6r1O0Uq2iY"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=3EW0kQ1skZiK1NHg3Spt9J",
+      "id": "3EW0kQ1skZiK1NHg3Spt9J"
+    },
+    {
+      "artistName": "DMX",
+      "positioning": {
+        "top": 479,
+        "left": 716
+      },
+      "style": {
+        "color": "#c27203",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40feaf93fa1703ef9d356c658c9f2de341781002",
+        "title": "e.g. DMX \"X Gon' Give It To Ya - Int'l Bonus track\"",
+        "trackId": "66orjI5vOkyxOZLHWrPklh"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=1HwM5zlC5qNWhJtM00yXzG",
+      "id": "1HwM5zlC5qNWhJtM00yXzG"
+    },
+    {
+      "artistName": "Beastie Boys",
+      "positioning": {
+        "top": 389,
+        "left": 526
+      },
+      "style": {
+        "color": "#be6725",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/48ade18a4f29b0682ef4a0bfd88a6f3e13dde9b4",
+        "title": "e.g. Beastie Boys \"Sabotage\"",
+        "trackId": "0Puj4YlTm6xNzDDADXHMI9"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=03r4iKL2g2442PT9n2UKsx",
+      "id": "03r4iKL2g2442PT9n2UKsx"
+    },
+    {
+      "artistName": "Joyner Lucas",
+      "positioning": {
+        "top": 803,
+        "left": 827
+      },
+      "style": {
+        "color": "#a78400",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0af1c66665c4fdfd11d8252f9135ea8c12d2a1a9",
+        "title": "e.g. Joyner Lucas \"Ramen & OJ\"",
+        "trackId": "4TIqzdAssasqx3DAe6cG9J"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=6C1ohJrd5VydigQtaGy5Wa",
+      "id": "6C1ohJrd5VydigQtaGy5Wa"
+    },
+    {
+      "artistName": "Ella Mai",
+      "positioning": {
+        "top": 648,
+        "left": 246
+      },
+      "style": {
+        "color": "#9a9c00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ceb5a8220602b0274c31bed709cc9927f3298c12",
+        "title": "e.g. Ella Mai \"Trip\"",
+        "trackId": "6CTWathupIiDs7U4InHnDA"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=7HkdQ0gt53LP4zmHsL0nap",
+      "id": "7HkdQ0gt53LP4zmHsL0nap"
+    },
+    {
+      "artistName": "T.I.",
+      "positioning": {
+        "top": 441,
+        "left": 499
+      },
+      "style": {
+        "color": "#b68405",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3d5d7208d8e8d4f4e108b764553ead94c167c31",
+        "title": "e.g. T.I. \"Whatever You Like\"",
+        "trackId": "1IAzD1muglOxOcPbUHs70R"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=4OBJLual30L7gRl5UkeRcT",
+      "id": "4OBJLual30L7gRl5UkeRcT"
+    },
+    {
+      "artistName": "Fetty Wap",
+      "positioning": {
+        "top": 327,
+        "left": 557
+      },
+      "style": {
+        "color": "#b08f00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb80bc456e2de9dc8340862fce79addd6b008fe4",
+        "title": "e.g. Fetty Wap \"Trap Queen\"",
+        "trackId": "2d8JP84HNLKhmd6IYOoupQ"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=6PXS4YHDkKvl1wkIl4V8DL",
+      "id": "6PXS4YHDkKvl1wkIl4V8DL"
+    },
+    {
+      "artistName": "Denzel Curry",
+      "positioning": {
+        "top": 428,
+        "left": 499
+      },
+      "style": {
+        "color": "#b38d04",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c18ab3467f5541c576193b5934a0b7445b072cc",
+        "title": "e.g. Denzel Curry \"Walkin\"",
+        "trackId": "1q8DwZtQen5fvyB7cKbShC"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=6fxyWrfmjcbj5d12gXeiNV",
+      "id": "6fxyWrfmjcbj5d12gXeiNV"
+    },
+    {
+      "artistName": "Busta Rhymes",
+      "positioning": {
+        "top": 465,
+        "left": 947
+      },
+      "style": {
+        "color": "#b57703",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/de03de9f1acbddbe02ca6d367db2b752c89a445f",
+        "title": "e.g. Busta Rhymes \"I Know What You Want (feat. Flipmode Squad)\"",
+        "trackId": "3oairMMtNVnUppKwroxou4"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=1YfEcTuGvBQ8xSD1f53UnK",
+      "id": "1YfEcTuGvBQ8xSD1f53UnK"
+    },
+    {
+      "artistName": "ScHoolboy Q",
+      "positioning": {
+        "top": 465,
+        "left": 597
+      },
+      "style": {
+        "color": "#b58301",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a19ec418966837d86c62eb4ba3c96fd62a796f0",
+        "title": "e.g. ScHoolboy Q \"Collard Greens\"",
+        "trackId": "0zO8ctW0UiuOefR87OeJOZ"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=5IcR3N7QB1j6KBL8eImZ8m",
+      "id": "5IcR3N7QB1j6KBL8eImZ8m"
+    },
+    {
+      "artistName": "Aminé",
+      "positioning": {
+        "top": 451,
+        "left": 1111
+      },
+      "style": {
+        "color": "#798e02",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63c2cb574b1be75b7b90e13a3c615d3aad3d5d8b",
+        "title": "e.g. Aminé \"REEL IT IN\"",
+        "trackId": "5qHirGR7M9tdm6C17DlzSY"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=3Gm5F95VdRxW3mqCn8RPBJ",
+      "id": "3Gm5F95VdRxW3mqCn8RPBJ"
+    },
+    {
+      "artistName": "Chance the Rapper",
+      "positioning": {
+        "top": 658,
+        "left": 575
+      },
+      "style": {
+        "color": "#998d00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72d35c6b5fbf36b5bb32f5009efd9de4b35e7b17",
+        "title": "e.g. Chance the Rapper \"Cocoa Butter Kisses\"",
+        "trackId": "0aMHIW1lqrulVCx0LLlr6a"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=1anyVhU62p31KFi8MEzkbf",
+      "id": "1anyVhU62p31KFi8MEzkbf"
+    },
+    {
+      "artistName": "Jeezy",
+      "positioning": {
+        "top": 412,
+        "left": 344
+      },
+      "style": {
+        "color": "#b18701",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b8bdcaf946becbfa7f8f05c27d4c288e45bc54d",
+        "title": "e.g. Jeezy \"Soul Survivor\"",
+        "trackId": "0Ss50OU9tCozI7JIywkv14"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=4yBK75WVCQXej1p04GWqxH",
+      "id": "4yBK75WVCQXej1p04GWqxH"
+    },
+    {
+      "artistName": "Wu-Tang Clan",
+      "positioning": {
+        "top": 679,
+        "left": 535
+      },
+      "style": {
+        "color": "#b3740c",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4a5cbb514e2f34d0152da0f9f76d48d07995e5c",
+        "title": "e.g. Wu-Tang Clan \"C.R.E.A.M. (Cash Rules Everything Around Me) (feat. Method Man, Raekwon, Inspectah Deck & Buddha Monk)\"",
+        "trackId": "119c93MHjrDLJTApCVGpvx"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=34EP7KEpOjXcM2TCat1ISk",
+      "id": "34EP7KEpOjXcM2TCat1ISk"
+    },
+    {
+      "artistName": "Cordae",
+      "positioning": {
+        "top": 449,
+        "left": 956
+      },
+      "style": {
+        "color": "#9a9302",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/472fa55c07c54833b558e9dfec373b5422113339",
+        "title": "e.g. Cordae \"Two Tens (feat. Anderson .Paak)\"",
+        "trackId": "6clDsO8HwhHEgJDDp88VdL"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=0huGjMyP507tBCARyzSkrv",
+      "id": "0huGjMyP507tBCARyzSkrv"
+    },
+    {
+      "artistName": "Dreamville",
+      "positioning": {
+        "top": 674,
+        "left": 836
+      },
+      "style": {
+        "color": "#9e9400",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11d164a8bec2ce7f157bb83b070a4c4271359a6d",
+        "title": "e.g. Dreamville \"Under The Sun (with J. Cole & Lute feat. DaBaby)\"",
+        "trackId": "6MF4tRr5lU8qok8IKaFOBE"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=1iNqsUDUraNWrj00bqssQG",
+      "id": "1iNqsUDUraNWrj00bqssQG"
+    },
+    {
+      "artistName": "Soulja Boy",
+      "positioning": {
+        "top": 341,
+        "left": 765
+      },
+      "style": {
+        "color": "#9e9100",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531",
+        "title": "e.g. Soulja Boy \"Kiss Me Thru The Phone\"",
+        "trackId": "2q4rjDy9WhaN3o9MvDbO21"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=6GMYJwaziB4ekv1Y6wCDWS",
+      "id": "6GMYJwaziB4ekv1Y6wCDWS"
+    },
+    {
+      "artistName": "Jacquees",
+      "positioning": {
+        "top": 532,
+        "left": 375
+      },
+      "style": {
+        "color": "#8c9b00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d6be210f6593ed5f87f7350fcffe1e0c275fe107",
+        "title": "e.g. Jacquees \"B.E.D.\"",
+        "trackId": "1B6TmCvKjC4dopBohVW51x"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=4tMm1dU6Gn04VAZ9ClHcIZ",
+      "id": "4tMm1dU6Gn04VAZ9ClHcIZ"
+    },
+    {
+      "artistName": "Isaiah Rashad",
+      "positioning": {
+        "top": 377,
+        "left": 925
+      },
+      "style": {
+        "color": "#a38905",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1ef4b5bc2a12839fdf8afab21a6e4850188d165",
+        "title": "e.g. Isaiah Rashad \"West Savannah (feat. SZA)\"",
+        "trackId": "0Gt4nGWoATcQFL38a1NRao"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=6aaMZ3fcfLv4tEbmY7bjRM",
+      "id": "6aaMZ3fcfLv4tEbmY7bjRM"
+    },
+    {
+      "artistName": "Tay-K",
+      "positioning": {
+        "top": 404,
+        "left": 858
+      },
+      "style": {
+        "color": "#869605",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/03d3c1b3554d15cf4a56f87c342b8ceddea818c6",
+        "title": "e.g. Tay-K \"The Race - Remix\"",
+        "trackId": "7d19457woBxmPRCq255YqM"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=2ODbg2404zUzTi02qIPEjB",
+      "id": "2ODbg2404zUzTi02qIPEjB"
+    },
+    {
+      "artistName": "Mustard",
+      "positioning": {
+        "top": 300,
+        "left": 778
+      },
+      "style": {
+        "color": "#8c9f04",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6765ad85708c309bc0daee9eca5660e285af9a07",
+        "title": "e.g. Mustard \"Ballin' (with Roddy Ricch)\"",
+        "trackId": "3QzAOrNlsabgbMwlZt7TAY"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=0YinUQ50QDB7ZxSCLyQ40k",
+      "id": "0YinUQ50QDB7ZxSCLyQ40k"
+    },
+    {
+      "artistName": "Missy Elliott",
+      "positioning": {
+        "top": 359,
+        "left": 1195
+      },
+      "style": {
+        "color": "#b08309",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/590b9c7307f4a3856128aa8d83f749548b81c8e5",
+        "title": "e.g. Missy Elliott \"Work It\"",
+        "trackId": "3jagJCUbdqhDSPuxP8cAqF"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=2wIVse2owClT7go1WT98tk",
+      "id": "2wIVse2owClT7go1WT98tk"
+    },
+    {
+      "artistName": "Wale",
+      "positioning": {
+        "top": 558,
+        "left": 508
+      },
+      "style": {
+        "color": "#b78401",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db18370f2e41722a7f079a797499ccc894a07c29",
+        "title": "e.g. Wale \"Lotus Flower Bomb (feat. Miguel)\"",
+        "trackId": "3MAgQuClHcAV8E9CbeBS6f"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=67nwj3Y5sZQLl72VNUHEYE",
+      "id": "67nwj3Y5sZQLl72VNUHEYE"
+    },
+    {
+      "artistName": "Earl Sweatshirt",
+      "positioning": {
+        "top": 901,
+        "left": 193
+      },
+      "style": {
+        "color": "#9e8616",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c61176b580b99361709fcb7557890ee7684f181c",
+        "title": "e.g. Earl Sweatshirt \"Sunday (feat. Frank Ocean)\"",
+        "trackId": "0fAehaneUJdlSlWXYe1KZp"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=3A5tHz1SfngyOZM2gItYKu",
+      "id": "3A5tHz1SfngyOZM2gItYKu"
+    },
+    {
+      "artistName": "Nipsey Hussle",
+      "positioning": {
+        "top": 727,
+        "left": 468
+      },
+      "style": {
+        "color": "#b88401",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ffa2be2a54a1cd049a04faf126d23c18410cdd88",
+        "title": "e.g. Nipsey Hussle \"Grinding All My Life\"",
+        "trackId": "3R9j8urSPiBbapNbyuSYkE"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=0EeQBlQJFiAfJeVN2vT9s0",
+      "id": "0EeQBlQJFiAfJeVN2vT9s0"
+    },
+    {
+      "artistName": "BROCKHAMPTON",
+      "positioning": {
+        "top": 635,
+        "left": 300
+      },
+      "style": {
+        "color": "#968906",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ef4f27cb1fb8f10ffe933fc772a936f32de95181",
+        "title": "e.g. BROCKHAMPTON \"SUGAR\"",
+        "trackId": "6U0FIYXCQ3TGrk4tFpLrEA"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=1Bl6wpkWCQ4KVgnASpvzzA",
+      "id": "1Bl6wpkWCQ4KVgnASpvzzA"
+    },
+    {
+      "artistName": "Ja Rule",
+      "positioning": {
+        "top": 548,
+        "left": 894
+      },
+      "style": {
+        "color": "#b17d02",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e092bf82bcb5d96acd231028be273e323a8ac010",
+        "title": "e.g. Ja Rule \"Always On Time\"",
+        "trackId": "2hNf1rawV2XAZ6Jld2Fxwf"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=1J2VVASYAamtQ3Bt8wGgA6",
+      "id": "1J2VVASYAamtQ3Bt8wGgA6"
+    },
+    {
+      "artistName": "Pusha T",
+      "positioning": {
+        "top": 661,
+        "left": 468
+      },
+      "style": {
+        "color": "#bb8404",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b4f8cffe018b7acb7481db4b97a571f89e3f2106",
+        "title": "e.g. Pusha T \"Sure Thing - Remix\"",
+        "trackId": "6iclNZVKDyJwVXTjxHUWaV"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=0ONHkAv9pCAFxb0zJwDNTy",
+      "id": "0ONHkAv9pCAFxb0zJwDNTy"
+    },
+    {
+      "artistName": "Kaliii",
+      "positioning": {
+        "top": 295,
+        "left": 1288
+      },
+      "style": {
+        "color": "#719a09",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28e286df6b7512bcac28dbe8c22faf3bc6b58db7",
+        "title": "e.g. Kaliii \"K Toven\"",
+        "trackId": "0iCsRcu5mugWVlCMpD7wb1"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=1YRqgFNXqRyMDRr8ClS1NL",
+      "id": "1YRqgFNXqRyMDRr8ClS1NL"
+    },
+    {
+      "artistName": "Ludacris",
+      "positioning": {
+        "top": 602,
+        "left": 703
+      },
+      "style": {
+        "color": "#bb7b02",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b17920acddec5a518fd9d62f215d69c584da566f",
+        "title": "e.g. Ludacris \"My Chick Bad\"",
+        "trackId": "3bMNprrp2JDKZsGbiXpsJl"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=3ipn9JLAPI5GUEo4y4jcoi",
+      "id": "3ipn9JLAPI5GUEo4y4jcoi"
+    },
+    {
+      "artistName": "Bone Thugs-N-Harmony",
+      "positioning": {
+        "top": 416,
+        "left": 645
+      },
+      "style": {
+        "color": "#a88701",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be907adc0d03b2fa8b19e25f482ad087d6da9cec",
+        "title": "e.g. Bone Thugs-N-Harmony \"Tha Crossroads\"",
+        "trackId": "5KSJ9k1FYjFLnIRlJT2wF8"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=5spEJXLwD1sKUdC2bnOHPg",
+      "id": "5spEJXLwD1sKUdC2bnOHPg"
+    },
+    {
+      "artistName": "N.W.A.",
+      "positioning": {
+        "top": 257,
+        "left": 1098
+      },
+      "style": {
+        "color": "#c15906",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f92c470e2b48111e16025dab2a88fbf274e1dc1c",
+        "title": "e.g. N.W.A. \"Straight Outta Compton\"",
+        "trackId": "6KIKRz9eSTXdNsGUnomdtW"
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=4EnEZVjo3w1cwcQYePccay",
+      "id": "4EnEZVjo3w1cwcQYePccay"
+    },
+    {
+      "artistName": "Fat Joe",
+      "positioning": {
+        "top": 603,
+        "left": 579
+      },
+      "style": {
+        "color": "#c17d04",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fd506314ddfbd97f9ef780215c658c3dd680c8b",
+        "title": "e.g. Fat Joe \"What's Luv? (feat. Ja-Rule & Ashanti)\"",
+        "trackId": "2mKouqwAIdQnMP43zxR89r"
+      },
+      "elementId": "item129",
+      "href": "https://everynoise.com/artistprofile.html?id=3ScY9CQxNLQei8Umvpx5g6",
+      "id": "3ScY9CQxNLQei8Umvpx5g6"
+    },
+    {
+      "artistName": "Blueface",
+      "positioning": {
+        "top": 453,
+        "left": 1266
+      },
+      "style": {
+        "color": "#909407",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5590f3acd2d31b12c60ea02277e9771c5ea0995e",
+        "title": "e.g. Blueface \"Thotiana\"",
+        "trackId": "5GBuCHuPKx6UC7VsSPK0t3"
+      },
+      "elementId": "item130",
+      "href": "https://everynoise.com/artistprofile.html?id=3Fl1V19tmjt57oBdxXKAjJ",
+      "id": "3Fl1V19tmjt57oBdxXKAjJ"
+    },
+    {
+      "artistName": "Bas",
+      "positioning": {
+        "top": 635,
+        "left": 747
+      },
+      "style": {
+        "color": "#949504",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/babc346abd194b62d44bed87fc30cd422ce13cde",
+        "title": "e.g. Bas \"Tribe (with J. Cole)\"",
+        "trackId": "0YAQnYt2oB8OdoaeqnHyTI"
+      },
+      "elementId": "item131",
+      "href": "https://everynoise.com/artistprofile.html?id=70gP6Ry4Uo0Yx6uzPIdaiJ",
+      "id": "70gP6Ry4Uo0Yx6uzPIdaiJ"
+    },
+    {
+      "artistName": "Vince Staples",
+      "positioning": {
+        "top": 472,
+        "left": 787
+      },
+      "style": {
+        "color": "#9b8f0a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd0dd7aff0fd96f38de299e6e4a8e7562081664d",
+        "title": "e.g. Vince Staples \"Norf Norf\"",
+        "trackId": "4uQ7wYsuL0DryknoDc11Hk"
+      },
+      "elementId": "item132",
+      "href": "https://everynoise.com/artistprofile.html?id=68kEuyFKyqrdQQLLsmiatm",
+      "id": "68kEuyFKyqrdQQLLsmiatm"
+    },
+    {
+      "artistName": "Lil Pump",
+      "positioning": {
+        "top": 127,
+        "left": 1396
+      },
+      "style": {
+        "color": "#90a200",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/630bfe3b0895ca75f125486da3ed88685adcbbe5",
+        "title": "e.g. Lil Pump \"Gucci Gang\"",
+        "trackId": "43ZyHQITOjhciSUUNPVRHc"
+      },
+      "elementId": "item133",
+      "href": "https://everynoise.com/artistprofile.html?id=3wyVrVrFCkukjdVIdirGVY",
+      "id": "3wyVrVrFCkukjdVIdirGVY"
+    },
+    {
+      "artistName": "Freddie Gibbs",
+      "positioning": {
+        "top": 545,
+        "left": 415
+      },
+      "style": {
+        "color": "#b08818",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b8ea3f15815a7ed8115ff92dffd1d66bbb1980f",
+        "title": "e.g. Freddie Gibbs \"Something to Rap About (feat. Tyler, The Creator)\"",
+        "trackId": "5OkYfk72CNL8XLqa3gp9q7"
+      },
+      "elementId": "item134",
+      "href": "https://everynoise.com/artistprofile.html?id=0Y4inQK6OespitzD6ijMwb",
+      "id": "0Y4inQK6OespitzD6ijMwb"
+    },
+    {
+      "artistName": "Mike WiLL Made-It",
+      "positioning": {
+        "top": 283,
+        "left": 880
+      },
+      "style": {
+        "color": "#939d02",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9cfd931bcb56bbb93b3894aa17ef3988235f559",
+        "title": "e.g. Mike WiLL Made-It \"23\"",
+        "trackId": "20FZrLl9zSbO9b3DhaqO6M"
+      },
+      "elementId": "item135",
+      "href": "https://everynoise.com/artistprofile.html?id=0NWbwDZY1VkRqFafuQm6wk",
+      "id": "0NWbwDZY1VkRqFafuQm6wk"
+    },
+    {
+      "artistName": "Sheck Wes",
+      "positioning": {
+        "top": 108,
+        "left": 716
+      },
+      "style": {
+        "color": "#a3a507",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5fb77f9670044e9f83b42cdc33bf07232328ae4d",
+        "title": "e.g. Sheck Wes \"Mo Bamba\"",
+        "trackId": "1xzBco0xcoJEDXktl7Jxrr"
+      },
+      "elementId": "item136",
+      "href": "https://everynoise.com/artistprofile.html?id=2RDOrhPqAM4jzTRCEb19qX",
+      "id": "2RDOrhPqAM4jzTRCEb19qX"
+    },
+    {
+      "artistName": "Jaden",
+      "positioning": {
+        "top": 665,
+        "left": 158
+      },
+      "style": {
+        "color": "#a98b08",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/586560111b735769108ef4b2549f13ee9f55a086",
+        "title": "e.g. Jaden \"Icon\"",
+        "trackId": "22nyEAEM29tcBRhukR089b"
+      },
+      "elementId": "item137",
+      "href": "https://everynoise.com/artistprofile.html?id=0xOeVMOz2fVg5BJY3N6akT",
+      "id": "0xOeVMOz2fVg5BJY3N6akT"
+    },
+    {
+      "artistName": "Yo Gotti",
+      "positioning": {
+        "top": 285,
+        "left": 708
+      },
+      "style": {
+        "color": "#a79000",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d7e188b4b976e301fff700d0f11187ce9e93577",
+        "title": "e.g. Yo Gotti \"Rake It Up (feat. Nicki Minaj)\"",
+        "trackId": "4knL4iPxPOZjQzTUlELGSY"
+      },
+      "elementId": "item138",
+      "href": "https://everynoise.com/artistprofile.html?id=6Ha4aES39QiVjR0L2lwuwq",
+      "id": "6Ha4aES39QiVjR0L2lwuwq"
+    },
+    {
+      "artistName": "EARTHGANG",
+      "positioning": {
+        "top": 685,
+        "left": 676
+      },
+      "style": {
+        "color": "#a28802",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/35110822e3736599589dd2d6b4f612853e216409",
+        "title": "e.g. EARTHGANG \"Swing - From \"Marvel's Spider-Man 2\"\"",
+        "trackId": "3VaUx4drij8PSdSoz1JLz3"
+      },
+      "elementId": "item139",
+      "href": "https://everynoise.com/artistprofile.html?id=5MbNzCW3qokGyoo9giHA3V",
+      "id": "5MbNzCW3qokGyoo9giHA3V"
+    },
+    {
+      "artistName": "Rich The Kid",
+      "positioning": {
+        "top": 244,
+        "left": 1147
+      },
+      "style": {
+        "color": "#979d01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5375749526c97f47a4dd645ca575a107c3423c13",
+        "title": "e.g. Rich The Kid \"Plug Walk\"",
+        "trackId": "1ZAyjvIk9YiD76yYy0TEG6"
+      },
+      "elementId": "item140",
+      "href": "https://everynoise.com/artistprofile.html?id=1pPmIToKXyGdsCF6LmqLmI",
+      "id": "1pPmIToKXyGdsCF6LmqLmI"
+    },
+    {
+      "artistName": "Eazy-E",
+      "positioning": {
+        "top": 217,
+        "left": 1111
+      },
+      "style": {
+        "color": "#b47301",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b10d064e7c39345c71bb11aa7a0b3a36d51d182",
+        "title": "e.g. Eazy-E \"Real Muthaphuckkin G's\"",
+        "trackId": "7q6lr1W6cmGWijl5kCv5RG"
+      },
+      "elementId": "item141",
+      "href": "https://everynoise.com/artistprofile.html?id=7B4hKK0S9QYnaoqa9OuwgX",
+      "id": "7B4hKK0S9QYnaoqa9OuwgX"
+    },
+    {
+      "artistName": "Lupe Fiasco",
+      "positioning": {
+        "top": 585,
+        "left": 109
+      },
+      "style": {
+        "color": "#cd7d01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/82ecf0570b5ba506be317be1cb78cf7717348abd",
+        "title": "e.g. Lupe Fiasco \"The Show Goes On\"",
+        "trackId": "4NTWZqvfQTlOMitlVn6tew"
+      },
+      "elementId": "item142",
+      "href": "https://everynoise.com/artistprofile.html?id=01QTIT5P1pFP3QnnFSdsJf",
+      "id": "01QTIT5P1pFP3QnnFSdsJf"
+    },
+    {
+      "artistName": "Waka Flocka Flame",
+      "positioning": {
+        "top": 261,
+        "left": 459
+      },
+      "style": {
+        "color": "#ac8f01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/862ad595b0c10e822e3cb283e459060919c8ca52",
+        "title": "e.g. Waka Flocka Flame \"No Hands (feat. Roscoe Dash & Wale)\"",
+        "trackId": "03tqyYWC9Um2ZqU0ZN849H"
+      },
+      "elementId": "item143",
+      "href": "https://everynoise.com/artistprofile.html?id=6f4XkbvYlXMH0QgVRzW0sM",
+      "id": "6f4XkbvYlXMH0QgVRzW0sM"
+    },
+    {
+      "artistName": "Jay Rock",
+      "positioning": {
+        "top": 714,
+        "left": 668
+      },
+      "style": {
+        "color": "#b58000",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/251f7469b9688485c2d74a39bb82be3cd6498a94",
+        "title": "e.g. Jay Rock \"King's Dead (with Kendrick Lamar, Future & James Blake)\"",
+        "trackId": "51rXHuKN8Loc4sUlKPODgH"
+      },
+      "elementId": "item144",
+      "href": "https://everynoise.com/artistprofile.html?id=28ExwzUQsvgJooOI0X1mr3",
+      "id": "28ExwzUQsvgJooOI0X1mr3"
+    },
+    {
+      "artistName": "Young Money",
+      "positioning": {
+        "top": 353,
+        "left": 637
+      },
+      "style": {
+        "color": "#a58a0a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/31785a19aea53d5971cd9cb66cadd462bfd24a38",
+        "title": "e.g. Young Money \"Trophies\"",
+        "trackId": "6HfOzLLjsaXsehIFEsrxTk"
+      },
+      "elementId": "item145",
+      "href": "https://everynoise.com/artistprofile.html?id=5OrB6Jhhrl9y2PK0pSV4VP",
+      "id": "5OrB6Jhhrl9y2PK0pSV4VP"
+    },
+    {
+      "artistName": "Fabolous",
+      "positioning": {
+        "top": 573,
+        "left": 575
+      },
+      "style": {
+        "color": "#b28200",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/891fdc66427d93e32913062a74a1daad6cc34416",
+        "title": "e.g. Fabolous \"Into You (feat. Tamia) - Main Mix\"",
+        "trackId": "1Jm1I3APcmVz3MqPr5vfTx"
+      },
+      "elementId": "item146",
+      "href": "https://everynoise.com/artistprofile.html?id=0YWxKQj2Go9CGHCp77UOyy",
+      "id": "0YWxKQj2Go9CGHCp77UOyy"
+    },
+    {
+      "artistName": "YBN Nahmir",
+      "positioning": {
+        "top": 115,
+        "left": 1266
+      },
+      "style": {
+        "color": "#75b201",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a09a4e82441b2a8646a9e368098e9e8f0c6a5f64",
+        "title": "e.g. YBN Nahmir \"Opp Stoppa (feat. 21 Savage)\"",
+        "trackId": "78p1rF7xx1snnaKxtUzBHn"
+      },
+      "elementId": "item147",
+      "href": "https://everynoise.com/artistprofile.html?id=3gGUMEwIX6XodWsYEvKSal",
+      "id": "3gGUMEwIX6XodWsYEvKSal"
+    },
+    {
+      "artistName": "Juicy J",
+      "positioning": {
+        "top": 85,
+        "left": 1107
+      },
+      "style": {
+        "color": "#af8f01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7cd080163ad471944cbe41c18998bc5a6ad14299",
+        "title": "e.g. Juicy J \"Shell Shocked (feat. Kill the Noise & Madsonik) - From \"Teenage Mutant Ninja Turtles\"\"",
+        "trackId": "7zBQRGpYImAdIZc97FNj3V"
+      },
+      "elementId": "item148",
+      "href": "https://everynoise.com/artistprofile.html?id=5gCRApTajqwbnHHPbr2Fpi",
+      "id": "5gCRApTajqwbnHHPbr2Fpi"
+    },
+    {
+      "artistName": "PnB Rock",
+      "positioning": {
+        "top": 507,
+        "left": 419
+      },
+      "style": {
+        "color": "#a49c00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b2386d48bd77e8306602e862ae632a643d3c2210",
+        "title": "e.g. PnB Rock \"Selfish\"",
+        "trackId": "2xbI8Vmyv3TkpTdywpPyNw"
+      },
+      "elementId": "item149",
+      "href": "https://everynoise.com/artistprofile.html?id=21WS9wngs9AqFckK7yYJPM",
+      "id": "21WS9wngs9AqFckK7yYJPM"
+    },
+    {
+      "artistName": "Kid Ink",
+      "positioning": {
+        "top": 340,
+        "left": 619
+      },
+      "style": {
+        "color": "#a29209",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76350432076d7c183bbf64ce40b9567cb11db582",
+        "title": "e.g. Kid Ink \"Show Me (feat. Chris Brown)\"",
+        "trackId": "4q6dqyGM25sKFU8nYAGRe4"
+      },
+      "elementId": "item150",
+      "href": "https://everynoise.com/artistprofile.html?id=6KZDXtSj0SzGOV705nNeh3",
+      "id": "6KZDXtSj0SzGOV705nNeh3"
+    },
+    {
+      "artistName": "G-Unit",
+      "positioning": {
+        "top": 739,
+        "left": 761
+      },
+      "style": {
+        "color": "#b67001",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e921e1afdd18a67fbdb09fca123b7a96d926207c",
+        "title": "e.g. G-Unit \"Poppin' Them Thangs\"",
+        "trackId": "4E5IFAXCob6QqZaJMTw5YN"
+      },
+      "elementId": "item151",
+      "href": "https://everynoise.com/artistprofile.html?id=6evKD5JWJON3qPBJtUEmtY",
+      "id": "6evKD5JWJON3qPBJtUEmtY"
+    },
+    {
+      "artistName": "Desiigner",
+      "positioning": {
+        "top": 525,
+        "left": 614
+      },
+      "style": {
+        "color": "#b58d02",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/923fd59aab5bfab7a3cf90e32fdb76d140ce309e",
+        "title": "e.g. Desiigner \"Tiimmy Turner\"",
+        "trackId": "3NJG6vMH1ZsectZkocMEm0"
+      },
+      "elementId": "item152",
+      "href": "https://everynoise.com/artistprofile.html?id=7pFeBzX627ff0VnN6bxPR4",
+      "id": "7pFeBzX627ff0VnN6bxPR4"
+    },
+    {
+      "artistName": "Run–D.M.C.",
+      "positioning": {
+        "top": 104,
+        "left": 1120
+      },
+      "style": {
+        "color": "#cc590d",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a5682767e3c6ce87aa3e8b86029c85275a10ca0",
+        "title": "e.g. Run–D.M.C. \"It's Tricky\"",
+        "trackId": "6jBCehpNMkwFVF3dz4nLIW"
+      },
+      "elementId": "item153",
+      "href": "https://everynoise.com/artistprofile.html?id=3CQIn7N5CuRDP8wEI7FiDA",
+      "id": "3CQIn7N5CuRDP8wEI7FiDA"
+    },
+    {
+      "artistName": "Lil' Kim",
+      "positioning": {
+        "top": 483,
+        "left": 1018
+      },
+      "style": {
+        "color": "#b27504",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/891d39d40847f6ab5615081914c3f4944a0b23bc",
+        "title": "e.g. Lil' Kim \"Magic Stick\"",
+        "trackId": "0aULRU35N9kTj6O1xMULRR"
+      },
+      "elementId": "item154",
+      "href": "https://everynoise.com/artistprofile.html?id=5tth2a3v0sWwV1C7bApBdX",
+      "id": "5tth2a3v0sWwV1C7bApBdX"
+    },
+    {
+      "artistName": "LL COOL J",
+      "positioning": {
+        "top": 288,
+        "left": 805
+      },
+      "style": {
+        "color": "#b17713",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2d4a998f17a08cf26a7be6340a6b09301821dbc",
+        "title": "e.g. LL COOL J \"Doin' It\"",
+        "trackId": "4WMBl2wiGUSGa5C7tfQEAo"
+      },
+      "elementId": "item155",
+      "href": "https://everynoise.com/artistprofile.html?id=1P8IfcNKwrkQP5xJWuhaOC",
+      "id": "1P8IfcNKwrkQP5xJWuhaOC"
+    },
+    {
+      "artistName": "Omarion",
+      "positioning": {
+        "top": 558,
+        "left": 393
+      },
+      "style": {
+        "color": "#ab8603",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e46983bc460a046d738da248d7b9b22bfe2fae3",
+        "title": "e.g. Omarion \"Post to Be (feat. Chris Brown & Jhene Aiko)\"",
+        "trackId": "0fgZUSa7D7aVvv3GfO0A1n"
+      },
+      "elementId": "item156",
+      "href": "https://everynoise.com/artistprofile.html?id=0f5nVCcR06GX8Qikz0COtT",
+      "id": "0f5nVCcR06GX8Qikz0COtT"
+    },
+    {
+      "artistName": "Curren$y",
+      "positioning": {
+        "top": 615,
+        "left": 326
+      },
+      "style": {
+        "color": "#ae8405",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1102db6e673fe614aa4af6932976a586151ecd3f",
+        "title": "e.g. Curren$y \"The Count (feat. Wiz Khalifa)\"",
+        "trackId": "171PWhxgdrIOgcAiBPO3Gr"
+      },
+      "elementId": "item157",
+      "href": "https://everynoise.com/artistprofile.html?id=6X8WdFjrNhXATMDSs26aCc",
+      "id": "6X8WdFjrNhXATMDSs26aCc"
+    },
+    {
+      "artistName": "KIDS SEE GHOSTS",
+      "positioning": {
+        "top": 441,
+        "left": 570
+      },
+      "style": {
+        "color": "#98922a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f75ac65c50fcc81e642f58220e7f3abaf827e77a",
+        "title": "e.g. KIDS SEE GHOSTS \"Reborn\"",
+        "trackId": "4RVbK6cV0VqWdpCDcx3hiT"
+      },
+      "elementId": "item158",
+      "href": "https://everynoise.com/artistprofile.html?id=2hPgGN4uhvXAxiXQBIXOmE",
+      "id": "2hPgGN4uhvXAxiXQBIXOmE"
+    },
+    {
+      "artistName": "Lloyd Banks",
+      "positioning": {
+        "top": 714,
+        "left": 415
+      },
+      "style": {
+        "color": "#b27001",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d8f5005184548135d684cbb0ded5548c750c3fa",
+        "title": "e.g. Lloyd Banks \"Beamer, Benz, Or Bentley\"",
+        "trackId": "0cNJ3huiV99wvUN1tmQLTL"
+      },
+      "elementId": "item159",
+      "href": "https://everynoise.com/artistprofile.html?id=3vDUJHQtqT3jFRZ2ECXDTi",
+      "id": "3vDUJHQtqT3jFRZ2ECXDTi"
+    },
+    {
+      "artistName": "Bow Wow",
+      "positioning": {
+        "top": 350,
+        "left": 872
+      },
+      "style": {
+        "color": "#aa851b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2042402bce27e0df69fc16561900b0cfe63f974",
+        "title": "e.g. Bow Wow \"Like You (feat. Ciara)\"",
+        "trackId": "3jEqrIfwKO0M8ALu3TGilF"
+      },
+      "elementId": "item160",
+      "href": "https://everynoise.com/artistprofile.html?id=7352aRY2mqSxBZwzUb6LmA",
+      "id": "7352aRY2mqSxBZwzUb6LmA"
+    },
+    {
+      "artistName": "A$AP Mob",
+      "positioning": {
+        "top": 435,
+        "left": 867
+      },
+      "style": {
+        "color": "#a68500",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28c3bab809b001eeedae78613bf6457d740ea4af",
+        "title": "e.g. A$AP Mob \"Frat Rules (feat. A$AP Rocky, Playboi Carti & Big Sean)\"",
+        "trackId": "0RyA3o15NOLJYtm9NlDu5c"
+      },
+      "elementId": "item161",
+      "href": "https://everynoise.com/artistprofile.html?id=7yO4IdJjCEPz7YgZMe25iS",
+      "id": "7yO4IdJjCEPz7YgZMe25iS"
+    },
+    {
+      "artistName": "Young M.A",
+      "positioning": {
+        "top": 509,
+        "left": 863
+      },
+      "style": {
+        "color": "#b08d01",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6289d33bf0ab609179b58bc0bbabba6aeb84c108",
+        "title": "e.g. Young M.A \"NNAN\"",
+        "trackId": "7asoA129HgQkm3MOVEUF0K"
+      },
+      "elementId": "item162",
+      "href": "https://everynoise.com/artistprofile.html?id=7LvoDJUNGnOrPdGRzVtOJ9",
+      "id": "7LvoDJUNGnOrPdGRzVtOJ9"
+    },
+    {
+      "artistName": "Famous Dex",
+      "positioning": {
+        "top": 494,
+        "left": 397
+      },
+      "style": {
+        "color": "#a28d03",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7dfa73f415f80d48d6e04f60e936c2f9a38912f1",
+        "title": "e.g. Famous Dex \"PICK IT UP (feat. A$AP Rocky)\"",
+        "trackId": "0dSIrRkA4PadGll16TgbnV"
+      },
+      "elementId": "item163",
+      "href": "https://everynoise.com/artistprofile.html?id=0WOxhx4hikIsyF3CRPLC8W",
+      "id": "0WOxhx4hikIsyF3CRPLC8W"
+    },
+    {
+      "artistName": "BlocBoy JB",
+      "positioning": {
+        "top": 294,
+        "left": 1022
+      },
+      "style": {
+        "color": "#a49100",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b01a13e516a679c1dfdb3fe234c56c7d8ec293b7",
+        "title": "e.g. BlocBoy JB \"Look Alive (feat. Drake)\"",
+        "trackId": "6HJ34Zyw6bg8yGm28AxLXf"
+      },
+      "elementId": "item164",
+      "href": "https://everynoise.com/artistprofile.html?id=4TEJudQY2pXxVHPE3gD2EU",
+      "id": "4TEJudQY2pXxVHPE3gD2EU"
+    },
+    {
+      "artistName": "Rich Homie Quan",
+      "positioning": {
+        "top": 519,
+        "left": 424
+      },
+      "style": {
+        "color": "#9a9300",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e15f2d4ac12c4f851604da51d13eccc5db47cef",
+        "title": "e.g. Rich Homie Quan \"Flex (Ooh, Ooh, Ooh)\"",
+        "trackId": "4T0ScSPdQKmGvruK7pavNP"
+      },
+      "elementId": "item165",
+      "href": "https://everynoise.com/artistprofile.html?id=5lHRUCqkQZCIWeX7xG4sYT",
+      "id": "5lHRUCqkQZCIWeX7xG4sYT"
+    },
+    {
+      "artistName": "Ace Hood",
+      "positioning": {
+        "top": 416,
+        "left": 552
+      },
+      "style": {
+        "color": "#b08f03",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aee7ce1be1095f324d37970d47ebbe536e90b3ea",
+        "title": "e.g. Ace Hood \"Bugatti\"",
+        "trackId": "08ljt6NCNAgewQaMya1URa"
+      },
+      "elementId": "item166",
+      "href": "https://everynoise.com/artistprofile.html?id=31HjiqargV4NAw4GZqUale",
+      "id": "31HjiqargV4NAw4GZqUale"
+    },
+    {
+      "artistName": "Bobby Shmurda",
+      "positioning": {
+        "top": 271,
+        "left": 907
+      },
+      "style": {
+        "color": "#a38f07",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e18815778e7ad47fa193855a617aa23c76a06d46",
+        "title": "e.g. Bobby Shmurda \"Shmoney (feat. Quavo & Rowdy Rebel)\"",
+        "trackId": "10TaZTWBzpWwDTVlsfXzMf"
+      },
+      "elementId": "item167",
+      "href": "https://everynoise.com/artistprofile.html?id=34Y0ldeyUv7jBvukWOGASO",
+      "id": "34Y0ldeyUv7jBvukWOGASO"
+    },
+    {
+      "artistName": "Sik World",
+      "positioning": {
+        "top": 518,
+        "left": 1000
+      },
+      "style": {
+        "color": "#919700",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6930b496c7cfcdc17d162768b57f214b7079f9f1",
+        "title": "e.g. Sik World \"7 Years (Remix)\"",
+        "trackId": "1kFlDnWmBTvCBxxeGDpIdp"
+      },
+      "elementId": "item168",
+      "href": "https://everynoise.com/artistprofile.html?id=39G9Mcs99KhOEtVuthwztS",
+      "id": "39G9Mcs99KhOEtVuthwztS"
+    },
+    {
+      "artistName": "Ab-Soul",
+      "positioning": {
+        "top": 755,
+        "left": 308
+      },
+      "style": {
+        "color": "#af8000",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f75d33f7dd35d91c19fdcd968d4aa3089626012",
+        "title": "e.g. Ab-Soul \"DO BETTER\"",
+        "trackId": "6MtStOzbbrBAEJUgLeYkIg"
+      },
+      "elementId": "item169",
+      "href": "https://everynoise.com/artistprofile.html?id=0g9vAlRPK9Gt3FKCekk4TW",
+      "id": "0g9vAlRPK9Gt3FKCekk4TW"
+    },
+    {
+      "artistName": "Ugly God",
+      "positioning": {
+        "top": 398,
+        "left": 1396
+      },
+      "style": {
+        "color": "#78a600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/163638a4cd2363270d60c43aedb5e695756e72f0",
+        "title": "e.g. Ugly God \"I'm a Nasty Hoe\"",
+        "trackId": "2VGNV3fdVW5gdd4j2wYSU8"
+      },
+      "elementId": "item170",
+      "href": "https://everynoise.com/artistprofile.html?id=3Fdm9TFJQCLmC3AWMuGExi",
+      "id": "3Fdm9TFJQCLmC3AWMuGExi"
+    },
+    {
+      "artistName": "Grandmaster Flash",
+      "positioning": {
+        "top": 177,
+        "left": 1164
+      },
+      "style": {
+        "color": "#bb6b08",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/508ffa400987fc1ceba5146f4a21cfd6045a8ad9",
+        "title": "e.g. Grandmaster Flash \"White Lines (Don't Do It)\"",
+        "trackId": "2W1ClVyalH5ys0HIN3FGvU"
+      },
+      "elementId": "item171",
+      "href": "https://everynoise.com/artistprofile.html?id=1JfnADNz5yYEq3hrzlZHLk",
+      "id": "1JfnADNz5yYEq3hrzlZHLk"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=rap"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/6s5MoZzR70Qef7x4bVxDO1"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2wLeCjsTtKLIkYcIab8ag8"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/55z6cA3OPG7unlm8oZ3SbX"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/1aVByklyh9V8JVYTPILZfn"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=rap"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "trap",
+      "positioning": {
+        "top": 158,
+        "left": 240
+      },
+      "style": {
+        "color": "#a38f02",
+        "fontSize": "136%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e15f2d4ac12c4f851604da51d13eccc5db47cef",
+        "title": "e.g. Rich Homie Quan \"Flex (Ooh, Ooh, Ooh)\"",
+        "trackId": "4T0ScSPdQKmGvruK7pavNP"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-trap.html#tunnel"
+    },
+    {
+      "genreName": "pop rap",
+      "positioning": {
+        "top": 126,
+        "left": 214
+      },
+      "style": {
+        "color": "#ac8803",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d34545f442d5a3861c61afd164d7927b00c06531",
+        "title": "e.g. Soulja Boy \"Kiss Me Thru The Phone\"",
+        "trackId": "2q4rjDy9WhaN3o9MvDbO21"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-poprap.html#tunnel"
+    },
+    {
+      "genreName": "southern hip hop",
+      "positioning": {
+        "top": 142,
+        "left": 228
+      },
+      "style": {
+        "color": "#a88a02",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2eb13d7dbfa77401e19d5950eac8cd3c02b76ffe",
+        "title": "e.g. JUVENILE \"Back That Azz Up\"",
+        "trackId": "6o2g1BJvtYQssH84kBYs7y"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-southernhiphop.html#tunnel"
+    },
+    {
+      "genreName": "hip hop",
+      "positioning": {
+        "top": 229,
+        "left": 267
+      },
+      "style": {
+        "color": "#ac7f08",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f27225424bca80900ee9a32f4a494c900a012200",
+        "title": "e.g. Nas \"N.Y. State of Mind\"",
+        "trackId": "0trHOzAhNpGCsGBEu7dOJo"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-hiphop.html#tunnel"
+    },
+    {
+      "genreName": "atl hip hop",
+      "positioning": {
+        "top": 61,
+        "left": 237
+      },
+      "style": {
+        "color": "#a28e04",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be360a507094a10639c1da4d1e8da31514d744dc",
+        "title": "e.g. Lil Jon & The East Side Boyz \"Get Low\"",
+        "trackId": "0r2Bul2NuCViraT2zX1l5j"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-atlhiphop.html#tunnel"
+    },
+    {
+      "genreName": "gangster rap",
+      "positioning": {
+        "top": 173,
+        "left": 288
+      },
+      "style": {
+        "color": "#b07d04",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b97f4269cab242c0dd5721c5ba1a515f538fcb59",
+        "title": "e.g. Scarface \"Smile\"",
+        "trackId": "6wvfISRCQBOEpIvhX6UsDj"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-gangsterrap.html#tunnel"
+    },
+    {
+      "genreName": "dirty south rap",
+      "positioning": {
+        "top": 112,
+        "left": 270
+      },
+      "style": {
+        "color": "#a88603",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd5772f3ae3cb39081bf578929ebe1e0790f1e8a",
+        "title": "e.g. Lil' Flip \"Sunshine (feat. Lea)\"",
+        "trackId": "4s0o8TJHfX9LLHa0umnOzT"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-dirtysouthrap.html#tunnel"
+    },
+    {
+      "genreName": "melodic rap",
+      "positioning": {
+        "top": 87,
+        "left": 235
+      },
+      "style": {
+        "color": "#979c02",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5375749526c97f47a4dd645ca575a107c3423c13",
+        "title": "e.g. Rich The Kid \"Plug Walk\"",
+        "trackId": "1ZAyjvIk9YiD76yYy0TEG6"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-melodicrap.html#tunnel"
+    },
+    {
+      "genreName": "r&b",
+      "positioning": {
+        "top": 196,
+        "left": 65
+      },
+      "style": {
+        "color": "#998b05",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6527596393b3ea9d71d6e58b9f08c67fe69eac9e",
+        "title": "e.g. Xscape \"Who Can I Run To\"",
+        "trackId": "0wdaPticLmmqJdhgLDJ9zI"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-rb.html#tunnel"
+    },
+    {
+      "genreName": "east coast hip hop",
+      "positioning": {
+        "top": 294,
+        "left": 300
+      },
+      "style": {
+        "color": "#b4710e",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cea4658190b7d2e1ea6d960db419f18e65e9a2e7",
+        "title": "e.g. Kool G Rap \"Fast Life (with Nas)\"",
+        "trackId": "4TyOdHslAsrWZyXuStT2Ay"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-eastcoasthiphop.html#tunnel"
+    },
+    {
+      "genreName": "conscious hip hop",
+      "positioning": {
+        "top": 307,
+        "left": 212
+      },
+      "style": {
+        "color": "#b0780c",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/74e3a56842f5000be3a9f26a27e37ac90dcf7363",
+        "title": "e.g. Mos Def \"Ms. Fat Booty\"",
+        "trackId": "0IVAlb0cFCH1cQ974iR1TU"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-conscioushiphop.html#tunnel"
+    },
+    {
+      "genreName": "underground hip hop",
+      "positioning": {
+        "top": 294,
+        "left": 147
+      },
+      "style": {
+        "color": "#a08a10",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7d078241996955770586cca4c131a0f40558473d",
+        "title": "e.g. Robb Bank$ \"It's Lifted\"",
+        "trackId": "5kxhllnJgRtGwrzFGvzqdu"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-undergroundhiphop.html#tunnel"
+    },
+    {
+      "genreName": "dance pop",
+      "positioning": {
+        "top": 0,
+        "left": 0
+      },
+      "style": {
+        "color": "#b7840b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6de2791f84c1d637a0e24734b6df3997cc742da4",
+        "title": "e.g. Britney Spears \"Toxic\"",
+        "trackId": "6I9VzXrHxO9rA9A5euc8Ak"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-dancepop.html#tunnel"
+    },
+    {
+      "genreName": "queens hip hop",
+      "positioning": {
+        "top": 282,
+        "left": 247
+      },
+      "style": {
+        "color": "#b67408",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0f64f9256df3a68f05e59f6478fb4de8e1b79c29",
+        "title": "e.g. Tragedy Khadafi \"1st Day of Spring\"",
+        "trackId": "5IOa30P7Tgik2fvPnZlD1v"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-queenshiphop.html#tunnel"
+    },
+    {
+      "genreName": "hardcore hip hop",
+      "positioning": {
+        "top": 320,
+        "left": 267
+      },
+      "style": {
+        "color": "#b37309",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8062e443b38b4722016771eefe939c5b4de62c34",
+        "title": "e.g. Raekwon \"Ice Cream (feat. Ghostface Killah, Method Man & Cappadonna)\"",
+        "trackId": "6SI4JD7iyQ0rrudhCNtMv0"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-hardcorehiphop.html#tunnel"
+    },
+    {
+      "genreName": "new orleans rap",
+      "positioning": {
+        "top": 245,
+        "left": 251
+      },
+      "style": {
+        "color": "#a78604",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f96e2b17738c2d76e5aac4da19b9fce951f95ac0",
+        "title": "e.g. Soulja Slim \"I'll Pay For It\"",
+        "trackId": "3CD5unS9lFEAp4HOkZy0qK"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-neworleansrap.html#tunnel"
+    },
+    {
+      "genreName": "urban contemporary",
+      "positioning": {
+        "top": 150,
+        "left": 86
+      },
+      "style": {
+        "color": "#9e8707",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ff0fdd232b5d0434f1e30f1a86c47a3890c83aa",
+        "title": "e.g. Sisqo \"Thong Song\"",
+        "trackId": "5Mmk2ii6laakqfeCT7OnVD"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-urbancontemporary.html#tunnel"
+    },
+    {
+      "genreName": "deep underground hip hop",
+      "positioning": {
+        "top": 258,
+        "left": 251
+      },
+      "style": {
+        "color": "#a38f03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/874d7ab8fc6329fd952040e281dc16b22b040184",
+        "title": "e.g. Kevin Flum \"Mansion Tears\"",
+        "trackId": "5YrAaXakuStf0AOY8f0Py4"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-deepundergroundhiphop.html#tunnel"
+    },
+    {
+      "genreName": "mississippi hip hop",
+      "positioning": {
+        "top": 188,
+        "left": 265
+      },
+      "style": {
+        "color": "#9f8e04",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3fcde1e6801b35c5de3e762fe78162a54130a0a",
+        "title": "e.g. Nickoe \"Get Off\"",
+        "trackId": "5lwaWC4AmrvI43IicZ4t7v"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-mississippihiphop.html#tunnel"
+    },
+    {
+      "genreName": "australian trap",
+      "positioning": {
+        "top": 270,
+        "left": 219
+      },
+      "style": {
+        "color": "#a88904",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3edbd5de2277a5264345eaa3883fa2af1ff6a16",
+        "title": "e.g. Mitchos Da Menace \"Thoughts\"",
+        "trackId": "3YyEbDdSt3QZ58phSW8Cqy"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-australiantrap.html#tunnel"
+    }
+  ]
+}

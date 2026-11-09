@@ -1,0 +1,4559 @@
+{
+  "schemaVersion": 3,
+  "genreName": "hard rock",
+  "artists": [
+    {
+      "artistName": "Metallica",
+      "positioning": {
+        "top": 776,
+        "left": 559
+      },
+      "style": {
+        "color": "#d95144",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e1016d38d99a88b37d7546d785f3fede2691eb2",
+        "title": "e.g. Metallica \"Enter Sandman\"",
+        "trackId": "5sICkBXVmaCQk5aISGR3x1"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=2ye2Wgw4gimLv2eAKyk1NB",
+      "id": "2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    {
+      "artistName": "AC/DC",
+      "positioning": {
+        "top": 557,
+        "left": 678
+      },
+      "style": {
+        "color": "#d05537",
+        "fontSize": "155%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e5dde93998c6b622d0ac236ceeaabd49481da078",
+        "title": "e.g. AC/DC \"Highway to Hell\"",
+        "trackId": "2zYzyRzz6pRmhPzyfMEC8s"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=711MCceyCBcFnzjGY4Q7Un",
+      "id": "711MCceyCBcFnzjGY4Q7Un"
+    },
+    {
+      "artistName": "Guns N' Roses",
+      "positioning": {
+        "top": 818,
+        "left": 318
+      },
+      "style": {
+        "color": "#d34c36",
+        "fontSize": "151%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a941cdd2c0c74206aaa6d7e459e4fdf1d738deaa",
+        "title": "e.g. Guns N' Roses \"Sweet Child O' Mine\"",
+        "trackId": "7snQQk1zcKl8gZ92AnueZW"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=3qm84nBOXUEQ2vnTfUTTFC",
+      "id": "3qm84nBOXUEQ2vnTfUTTFC"
+    },
+    {
+      "artistName": "Led Zeppelin",
+      "positioning": {
+        "top": 765,
+        "left": 877
+      },
+      "style": {
+        "color": "#ad6825",
+        "fontSize": "141%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f50f3416ea0807503e172ba87a92d8047d4f95da",
+        "title": "e.g. Led Zeppelin \"Immigrant Song - Remaster\"",
+        "trackId": "78lgmZwycJ3nzsdgmPPGNx"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=36QJpDe2go2KgaRleHCDTp",
+      "id": "36QJpDe2go2KgaRleHCDTp"
+    },
+    {
+      "artistName": "Korn",
+      "positioning": {
+        "top": 284,
+        "left": 792
+      },
+      "style": {
+        "color": "#d96125",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1748e7fff0689e02eed3deebaf7837afabbe8657",
+        "title": "e.g. Korn \"Freak On a Leash\"",
+        "trackId": "6W21LNLz9Sw7sUSNWMSHRu"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=3RNrq3jvMZxD9ZyoOZbQOD",
+      "id": "3RNrq3jvMZxD9ZyoOZbQOD"
+    },
+    {
+      "artistName": "Aerosmith",
+      "positioning": {
+        "top": 505,
+        "left": 469
+      },
+      "style": {
+        "color": "#cf650e",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b56a69c9cddc7358e940daa656a8dd5874e5f58f",
+        "title": "e.g. Aerosmith \"Dream On\"",
+        "trackId": "1xsYj84j7hUDDnTTerGWlH"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=7Ey4PD4MYsKc5I2dolUwbH",
+      "id": "7Ey4PD4MYsKc5I2dolUwbH"
+    },
+    {
+      "artistName": "Ghost",
+      "positioning": {
+        "top": 170,
+        "left": 559
+      },
+      "style": {
+        "color": "#be7422",
+        "fontSize": "137%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ccba99ba52e0880cec5f4e38e1e51af637f01b3",
+        "title": "e.g. Ghost \"Mary On A Cross\"",
+        "trackId": "7wdwIaXUuzlu1grzWMFRJm"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=1Qp56T7n950O3EGMsSl81D",
+      "id": "1Qp56T7n950O3EGMsSl81D"
+    },
+    {
+      "artistName": "Journey",
+      "positioning": {
+        "top": 644,
+        "left": 370
+      },
+      "style": {
+        "color": "#be6512",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7b88f49127f9d414e8f4c0cbbe190648cf3cf9b",
+        "title": "e.g. Journey \"Don't Stop Believin'\"",
+        "trackId": "4bHsxqR3GMrXTxEPLuK5ue"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=0rvjqX7ttXeg3mTy8Xscbt",
+      "id": "0rvjqX7ttXeg3mTy8Xscbt"
+    },
+    {
+      "artistName": "TOTO",
+      "positioning": {
+        "top": 440,
+        "left": 1081
+      },
+      "style": {
+        "color": "#a77713",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86d951a680c33cca769822e0ef854c1b20301b32",
+        "title": "e.g. TOTO \"Africa\"",
+        "trackId": "2374M0fQpWi3dLnB54qaLX"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=0PFtn5NtBbbUNbU9EAmIWF",
+      "id": "0PFtn5NtBbbUNbU9EAmIWF"
+    },
+    {
+      "artistName": "Black Sabbath",
+      "positioning": {
+        "top": 849,
+        "left": 389
+      },
+      "style": {
+        "color": "#b66427",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e",
+        "title": "e.g. Black Sabbath \"Paranoid - 2012 - Remaster\"",
+        "trackId": "1Y373MqadDRtclJNdnUXVc"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=5M52tdBnJaKSvOpJGz8mfZ",
+      "id": "5M52tdBnJaKSvOpJGz8mfZ"
+    },
+    {
+      "artistName": "The Doors",
+      "positioning": {
+        "top": 759,
+        "left": 1266
+      },
+      "style": {
+        "color": "#807913",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76f1624dd8ad1c3741cacbc8864746d734f92109",
+        "title": "e.g. The Doors \"People Are Strange\"",
+        "trackId": "1Jmqubf9kGkWeYQXQKImL5"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=22WZ7M8sxp5THdruNY3gXt",
+      "id": "22WZ7M8sxp5THdruNY3gXt"
+    },
+    {
+      "artistName": "Iron Maiden",
+      "positioning": {
+        "top": 717,
+        "left": 209
+      },
+      "style": {
+        "color": "#e94e17",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44ed0e1d3b2183b4e3a3c0413a47b92ff9b0a485",
+        "title": "e.g. Iron Maiden \"The Trooper - 2015 Remaster\"",
+        "trackId": "4OROzZUy6gOWN4UGQVaZMF"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=6mdiAmATAx73kdxrNrnlao",
+      "id": "6mdiAmATAx73kdxrNrnlao"
+    },
+    {
+      "artistName": "Van Halen",
+      "positioning": {
+        "top": 641,
+        "left": 626
+      },
+      "style": {
+        "color": "#c75125",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86b253d59e8485604c5cdcba34b67caa9307c17f",
+        "title": "e.g. Van Halen \"Jump - 2015 Remaster\"",
+        "trackId": "7N3PAbqfTjSEU1edb2tY8j"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=2cnMpRsOVqtPMfq7YiFE6K",
+      "id": "2cnMpRsOVqtPMfq7YiFE6K"
+    },
+    {
+      "artistName": "Lynyrd Skynyrd",
+      "positioning": {
+        "top": 589,
+        "left": 867
+      },
+      "style": {
+        "color": "#b6770e",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/125986ae6eb995983b84776b7e0d368f6a74cbbf",
+        "title": "e.g. Lynyrd Skynyrd \"Sweet Home Alabama\"",
+        "trackId": "7e89621JPkKaeDSTQ3avtg"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=4MVyzYMgTwdP7Z49wAZHx0",
+      "id": "4MVyzYMgTwdP7Z49wAZHx0"
+    },
+    {
+      "artistName": "Scorpions",
+      "positioning": {
+        "top": 474,
+        "left": 346
+      },
+      "style": {
+        "color": "#bc6b1e",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/04cc7f2a90a36b38f927320700a00f5010c808c6",
+        "title": "e.g. Scorpions \"Wind Of Change\"",
+        "trackId": "3ovjw5HZZv43SxTwApooCM"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=27T030eWyCQRmDyuvr1kxY",
+      "id": "27T030eWyCQRmDyuvr1kxY"
+    },
+    {
+      "artistName": "KISS",
+      "positioning": {
+        "top": 439,
+        "left": 811
+      },
+      "style": {
+        "color": "#db4c1a",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1b157ab314c7b457e21318a7035c6a44555f1b7",
+        "title": "e.g. KISS \"I Was Made For Lovin' You\"",
+        "trackId": "07q0QVgO56EorrSGHC48y3"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=07XSN3sPlIlB2L2XNcTwJw",
+      "id": "07XSN3sPlIlB2L2XNcTwJw"
+    },
+    {
+      "artistName": "Alice In Chains",
+      "positioning": {
+        "top": 776,
+        "left": 360
+      },
+      "style": {
+        "color": "#c95f14",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/68dbc11f83265b4edfe18c5d968a6de048a388dd",
+        "title": "e.g. Alice In Chains \"Man in the Box\"",
+        "trackId": "6gZVQvQZOFpzIy3HblJ20F"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=64tNsm6TnZe2zpcMVMOoHL",
+      "id": "64tNsm6TnZe2zpcMVMOoHL"
+    },
+    {
+      "artistName": "Rage Against The Machine",
+      "positioning": {
+        "top": 707,
+        "left": 967
+      },
+      "style": {
+        "color": "#d7540c",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/998d3604b68754c11bc0a9af64291ac1f91fb0d8",
+        "title": "e.g. Rage Against The Machine \"Killing In The Name\"",
+        "trackId": "59WN2psjkt1tyaxjspN8fp"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=2d0hyoQ5ynDBnkvAbJKORj",
+      "id": "2d0hyoQ5ynDBnkvAbJKORj"
+    },
+    {
+      "artistName": "Mötley Crüe",
+      "positioning": {
+        "top": 358,
+        "left": 479
+      },
+      "style": {
+        "color": "#e35724",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7bb85b83cbbb6be210c53758ca9379da8ee5c6e",
+        "title": "e.g. Mötley Crüe \"Kickstart My Heart\"",
+        "trackId": "2hYFCMj1OmXA6Zq5HxVlQG"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=0cc6vw3VN8YlIcvr1v7tBL",
+      "id": "0cc6vw3VN8YlIcvr1v7tBL"
+    },
+    {
+      "artistName": "Ozzy Osbourne",
+      "positioning": {
+        "top": 543,
+        "left": 308
+      },
+      "style": {
+        "color": "#d45a10",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/82413173824c77d38be0f2db4456ebf289d12f05",
+        "title": "e.g. Ozzy Osbourne \"Crazy Train\"",
+        "trackId": "7ACxUo21jtTHzy7ZEV56vU"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=6ZLTlhejhndI4Rh53vYhrY",
+      "id": "6ZLTlhejhndI4Rh53vYhrY"
+    },
+    {
+      "artistName": "Foreigner",
+      "positioning": {
+        "top": 479,
+        "left": 995
+      },
+      "style": {
+        "color": "#ae7701",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/23f9b7ad0a9008aca1017cce9b5ba375b322ac8b",
+        "title": "e.g. Foreigner \"I Want to Know What Love Is - 1999 Remaster\"",
+        "trackId": "1JLn8RhQzHz3qDqsChcmBl"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=6IRouO5mvvfcyxtPDKMYFN",
+      "id": "6IRouO5mvvfcyxtPDKMYFN"
+    },
+    {
+      "artistName": "Jimi Hendrix",
+      "positioning": {
+        "top": 786,
+        "left": 867
+      },
+      "style": {
+        "color": "#af6550",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f5eb4f96894dcab22691ebc7605cdbc4a7e70aa",
+        "title": "e.g. Jimi Hendrix \"All Along the Watchtower\"",
+        "trackId": "2aoo2jlRnM3A0NyLQqMN2f"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=776Uo845nYHJpNaStv1Ds4",
+      "id": "776Uo845nYHJpNaStv1Ds4"
+    },
+    {
+      "artistName": "Megadeth",
+      "positioning": {
+        "top": 379,
+        "left": 389
+      },
+      "style": {
+        "color": "#e55342",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d02f0560d7809c675f0a006bb8047ddde52431be",
+        "title": "e.g. Megadeth \"Symphony Of Destruction - Remastered 2012\"",
+        "trackId": "5mR858YsHYG761aUqZoGkD"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1Yox196W7bzVNZI7RBaPnf",
+      "id": "1Yox196W7bzVNZI7RBaPnf"
+    },
+    {
+      "artistName": "Marilyn Manson",
+      "positioning": {
+        "top": 112,
+        "left": 588
+      },
+      "style": {
+        "color": "#ce4c2f",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83ea8b4bb1e933b883b42c768916a04c477ce757",
+        "title": "e.g. Marilyn Manson \"The Beautiful People\"",
+        "trackId": "2aIB1CdRRG7YLBu9hNw9nR"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=2VYQTNDsvvKN9wmU5W7xpj",
+      "id": "2VYQTNDsvvKN9wmU5W7xpj"
+    },
+    {
+      "artistName": "Billy Idol",
+      "positioning": {
+        "top": 63,
+        "left": 1142
+      },
+      "style": {
+        "color": "#c67409",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07db3a3ea4fa92bf94cba38680ea4f8931a3f9d6",
+        "title": "e.g. Billy Idol \"Rebel Yell\"",
+        "trackId": "4TIJ7zSBNejpoIPaWpWRKc"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=7lzordPuZEXxwt9aoVZYmG",
+      "id": "7lzordPuZEXxwt9aoVZYmG"
+    },
+    {
+      "artistName": "Tom Petty",
+      "positioning": {
+        "top": 294,
+        "left": 1076
+      },
+      "style": {
+        "color": "#a07b10",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89d8726db64aa0dcea919467782495e6fd1d2034",
+        "title": "e.g. Tom Petty \"Free Fallin'\"",
+        "trackId": "5tVA6TkbaAH9QMITTQRrNv"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=2UZMlIwnkgAEDBsw1Rejkn",
+      "id": "2UZMlIwnkgAEDBsw1Rejkn"
+    },
+    {
+      "artistName": "Pantera",
+      "positioning": {
+        "top": 796,
+        "left": 578
+      },
+      "style": {
+        "color": "#de482c",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4d003a5b7df1dc79fb42d88a6993066729f07be9",
+        "title": "e.g. Pantera \"Walk\"",
+        "trackId": "7fcfNW0XxTWlwVlftzfDOR"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=14pVkFUHDL207LzLHtSA18",
+      "id": "14pVkFUHDL207LzLHtSA18"
+    },
+    {
+      "artistName": "Def Leppard",
+      "positioning": {
+        "top": 215,
+        "left": 474
+      },
+      "style": {
+        "color": "#ce6711",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fbfd2a85f3f8ade6af5c7a90ec8d817abd59a399",
+        "title": "e.g. Def Leppard \"Pour Some Sugar On Me - Remastered 2017\"",
+        "trackId": "0PdM2a6oIjqepoEfcJo0RO"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=6H1RjVyNruCmrBEWRbD0VZ",
+      "id": "6H1RjVyNruCmrBEWRbD0VZ"
+    },
+    {
+      "artistName": "ZZ Top",
+      "positioning": {
+        "top": 240,
+        "left": 1033
+      },
+      "style": {
+        "color": "#c0670d",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/15fc5671a2ac315a51c1433ef8d4fea720010de9",
+        "title": "e.g. ZZ Top \"La Grange - 2005 Remaster\"",
+        "trackId": "70YvYr2hGlS01bKRIho1HM"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=2AM4ilv6UzW0uMRuqKtDgN",
+      "id": "2AM4ilv6UzW0uMRuqKtDgN"
+    },
+    {
+      "artistName": "The Who",
+      "positioning": {
+        "top": 631,
+        "left": 939
+      },
+      "style": {
+        "color": "#b96b14",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/02716794fa9bf3d9263d2ddd32389bbb9cede48b",
+        "title": "e.g. The Who \"Baba O'Riley\"",
+        "trackId": "3qiyyUfYe7CRYLucrPmulD"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=67ea9eGLXYMsO2eYQRui3w",
+      "id": "67ea9eGLXYMsO2eYQRui3w"
+    },
+    {
+      "artistName": "Rob Zombie",
+      "positioning": {
+        "top": 0,
+        "left": 673
+      },
+      "style": {
+        "color": "#e5502a",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a7c65e9a3b50afd83df27e13b2a88c61cd40ec6",
+        "title": "e.g. Rob Zombie \"Dragula\"",
+        "trackId": "6Nm8h73ycDG2saCnZV8poF"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=3HVdAiMNjYrQIKlOGxoGh5",
+      "id": "3HVdAiMNjYrQIKlOGxoGh5"
+    },
+    {
+      "artistName": "Tom Petty and the Heartbreakers",
+      "positioning": {
+        "top": 519,
+        "left": 792
+      },
+      "style": {
+        "color": "#b1760c",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be0def4ad5842afde18b1d54891020564b235db2",
+        "title": "e.g. Tom Petty and the Heartbreakers \"Mary Jane's Last Dance\"",
+        "trackId": "3dmqIB2Qxe2XZobw9gXxJ6"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=4tX2TplrkIP4v05BNC903e",
+      "id": "4tX2TplrkIP4v05BNC903e"
+    },
+    {
+      "artistName": "Bob Seger",
+      "positioning": {
+        "top": 534,
+        "left": 1048
+      },
+      "style": {
+        "color": "#be7606",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/334dff2915c9b754318f8231abd68c064e9a0d1f",
+        "title": "e.g. Bob Seger \"Old Time Rock & Roll\"",
+        "trackId": "5EOoMWIB9iK4ZpcSex9Ec7"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=485uL27bPomh29R4JmQehQ",
+      "id": "485uL27bPomh29R4JmQehQ"
+    },
+    {
+      "artistName": "Genesis",
+      "positioning": {
+        "top": 631,
+        "left": 811
+      },
+      "style": {
+        "color": "#968116",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ab894121acc96c5f7ed125fe837722256ef4c501",
+        "title": "e.g. Genesis \"Invisible Touch - Remastered 2007\"",
+        "trackId": "480dDrqG7LO6qDaphHeXlM"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=3CkvROUTQ6nRi9yQOcsB50",
+      "id": "3CkvROUTQ6nRi9yQOcsB50"
+    },
+    {
+      "artistName": "Steve Miller Band",
+      "positioning": {
+        "top": 639,
+        "left": 1185
+      },
+      "style": {
+        "color": "#9b7b1b",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6291f55a2e6ef6e126bb2c25cc4b62288ba804e0",
+        "title": "e.g. Steve Miller Band \"The Joker\"",
+        "trackId": "1bp2IO61zbQrbWNmKKxg3f"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=6QtGlUje9TIkLrgPZrESuk",
+      "id": "6QtGlUje9TIkLrgPZrESuk"
+    },
+    {
+      "artistName": "Audioslave",
+      "positioning": {
+        "top": 593,
+        "left": 507
+      },
+      "style": {
+        "color": "#cb6f02",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/46d898c23fb28b9f52abf78b794aa500988d2132",
+        "title": "e.g. Audioslave \"Like a Stone\"",
+        "trackId": "2xt2piJx6jlFkjS77YiqpL"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=2ziB7fzrXBoh1HUPS6sVFn",
+      "id": "2ziB7fzrXBoh1HUPS6sVFn"
+    },
+    {
+      "artistName": "Soundgarden",
+      "positioning": {
+        "top": 738,
+        "left": 379
+      },
+      "style": {
+        "color": "#cc6628",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/503b1a00e5a0b3a75c944697a903af872d99aead",
+        "title": "e.g. Soundgarden \"Black Hole Sun\"",
+        "trackId": "7fURZRPkB2S70sYR1naKTK"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=5xUf6j4upBrXZPg6AI4MRK",
+      "id": "5xUf6j4upBrXZPg6AI4MRK"
+    },
+    {
+      "artistName": "Stone Temple Pilots",
+      "positioning": {
+        "top": 682,
+        "left": 398
+      },
+      "style": {
+        "color": "#d4611b",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f42cc9d39437328b5c38f0c9c18debe8a78f4598",
+        "title": "e.g. Stone Temple Pilots \"Interstate Love Song - 2019 Remaster\"",
+        "trackId": "6qLEOZvf5gI7kWE63JE7p3"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=2UazAtjfzqBF0Nho2awK4z",
+      "id": "2UazAtjfzqBF0Nho2awK4z"
+    },
+    {
+      "artistName": "Heart",
+      "positioning": {
+        "top": 599,
+        "left": 683
+      },
+      "style": {
+        "color": "#a87910",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c0870a45c221f898d318f0d3bbbca83c529f136",
+        "title": "e.g. Heart \"Alone - Remastered\"",
+        "trackId": "0h17TpfCKbbib1J37Qgj7r"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=34jw2BbxjoYalTp8cJFCPv",
+      "id": "34jw2BbxjoYalTp8cJFCPv"
+    },
+    {
+      "artistName": "Survivor",
+      "positioning": {
+        "top": 351,
+        "left": 1373
+      },
+      "style": {
+        "color": "#a57104",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9298f509bca051e0a55e20fb105d58f8f6123090",
+        "title": "e.g. Survivor \"Burning Heart - From \"Rocky IV\" Soundtrack\"",
+        "trackId": "2VN7uPrbryJ7nE2MXX3f9a"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=26bcq2nyj5GB7uRr558iQg",
+      "id": "26bcq2nyj5GB7uRr558iQg"
+    },
+    {
+      "artistName": "Slayer",
+      "positioning": {
+        "top": 685,
+        "left": 261
+      },
+      "style": {
+        "color": "#f6283e",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/394efb387e1f7fa8909a96e78892c6db6d805c00",
+        "title": "e.g. Slayer \"Raining Blood\"",
+        "trackId": "01Mpj13vURSO3cCLprPt5T"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1IQ2e1buppatiN1bxUVkrk",
+      "id": "1IQ2e1buppatiN1bxUVkrk"
+    },
+    {
+      "artistName": "Judas Priest",
+      "positioning": {
+        "top": 490,
+        "left": 408
+      },
+      "style": {
+        "color": "#cc5c13",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2cb1d059304223a0ad3603e7f7d60dcfc6de3e7f",
+        "title": "e.g. Judas Priest \"Breaking the Law\"",
+        "trackId": "2RaA6kIcvomt77qlIgGhCT"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=2tRsMl4eGxwoNabM08Dm4I",
+      "id": "2tRsMl4eGxwoNabM08Dm4I"
+    },
+    {
+      "artistName": "Men At Work",
+      "positioning": {
+        "top": 376,
+        "left": 1376
+      },
+      "style": {
+        "color": "#b28012",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bfff6b751b20ba544181971650f80c430f8e9d6b",
+        "title": "e.g. Men At Work \"Down Under\"",
+        "trackId": "5pSvjjfsh34sLrkYSNGCl4"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=0f3EsoviYnRKTkmayI3cux",
+      "id": "0f3EsoviYnRKTkmayI3cux"
+    },
+    {
+      "artistName": "Kansas",
+      "positioning": {
+        "top": 751,
+        "left": 668
+      },
+      "style": {
+        "color": "#a9790e",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddfc248171b5199053bafdefbc94ab5b335faa48",
+        "title": "e.g. Kansas \"Dust in the Wind\"",
+        "trackId": "6zeE5tKyr8Nu882DQhhSQI"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=2hl0xAkS2AIRAu23TVMBG1",
+      "id": "2hl0xAkS2AIRAu23TVMBG1"
+    },
+    {
+      "artistName": "Boston",
+      "positioning": {
+        "top": 597,
+        "left": 171
+      },
+      "style": {
+        "color": "#ad800f",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e8704349932ecb754e3c03cdf3b1563309627a0",
+        "title": "e.g. Boston \"More Than a Feeling\"",
+        "trackId": "1QEEqeFIZktqIpPI4jSVSF"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=29kkCKKGXheHuoO829FxWK",
+      "id": "29kkCKKGXheHuoO829FxWK"
+    },
+    {
+      "artistName": "Deep Purple",
+      "positioning": {
+        "top": 671,
+        "left": 574
+      },
+      "style": {
+        "color": "#c46936",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddbbf4686b54a51c8085b0239030f788c9186d32",
+        "title": "e.g. Deep Purple \"Smoke On The Water - Remastered 2012\"",
+        "trackId": "5MMnwYs0hIxkENRsbkWJ2G"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=568ZhdwyaiCyOGJRtNYhWf",
+      "id": "568ZhdwyaiCyOGJRtNYhWf"
+    },
+    {
+      "artistName": "John Mellencamp",
+      "positioning": {
+        "top": 406,
+        "left": 1341
+      },
+      "style": {
+        "color": "#b07a05",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b03b592db51b8b06e0b04b538630912849195a14",
+        "title": "e.g. John Mellencamp \"Jack & Diane\"",
+        "trackId": "43btz2xjMKpcmjkuRsvxyg"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=3lPQ2Fk5JOwGWAF3ORFCqH",
+      "id": "3lPQ2Fk5JOwGWAF3ORFCqH"
+    },
+    {
+      "artistName": "The Cars",
+      "positioning": {
+        "top": 202,
+        "left": 1256
+      },
+      "style": {
+        "color": "#ad7d0e",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/298f8409932e473eea363bb5b2ddefd58d26a612",
+        "title": "e.g. The Cars \"Drive - 2017 Remaster\"",
+        "trackId": "2lFFiNm0XtgJ6wkdncTB4k"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6DCIj8jNaNpBz8e5oKFPtp",
+      "id": "6DCIj8jNaNpBz8e5oKFPtp"
+    },
+    {
+      "artistName": "Rush",
+      "positioning": {
+        "top": 644,
+        "left": 469
+      },
+      "style": {
+        "color": "#d66120",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5fb5f75a668feef9c73a079a49b6a52ee2bc3338",
+        "title": "e.g. Rush \"Tom Sawyer\"",
+        "trackId": "3QZ7uX97s82HFYSmQUAN1D"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=2Hkut4rAAyrQxRdof7FVJq",
+      "id": "2Hkut4rAAyrQxRdof7FVJq"
+    },
+    {
+      "artistName": "Motörhead",
+      "positioning": {
+        "top": 516,
+        "left": 14
+      },
+      "style": {
+        "color": "#f2263c",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bab7ac417645378d2e2caed235c5d30dbcbb45fb",
+        "title": "e.g. Motörhead \"Ace of Spades\"",
+        "trackId": "3CIOopLwvyMvXk97ZEksKO"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=1DFr97A9HnbV3SKTJFu62M",
+      "id": "1DFr97A9HnbV3SKTJFu62M"
+    },
+    {
+      "artistName": "The Animals",
+      "positioning": {
+        "top": 722,
+        "left": 1029
+      },
+      "style": {
+        "color": "#928311",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/da246d5f609a6133eacfbbbd01efef7f85988511",
+        "title": "e.g. The Animals \"House Of The Rising Sun\"",
+        "trackId": "7BY005dacJkbO6EPiOh2wb"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=3ICflSq6ZgYAIrm2CTkfVP",
+      "id": "3ICflSq6ZgYAIrm2CTkfVP"
+    },
+    {
+      "artistName": "REO Speedwagon",
+      "positioning": {
+        "top": 420,
+        "left": 502
+      },
+      "style": {
+        "color": "#be720e",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3cdad676ebe5f7b2ff03b781834d7e596c279fe5",
+        "title": "e.g. REO Speedwagon \"Keep on Loving You\"",
+        "trackId": "4rcHWl68ai6KvpXlc8vbnE"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=55vs7NT1KxcFjbMC4y202E",
+      "id": "55vs7NT1KxcFjbMC4y202E"
+    },
+    {
+      "artistName": "Europe",
+      "positioning": {
+        "top": 361,
+        "left": 322
+      },
+      "style": {
+        "color": "#d06208",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eaa4589de811f47326f5a15013ed58bd62a9e96a",
+        "title": "e.g. Europe \"The Final Countdown\"",
+        "trackId": "3MrRksHupTVEQ7YbA0FsZK"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=7Js6Lde8thlIHXggv2SCBz",
+      "id": "7Js6Lde8thlIHXggv2SCBz"
+    },
+    {
+      "artistName": "Alice Cooper",
+      "positioning": {
+        "top": 657,
+        "left": 607
+      },
+      "style": {
+        "color": "#be5e19",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a0faa69cc2b5a8b4ce4bdae3fe2fe7ba603330a",
+        "title": "e.g. Alice Cooper \"Poison\"",
+        "trackId": "5XcZRgJv3zMhTqCyESjQrF"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=3EhbVgyfGd7HkpsagwL9GS",
+      "id": "3EhbVgyfGd7HkpsagwL9GS"
+    },
+    {
+      "artistName": "Whitesnake",
+      "positioning": {
+        "top": 419,
+        "left": 384
+      },
+      "style": {
+        "color": "#ce620b",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be7c0a4f8da345998da1e6ee9b0e9a605624546b",
+        "title": "e.g. Whitesnake \"Here I Go Again - 2018 Remaster\"",
+        "trackId": "6Nd6ntkzr4t8o1FKPGOSMt"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=3UbyYnvNIT5DFXU4WgiGpP",
+      "id": "3UbyYnvNIT5DFXU4WgiGpP"
+    },
+    {
+      "artistName": "Cream",
+      "positioning": {
+        "top": 688,
+        "left": 1133
+      },
+      "style": {
+        "color": "#93721d",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e860117e795dc984f43d781541e932c16676f986",
+        "title": "e.g. Cream \"Sunshine Of Your Love\"",
+        "trackId": "2K2M0TcglCRLLpFOzKeFZA"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=74oJ4qxwOZvX6oSsu1DGnw",
+      "id": "74oJ4qxwOZvX6oSsu1DGnw"
+    },
+    {
+      "artistName": "Blue Öyster Cult",
+      "positioning": {
+        "top": 627,
+        "left": 555
+      },
+      "style": {
+        "color": "#c95e20",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad97ce828e504498e211b6525c5ccee86642786b",
+        "title": "e.g. Blue Öyster Cult \"(Don't Fear) The Reaper\"",
+        "trackId": "5QTxFnGygVM4jFQiBovmRo"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=00tVTdpEhQQw1bqdu8RCx2",
+      "id": "00tVTdpEhQQw1bqdu8RCx2"
+    },
+    {
+      "artistName": "Pat Benatar",
+      "positioning": {
+        "top": 288,
+        "left": 1232
+      },
+      "style": {
+        "color": "#b4740a",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2911fdde0e31f63d9272eabc0360962ae1904a0b",
+        "title": "e.g. Pat Benatar \"Hit Me With Your Best Shot\"",
+        "trackId": "0vOkmmJEtjuFZDzrQSFzEE"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=43mhFhQ4JAknA7Ik1bOZuV",
+      "id": "43mhFhQ4JAknA7Ik1bOZuV"
+    },
+    {
+      "artistName": "Poison",
+      "positioning": {
+        "top": 326,
+        "left": 687
+      },
+      "style": {
+        "color": "#d25f07",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0f4b7c6d7971c4cbbe38a54775ac41a301ace5e0",
+        "title": "e.g. Poison \"Every Rose Has Its Thorn - Remastered 2003\"",
+        "trackId": "43GS3mtezoIFiuIZCLLiDY"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=1fBCIkoPOPCDLUxGuWNvyo",
+      "id": "1fBCIkoPOPCDLUxGuWNvyo"
+    },
+    {
+      "artistName": "Huey Lewis & The News",
+      "positioning": {
+        "top": 172,
+        "left": 1400
+      },
+      "style": {
+        "color": "#bd7504",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1102e37c79ea611a0afa20f454da9f6ccb7a58a8",
+        "title": "e.g. Huey Lewis & The News \"The Power Of Love\"",
+        "trackId": "2olVm1lHicpveMAo4AUDRB"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=7A9yZMTrFZcgEWAX2kBfK6",
+      "id": "7A9yZMTrFZcgEWAX2kBfK6"
+    },
+    {
+      "artistName": "Allman Brothers Band",
+      "positioning": {
+        "top": 801,
+        "left": 773
+      },
+      "style": {
+        "color": "#a96b38",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ff790e3d4a7dbd6414fc8d03e344a279df773d7",
+        "title": "e.g. Allman Brothers Band \"Midnight Rider\"",
+        "trackId": "1hHGUdFaiJHw9hVZGJWYO2"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=4wQ3PyMz3WwJGI5uEqHUVR",
+      "id": "4wQ3PyMz3WwJGI5uEqHUVR"
+    },
+    {
+      "artistName": "Janis Joplin",
+      "positioning": {
+        "top": 858,
+        "left": 1270
+      },
+      "style": {
+        "color": "#89741e",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d656ab40347760b13db8291b3df58a83c49faa1a",
+        "title": "e.g. Janis Joplin \"Me and Bobby McGee\"",
+        "trackId": "1IqFh00G2kvvMm8pRMpehA"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=4NgfOZCL9Ml67xzM0xzIvC",
+      "id": "4NgfOZCL9Ml67xzM0xzIvC"
+    },
+    {
+      "artistName": "Faith No More",
+      "positioning": {
+        "top": 473,
+        "left": 706
+      },
+      "style": {
+        "color": "#c55e16",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a7418b48e2ce653e9f2fd5c68b74973d1ff18bf",
+        "title": "e.g. Faith No More \"Epic\"",
+        "trackId": "4ReyTz0y3TGkX48wO3Llot"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=6GbCJZrI318Ybm8mY36Of5",
+      "id": "6GbCJZrI318Ybm8mY36Of5"
+    },
+    {
+      "artistName": "Skid Row",
+      "positioning": {
+        "top": 347,
+        "left": 365
+      },
+      "style": {
+        "color": "#d0600a",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28dc6ad342ecc956a9b9eef28cfa0301d773f268",
+        "title": "e.g. Skid Row \"18 and Life\"",
+        "trackId": "0qgrrDnUUhyxpxbBznUnzg"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=4opTS86dN9uO313J9CE8xg",
+      "id": "4opTS86dN9uO313J9CE8xg"
+    },
+    {
+      "artistName": "Steppenwolf",
+      "positioning": {
+        "top": 575,
+        "left": 1029
+      },
+      "style": {
+        "color": "#b86e20",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c1f5377ae30c65577835dce021c23bcf198591f",
+        "title": "e.g. Steppenwolf \"Born To Be Wild\"",
+        "trackId": "63OFKbMaZSDZ4wtesuuq6f"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=1WRM9i067hd2ujxxi8FI3m",
+      "id": "1WRM9i067hd2ujxxi8FI3m"
+    },
+    {
+      "artistName": "Stevie Ray Vaughan",
+      "positioning": {
+        "top": 711,
+        "left": 716
+      },
+      "style": {
+        "color": "#af6b4f",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8faa93aa2d3e22a430ee9685e3ad2695c5508417",
+        "title": "e.g. Stevie Ray Vaughan \"Pride and Joy\"",
+        "trackId": "1a2iF9XymafjRk56q7oCxo"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=5fsDcuclIe8ZiBD5P787K1",
+      "id": "5fsDcuclIe8ZiBD5P787K1"
+    },
+    {
+      "artistName": "Extreme",
+      "positioning": {
+        "top": 594,
+        "left": 1242
+      },
+      "style": {
+        "color": "#7c8b09",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/271b123e8fb03d1ca301205f8c47ca13461c9ff0",
+        "title": "e.g. Extreme \"More Than Words\"",
+        "trackId": "1gVgkQFOKa8Wc1HYsJtPdH"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=6w7j5wQ5AI5OQYlcM15s2L",
+      "id": "6w7j5wQ5AI5OQYlcM15s2L"
+    },
+    {
+      "artistName": "Dio",
+      "positioning": {
+        "top": 724,
+        "left": 393
+      },
+      "style": {
+        "color": "#d5552b",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3102e7ba487c1c428bb25397f05298eddd9979fa",
+        "title": "e.g. Dio \"Rainbow In The Dark\"",
+        "trackId": "5qFxuUIAwJlzO60vqOiL7y"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=4CYeVo5iZbtYGBN4Isc3n6",
+      "id": "4CYeVo5iZbtYGBN4Isc3n6"
+    },
+    {
+      "artistName": "Styx",
+      "positioning": {
+        "top": 598,
+        "left": 626
+      },
+      "style": {
+        "color": "#a97d11",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4097e43df809c007ee57386a663cb31ab9abda55",
+        "title": "e.g. Styx \"Renegade\"",
+        "trackId": "1CQqupcyMg7176PPmIVmSj"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=4salDzkGmfycRqNUbyBphh",
+      "id": "4salDzkGmfycRqNUbyBphh"
+    },
+    {
+      "artistName": "Thin Lizzy",
+      "positioning": {
+        "top": 646,
+        "left": 829
+      },
+      "style": {
+        "color": "#c05f1f",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/753aaed7d16ec2dac0ff8af05123177a44c19351",
+        "title": "e.g. Thin Lizzy \"The Boys Are Back In Town\"",
+        "trackId": "43DeSV93pJPT4lCZaWZ6b1"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=6biWAmrHyiMkX49LkycGqQ",
+      "id": "6biWAmrHyiMkX49LkycGqQ"
+    },
+    {
+      "artistName": "Twisted Sister",
+      "positioning": {
+        "top": 724,
+        "left": 441
+      },
+      "style": {
+        "color": "#d9480a",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7edd989cca364142d8019889ad9da883b0f273c",
+        "title": "e.g. Twisted Sister \"We're Not Gonna Take It\"",
+        "trackId": "1hlveB9M6ijHZRbzZ2teyh"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=7b85ve82Sh36a3UAx74wut",
+      "id": "7b85ve82Sh36a3UAx74wut"
+    },
+    {
+      "artistName": "Dream Theater",
+      "positioning": {
+        "top": 605,
+        "left": 374
+      },
+      "style": {
+        "color": "#d06724",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a55fb4658c2dc7199d50cf322ab18789883ecd7",
+        "title": "e.g. Dream Theater \"Pull Me Under\"",
+        "trackId": "5CPXR6lDTvngxtmMZxnWmC"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=2aaLAng2L2aWD2FClzwiep",
+      "id": "2aaLAng2L2aWD2FClzwiep"
+    },
+    {
+      "artistName": "Cheap Trick",
+      "positioning": {
+        "top": 373,
+        "left": 550
+      },
+      "style": {
+        "color": "#cd5e21",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5c316a4b47eacfa1e9a4fe34ca337d10ec435e8",
+        "title": "e.g. Cheap Trick \"Surrender\"",
+        "trackId": "2ccUQnjjNWT0rsNnsBpsCA"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=1LB8qB5BPb3MHQrfkvifXU",
+      "id": "1LB8qB5BPb3MHQrfkvifXU"
+    },
+    {
+      "artistName": "The Black Crowes",
+      "positioning": {
+        "top": 725,
+        "left": 659
+      },
+      "style": {
+        "color": "#c26e0e",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9ea95810a0f4e86c6d6e1076a0c05284007bdebf",
+        "title": "e.g. The Black Crowes \"Hard To Handle\"",
+        "trackId": "05NYcsjJwOYq4jIiKPVj9p"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=5krkohEVJYw0qoB5VWwxaC",
+      "id": "5krkohEVJYw0qoB5VWwxaC"
+    },
+    {
+      "artistName": "Sepultura",
+      "positioning": {
+        "top": 696,
+        "left": 521
+      },
+      "style": {
+        "color": "#e1413c",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6872c1cff7bdfa31df19ff6cad7c7f0e8e28b899",
+        "title": "e.g. Sepultura \"Roots Bloody Roots\"",
+        "trackId": "6ursmCnbc9oDRGa2yHKkoZ"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=6JW8wliOEwaDZ231ZY7cf4",
+      "id": "6JW8wliOEwaDZ231ZY7cf4"
+    },
+    {
+      "artistName": "Jefferson Airplane",
+      "positioning": {
+        "top": 751,
+        "left": 858
+      },
+      "style": {
+        "color": "#88761e",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f39a05b57be781d6f8fe5aaf2c1fa5de56ce45e6",
+        "title": "e.g. Jefferson Airplane \"White Rabbit\"",
+        "trackId": "4vpeKl0vMGdAXpZiQB2Dtd"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=2qFr8w5sWUITRlzZ9kZotF",
+      "id": "2qFr8w5sWUITRlzZ9kZotF"
+    },
+    {
+      "artistName": "Yes",
+      "positioning": {
+        "top": 575,
+        "left": 934
+      },
+      "style": {
+        "color": "#a87a19",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c82f78cdb980913052039da865227c934160df33",
+        "title": "e.g. Yes \"Owner of a Lonely Heart\"",
+        "trackId": "0GTK6TesV108Jj5D3MHsYb"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=7AC976RDJzL2asmZuz7qil",
+      "id": "7AC976RDJzL2asmZuz7qil"
+    },
+    {
+      "artistName": "Rick Springfield",
+      "positioning": {
+        "top": 458,
+        "left": 1361
+      },
+      "style": {
+        "color": "#ae710b",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d05edfc55f84b1aa88985d86d2ded2affc629b4f",
+        "title": "e.g. Rick Springfield \"Jessie's Girl\"",
+        "trackId": "5RsUlxLto4NZbhJpqJbHfN"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=6IFXsrXBpwbIqtOUOiAa3p",
+      "id": "6IFXsrXBpwbIqtOUOiAa3p"
+    },
+    {
+      "artistName": "Jethro Tull",
+      "positioning": {
+        "top": 775,
+        "left": 1285
+      },
+      "style": {
+        "color": "#898015",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e36bcb3ea3151c9c8412fe50bcab1e6e201ba24e",
+        "title": "e.g. Jethro Tull \"Aqualung\"",
+        "trackId": "5UuikgHTxSRFRnC0zXx10i"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=6w6z8m4WXX7Tub4Rb6Lu7R",
+      "id": "6w6z8m4WXX7Tub4Rb6Lu7R"
+    },
+    {
+      "artistName": "Rainbow",
+      "positioning": {
+        "top": 538,
+        "left": 583
+      },
+      "style": {
+        "color": "#c45c21",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/68ba5cfb36e0c7467b08c9d8c299b29611463989",
+        "title": "e.g. Rainbow \"Since You Been Gone\"",
+        "trackId": "6xq5DxZWGgdStAxGAil0yw"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=6SLAMfhOi7UJI0fMztaK0m",
+      "id": "6SLAMfhOi7UJI0fMztaK0m"
+    },
+    {
+      "artistName": "Testament",
+      "positioning": {
+        "top": 583,
+        "left": 213
+      },
+      "style": {
+        "color": "#ea4135",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/beaab2d3e17572531a6011f30e5ba29637f226c4",
+        "title": "e.g. Testament \"Down for Life\"",
+        "trackId": "3pKsUMqpVr4ZJ13Mm91Xig"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=28hJdGN1Awf7u3ifk2lVkg",
+      "id": "28hJdGN1Awf7u3ifk2lVkg"
+    },
+    {
+      "artistName": "Mr. Big",
+      "positioning": {
+        "top": 573,
+        "left": 806
+      },
+      "style": {
+        "color": "#c36508",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c758ef8106cee89b35633a7927321756c2a55d5",
+        "title": "e.g. Mr. Big \"To Be With You - 2021 Remastered\"",
+        "trackId": "0eifvmNPHWaSh4IKNR4Xva"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=5OfhOoKunSnuubxxRML8J3",
+      "id": "5OfhOoKunSnuubxxRML8J3"
+    },
+    {
+      "artistName": "Airbourne",
+      "positioning": {
+        "top": 114,
+        "left": 469
+      },
+      "style": {
+        "color": "#f33f42",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e47330c3eb15a869719cb9fa26ef64b2dad2db2d",
+        "title": "e.g. Airbourne \"Runnin' Wild\"",
+        "trackId": "55ggUiMmTXrGtJAPQSnHoh"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=6urzdpGY5yUimWZsgJUoTb",
+      "id": "6urzdpGY5yUimWZsgJUoTb"
+    },
+    {
+      "artistName": "Danzig",
+      "positioning": {
+        "top": 608,
+        "left": 555
+      },
+      "style": {
+        "color": "#b56239",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f652f353d6ab9106fa52de520a070ff30b23819",
+        "title": "e.g. Danzig \"Mother\"",
+        "trackId": "7txxAtOMwLLnQTpKeBL6bp"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=34c4iQ5tkaZKu6Sv28BTde",
+      "id": "34c4iQ5tkaZKu6Sv28BTde"
+    },
+    {
+      "artistName": "Nazareth",
+      "positioning": {
+        "top": 406,
+        "left": 891
+      },
+      "style": {
+        "color": "#bf701a",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83f37d7820a4d3612fa8baf138ec4c9ebd7b844d",
+        "title": "e.g. Nazareth \"Love Hurts\"",
+        "trackId": "1i5oEx2vFczQ2sCY3c6Kn5"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=6fvN9GmMCVKb5LY0WsnjFP",
+      "id": "6fvN9GmMCVKb5LY0WsnjFP"
+    },
+    {
+      "artistName": "The Cult",
+      "positioning": {
+        "top": 279,
+        "left": 355
+      },
+      "style": {
+        "color": "#d15d30",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dce819a68a58db8a3b1b23208686681a4192b42f",
+        "title": "e.g. The Cult \"She Sells Sanctuary\"",
+        "trackId": "3qLZ866ZfaK0B0R5FIqXLG"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=49DW3KvkyjHO35mK1JnSyS",
+      "id": "49DW3KvkyjHO35mK1JnSyS"
+    },
+    {
+      "artistName": "Chris Cornell",
+      "positioning": {
+        "top": 547,
+        "left": 834
+      },
+      "style": {
+        "color": "#988a05",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc3e94305c52f959d139be298bcf4099d5cfc378",
+        "title": "e.g. Chris Cornell \"You Know My Name - From \"Casino Royale\" Soundtrack\"",
+        "trackId": "3acBQxxlyb0jC2xqndDzSf"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=0XHiH53dHrvbwfjYM7en7I",
+      "id": "0XHiH53dHrvbwfjYM7en7I"
+    },
+    {
+      "artistName": "Black Label Society",
+      "positioning": {
+        "top": 710,
+        "left": 417
+      },
+      "style": {
+        "color": "#bd6e1c",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/973b61beffb01e3c5f3c3d9dc8a99e114d390647",
+        "title": "e.g. Black Label Society \"Stillborn\"",
+        "trackId": "3tS1VMpxp9bLn46Cyh09el"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=0zfT626RwO6zN3RDYeRit5",
+      "id": "0zfT626RwO6zN3RDYeRit5"
+    },
+    {
+      "artistName": "Helloween",
+      "positioning": {
+        "top": 351,
+        "left": 133
+      },
+      "style": {
+        "color": "#df4a12",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1faee52064f5b78b43b846acaad12d7ca7a78c39",
+        "title": "e.g. Helloween \"I Want Out\"",
+        "trackId": "5ObemyuL5dhT67hyz1iWlA"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=4pQN0GB0fNEEOfQCaWotsY",
+      "id": "4pQN0GB0fNEEOfQCaWotsY"
+    },
+    {
+      "artistName": "Bad Company",
+      "positioning": {
+        "top": 607,
+        "left": 1161
+      },
+      "style": {
+        "color": "#a4700e",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/183d936e69143edcae0cd6f6213b6e4e9979e54f",
+        "title": "e.g. Bad Company \"Feel like Makin' Love - 2015 Remaster\"",
+        "trackId": "3KPwt1LBpt1jVSHz8GXERo"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=5AEG63ajney2BoDXi0Vb84",
+      "id": "5AEG63ajney2BoDXi0Vb84"
+    },
+    {
+      "artistName": "Machine Head",
+      "positioning": {
+        "top": 836,
+        "left": 341
+      },
+      "style": {
+        "color": "#e64710",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dddd0a8cfb395ed4809407768af532635b52a2d6",
+        "title": "e.g. Machine Head \"Is There Anybody Out There?\"",
+        "trackId": "5aeIj88MLdekYvObw5Yisk"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=0lVlNsuGaOr9vMHCZIAKMt",
+      "id": "0lVlNsuGaOr9vMHCZIAKMt"
+    },
+    {
+      "artistName": "Derek & The Dominos",
+      "positioning": {
+        "top": 815,
+        "left": 668
+      },
+      "style": {
+        "color": "#b96e31",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8563d016ae70ed290ba446194adbe39f0cbf3cdb",
+        "title": "e.g. Derek & The Dominos \"Layla\"",
+        "trackId": "2kkvB3RNRzwjFdGhaUA0tz"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=2rc78XDH9zuJP6bm78lU8Z",
+      "id": "2rc78XDH9zuJP6bm78lU8Z"
+    },
+    {
+      "artistName": "Bachman-Turner Overdrive",
+      "positioning": {
+        "top": 567,
+        "left": 1138
+      },
+      "style": {
+        "color": "#bb6c14",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b43ee975293a1b1f420a9fae91c7087e66770e64",
+        "title": "e.g. Bachman-Turner Overdrive \"You Ain't Seen Nothing Yet\"",
+        "trackId": "0HOrDVS349XFcpCYsO2hAP"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=5q4AzEtCoYJyXjMMoEkSU5",
+      "id": "5q4AzEtCoYJyXjMMoEkSU5"
+    },
+    {
+      "artistName": "Eddie Money",
+      "positioning": {
+        "top": 313,
+        "left": 1005
+      },
+      "style": {
+        "color": "#c36b07",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/45bf2861dc0db6f92669b4e92aff4d4a4d729633",
+        "title": "e.g. Eddie Money \"Take Me Home Tonight\"",
+        "trackId": "7b4yGtR0rujvLi5EBfKKJ2"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=4Tw2N3wdvJPGEU7JqMxFfE",
+      "id": "4Tw2N3wdvJPGEU7JqMxFfE"
+    },
+    {
+      "artistName": "Billy Squier",
+      "positioning": {
+        "top": 618,
+        "left": 867
+      },
+      "style": {
+        "color": "#b66204",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/36a482e01bf529ab77882fc7b58a2af3d76a630e",
+        "title": "e.g. Billy Squier \"The Stroke - Remastered 2010\"",
+        "trackId": "52KvuGmgcgRdrLMXOtda0E"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=3Fz2GbraVXhcpXnoi2Oe1r",
+      "id": "3Fz2GbraVXhcpXnoi2Oe1r"
+    },
+    {
+      "artistName": "Three Dog Night",
+      "positioning": {
+        "top": 675,
+        "left": 1095
+      },
+      "style": {
+        "color": "#a2750b",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bbfe9df2f7657e4c6e52ee0945d66110cef8ca57",
+        "title": "e.g. Three Dog Night \"Joy To The World\"",
+        "trackId": "2ymeOsYijJz09LfKw3yM2x"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=4FAEZeJcsYYBkNq2D3KGTV",
+      "id": "4FAEZeJcsYYBkNq2D3KGTV"
+    },
+    {
+      "artistName": "George Thorogood & The Destroyers",
+      "positioning": {
+        "top": 506,
+        "left": 901
+      },
+      "style": {
+        "color": "#d65915",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1bd80fc6ad97bcf3ebe998ce1ad907334c4a2442",
+        "title": "e.g. George Thorogood & The Destroyers \"Bad To The Bone\"",
+        "trackId": "6s0NHplywwr1IjnQpUpWJk"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=4n31svBA9GGIYxGxgrQaRK",
+      "id": "4n31svBA9GGIYxGxgrQaRK"
+    },
+    {
+      "artistName": "Quiet Riot",
+      "positioning": {
+        "top": 521,
+        "left": 460
+      },
+      "style": {
+        "color": "#e34918",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0ee3af6504279dbe9e709992aa5c29a36789123a",
+        "title": "e.g. Quiet Riot \"Cum on Feel the Noize\"",
+        "trackId": "3vV3cr2TpPqFk07zxYUbla"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=1dLWg6m8RRhizsdqJbhyj3",
+      "id": "1dLWg6m8RRhizsdqJbhyj3"
+    },
+    {
+      "artistName": "Cinderella",
+      "positioning": {
+        "top": 401,
+        "left": 213
+      },
+      "style": {
+        "color": "#cc663f",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d0ae3721a28e4536f99558a50d05d43f147c6c5e",
+        "title": "e.g. Cinderella \"Nobody's Fool\"",
+        "trackId": "01Q4wU19hamqnhNjtuvTyI"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=7HL4id2U7FSDJtfKQHMgQx",
+      "id": "7HL4id2U7FSDJtfKQHMgQx"
+    },
+    {
+      "artistName": "Slash",
+      "positioning": {
+        "top": 434,
+        "left": 455
+      },
+      "style": {
+        "color": "#d15e1b",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1795f40ea3ce7fa4489e08c290b7d70339dbfd22",
+        "title": "e.g. Slash \"Anastasia\"",
+        "trackId": "7JJ22vCP45tMhZnAH4Sp1e"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=4Cqia9vrAbm7ANXbJGXsTE",
+      "id": "4Cqia9vrAbm7ANXbJGXsTE"
+    },
+    {
+      "artistName": "Buckcherry",
+      "positioning": {
+        "top": 90,
+        "left": 536
+      },
+      "style": {
+        "color": "#e16105",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c529133a5f685e795a90d953e3e85777fff79104",
+        "title": "e.g. Buckcherry \"Crazy Bitch\"",
+        "trackId": "3Lc65aYhtNRO19Fnq2oMb8"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=0yN7xI1blow9nYIK0R8nM7",
+      "id": "0yN7xI1blow9nYIK0R8nM7"
+    },
+    {
+      "artistName": "38 Special",
+      "positioning": {
+        "top": 412,
+        "left": 649
+      },
+      "style": {
+        "color": "#c07008",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/74482887da97c7840659bb55a1afd8c1f2e84f6a",
+        "title": "e.g. 38 Special \"Hold On Loosely\"",
+        "trackId": "6i9dZZQWNB06HKsQYKTiPF"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=3zXw2Eh96iTT51pytzHdZi",
+      "id": "3zXw2Eh96iTT51pytzHdZi"
+    },
+    {
+      "artistName": "Manowar",
+      "positioning": {
+        "top": 344,
+        "left": 469
+      },
+      "style": {
+        "color": "#be573a",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/490b86d8f8fe25f7ac9165c390cf75b171f63555",
+        "title": "e.g. Manowar \"Warriors of the World United\"",
+        "trackId": "02zclmxRto3GAUBdtV7D8i"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=4CzUzn54Cp9TQr6a7JIlMZ",
+      "id": "4CzUzn54Cp9TQr6a7JIlMZ"
+    },
+    {
+      "artistName": "White Zombie",
+      "positioning": {
+        "top": 257,
+        "left": 896
+      },
+      "style": {
+        "color": "#de4a63",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/020939f1aecf4d7d4b2c7df841629ad2c15f3635",
+        "title": "e.g. White Zombie \"Thunder Kiss '65\"",
+        "trackId": "4tvBoSWeIW0bjhKNre5mod"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=0CF71zaDOJWCynIkW9bSK8",
+      "id": "0CF71zaDOJWCynIkW9bSK8"
+    },
+    {
+      "artistName": "Ratt",
+      "positioning": {
+        "top": 99,
+        "left": 659
+      },
+      "style": {
+        "color": "#e3480f",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/da1697f5dc7ba1cdd7f5822a459da41dc9a9c278",
+        "title": "e.g. Ratt \"Round and Round\"",
+        "trackId": "5B6Z7NwVqA7W3UFiqBdEJC"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=3tufWJzpCiAGleBt5TkmTn",
+      "id": "3tufWJzpCiAGleBt5TkmTn"
+    },
+    {
+      "artistName": "Free",
+      "positioning": {
+        "top": 692,
+        "left": 1391
+      },
+      "style": {
+        "color": "#87740e",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa60203964e58cab7e572916ef2aa88875f0dbe6",
+        "title": "e.g. Free \"All Right Now\"",
+        "trackId": "2Wf4IsWzhBgVR9uUDuktFB"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=2e53aHBQdCMKWqHDuyJsjC",
+      "id": "2e53aHBQdCMKWqHDuyJsjC"
+    },
+    {
+      "artistName": "Sweet",
+      "positioning": {
+        "top": 479,
+        "left": 915
+      },
+      "style": {
+        "color": "#c56316",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/45bf9bccf37f5dc14b64e2ab5ebe2d3369712210",
+        "title": "e.g. Sweet \"Fox On The Run\"",
+        "trackId": "4uip0lLkMKl1nwchsdXs1r"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=3JaAGmSTpJK35DqWrDUzBz",
+      "id": "3JaAGmSTpJK35DqWrDUzBz"
+    },
+    {
+      "artistName": "The Knack",
+      "positioning": {
+        "top": 440,
+        "left": 1232
+      },
+      "style": {
+        "color": "#be620a",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ef1f80be4197f4863d1e0f3f267259a97d26f15",
+        "title": "e.g. The Knack \"My Sharona\"",
+        "trackId": "1HOMkjp0nHMaTnfAkslCQj"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=0Nn9YwJzcaeuU1jJL06e3r",
+      "id": "0Nn9YwJzcaeuU1jJL06e3r"
+    },
+    {
+      "artistName": "Death",
+      "positioning": {
+        "top": 801,
+        "left": 156
+      },
+      "style": {
+        "color": "#ee3552",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dcee384354630d9df9b1c49c72d031b78b55c98f",
+        "title": "e.g. Death \"Voice of the Soul\"",
+        "trackId": "69Yia3qCLw6N9U80WhLwLn"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=4f5V3PQ66nIrBCqugJtaGn",
+      "id": "4f5V3PQ66nIrBCqugJtaGn"
+    },
+    {
+      "artistName": "The J. Geils Band",
+      "positioning": {
+        "top": 542,
+        "left": 1374
+      },
+      "style": {
+        "color": "#bc6318",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ebd889311c2ec02bf018627615966e859de3e13",
+        "title": "e.g. The J. Geils Band \"Centerfold\"",
+        "trackId": "1ynmMEK1fkyiZ6Z6F3ThEt"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=69Mj3u4FTUrpyeGNSIaU6F",
+      "id": "69Mj3u4FTUrpyeGNSIaU6F"
+    },
+    {
+      "artistName": "The Darkness",
+      "positioning": {
+        "top": 465,
+        "left": 175
+      },
+      "style": {
+        "color": "#e15b05",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6873445a7f1c8e054bd9f87d71af7819746e5859",
+        "title": "e.g. The Darkness \"I Believe in a Thing Called Love\"",
+        "trackId": "756CJtQRFSxEx9jV4P9hpA"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=5r1bdqzhgRoHC3YcCV6N5a",
+      "id": "5r1bdqzhgRoHC3YcCV6N5a"
+    },
+    {
+      "artistName": "Accept",
+      "positioning": {
+        "top": 183,
+        "left": 322
+      },
+      "style": {
+        "color": "#e75224",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/14de044518b6a9fb8b3e600f5f0c83d80d7d0d36",
+        "title": "e.g. Accept \"Balls to the Wall\"",
+        "trackId": "2dbOYFfS7r7NAzquRvji9A"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=3JDIAtVrJdQ7GFOX26LYpv",
+      "id": "3JDIAtVrJdQ7GFOX26LYpv"
+    },
+    {
+      "artistName": "Grand Funk Railroad",
+      "positioning": {
+        "top": 562,
+        "left": 939
+      },
+      "style": {
+        "color": "#cc641d",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30495744308111a5931bd9e59884e587de210497",
+        "title": "e.g. Grand Funk Railroad \"We're An American Band - Remastered 2002\"",
+        "trackId": "3XcjIvaZVUFAIdIYZqY9bd"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=0qEcf3SFlpRcb3lK3f2GZI",
+      "id": "0qEcf3SFlpRcb3lK3f2GZI"
+    },
+    {
+      "artistName": "Anthrax",
+      "positioning": {
+        "top": 668,
+        "left": 507
+      },
+      "style": {
+        "color": "#e54723",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/347a14776d3d36cd15f64d203489f941e78b4eef",
+        "title": "e.g. Anthrax \"Got The Time\"",
+        "trackId": "3cFnb3Rg9a7Gzqxc5QQ9YZ"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=3JysSUOyfVs1UQ0UaESheP",
+      "id": "3JysSUOyfVs1UQ0UaESheP"
+    },
+    {
+      "artistName": "Firehouse",
+      "positioning": {
+        "top": 128,
+        "left": 564
+      },
+      "style": {
+        "color": "#c17704",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b79c0cbdf64f103acd4e9969e50e79b4a3ce0292",
+        "title": "e.g. Firehouse \"I Live My Life for You\"",
+        "trackId": "47RAxX2yfiZWmsNKLvjQON"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=28pS8WVbFstY0o1SrqCf8I",
+      "id": "28pS8WVbFstY0o1SrqCf8I"
+    },
+    {
+      "artistName": "Peter Frampton",
+      "positioning": {
+        "top": 604,
+        "left": 953
+      },
+      "style": {
+        "color": "#aa7d23",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9ac15610962ef729c1ed212c5ed804aa2ed0e625",
+        "title": "e.g. Peter Frampton \"Show Me The Way\"",
+        "trackId": "6BD1X1PeV5UzYUdiVaD2yL"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=0543y7yrvny4KymoaneT4W",
+      "id": "0543y7yrvny4KymoaneT4W"
+    },
+    {
+      "artistName": "Warrant",
+      "positioning": {
+        "top": 324,
+        "left": 588
+      },
+      "style": {
+        "color": "#c66704",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10b13fc3ffbfd86fe3ffabc9cf0d3de5f6256917",
+        "title": "e.g. Warrant \"Cherry Pie\"",
+        "trackId": "18ESXa5mEm1V4Pkt5GSXWx"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=7HLvzuM9p11k9lUQfSM4Rq",
+      "id": "7HLvzuM9p11k9lUQfSM4Rq"
+    },
+    {
+      "artistName": "Temple Of The Dog",
+      "positioning": {
+        "top": 763,
+        "left": 460
+      },
+      "style": {
+        "color": "#b27407",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a8f7ea2cfff59e899baae0f6bba9de70dbe0632",
+        "title": "e.g. Temple Of The Dog \"Hunger Strike\"",
+        "trackId": "0W7AbEauB7cP4pidLclApe"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=0iHb0mCbqZTYeb4y9Pirrd",
+      "id": "0iHb0mCbqZTYeb4y9Pirrd"
+    },
+    {
+      "artistName": "Joe Walsh",
+      "positioning": {
+        "top": 662,
+        "left": 1029
+      },
+      "style": {
+        "color": "#90743b",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4220b4db522c301195461f9aaaa099ca0a4536b5",
+        "title": "e.g. Joe Walsh \"Life's Been Good\"",
+        "trackId": "2wvMC5EyaaYQwBfiwwY2xE"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=5bDxAyJiTYBat1YnFJhvEK",
+      "id": "5bDxAyJiTYBat1YnFJhvEK"
+    },
+    {
+      "artistName": "Robert Plant",
+      "positioning": {
+        "top": 618,
+        "left": 967
+      },
+      "style": {
+        "color": "#977e32",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/398709217de2ba3b176ab9c9b39cbe8560b989d5",
+        "title": "e.g. Robert Plant \"Big Log - 2006 Remaster\"",
+        "trackId": "7257drAN3eTtaaUUPw95B3"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=1OwarW4LEHnoep20ixRA0y",
+      "id": "1OwarW4LEHnoep20ixRA0y"
+    },
+    {
+      "artistName": "The Guess Who",
+      "positioning": {
+        "top": 737,
+        "left": 1123
+      },
+      "style": {
+        "color": "#a38008",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9cf2448c360dc6215a7fe0aa0e6eb22e96f1eee9",
+        "title": "e.g. The Guess Who \"American Woman\"",
+        "trackId": "3LQPTJEqOfljGBxmpgUnoC"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=0cQuYRSzlItquYxsQKDvVc",
+      "id": "0cQuYRSzlItquYxsQKDvVc"
+    },
+    {
+      "artistName": "Queensrÿche",
+      "positioning": {
+        "top": 293,
+        "left": 303
+      },
+      "style": {
+        "color": "#d5630d",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fd3752c3132662ba99fcec48e3e1bd8f3163343",
+        "title": "e.g. Queensrÿche \"Silent Lucidity - Remastered 2003\"",
+        "trackId": "6OSyCAmXT4Gkd3OQ2aPOaF"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=2OgUPVlWYgGBGMefZgGvCO",
+      "id": "2OgUPVlWYgGBGMefZgGvCO"
+    },
+    {
+      "artistName": "Suicidal Tendencies",
+      "positioning": {
+        "top": 685,
+        "left": 616
+      },
+      "style": {
+        "color": "#e64708",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8cbac47f4dab04ea29980bbb062c7c330a625be6",
+        "title": "e.g. Suicidal Tendencies \"Institutionalized\"",
+        "trackId": "7G83ZwD2msTtFaBQExc8QB"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=3WPKDlucMsXH6FC1XaclZC",
+      "id": "3WPKDlucMsXH6FC1XaclZC"
+    },
+    {
+      "artistName": "Asia",
+      "positioning": {
+        "top": 696,
+        "left": 431
+      },
+      "style": {
+        "color": "#ba700e",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8f77ddac0b5c92414a33e614e4402c8255ad729",
+        "title": "e.g. Asia \"Heat Of The Moment\"",
+        "trackId": "1nmZ8yqKkfooOuYvtFctDp"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=1bdytLV3FPjyhfrb6BhMej",
+      "id": "1bdytLV3FPjyhfrb6BhMej"
+    },
+    {
+      "artistName": "Zakk Wylde",
+      "positioning": {
+        "top": 792,
+        "left": 412
+      },
+      "style": {
+        "color": "#ad8121",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bdd78e56f555f6259a3906f34b33a79372bcd8c",
+        "title": "e.g. Zakk Wylde \"Sleeping Dogs\"",
+        "trackId": "2mpYgCn2balpR0QqyrWRrT"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=1AeC9AuzqGc3IXMC2T5xny",
+      "id": "1AeC9AuzqGc3IXMC2T5xny"
+    },
+    {
+      "artistName": "Loverboy",
+      "positioning": {
+        "top": 350,
+        "left": 630
+      },
+      "style": {
+        "color": "#cd6901",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c4501343d20cbafbf8337824740f4de13e248349",
+        "title": "e.g. Loverboy \"Working for the Weekend\"",
+        "trackId": "35k31HZI4z9PbBOioaI4dZ"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=2CLVPk9FcywjClBcTvWPkT",
+      "id": "2CLVPk9FcywjClBcTvWPkT"
+    },
+    {
+      "artistName": "Jeff Beck",
+      "positioning": {
+        "top": 722,
+        "left": 924
+      },
+      "style": {
+        "color": "#a36f58",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c394a65058540743326030859e2adaf350063e1",
+        "title": "e.g. Jeff Beck \"I Put a Spell on You (feat. Joss Stone)\"",
+        "trackId": "3Be7vJDOFNOVv3iYQgIQpu"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=0AD4odMWVQ2wUSlgxOB5Rl",
+      "id": "0AD4odMWVQ2wUSlgxOB5Rl"
+    },
+    {
+      "artistName": "Velvet Revolver",
+      "positioning": {
+        "top": 267,
+        "left": 133
+      },
+      "style": {
+        "color": "#ec4829",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4865cdccc99b298b34e1bdaf87138e79a5689a8f",
+        "title": "e.g. Velvet Revolver \"Slither\"",
+        "trackId": "7kF1iPJTj3VFJX9XokQ80F"
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=7CHilrn81OdYjkh4uSVnYM",
+      "id": "7CHilrn81OdYjkh4uSVnYM"
+    },
+    {
+      "artistName": "Jon Bon Jovi",
+      "positioning": {
+        "top": 532,
+        "left": 683
+      },
+      "style": {
+        "color": "#a0831b",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd57d8811b414f4f05555573bbe5f61f39bf148b",
+        "title": "e.g. Jon Bon Jovi \"Blaze Of Glory - From \"Young Guns II\" Soundtrack\"",
+        "trackId": "1sUTfgduT0WIQO8kXKXxLC"
+      },
+      "elementId": "item129",
+      "href": "https://everynoise.com/artistprofile.html?id=6h2bWHWTJL38N8dqocVaif",
+      "id": "6h2bWHWTJL38N8dqocVaif"
+    },
+    {
+      "artistName": "W.A.S.P.",
+      "positioning": {
+        "top": 555,
+        "left": 109
+      },
+      "style": {
+        "color": "#dc522d",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76eb9371b2c67869470bc671dbe04b76515932fd",
+        "title": "e.g. W.A.S.P. \"I Wanna Be Somebody\"",
+        "trackId": "6w8dBm5KlXxWejYrbGS1EJ"
+      },
+      "elementId": "item130",
+      "href": "https://everynoise.com/artistprofile.html?id=3BVkDHWRvLJEyKdvhLbjsq",
+      "id": "3BVkDHWRvLJEyKdvhLbjsq"
+    },
+    {
+      "artistName": "Mountain",
+      "positioning": {
+        "top": 724,
+        "left": 559
+      },
+      "style": {
+        "color": "#b06931",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d4ed67353322d966f83f8a068f97069879526a23",
+        "title": "e.g. Mountain \"Mississippi Queen\"",
+        "trackId": "4vO9dmzNRqDhFY3jD1a3P7"
+      },
+      "elementId": "item131",
+      "href": "https://everynoise.com/artistprofile.html?id=7LCp4MN0SOIVWlssid9KyE",
+      "id": "7LCp4MN0SOIVWlssid9KyE"
+    },
+    {
+      "artistName": "Kreator",
+      "positioning": {
+        "top": 625,
+        "left": 223
+      },
+      "style": {
+        "color": "#ee3e43",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6bbda0d3a9267f88327cb2f3ca939165f69a8c71",
+        "title": "e.g. Kreator \"Satan Is Real\"",
+        "trackId": "14M68PdZSSMRzTBuJNuxO6"
+      },
+      "elementId": "item132",
+      "href": "https://everynoise.com/artistprofile.html?id=3BM0EaYmkKWuPmmHFUTQHv",
+      "id": "3BM0EaYmkKWuPmmHFUTQHv"
+    },
+    {
+      "artistName": "Ted Nugent",
+      "positioning": {
+        "top": 535,
+        "left": 450
+      },
+      "style": {
+        "color": "#dc4e2d",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1122c94bce46e159e23c5106ed02d5daacd966b",
+        "title": "e.g. Ted Nugent \"Stranglehold\"",
+        "trackId": "2f0P7iELCvAlV8j6Z3rGDE"
+      },
+      "elementId": "item133",
+      "href": "https://everynoise.com/artistprofile.html?id=21ysNsPzHdqYN2fQ75ZswG",
+      "id": "21ysNsPzHdqYN2fQ75ZswG"
+    },
+    {
+      "artistName": "Manfred Mann's Earth Band",
+      "positioning": {
+        "top": 549,
+        "left": 1038
+      },
+      "style": {
+        "color": "#938022",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2438c47df8cf1e4e9f9a987a155e13748e98e56",
+        "title": "e.g. Manfred Mann's Earth Band \"Blinded By The Light\"",
+        "trackId": "7kNNylJ1kswWbHeRM6UDuE"
+      },
+      "elementId": "item134",
+      "href": "https://everynoise.com/artistprofile.html?id=2utNxkLhreF1oIfO8kQT3q",
+      "id": "2utNxkLhreF1oIfO8kQT3q"
+    },
+    {
+      "artistName": "Joe Satriani",
+      "positioning": {
+        "top": 294,
+        "left": 569
+      },
+      "style": {
+        "color": "#ba72ab",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/92a9ceed09d7aaf639d533de4de756d92d93dd89",
+        "title": "e.g. Joe Satriani \"Surfing with the Alien\"",
+        "trackId": "2ekfM9Dcslm7l9Lh7HGT0i"
+      },
+      "elementId": "item135",
+      "href": "https://everynoise.com/artistprofile.html?id=2yzxX2DI9LFK8VFTyW2zZ8",
+      "id": "2yzxX2DI9LFK8VFTyW2zZ8"
+    },
+    {
+      "artistName": "Dokken",
+      "positioning": {
+        "top": 404,
+        "left": 351
+      },
+      "style": {
+        "color": "#ca5d0f",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b2e124cdf250093958d59c1ccabc27d88fcbab2",
+        "title": "e.g. Dokken \"Alone Again\"",
+        "trackId": "1j06ieEC2BOCM0fTmYhn2l"
+      },
+      "elementId": "item136",
+      "href": "https://everynoise.com/artistprofile.html?id=09hNSPPOxDop4FRdr6UEnq",
+      "id": "09hNSPPOxDop4FRdr6UEnq"
+    },
+    {
+      "artistName": "Foghat",
+      "positioning": {
+        "top": 519,
+        "left": 702
+      },
+      "style": {
+        "color": "#cb5812",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1fc182fa0e04c221fe2d14ec0bac4700eccf406c",
+        "title": "e.g. Foghat \"Slow Ride (Edit)\"",
+        "trackId": "3OUExRnXWXzMc5sJ39u7ru"
+      },
+      "elementId": "item137",
+      "href": "https://everynoise.com/artistprofile.html?id=6x33CmZWo2Ve4hxYl2Craq",
+      "id": "6x33CmZWo2Ve4hxYl2Craq"
+    },
+    {
+      "artistName": "UFO",
+      "positioning": {
+        "top": 711,
+        "left": 374
+      },
+      "style": {
+        "color": "#cc6210",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c72fc40a39f979a45606409457d3cf9866bcce3",
+        "title": "e.g. UFO \"Doctor Doctor - 2007 Remaster\"",
+        "trackId": "1soxeK1ZBX9SsSjK4j4ECa"
+      },
+      "elementId": "item138",
+      "href": "https://everynoise.com/artistprofile.html?id=2Omy3P5hFZym7FKum1JA1s",
+      "id": "2Omy3P5hFZym7FKum1JA1s"
+    },
+    {
+      "artistName": "Tesla",
+      "positioning": {
+        "top": 486,
+        "left": 640
+      },
+      "style": {
+        "color": "#c5700a",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8300cfc6446a3d49e039abc9c80ff8050a2ca948",
+        "title": "e.g. Tesla \"Love Song\"",
+        "trackId": "0vJUdIefT5caKla9H8b1q4"
+      },
+      "elementId": "item139",
+      "href": "https://everynoise.com/artistprofile.html?id=0dgnITyIAN4NrmUVisvxHU",
+      "id": "0dgnITyIAN4NrmUVisvxHU"
+    },
+    {
+      "artistName": "White Lion",
+      "positioning": {
+        "top": 531,
+        "left": 332
+      },
+      "style": {
+        "color": "#a67703",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8be021e8d9ce36b4e7fb86f64175a7b31c91545f",
+        "title": "e.g. White Lion \"When the Children Cry\"",
+        "trackId": "4ZCLM74MYhUy80TPiaAuee"
+      },
+      "elementId": "item140",
+      "href": "https://everynoise.com/artistprofile.html?id=3nLYJvqbEzs5kg2TlprxIG",
+      "id": "3nLYJvqbEzs5kg2TlprxIG"
+    },
+    {
+      "artistName": "Sammy Hagar",
+      "positioning": {
+        "top": 555,
+        "left": 493
+      },
+      "style": {
+        "color": "#c56512",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/17f765902d27ed622889a5261e426c189332fb87",
+        "title": "e.g. Sammy Hagar \"Heavy Metal\"",
+        "trackId": "1XxUDJp9zsjd6tBSvE3la4"
+      },
+      "elementId": "item141",
+      "href": "https://everynoise.com/artistprofile.html?id=1hXjTjJzZTXDZ75AclOo6N",
+      "id": "1hXjTjJzZTXDZ75AclOo6N"
+    },
+    {
+      "artistName": "Ugly Kid Joe",
+      "positioning": {
+        "top": 493,
+        "left": 820
+      },
+      "style": {
+        "color": "#bf7304",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25e432636041f3d95a8466a2d233abb74178132b",
+        "title": "e.g. Ugly Kid Joe \"Cats In The Cradle\"",
+        "trackId": "5x9RZg7HfXGY3JayXL3seF"
+      },
+      "elementId": "item142",
+      "href": "https://everynoise.com/artistprofile.html?id=3XsgWn63EnA4wYZBjVyxjf",
+      "id": "3XsgWn63EnA4wYZBjVyxjf"
+    },
+    {
+      "artistName": "Living Colour",
+      "positioning": {
+        "top": 454,
+        "left": 834
+      },
+      "style": {
+        "color": "#d05c26",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d0801751d913e7466b5c6ac6cca2cf901aa2e019",
+        "title": "e.g. Living Colour \"Cult of Personality\"",
+        "trackId": "5e3YOg6fIkP0wD5TyxcHOH"
+      },
+      "elementId": "item143",
+      "href": "https://everynoise.com/artistprofile.html?id=6Uhp7WA6sjm5ZL6Xz561de",
+      "id": "6Uhp7WA6sjm5ZL6Xz561de"
+    },
+    {
+      "artistName": "Night Ranger",
+      "positioning": {
+        "top": 459,
+        "left": 431
+      },
+      "style": {
+        "color": "#bd6e04",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/020f9178489234da3d180fc852a5be4466f63731",
+        "title": "e.g. Night Ranger \"Sister Christian\"",
+        "trackId": "57trQKFZdJxHia4sMJioWk"
+      },
+      "elementId": "item144",
+      "href": "https://everynoise.com/artistprofile.html?id=1Ha0Fz4i0d4gu5fZbhBCtH",
+      "id": "1Ha0Fz4i0d4gu5fZbhBCtH"
+    },
+    {
+      "artistName": "Exodus",
+      "positioning": {
+        "top": 272,
+        "left": 479
+      },
+      "style": {
+        "color": "#f24a43",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3752a7ee80510a20e75567425dec7a96905f69e4",
+        "title": "e.g. Exodus \"Blacklist\"",
+        "trackId": "3iUJrkMilUVkUKtYZK7Th4"
+      },
+      "elementId": "item145",
+      "href": "https://everynoise.com/artistprofile.html?id=76S65NHJHrNy4JTrXHP2BH",
+      "id": "76S65NHJHrNy4JTrXHP2BH"
+    },
+    {
+      "artistName": "Bruce Dickinson",
+      "positioning": {
+        "top": 534,
+        "left": 787
+      },
+      "style": {
+        "color": "#c06308",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25fc8a6528bf8633b77052c971d36f1b0f319bf1",
+        "title": "e.g. Bruce Dickinson \"Tears of the Dragon (2001 Remaster)\"",
+        "trackId": "3EiQGaaHMHFk5ykD1a7vYt"
+      },
+      "elementId": "item146",
+      "href": "https://everynoise.com/artistprofile.html?id=7Iffw1nP3NjCWkRIx3Ily9",
+      "id": "7Iffw1nP3NjCWkRIx3Ily9"
+    },
+    {
+      "artistName": "Emerson, Lake & Palmer",
+      "positioning": {
+        "top": 737,
+        "left": 905
+      },
+      "style": {
+        "color": "#977a54",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6edfb135549e2fc92671e8c8a4dd365155fa06ad",
+        "title": "e.g. Emerson, Lake & Palmer \"Lucky Man\"",
+        "trackId": "4hToeA1JqbZYM6sONocroe"
+      },
+      "elementId": "item147",
+      "href": "https://everynoise.com/artistprofile.html?id=0nCiidE5GgDrc5kWN3NZgZ",
+      "id": "0nCiidE5GgDrc5kWN3NZgZ"
+    },
+    {
+      "artistName": "April Wine",
+      "positioning": {
+        "top": 614,
+        "left": 683
+      },
+      "style": {
+        "color": "#ba6b12",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb5faf229a5890dcd90baf3754399a42a3f16ddb",
+        "title": "e.g. April Wine \"Roller\"",
+        "trackId": "0bT9zH62RHMtpQm38XNwPJ"
+      },
+      "elementId": "item148",
+      "href": "https://everynoise.com/artistprofile.html?id=1JHzh1ETQTMoFb2CgncnTL",
+      "id": "1JHzh1ETQTMoFb2CgncnTL"
+    },
+    {
+      "artistName": "Uriah Heep",
+      "positioning": {
+        "top": 641,
+        "left": 512
+      },
+      "style": {
+        "color": "#ac6e1c",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8d51339c4954f5803e5a58bdcaa76f0b0645688",
+        "title": "e.g. Uriah Heep \"Lady In Black\"",
+        "trackId": "2U2ByqoO82fnayaPzO4x2d"
+      },
+      "elementId": "item149",
+      "href": "https://everynoise.com/artistprofile.html?id=45O9BwPMyywM755SYUK0sP",
+      "id": "45O9BwPMyywM755SYUK0sP"
+    },
+    {
+      "artistName": "Jefferson Starship",
+      "positioning": {
+        "top": 660,
+        "left": 777
+      },
+      "style": {
+        "color": "#a26d0d",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/785691df2593ce3432461844ecd5fcfb58d1f0e1",
+        "title": "e.g. Jefferson Starship \"Jane\"",
+        "trackId": "2RNd6VgxG19db0zs0M1C4Z"
+      },
+      "elementId": "item150",
+      "href": "https://everynoise.com/artistprofile.html?id=3HC7NcxQx2Yk0fWoRKJ0xF",
+      "id": "3HC7NcxQx2Yk0fWoRKJ0xF"
+    },
+    {
+      "artistName": "Yngwie Malmsteen",
+      "positioning": {
+        "top": 542,
+        "left": 19
+      },
+      "style": {
+        "color": "#d65565",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5895d2bb09e9a7d4560d1c210b31eeaa4a1f2f08",
+        "title": "e.g. Yngwie Malmsteen \"Rising Force\"",
+        "trackId": "3SgshUlk02dwRHeLm0ztOi"
+      },
+      "elementId": "item151",
+      "href": "https://everynoise.com/artistprofile.html?id=5DpSoH5zCXNRqYai7pmcGG",
+      "id": "5DpSoH5zCXNRqYai7pmcGG"
+    },
+    {
+      "artistName": "David Lee Roth",
+      "positioning": {
+        "top": 586,
+        "left": 730
+      },
+      "style": {
+        "color": "#c16706",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c396888d3b5fa3d42af101fe4e4d4022087718f8",
+        "title": "e.g. David Lee Roth \"Just Like Paradise\"",
+        "trackId": "5ZY7Gug850kv4heJcWZGHM"
+      },
+      "elementId": "item152",
+      "href": "https://everynoise.com/artistprofile.html?id=0KyCXNSa7ZMb5LydfKbLG3",
+      "id": "0KyCXNSa7ZMb5LydfKbLG3"
+    },
+    {
+      "artistName": "James Gang",
+      "positioning": {
+        "top": 581,
+        "left": 1266
+      },
+      "style": {
+        "color": "#a67443",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/722462bbefaa9d4307ad98e9cf07dfbf15d2f924",
+        "title": "e.g. James Gang \"Funk #49\"",
+        "trackId": "5h6SovHOYpIMlAkafxcbq3"
+      },
+      "elementId": "item153",
+      "href": "https://everynoise.com/artistprofile.html?id=5hfOHpGMsi8O3DA0ROLGqF",
+      "id": "5hfOHpGMsi8O3DA0ROLGqF"
+    },
+    {
+      "artistName": "Saxon",
+      "positioning": {
+        "top": 506,
+        "left": 351
+      },
+      "style": {
+        "color": "#db4e27",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16df7af3aa44702db46967f208c55d6b98664acb",
+        "title": "e.g. Saxon \"Princess of the Night\"",
+        "trackId": "2Quz6deYulrojpI9Bi3lXl"
+      },
+      "elementId": "item154",
+      "href": "https://everynoise.com/artistprofile.html?id=71vVmHeNgCVSa5SVmfvscU",
+      "id": "71vVmHeNgCVSa5SVmfvscU"
+    },
+    {
+      "artistName": "Winger",
+      "positioning": {
+        "top": 174,
+        "left": 427
+      },
+      "style": {
+        "color": "#be6708",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/45b27fd815c5c1808befc50fb0dd1d506ecc7b8e",
+        "title": "e.g. Winger \"Seventeen\"",
+        "trackId": "2ZS0wDcdfrJPC86u5aJGo9"
+      },
+      "elementId": "item155",
+      "href": "https://everynoise.com/artistprofile.html?id=2qQeKHrQJHLLbvDAOSO874",
+      "id": "2qQeKHrQJHLLbvDAOSO874"
+    },
+    {
+      "artistName": "Great White",
+      "positioning": {
+        "top": 360,
+        "left": 749
+      },
+      "style": {
+        "color": "#bc7212",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/08b2b139cdca2f68749447de52b4bafbd77f0ad9",
+        "title": "e.g. Great White \"Once Bitten Twice Shy\"",
+        "trackId": "07nxmAxwhY51juyImllKD2"
+      },
+      "elementId": "item156",
+      "href": "https://everynoise.com/artistprofile.html?id=6ZPbX2Lxd40e2UVkXpyxvI",
+      "id": "6ZPbX2Lxd40e2UVkXpyxvI"
+    },
+    {
+      "artistName": "The Yardbirds",
+      "positioning": {
+        "top": 694,
+        "left": 953
+      },
+      "style": {
+        "color": "#a66a2a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3be8ddc5996a1675a5baedc9f3ec45be71572690",
+        "title": "e.g. The Yardbirds \"Heart Full of Soul - 2015 Remaster\"",
+        "trackId": "3HlbrnCBdrJ1NObHLMXSZh"
+      },
+      "elementId": "item157",
+      "href": "https://everynoise.com/artistprofile.html?id=2lxX1ivRYp26soIavdG9bX",
+      "id": "2lxX1ivRYp26soIavdG9bX"
+    },
+    {
+      "artistName": "Bad English",
+      "positioning": {
+        "top": 332,
+        "left": 393
+      },
+      "style": {
+        "color": "#b27400",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb805c04d4dc75eca72897a10470236fbbbdcb42",
+        "title": "e.g. Bad English \"When I See You Smile\"",
+        "trackId": "0tKjVEJlX3IZ5L1rEJc5hh"
+      },
+      "elementId": "item158",
+      "href": "https://everynoise.com/artistprofile.html?id=5fhMbh4PVSLSODF2fhWwqt",
+      "id": "5fhMbh4PVSLSODF2fhWwqt"
+    },
+    {
+      "artistName": "Iced Earth",
+      "positioning": {
+        "top": 407,
+        "left": 521
+      },
+      "style": {
+        "color": "#de4e3b",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10729f495ee0101e8c381cf55d30508ef02c1845",
+        "title": "e.g. Iced Earth \"Watching over Me - Remixed & Remastered\"",
+        "trackId": "07thLbY0eGli2xWWIPdrN2"
+      },
+      "elementId": "item159",
+      "href": "https://everynoise.com/artistprofile.html?id=3KEixcRfBS5K3E91Vn1Kdy",
+      "id": "3KEixcRfBS5K3E91Vn1Kdy"
+    },
+    {
+      "artistName": "The Georgia Satellites",
+      "positioning": {
+        "top": 581,
+        "left": 403
+      },
+      "style": {
+        "color": "#d74a07",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ad71a4ddc2783b2f799aefde47fe60464424543",
+        "title": "e.g. The Georgia Satellites \"Keep Your Hands to Yourself\"",
+        "trackId": "5tORtBzHUAnNrIw5Ql3kHZ"
+      },
+      "elementId": "item160",
+      "href": "https://everynoise.com/artistprofile.html?id=2hnzQ6eCFkxUIPsVcsdj8A",
+      "id": "2hnzQ6eCFkxUIPsVcsdj8A"
+    },
+    {
+      "artistName": "Lita Ford",
+      "positioning": {
+        "top": 387,
+        "left": 479
+      },
+      "style": {
+        "color": "#c06a0b",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9209124cfe52b9782dfc138a47a92fbb138bb294",
+        "title": "e.g. Lita Ford \"Close My Eyes Forever\"",
+        "trackId": "43thLwzSasUUZEYjYPeJh3"
+      },
+      "elementId": "item161",
+      "href": "https://everynoise.com/artistprofile.html?id=77tBvvyd6SD4Y9Um1xcbxP",
+      "id": "77tBvvyd6SD4Y9Um1xcbxP"
+    },
+    {
+      "artistName": "Molly Hatchet",
+      "positioning": {
+        "top": 493,
+        "left": 289
+      },
+      "style": {
+        "color": "#e0553a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40590a884f14c8dde25d14aa2b9698b9f1161b3d",
+        "title": "e.g. Molly Hatchet \"Flirtin' with Disaster\"",
+        "trackId": "61BywQA7q8KjpGjp3rHuRv"
+      },
+      "elementId": "item162",
+      "href": "https://everynoise.com/artistprofile.html?id=4ZqBwBVB3dsYWL3d5Spi10",
+      "id": "4ZqBwBVB3dsYWL3d5Spi10"
+    },
+    {
+      "artistName": "Damn Yankees",
+      "positioning": {
+        "top": 424,
+        "left": 185
+      },
+      "style": {
+        "color": "#ba6602",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40d41383db16a61fd01295b96d9cb58ec881a312",
+        "title": "e.g. Damn Yankees \"High Enough\"",
+        "trackId": "5t5rCnsgRBtcKqTB7SbD1Q"
+      },
+      "elementId": "item163",
+      "href": "https://everynoise.com/artistprofile.html?id=7ihLzUpuNecU5VBkvOUDNq",
+      "id": "7ihLzUpuNecU5VBkvOUDNq"
+    },
+    {
+      "artistName": "Triumph",
+      "positioning": {
+        "top": 753,
+        "left": 389
+      },
+      "style": {
+        "color": "#c76b24",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c780ff8cb12e4bca472fff8506465c22805c55fe",
+        "title": "e.g. Triumph \"Lay It on the Line\"",
+        "trackId": "4QwcuKjGjtl5fZe7kDdULV"
+      },
+      "elementId": "item164",
+      "href": "https://everynoise.com/artistprofile.html?id=4YfnJEbTz8QLD5FusYFwV6",
+      "id": "4YfnJEbTz8QLD5FusYFwV6"
+    },
+    {
+      "artistName": "Overkill",
+      "positioning": {
+        "top": 632,
+        "left": 379
+      },
+      "style": {
+        "color": "#e84a61",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/80203962bedaae8917585e2eba299a424561c4f8",
+        "title": "e.g. Overkill \"Elimination\"",
+        "trackId": "6lWFQo5NuR3y8Q6CHIRatA"
+      },
+      "elementId": "item165",
+      "href": "https://everynoise.com/artistprofile.html?id=0NmYchKQ8JIR9QHYJA0FRe",
+      "id": "0NmYchKQ8JIR9QHYJA0FRe"
+    },
+    {
+      "artistName": "The Edgar Winter Group",
+      "positioning": {
+        "top": 555,
+        "left": 1247
+      },
+      "style": {
+        "color": "#cb5362",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d29144b7b8f94e0495521ba13856373ea597905",
+        "title": "e.g. The Edgar Winter Group \"Free Ride\"",
+        "trackId": "4MlXFjRO6N7NXvMqPlH35o"
+      },
+      "elementId": "item166",
+      "href": "https://everynoise.com/artistprofile.html?id=7j9PMegEgVN1fNp8NZXNCI",
+      "id": "7j9PMegEgVN1fNp8NZXNCI"
+    },
+    {
+      "artistName": "Savatage",
+      "positioning": {
+        "top": 751,
+        "left": 555
+      },
+      "style": {
+        "color": "#ad6528",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/43cb4c794523b7fe60c223dabf08715c7ecd39fb",
+        "title": "e.g. Savatage \"Hall of the Mountain King\"",
+        "trackId": "1kZgY32eQdvYVm42l3Vcon"
+      },
+      "elementId": "item167",
+      "href": "https://everynoise.com/artistprofile.html?id=3N1B1g6JtIgd6ClRkzD4yT",
+      "id": "3N1B1g6JtIgd6ClRkzD4yT"
+    },
+    {
+      "artistName": "Doro",
+      "positioning": {
+        "top": 395,
+        "left": 436
+      },
+      "style": {
+        "color": "#c07205",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5cfdf09dd5a7e062263849908098749832d72b8c",
+        "title": "e.g. Doro \"Für Immer\"",
+        "trackId": "1VpI31hyxR37UgUnnkSogb"
+      },
+      "elementId": "item168",
+      "href": "https://everynoise.com/artistprofile.html?id=5GLeyUhj8B8f5pJxqZllKl",
+      "id": "5GLeyUhj8B8f5pJxqZllKl"
+    },
+    {
+      "artistName": "Ace Frehley",
+      "positioning": {
+        "top": 337,
+        "left": 545
+      },
+      "style": {
+        "color": "#d94c10",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7b51080b9561cb56d10750f0f71e7e87ec61b2c",
+        "title": "e.g. Ace Frehley \"Rock Soldiers\"",
+        "trackId": "7DRkxr8eGnAwcNIbdAWcxM"
+      },
+      "elementId": "item169",
+      "href": "https://everynoise.com/artistprofile.html?id=62olK5zZHSgFUXGDykgBL8",
+      "id": "62olK5zZHSgFUXGDykgBL8"
+    },
+    {
+      "artistName": "King Diamond",
+      "positioning": {
+        "top": 518,
+        "left": 251
+      },
+      "style": {
+        "color": "#ce5743",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2121bedf135b44a9f49cce6f4c8b003959c16826",
+        "title": "e.g. King Diamond \"Abigail - Reissue\"",
+        "trackId": "27jgTMFbx4HZhwVVpK0tOC"
+      },
+      "elementId": "item170",
+      "href": "https://everynoise.com/artistprofile.html?id=5i0ph60TnwTlIGrOZAmcZa",
+      "id": "5i0ph60TnwTlIGrOZAmcZa"
+    },
+    {
+      "artistName": "U.D.O.",
+      "positioning": {
+        "top": 158,
+        "left": 346
+      },
+      "style": {
+        "color": "#e05713",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d6d2dae126c8c6bd81ad422e440b8d5e35a88c31",
+        "title": "e.g. U.D.O. \"I Give as Good as I Get\"",
+        "trackId": "5UY1H04zmALat9j3VF98wO"
+      },
+      "elementId": "item171",
+      "href": "https://everynoise.com/artistprofile.html?id=2aWjaq32aRQo58dw0w8NM6",
+      "id": "2aWjaq32aRQo58dw0w8NM6"
+    },
+    {
+      "artistName": "Jackyl",
+      "positioning": {
+        "top": 305,
+        "left": 811
+      },
+      "style": {
+        "color": "#dd5c19",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd815b45c0ead781a55089c2d40aca58eaa0b620",
+        "title": "e.g. Jackyl \"I Stand Alone\"",
+        "trackId": "1TlfVCDCFluWaA6NIKYAis"
+      },
+      "elementId": "item172",
+      "href": "https://everynoise.com/artistprofile.html?id=3jdirYL01245TvAH39GfM6",
+      "id": "3jdirYL01245TvAH39GfM6"
+    },
+    {
+      "artistName": "L.A. Guns",
+      "positioning": {
+        "top": 472,
+        "left": 479
+      },
+      "style": {
+        "color": "#cf6016",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01cea179a6f59b8324acfdf53777694bdbf07a20",
+        "title": "e.g. L.A. Guns \"The Ballad Of Jayne\"",
+        "trackId": "0gTEvnqaTPmrDvzbKZtQuw"
+      },
+      "elementId": "item173",
+      "href": "https://everynoise.com/artistprofile.html?id=22TEmHXBBLjTec2LOAuMdS",
+      "id": "22TEmHXBBLjTec2LOAuMdS"
+    },
+    {
+      "artistName": "Slaughter",
+      "positioning": {
+        "top": 306,
+        "left": 355
+      },
+      "style": {
+        "color": "#cc5a23",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fdced51876c095300bc3b90a3b9d67e6c44d000d",
+        "title": "e.g. Slaughter \"Fly To The Angels\"",
+        "trackId": "1KkKFxAOb4kDpWH8IeLa7A"
+      },
+      "elementId": "item174",
+      "href": "https://everynoise.com/artistprofile.html?id=4ibNXJiMYOPibpS9DB9Qz3",
+      "id": "4ibNXJiMYOPibpS9DB9Qz3"
+    },
+    {
+      "artistName": "Blackfoot",
+      "positioning": {
+        "top": 581,
+        "left": 611
+      },
+      "style": {
+        "color": "#cd5c0c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9e66e7e71b808ea33d59c02893582bbf2d3d956",
+        "title": "e.g. Blackfoot \"Train, Train\"",
+        "trackId": "5bSpsKGoGKXOOfg7F3ZtKz"
+      },
+      "elementId": "item175",
+      "href": "https://everynoise.com/artistprofile.html?id=10rzK0sLCXsUlDhl8ed0MV",
+      "id": "10rzK0sLCXsUlDhl8ed0MV"
+    },
+    {
+      "artistName": "Anvil",
+      "positioning": {
+        "top": 638,
+        "left": 223
+      },
+      "style": {
+        "color": "#e94b42",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5609ad6f0ca20c9513a37c0a426213dfc5997ab6",
+        "title": "e.g. Anvil \"March of the Crabs\"",
+        "trackId": "6uuYXq7Hs8V4QSrZMDNJnu"
+      },
+      "elementId": "item176",
+      "href": "https://everynoise.com/artistprofile.html?id=0maNhqGx60ucjS4UaAH6cP",
+      "id": "0maNhqGx60ucjS4UaAH6cP"
+    },
+    {
+      "artistName": "Mercyful Fate",
+      "positioning": {
+        "top": 505,
+        "left": 246
+      },
+      "style": {
+        "color": "#de5043",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/65013318052ee90670ddd4073000cbd9bd27aed1",
+        "title": "e.g. Mercyful Fate \"Evil\"",
+        "trackId": "5pH1BecbNktYDbYw0XCEWn"
+      },
+      "elementId": "item177",
+      "href": "https://everynoise.com/artistprofile.html?id=0W8edGiwAsv6HXF0Kyc2V9",
+      "id": "0W8edGiwAsv6HXF0Kyc2V9"
+    },
+    {
+      "artistName": "Iron Butterfly",
+      "positioning": {
+        "top": 672,
+        "left": 872
+      },
+      "style": {
+        "color": "#987626",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4bf01abcb398aa23565f7e7097a5d20d3cd3812e",
+        "title": "e.g. Iron Butterfly \"In-A-Gadda-Da-Vida - Single Version\"",
+        "trackId": "412zahdI6CyYeTuVz8ZRSQ"
+      },
+      "elementId": "item178",
+      "href": "https://everynoise.com/artistprofile.html?id=3cdvlbCYf4WoBdy89RWkNS",
+      "id": "3cdvlbCYf4WoBdy89RWkNS"
+    },
+    {
+      "artistName": "Autograph",
+      "positioning": {
+        "top": 141,
+        "left": 531
+      },
+      "style": {
+        "color": "#d2610f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/efa7b4c62e98b7576dd2366d04e08e46e0863bc3",
+        "title": "e.g. Autograph \"Turn up the Radio\"",
+        "trackId": "7u0b4DthVvd2F2EzCiOx0Z"
+      },
+      "elementId": "item179",
+      "href": "https://everynoise.com/artistprofile.html?id=2koMWjvRRF0cOpJnjhdKx0",
+      "id": "2koMWjvRRF0cOpJnjhdKx0"
+    },
+    {
+      "artistName": "Krokus",
+      "positioning": {
+        "top": 259,
+        "left": 483
+      },
+      "style": {
+        "color": "#d55752",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e807a0721439e83df092ae14d985ca5f63b4871",
+        "title": "e.g. Krokus \"Screaming in the Night\"",
+        "trackId": "25suYHVUwWFTG6G31kuhZH"
+      },
+      "elementId": "item180",
+      "href": "https://everynoise.com/artistprofile.html?id=4YveAIZNQZBiWbt7iWsvCa",
+      "id": "4YveAIZNQZBiWbt7iWsvCa"
+    },
+    {
+      "artistName": "Kingdom Come",
+      "positioning": {
+        "top": 307,
+        "left": 465
+      },
+      "style": {
+        "color": "#be700e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f493f951ca33ed5b91b824781662ced7bbb360a",
+        "title": "e.g. Kingdom Come \"What Love Can Be\"",
+        "trackId": "54ksR9aJry2nrGZqmJN7ji"
+      },
+      "elementId": "item181",
+      "href": "https://everynoise.com/artistprofile.html?id=2YFKPea38AMhGqGSqkFF1Q",
+      "id": "2YFKPea38AMhGqGSqkFF1Q"
+    },
+    {
+      "artistName": "Michael Schenker Group",
+      "positioning": {
+        "top": 660,
+        "left": 332
+      },
+      "style": {
+        "color": "#dc5520",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c41af0455a3b0f14887ffe87f3447f78e2508347",
+        "title": "e.g. Michael Schenker Group \"Armed and Ready - 2000 Remaster\"",
+        "trackId": "4r299IW4ua73XaiXYFtLwP"
+      },
+      "elementId": "item182",
+      "href": "https://everynoise.com/artistprofile.html?id=5uSY4FF3dZMCVSkZslKCHi",
+      "id": "5uSY4FF3dZMCVSkZslKCHi"
+    },
+    {
+      "artistName": "Y&T",
+      "positioning": {
+        "top": 632,
+        "left": 446
+      },
+      "style": {
+        "color": "#de5110",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad1d668f3dfb57b66c384a4a5a87da7648517ab1",
+        "title": "e.g. Y&T \"Summertime Girls - Studio Version\"",
+        "trackId": "3obciWcyGwsVNZ76PYge6C"
+      },
+      "elementId": "item183",
+      "href": "https://everynoise.com/artistprofile.html?id=49Cw140t9jupn4S3udehoP",
+      "id": "49Cw140t9jupn4S3udehoP"
+    },
+    {
+      "artistName": "Warlock",
+      "positioning": {
+        "top": 363,
+        "left": 649
+      },
+      "style": {
+        "color": "#b45a36",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2bfc8ab4937a113f44a2e1183e7a7f4f260a4ea0",
+        "title": "e.g. Warlock \"All We Are\"",
+        "trackId": "2dU4FegjbgW5qkdrUdzogT"
+      },
+      "elementId": "item184",
+      "href": "https://everynoise.com/artistprofile.html?id=5XDeFQDarnwpR5WAfD6S0d",
+      "id": "5XDeFQDarnwpR5WAfD6S0d"
+    },
+    {
+      "artistName": "Jorn",
+      "positioning": {
+        "top": 364,
+        "left": 161
+      },
+      "style": {
+        "color": "#e15b0c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d20c1d9e212cf6211f10bfc597c67d7dbf9da996",
+        "title": "e.g. Jorn \"I Walk Alone\"",
+        "trackId": "5m8JHIXmasB1qOPCzfGVBr"
+      },
+      "elementId": "item185",
+      "href": "https://everynoise.com/artistprofile.html?id=5SaDyTQkjAAdrsmhPzrmw2",
+      "id": "5SaDyTQkjAAdrsmhPzrmw2"
+    },
+    {
+      "artistName": "Humble Pie",
+      "positioning": {
+        "top": 738,
+        "left": 787
+      },
+      "style": {
+        "color": "#ac661c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ce2c2003c2ee14ffc3c3398406a7e2ffe2f14bc",
+        "title": "e.g. Humble Pie \"30 Days In The Hole\"",
+        "trackId": "3KG03fcha5gJBLyze9919W"
+      },
+      "elementId": "item186",
+      "href": "https://everynoise.com/artistprofile.html?id=2CxLP749mup3ncPrXgCnvU",
+      "id": "2CxLP749mup3ncPrXgCnvU"
+    },
+    {
+      "artistName": "Jimmy Page",
+      "positioning": {
+        "top": 828,
+        "left": 891
+      },
+      "style": {
+        "color": "#936f46",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1437bf2709952c516c31dd0bfa39561f9aa5ed92",
+        "title": "e.g. Jimmy Page \"Ten Years Gone\"",
+        "trackId": "3ZGw02yKbcPZUwhwqSsM6E"
+      },
+      "elementId": "item187",
+      "href": "https://everynoise.com/artistprofile.html?id=55bGuHb50r5c0PeqqMeNBV",
+      "id": "55bGuHb50r5c0PeqqMeNBV"
+    },
+    {
+      "artistName": "Bonfire",
+      "positioning": {
+        "top": 194,
+        "left": 488
+      },
+      "style": {
+        "color": "#c96d12",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/43fcd1c9f7aac14f611a6083fbf80aa2bb15f457",
+        "title": "e.g. Bonfire \"You Make Me Feel\"",
+        "trackId": "6ap82DD5UEs3e63CqGiioP"
+      },
+      "elementId": "item188",
+      "href": "https://everynoise.com/artistprofile.html?id=7gqKcfoY25do9k18uCCgIT",
+      "id": "7gqKcfoY25do9k18uCCgIT"
+    },
+    {
+      "artistName": "Hawkwind",
+      "positioning": {
+        "top": 481,
+        "left": 237
+      },
+      "style": {
+        "color": "#b95d4c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b492682b22c0fbccb204bedc325585b753563bf0",
+        "title": "e.g. Hawkwind \"Silver Machine - Live at the Roundhouse London; 1996 Remaster\"",
+        "trackId": "73HSIWZlSCfs4tqVkrGv7H"
+      },
+      "elementId": "item189",
+      "href": "https://everynoise.com/artistprofile.html?id=2jK54ZlZhTF1TxygsVeR05",
+      "id": "2jK54ZlZhTF1TxygsVeR05"
+    },
+    {
+      "artistName": "Pretty Maids",
+      "positioning": {
+        "top": 320,
+        "left": 284
+      },
+      "style": {
+        "color": "#db600d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d803227fbe6d9519c06643f3add128993d04f325",
+        "title": "e.g. Pretty Maids \"Please Don't Leave Me\"",
+        "trackId": "77ZIkT6DwOXP3RCU2nqNJq"
+      },
+      "elementId": "item190",
+      "href": "https://everynoise.com/artistprofile.html?id=4OGo8f0tdKloP3IZwvnLqt",
+      "id": "4OGo8f0tdKloP3IZwvnLqt"
+    },
+    {
+      "artistName": "Magnum",
+      "positioning": {
+        "top": 373,
+        "left": 711
+      },
+      "style": {
+        "color": "#be7203",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95404383d63ee81bb35c7df74de72e6f123f6d52",
+        "title": "e.g. Magnum \"Need A Lot Of Love\"",
+        "trackId": "0dXdjryeXBxShHBOJLjX55"
+      },
+      "elementId": "item191",
+      "href": "https://everynoise.com/artistprofile.html?id=3Nu9hoMBT4SkDcaNvmK4G1",
+      "id": "3Nu9hoMBT4SkDcaNvmK4G1"
+    },
+    {
+      "artistName": "Montrose",
+      "positioning": {
+        "top": 699,
+        "left": 654
+      },
+      "style": {
+        "color": "#b2642e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2139af46694a14918f25b70b5a861030335db5dc",
+        "title": "e.g. Montrose \"Rock Candy\"",
+        "trackId": "6mpAOrpdrq5mJTGo8nrvSO"
+      },
+      "elementId": "item192",
+      "href": "https://everynoise.com/artistprofile.html?id=0VdoLGGpWcDZnzep6SSTdP",
+      "id": "0VdoLGGpWcDZnzep6SSTdP"
+    },
+    {
+      "artistName": "Chickenfoot",
+      "positioning": {
+        "top": 571,
+        "left": 289
+      },
+      "style": {
+        "color": "#de560d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/68a9267df65408c356e1480582c2383ac5dc9da9",
+        "title": "e.g. Chickenfoot \"Oh Yeah\"",
+        "trackId": "4FJQfMZoNbvcrUvdVzJuTQ"
+      },
+      "elementId": "item193",
+      "href": "https://everynoise.com/artistprofile.html?id=416gMRzj1LnFJvSBF5PO2R",
+      "id": "416gMRzj1LnFJvSBF5PO2R"
+    },
+    {
+      "artistName": "Aldo Nova",
+      "positioning": {
+        "top": 267,
+        "left": 389
+      },
+      "style": {
+        "color": "#bb6d23",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ecd31682a6189ec50909b8de59ee53ef00f2c8c5",
+        "title": "e.g. Aldo Nova \"Fantasy\"",
+        "trackId": "1zrba5qe6xkC84AlbXNa6u"
+      },
+      "elementId": "item194",
+      "href": "https://everynoise.com/artistprofile.html?id=3jtTd1E9mBxYYU987s32Fm",
+      "id": "3jtTd1E9mBxYYU987s32Fm"
+    },
+    {
+      "artistName": "Diamond Head",
+      "positioning": {
+        "top": 619,
+        "left": 384
+      },
+      "style": {
+        "color": "#ce5f1b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc8a0f8af9346bb3f9335de746793fd72536c7d3",
+        "title": "e.g. Diamond Head \"Am I Evil\"",
+        "trackId": "55HmWFBCXVjQdx7p1iySET"
+      },
+      "elementId": "item195",
+      "href": "https://everynoise.com/artistprofile.html?id=3z3KnhKZObj216IgfHYGVf",
+      "id": "3z3KnhKZObj216IgfHYGVf"
+    },
+    {
+      "artistName": "Halford",
+      "positioning": {
+        "top": 185,
+        "left": 147
+      },
+      "style": {
+        "color": "#e4551d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/764e0698a6aba40b6cd020ee4a671dd432bfc8ec",
+        "title": "e.g. Halford \"Resurrection\"",
+        "trackId": "7DWUX2nEjracF89X3vJSRV"
+      },
+      "elementId": "item196",
+      "href": "https://everynoise.com/artistprofile.html?id=0kq4QvLGV5t1ZoE6ittrLQ",
+      "id": "0kq4QvLGV5t1ZoE6ittrLQ"
+    },
+    {
+      "artistName": "Ian Gillan",
+      "positioning": {
+        "top": 545,
+        "left": 706
+      },
+      "style": {
+        "color": "#bc6d17",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fe11d8b04fe980ad3ad5c7f2245759657b0f850",
+        "title": "e.g. Ian Gillan \"Gethsemane (I Only Want To Say)\"",
+        "trackId": "41q5F1kJDBUwbjvJnDrv6c"
+      },
+      "elementId": "item197",
+      "href": "https://everynoise.com/artistprofile.html?id=4QCflfSOonkybNw5D7GqGk",
+      "id": "4QCflfSOonkybNw5D7GqGk"
+    },
+    {
+      "artistName": "Rob Halford",
+      "positioning": {
+        "top": 171,
+        "left": 308
+      },
+      "style": {
+        "color": "#dd5934",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0581f8db825ecd93e3233ec58ec8dc0445ed090f",
+        "title": "e.g. Rob Halford \"Man On The Silver Mountain - feat. Doug Aldrich, Vinny Appice, Jeff Pilson, Scott Warren\"",
+        "trackId": "4FH1Xczg04pWfW6X7AWC4e"
+      },
+      "elementId": "item198",
+      "href": "https://everynoise.com/artistprofile.html?id=7CTjkl9M3enzBBfm1u10Sy",
+      "id": "7CTjkl9M3enzBBfm1u10Sy"
+    },
+    {
+      "artistName": "Ronnie James Dio",
+      "positioning": {
+        "top": 503,
+        "left": 81
+      },
+      "style": {
+        "color": "#bc720a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7a68252a2e4863489c0e77a406ed04990697c96",
+        "title": "e.g. Ronnie James Dio \"Welcome to My Nightmare\"",
+        "trackId": "7Js7J7KhdjhWMMuASfvFps"
+      },
+      "elementId": "item199",
+      "href": "https://everynoise.com/artistprofile.html?id=4M3c7tg4BzLQ5pIOupZL65",
+      "id": "4M3c7tg4BzLQ5pIOupZL65"
+    },
+    {
+      "artistName": "Slash's Snakepit",
+      "positioning": {
+        "top": 699,
+        "left": 289
+      },
+      "style": {
+        "color": "#e75e19",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eaacc8b2ba7ceb6c5d14a14ce732583174d67b20",
+        "title": "e.g. Slash's Snakepit \"Beggars & Hangers-On\"",
+        "trackId": "67wiIvRCnoDwUYc54k614B"
+      },
+      "elementId": "item200",
+      "href": "https://everynoise.com/artistprofile.html?id=4Ros83hWMCi68biw25Xyxg",
+      "id": "4Ros83hWMCi68biw25Xyxg"
+    },
+    {
+      "artistName": "Armored Saint",
+      "positioning": {
+        "top": 568,
+        "left": 545
+      },
+      "style": {
+        "color": "#c84b09",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5084004f09a3e6bc6a375587503b7c875deade2d",
+        "title": "e.g. Armored Saint \"Can U Deliver\"",
+        "trackId": "25kORdST1xzG4WXOnzJCKV"
+      },
+      "elementId": "item201",
+      "href": "https://everynoise.com/artistprofile.html?id=4ug41UGuMZzlV2hJOrOqHN",
+      "id": "4ug41UGuMZzlV2hJOrOqHN"
+    },
+    {
+      "artistName": "Gun",
+      "positioning": {
+        "top": 215,
+        "left": 379
+      },
+      "style": {
+        "color": "#d16406",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cf1987baa0720b81a43e2d61bcfe4b3aeda31da",
+        "title": "e.g. Gun \"Word Up - Radio Mix\"",
+        "trackId": "17CWwbHJ2ThM5MXj90ObrS"
+      },
+      "elementId": "item202",
+      "href": "https://everynoise.com/artistprofile.html?id=1dip2dCkBIylIFyDfZQfFu",
+      "id": "1dip2dCkBIylIFyDfZQfFu"
+    },
+    {
+      "artistName": "McAuley Schenker Group",
+      "positioning": {
+        "top": 395,
+        "left": 588
+      },
+      "style": {
+        "color": "#b6610e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/265317bea9c7ab2459651b4992bc8fe178860133",
+        "title": "e.g. McAuley Schenker Group \"When I'm Gone\"",
+        "trackId": "66jTfbDdDYnV6fvb85WU25"
+      },
+      "elementId": "item203",
+      "href": "https://everynoise.com/artistprofile.html?id=3LbJq0qQ5XCk2ocAPfRxJz",
+      "id": "3LbJq0qQ5XCk2ocAPfRxJz"
+    },
+    {
+      "artistName": "Heaven & Hell",
+      "positioning": {
+        "top": 597,
+        "left": 0
+      },
+      "style": {
+        "color": "#e05b1b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/405c76367f260ad9601af2258ede1b2a2d7d8b5d",
+        "title": "e.g. Heaven & Hell \"Bible Black\"",
+        "trackId": "16QnLXMeLa6EMBM7qxnI6t"
+      },
+      "elementId": "item204",
+      "href": "https://everynoise.com/artistprofile.html?id=4UjiBRkTw9VmvDZiJZKPJ7",
+      "id": "4UjiBRkTw9VmvDZiJZKPJ7"
+    },
+    {
+      "artistName": "John Norum",
+      "positioning": {
+        "top": 412,
+        "left": 133
+      },
+      "style": {
+        "color": "#db5a11",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25ce6abde9f6cc2221ccb115d19bdf29f60338fb",
+        "title": "e.g. John Norum \"Love Is Meant To Last Forever\"",
+        "trackId": "6VDU20sXqcRD8VsT0vb52j"
+      },
+      "elementId": "item205",
+      "href": "https://everynoise.com/artistprofile.html?id=6bLPZMOlLH9wiaQ0kO5nZh",
+      "id": "6bLPZMOlLH9wiaQ0kO5nZh"
+    },
+    {
+      "artistName": "Vandenberg",
+      "positioning": {
+        "top": 313,
+        "left": 673
+      },
+      "style": {
+        "color": "#be661e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e8848272ac9719e158acbf7222d109810e7bb7a6",
+        "title": "e.g. Vandenberg \"Burning Heart\"",
+        "trackId": "6mVJRgyXJ3eAy6EViECJyW"
+      },
+      "elementId": "item206",
+      "href": "https://everynoise.com/artistprofile.html?id=3hAv15rFpsTe7zteKhhJTx",
+      "id": "3hAv15rFpsTe7zteKhhJTx"
+    },
+    {
+      "artistName": "Ritchie Blackmore's Rainbow",
+      "positioning": {
+        "top": 805,
+        "left": 275
+      },
+      "style": {
+        "color": "#d7593e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0726fac559af956c9320f1697e329c4fc5aa54fb",
+        "title": "e.g. Ritchie Blackmore's Rainbow \"Ariel\"",
+        "trackId": "5eZYcLDW3BDsJwbY0zilU2"
+      },
+      "elementId": "item207",
+      "href": "https://everynoise.com/artistprofile.html?id=7yMqxge3rOuzpKVIoSQToG",
+      "id": "7yMqxge3rOuzpKVIoSQToG"
+    },
+    {
+      "artistName": "Glenn Hughes",
+      "positioning": {
+        "top": 738,
+        "left": 583
+      },
+      "style": {
+        "color": "#c06814",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25d8a207a687ac66a9c7e0962985517009ffce9e",
+        "title": "e.g. Glenn Hughes \"Catch the Rainbow - feat. Craig Goldy, Rudy Sarzo, Scott Warren, Simon Wright\"",
+        "trackId": "0R5jrV2Pi0SLaED6ih5jB0"
+      },
+      "elementId": "item208",
+      "href": "https://everynoise.com/artistprofile.html?id=50FDiYHYqGJkaCuK4JhAYw",
+      "id": "50FDiYHYqGJkaCuK4JhAYw"
+    },
+    {
+      "artistName": "Alcatrazz",
+      "positioning": {
+        "top": 559,
+        "left": 360
+      },
+      "style": {
+        "color": "#c95833",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fdeae7aed57ea67f1c7626ef46de34d3060b473c",
+        "title": "e.g. Alcatrazz \"God Blessed Video\"",
+        "trackId": "2nsrALjWaiP5WqyzIkJlHe"
+      },
+      "elementId": "item209",
+      "href": "https://everynoise.com/artistprofile.html?id=1LLiPRA3oThhxVf7W7gXQZ",
+      "id": "1LLiPRA3oThhxVf7W7gXQZ"
+    },
+    {
+      "artistName": "Sebastian Bach",
+      "positioning": {
+        "top": 389,
+        "left": 147
+      },
+      "style": {
+        "color": "#e15f2d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddb1d645080a8a9084fbfe04a8332a6825d1286d",
+        "title": "e.g. Sebastian Bach \"By Your Side\"",
+        "trackId": "5LK19eRCqoKuRSVuUEhEKh"
+      },
+      "elementId": "item210",
+      "href": "https://everynoise.com/artistprofile.html?id=2D2svlzUpyTfcEEq0t3dgV",
+      "id": "2D2svlzUpyTfcEEq0t3dgV"
+    },
+    {
+      "artistName": "Joe Lynn Turner",
+      "positioning": {
+        "top": 447,
+        "left": 479
+      },
+      "style": {
+        "color": "#cb6505",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4177475ff957a97f93f5311c92642df3b0f94fa0",
+        "title": "e.g. Joe Lynn Turner \"Back in Black\"",
+        "trackId": "5UUQSKiN8q3qWfAAqzLuKj"
+      },
+      "elementId": "item211",
+      "href": "https://everynoise.com/artistprofile.html?id=2RRsSauHi9EYx8AUmJMwkL",
+      "id": "2RRsSauHi9EYx8AUmJMwkL"
+    },
+    {
+      "artistName": "Fight",
+      "positioning": {
+        "top": 280,
+        "left": 607
+      },
+      "style": {
+        "color": "#d26568",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cbee65860fb17a871065a772d268c6b9cfcb5c31",
+        "title": "e.g. Fight \"Into The Pit\"",
+        "trackId": "5HqTARBK9m17pKhSepOuu4"
+      },
+      "elementId": "item212",
+      "href": "https://everynoise.com/artistprofile.html?id=1o3JGBwBOZeHlL0BOAhD9t",
+      "id": "1o3JGBwBOZeHlL0BOAhD9t"
+    },
+    {
+      "artistName": "House Of Lords",
+      "positioning": {
+        "top": 240,
+        "left": 251
+      },
+      "style": {
+        "color": "#cd6907",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c8b81c6e43ec467d7644b6869ada28500ab376bf",
+        "title": "e.g. House Of Lords \"Can’t Find My Way Home\"",
+        "trackId": "2JQAsJ6rBSwOex7GPnkfSw"
+      },
+      "elementId": "item213",
+      "href": "https://everynoise.com/artistprofile.html?id=0iu8uY2sqeWpiwxcdwOonn",
+      "id": "0iu8uY2sqeWpiwxcdwOonn"
+    },
+    {
+      "artistName": "Blue Murder",
+      "positioning": {
+        "top": 530,
+        "left": 38
+      },
+      "style": {
+        "color": "#d5470b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/857ddd8824ff5b489899df4d3633b15d1f9ca73e",
+        "title": "e.g. Blue Murder \"Jelly Roll\"",
+        "trackId": "72l70Nix3AIJ9XBAljgeR1"
+      },
+      "elementId": "item214",
+      "href": "https://everynoise.com/artistprofile.html?id=7IzaAmbUsyOJsAIhZGUKR1",
+      "id": "7IzaAmbUsyOJsAIhZGUKR1"
+    },
+    {
+      "artistName": "Elf",
+      "positioning": {
+        "top": 900,
+        "left": 777
+      },
+      "style": {
+        "color": "#7c8463",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/79eb8c95c25d8ab0b3db4cef5ded35b01516767a",
+        "title": "e.g. Elf \"Never More\"",
+        "trackId": "0fD5jhjdUKRGrEdSrM4L0S"
+      },
+      "elementId": "item215",
+      "href": "https://everynoise.com/artistprofile.html?id=3RYdggbT5C9r4BsljokJ1Q",
+      "id": "3RYdggbT5C9r4BsljokJ1Q"
+    },
+    {
+      "artistName": "Vinnie Vincent Invasion",
+      "positioning": {
+        "top": 377,
+        "left": 161
+      },
+      "style": {
+        "color": "#db5a12",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98571900be7ef41e9a22b0733d6a4555b709419d",
+        "title": "e.g. Vinnie Vincent Invasion \"That Time Of Year - Remastered\"",
+        "trackId": "6NE7XZ0uGYY2NTWsutEMgH"
+      },
+      "elementId": "item216",
+      "href": "https://everynoise.com/artistprofile.html?id=3ZUP9QmHAppM2vfpknkvIF",
+      "id": "3ZUP9QmHAppM2vfpknkvIF"
+    },
+    {
+      "artistName": "Jeff Scott Soto",
+      "positioning": {
+        "top": 319,
+        "left": 403
+      },
+      "style": {
+        "color": "#d8600d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/723a1c7696f92c2f6c21b5b27b4a9f3d300a1a7b",
+        "title": "e.g. Jeff Scott Soto \"Encore: Stand Up\"",
+        "trackId": "3IQlBj5P3QunSHUxN0YbQV"
+      },
+      "elementId": "item217",
+      "href": "https://everynoise.com/artistprofile.html?id=7afXgYjtXG2zD69Asm5q1Z",
+      "id": "7afXgYjtXG2zD69Asm5q1Z"
+    },
+    {
+      "artistName": "Izzy Stradlin And The Ju Ju Hounds",
+      "positioning": {
+        "top": 467,
+        "left": 924
+      },
+      "style": {
+        "color": "#bf7225",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c7b3d8534b6e7231a1f8d165162a9fc02682691",
+        "title": "e.g. Izzy Stradlin And The Ju Ju Hounds \"Shuffle It All\"",
+        "trackId": "2a8RVoWJUicF6nwBaiBYIB"
+      },
+      "elementId": "item218",
+      "href": "https://everynoise.com/artistprofile.html?id=2YYSU2AADFjDtqz6gFGDkC",
+      "id": "2YYSU2AADFjDtqz6gFGDkC"
+    },
+    {
+      "artistName": "Michael Schenker",
+      "positioning": {
+        "top": 593,
+        "left": 370
+      },
+      "style": {
+        "color": "#d65e45",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7a1d3eac3f784f4795b8b4fb3d737d47f28d4aef",
+        "title": "e.g. Michael Schenker \"Holiday - Live Version\"",
+        "trackId": "0D7VH6Ir2PQtDKE8iTeFob"
+      },
+      "elementId": "item219",
+      "href": "https://everynoise.com/artistprofile.html?id=0W36oDVidsOqEIAKUJV4dY",
+      "id": "0W36oDVidsOqEIAKUJV4dY"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=hard%20rock"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/0yw5Q26eYIvaBediIFrYwN"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2Agm87UHIpK2uSmDKOVtB1"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4K6wuTyqe6jBQGkOzY1DE7"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4PWrr4D2XHMewvDWLVcI5I"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=hard%20rock"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "glam metal",
+      "positioning": {
+        "top": 83,
+        "left": 71
+      },
+      "style": {
+        "color": "#ca6117",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f807207569139ef31109694ef0d008e3ff7936e4",
+        "title": "e.g. Faster Pussycat \"House of Pain\"",
+        "trackId": "46Qy1xAr2K7rylRYwdQ6Gw"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-glammetal.html#tunnel"
+    },
+    {
+      "genreName": "album rock",
+      "positioning": {
+        "top": 158,
+        "left": 170
+      },
+      "style": {
+        "color": "#ae7119",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e8704349932ecb754e3c03cdf3b1563309627a0",
+        "title": "e.g. Boston \"More Than a Feeling\"",
+        "trackId": "1QEEqeFIZktqIpPI4jSVSF"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-albumrock.html#tunnel"
+    },
+    {
+      "genreName": "classic rock",
+      "positioning": {
+        "top": 254,
+        "left": 243
+      },
+      "style": {
+        "color": "#9a7917",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c1f5377ae30c65577835dce021c23bcf198591f",
+        "title": "e.g. Steppenwolf \"Born To Be Wild\"",
+        "trackId": "63OFKbMaZSDZ4wtesuuq6f"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-classicrock.html#tunnel"
+    },
+    {
+      "genreName": "rock",
+      "positioning": {
+        "top": 187,
+        "left": 208
+      },
+      "style": {
+        "color": "#ac7119",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5efbed38649f0676181dc6bb6e3c8644925726e",
+        "title": "e.g. Black Sabbath \"Paranoid - 2012 - Remaster\"",
+        "trackId": "1Y373MqadDRtclJNdnUXVc"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-rock.html#tunnel"
+    },
+    {
+      "genreName": "metal",
+      "positioning": {
+        "top": 103,
+        "left": 7
+      },
+      "style": {
+        "color": "#dc4e3c",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2121bedf135b44a9f49cce6f4c8b003959c16826",
+        "title": "e.g. King Diamond \"Abigail - Reissue\"",
+        "trackId": "27jgTMFbx4HZhwVVpK0tOC"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-metal.html#tunnel"
+    },
+    {
+      "genreName": "mellow gold",
+      "positioning": {
+        "top": 241,
+        "left": 233
+      },
+      "style": {
+        "color": "#8e820e",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/64de489763e2f6f83f1ea86152f322656fc494b6",
+        "title": "e.g. Carly Simon \"You're So Vain\"",
+        "trackId": "2DnJjbjNTV9Nd5NOa1KGba"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-mellowgold.html#tunnel"
+    },
+    {
+      "genreName": "heartland rock",
+      "positioning": {
+        "top": 202,
+        "left": 196
+      },
+      "style": {
+        "color": "#a17a10",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b03b592db51b8b06e0b04b538630912849195a14",
+        "title": "e.g. John Mellencamp \"Jack & Diane\"",
+        "trackId": "43btz2xjMKpcmjkuRsvxyg"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-heartlandrock.html#tunnel"
+    },
+    {
+      "genreName": "soft rock",
+      "positioning": {
+        "top": 174,
+        "left": 237
+      },
+      "style": {
+        "color": "#97800f",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0408c4e5f1d51b6b605429205342fde6930d96ea",
+        "title": "e.g. Kenny Loggins \"Footloose\"",
+        "trackId": "4O4Z8VFczL8MxIOmqVWc1b"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-softrock.html#tunnel"
+    },
+    {
+      "genreName": "blues rock",
+      "positioning": {
+        "top": 320,
+        "left": 300
+      },
+      "style": {
+        "color": "#957723",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8563d016ae70ed290ba446194adbe39f0cbf3cdb",
+        "title": "e.g. Derek & The Dominos \"Layla\"",
+        "trackId": "2kkvB3RNRzwjFdGhaUA0tz"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-bluesrock.html#tunnel"
+    },
+    {
+      "genreName": "speed metal",
+      "positioning": {
+        "top": 69,
+        "left": 0
+      },
+      "style": {
+        "color": "#e24a31",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fef6939070f877d0d6670492eeb2b8ae253ecc1a",
+        "title": "e.g. Metal Church \"Metal Church\"",
+        "trackId": "34LXW73avo8xz0NLiVuiow"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-speedmetal.html#tunnel"
+    },
+    {
+      "genreName": "alternative metal",
+      "positioning": {
+        "top": 30,
+        "left": 64
+      },
+      "style": {
+        "color": "#d65c23",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5efe16cd96fbb2c320332c1ba8f120909db22d21",
+        "title": "e.g. Drowning Pool \"Bodies\"",
+        "trackId": "7CpbhqKUedOIrcvc94p60Y"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-alternativemetal.html#tunnel"
+    },
+    {
+      "genreName": "country rock",
+      "positioning": {
+        "top": 281,
+        "left": 253
+      },
+      "style": {
+        "color": "#878213",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13d49e04b9b549cf258c142773f90c2e457dd392",
+        "title": "e.g. Pure Prairie League \"Amie - Remastered January 1992\"",
+        "trackId": "0jxcw9bsXmHbPUSZqscNai"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-countryrock.html#tunnel"
+    },
+    {
+      "genreName": "thrash metal",
+      "positioning": {
+        "top": 158,
+        "left": 12
+      },
+      "style": {
+        "color": "#e64349",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/018e926df98287b0e47c5d7abcfe0c57fca235dd",
+        "title": "e.g. Nuclear Assault \"Critical Mass\"",
+        "trackId": "4uOq76srFzt94o98QrCVRO"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-thrashmetal.html#tunnel"
+    },
+    {
+      "genreName": "singer-songwriter",
+      "positioning": {
+        "top": 295,
+        "left": 250
+      },
+      "style": {
+        "color": "#7b8813",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a17ed2e1ee8d45a933c4a86dd268ba8f12299a4",
+        "title": "e.g. Paul Simon \"You Can Call Me Al\"",
+        "trackId": "0qxYx4F3vm1AOnfux6dDxP"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-singersongwriter.html#tunnel"
+    },
+    {
+      "genreName": "folk rock",
+      "positioning": {
+        "top": 308,
+        "left": 244
+      },
+      "style": {
+        "color": "#7f860e",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53ab746c37c717c20f793598064b7f720877b646",
+        "title": "e.g. Buffalo Springfield \"For What It's Worth\"",
+        "trackId": "1qRA5BS78u3gME0loMl9AA"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-folkrock.html#tunnel"
+    },
+    {
+      "genreName": "nu metal",
+      "positioning": {
+        "top": 0,
+        "left": 82
+      },
+      "style": {
+        "color": "#d75e20",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/902dacc92715211e588270b1f4e62fd3681e218e",
+        "title": "e.g. Mudvayne \"Happy?\"",
+        "trackId": "0INUE1K7cEiE8VH63Rv5RJ"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-numetal.html#tunnel"
+    },
+    {
+      "genreName": "southern rock",
+      "positioning": {
+        "top": 216,
+        "left": 200
+      },
+      "style": {
+        "color": "#ae741d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cce2af85a8eb18fb3799d6e0329b6365e02e1585",
+        "title": "e.g. Rossington Collins Band \"Don't Misunderstand Me\"",
+        "trackId": "7uODrkf1XnlIGMyUSCLbLU"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-southernrock.html#tunnel"
+    },
+    {
+      "genreName": "progressive rock",
+      "positioning": {
+        "top": 228,
+        "left": 127
+      },
+      "style": {
+        "color": "#947e3a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/057d5caf3148d48d357f5cce33f1e01cf1de2a0a",
+        "title": "e.g. Steve Hackett \"Spectral Mornings - Remastered 2005\"",
+        "trackId": "45c7mjTXPfjuaB1QoZfRbx"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-progressiverock.html#tunnel"
+    },
+    {
+      "genreName": "psychedelic rock",
+      "positioning": {
+        "top": 269,
+        "left": 226
+      },
+      "style": {
+        "color": "#917a1f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f39a05b57be781d6f8fe5aaf2c1fa5de56ce45e6",
+        "title": "e.g. Jefferson Airplane \"White Rabbit\"",
+        "trackId": "4vpeKl0vMGdAXpZiQB2Dtd"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-psychedelicrock.html#tunnel"
+    },
+    {
+      "genreName": "old school thrash",
+      "positioning": {
+        "top": 117,
+        "left": 22
+      },
+      "style": {
+        "color": "#e4443e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a0c497784123f075a8a9997aa5d19d5008fa5e97",
+        "title": "e.g. Sadus \"Certain Death\"",
+        "trackId": "6K6bdBIpKj3pL0IrA4b1Kt"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-oldschoolthrash.html#tunnel"
+    }
+  ]
+}
