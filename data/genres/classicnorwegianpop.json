@@ -1,0 +1,2811 @@
+{
+  "schemaVersion": 3,
+  "genreName": "classic norwegian pop",
+  "artists": [
+    {
+      "artistName": "Kurt Nilsen",
+      "positioning": {
+        "top": 363,
+        "left": 177
+      },
+      "style": {
+        "color": "#8f8d00",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76b1f431d614ae1db3c5d0d58657f5e2a003d8b9",
+        "title": "e.g. Kurt Nilsen \"She's So High\"",
+        "trackId": "3Yi21KBstONWGrdjuWszlt"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=49HPMFWsosCuRf810Ay1Vv",
+      "id": "49HPMFWsosCuRf810Ay1Vv"
+    },
+    {
+      "artistName": "Sissel",
+      "positioning": {
+        "top": 745,
+        "left": 100
+      },
+      "style": {
+        "color": "#49a40a",
+        "fontSize": "147%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6aa9d9086ff4535bd6c92c118583ff5efdfe16b4",
+        "title": "e.g. Sissel \"Slow Down\"",
+        "trackId": "0fTIXF5GCFMAu44u3aRBTQ"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=2jaOpr7Go1avixlg1lfJOb",
+      "id": "2jaOpr7Go1avixlg1lfJOb"
+    },
+    {
+      "artistName": "Bjørn Eidsvåg",
+      "positioning": {
+        "top": 451,
+        "left": 821
+      },
+      "style": {
+        "color": "#6c940d",
+        "fontSize": "145%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b0047b8c0ce003ed996347d87f9619e6e97bc06",
+        "title": "e.g. Bjørn Eidsvåg \"Mysteriet deg (feat. Lisa Nilsson)\"",
+        "trackId": "0MGsmLjCtcSye47RvZWhpq"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=11Vny8qHe4KR50ZIjhz7sz",
+      "id": "11Vny8qHe4KR50ZIjhz7sz"
+    },
+    {
+      "artistName": "Helene Bøksle",
+      "positioning": {
+        "top": 802,
+        "left": 155
+      },
+      "style": {
+        "color": "#3ba912",
+        "fontSize": "145%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae49acbd0bce7f0ea39d6776d9f00caae73e6c6d",
+        "title": "e.g. Helene Bøksle \"Trollmors vuggevise\"",
+        "trackId": "7oS55PwBhk3obDbhAzAFXJ"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=78gOgvMoKp4Zz3gnnEyLYT",
+      "id": "78gOgvMoKp4Zz3gnnEyLYT"
+    },
+    {
+      "artistName": "Vazelina Bilopphøggers",
+      "positioning": {
+        "top": 455,
+        "left": 1006
+      },
+      "style": {
+        "color": "#9e7e09",
+        "fontSize": "139%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2505896b909d0c804ad0d31a01ad9094a439e4fe",
+        "title": "e.g. Vazelina Bilopphøggers \"Surfbrett\"",
+        "trackId": "79FeaNieJJPz1AiG2hYf4J"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=4FC10Nffya2LWWVBfrw0gr",
+      "id": "4FC10Nffya2LWWVBfrw0gr"
+    },
+    {
+      "artistName": "Hanne Krogh",
+      "positioning": {
+        "top": 601,
+        "left": 592
+      },
+      "style": {
+        "color": "#699803",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/79cff9c84dd6b86c68d31f8778e14b5f9bc249a0",
+        "title": "e.g. Hanne Krogh \"Hompetitten\"",
+        "trackId": "1r3grdWzI4CsEz0QHj0nx5"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=3uVksNHrN6QwS2m0wzqkWY",
+      "id": "3uVksNHrN6QwS2m0wzqkWY"
+    },
+    {
+      "artistName": "Postgirobygget",
+      "positioning": {
+        "top": 107,
+        "left": 547
+      },
+      "style": {
+        "color": "#a38d02",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84cc0380a7f6cad9e65c6760b2c1e2af0e61d107",
+        "title": "e.g. Postgirobygget \"Idyll\"",
+        "trackId": "6ZB1dFgdUW6I9qzW7Oap6o"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=3DdqT0OIZY3arBWnZ3NJeb",
+      "id": "3DdqT0OIZY3arBWnZ3NJeb"
+    },
+    {
+      "artistName": "CC Cowboys",
+      "positioning": {
+        "top": 244,
+        "left": 225
+      },
+      "style": {
+        "color": "#a78203",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0854e9b3da2bc1ff3ddf4b90f147563409193da6",
+        "title": "e.g. CC Cowboys \"Vill, Vakker & Våt\"",
+        "trackId": "0f78flK99LqerP7kQgDT1L"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=1FKCRRhfazT8IjGqy9QT1X",
+      "id": "1FKCRRhfazT8IjGqy9QT1X"
+    },
+    {
+      "artistName": "Åge Aleksandersen",
+      "positioning": {
+        "top": 328,
+        "left": 488
+      },
+      "style": {
+        "color": "#8a8e0b",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76aeef43b1f16a5b30ce522af1bf6feab86eb738",
+        "title": "e.g. Åge Aleksandersen \"Levva Livet\"",
+        "trackId": "56C8jz11WNH1PM677aq6ez"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=08H8B226x5IRKwbm8TD8bz",
+      "id": "08H8B226x5IRKwbm8TD8bz"
+    },
+    {
+      "artistName": "Ole Ivars",
+      "positioning": {
+        "top": 365,
+        "left": 518
+      },
+      "style": {
+        "color": "#b0871c",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8160dd870e8dd035b3898623c0e285d997cc33fd",
+        "title": "e.g. Ole Ivars \"Jag trodde änglarna fanns\"",
+        "trackId": "64oHVnVsMxtKyhJ8zpj4QU"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=7dKfUD97BylRps6PXuEJy6",
+      "id": "7dKfUD97BylRps6PXuEJy6"
+    },
+    {
+      "artistName": "Rune Rudberg",
+      "positioning": {
+        "top": 65,
+        "left": 529
+      },
+      "style": {
+        "color": "#b88100",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a478bd186b282e792bc24d4cc3bb6fc87c9ef5e",
+        "title": "e.g. Rune Rudberg \"Ut mot havet\"",
+        "trackId": "5JsQ1vHwGkiJqi73JAiXzW"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=5vViCpDnSSDRHtSmFhrKfY",
+      "id": "5vViCpDnSSDRHtSmFhrKfY"
+    },
+    {
+      "artistName": "Vamp",
+      "positioning": {
+        "top": 576,
+        "left": 458
+      },
+      "style": {
+        "color": "#6e960b",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f745f2bca88bf7810a60676fe11aecbde398e2f",
+        "title": "e.g. Vamp \"Tir n'a Noir\"",
+        "trackId": "34OsKR8YdiZol46Ny1bjjA"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=5kOdtYNbevIlgUOQkhASnk",
+      "id": "5kOdtYNbevIlgUOQkhASnk"
+    },
+    {
+      "artistName": "Jahn Teigen",
+      "positioning": {
+        "top": 382,
+        "left": 507
+      },
+      "style": {
+        "color": "#818f08",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71912e5ece18d1c828386be11c0f933b7ca58260",
+        "title": "e.g. Jahn Teigen \"Optimist - 2009 Remastered Version\"",
+        "trackId": "7eetS2lIMnmFCVl08IxwB7"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=5cXcR0GGNQaGae9lyQOh3W",
+      "id": "5cXcR0GGNQaGae9lyQOh3W"
+    },
+    {
+      "artistName": "Sigvart Dagsland",
+      "positioning": {
+        "top": 566,
+        "left": 536
+      },
+      "style": {
+        "color": "#579b04",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/431fe4c83425f178dc49e80bcb17a04867697dd2",
+        "title": "e.g. Sigvart Dagsland \"Ka e du redd for\"",
+        "trackId": "4QkGXxYBifaayHWGkQyLPp"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=29L5k8hE8bAaRJpj13SmyA",
+      "id": "29L5k8hE8bAaRJpj13SmyA"
+    },
+    {
+      "artistName": "Di Derre",
+      "positioning": {
+        "top": 273,
+        "left": 536
+      },
+      "style": {
+        "color": "#9c8c01",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c0591f015d6771fec9efdb4741ef1a08727e9e0c",
+        "title": "e.g. Di Derre \"Jenter\"",
+        "trackId": "6SOmLQXDnvZhOHoQQue50V"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=3xhyJwgAUGZSE162fJXRJY",
+      "id": "3xhyJwgAUGZSE162fJXRJY"
+    },
+    {
+      "artistName": "Henning Kvitnes",
+      "positioning": {
+        "top": 350,
+        "left": 569
+      },
+      "style": {
+        "color": "#809403",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f044a3ebb179b8d2e5bf1012882c3ab2445c94b1",
+        "title": "e.g. Henning Kvitnes \"Sånne som oss\"",
+        "trackId": "4TA5TCoPBr2R3wfwxI9L5b"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=2OCfkmVQCpJdqe4GfhXpF6",
+      "id": "2OCfkmVQCpJdqe4GfhXpF6"
+    },
+    {
+      "artistName": "Maj Britt Andersen",
+      "positioning": {
+        "top": 663,
+        "left": 950
+      },
+      "style": {
+        "color": "#479c04",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7a9574dd049ee5fb0fe9bb22af640a4eb410e4a",
+        "title": "e.g. Maj Britt Andersen \"Sov Godt\"",
+        "trackId": "1MipLzuj6r6ZRMWDNKs548"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=2bIqrsdC6t8Ps4AcBp2rAP",
+      "id": "2bIqrsdC6t8Ps4AcBp2rAP"
+    },
+    {
+      "artistName": "Alf Prøysen",
+      "positioning": {
+        "top": 848,
+        "left": 1396
+      },
+      "style": {
+        "color": "#369f0c",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/64d4516dec6ca684232c106d1c239d715fff5faa",
+        "title": "e.g. Alf Prøysen \"Romjulsdrøm\"",
+        "trackId": "1vc6XPvpXjAlwwIL2xgMnf"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=0AU8XFChFl8AUPo5jExFlF",
+      "id": "0AU8XFChFl8AUPo5jExFlF"
+    },
+    {
+      "artistName": "deLillos",
+      "positioning": {
+        "top": 398,
+        "left": 606
+      },
+      "style": {
+        "color": "#8c8d07",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e6659659c1cc8c84bada5ccd4010a87d9487194",
+        "title": "e.g. deLillos \"Smak av honning\"",
+        "trackId": "2fpzKuNv8J1H0LOgE275oG"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=5gsErkGsLeCYCSK0Pxj01N",
+      "id": "5gsErkGsLeCYCSK0Pxj01N"
+    },
+    {
+      "artistName": "Per Asplin",
+      "positioning": {
+        "top": 633,
+        "left": 1243
+      },
+      "style": {
+        "color": "#6f8b04",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e42e9f5f9d7c1acee98d9ceb44a170e9b32ef2f",
+        "title": "e.g. Per Asplin \"Sjørøvervisa\"",
+        "trackId": "0iNP27Ua6yognIJyz6xc7q"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=2x1VxHvuFyCJDxASGljQhr",
+      "id": "2x1VxHvuFyCJDxASGljQhr"
+    },
+    {
+      "artistName": "Maria Haukaas Mittet",
+      "positioning": {
+        "top": 647,
+        "left": 499
+      },
+      "style": {
+        "color": "#4e9e03",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/488388c5c966148425cef3400343fe31cdac555a",
+        "title": "e.g. Maria Haukaas Mittet \"Har en drøm\"",
+        "trackId": "2oIKplgkRSzFXKsFgrBwjz"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=4Gej6q6wCKccBidZF9lB5B",
+      "id": "4Gej6q6wCKccBidZF9lB5B"
+    },
+    {
+      "artistName": "Øystein Sunde",
+      "positioning": {
+        "top": 519,
+        "left": 1250
+      },
+      "style": {
+        "color": "#978725",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa2b70397be0ab4ec453b225b3b0006133c4357e",
+        "title": "e.g. Øystein Sunde \"Campingvogna\"",
+        "trackId": "0LHGoF3gW2lRxFDyAgeJ9w"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2Tb1NWMeHK8NrL1at6Jxfp",
+      "id": "2Tb1NWMeHK8NrL1at6Jxfp"
+    },
+    {
+      "artistName": "Anne Grete Preus",
+      "positioning": {
+        "top": 425,
+        "left": 473
+      },
+      "style": {
+        "color": "#799609",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c598c6e1754a9f85c1e138baea99cdba6aeefab",
+        "title": "e.g. Anne Grete Preus \"Når himmelen faller ned\"",
+        "trackId": "5aasUgkPxYhqKcxmNLotmH"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=32mTrXKr7W8Tg4hH4S2Do1",
+      "id": "32mTrXKr7W8Tg4hH4S2Do1"
+    },
+    {
+      "artistName": "Knutsen & Ludvigsen",
+      "positioning": {
+        "top": 504,
+        "left": 1220
+      },
+      "style": {
+        "color": "#818d08",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f9195c78b4684185c17b4958bcd33e7ae222e5a",
+        "title": "e.g. Knutsen & Ludvigsen \"Dum og deilig\"",
+        "trackId": "4mhDjLuXWYYb8dDUy08u04"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=1OTNNdgU6qLUTCwvJxcObX",
+      "id": "1OTNNdgU6qLUTCwvJxcObX"
+    },
+    {
+      "artistName": "Karoline Krüger",
+      "positioning": {
+        "top": 663,
+        "left": 569
+      },
+      "style": {
+        "color": "#4ba108",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6050c26f2426980c07648009dd897cfdaa3a7064",
+        "title": "e.g. Karoline Krüger \"Eg glemmer deg aldri\"",
+        "trackId": "279flpCzpqsmtPS2bGj0Ie"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2Y2lJvGNGi4b2Bnikx4Onm",
+      "id": "2Y2lJvGNGi4b2Bnikx4Onm"
+    },
+    {
+      "artistName": "Espen Lind",
+      "positioning": {
+        "top": 380,
+        "left": 336
+      },
+      "style": {
+        "color": "#899105",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f9c3062924dd88cc4706900b886c76c13eee7ff",
+        "title": "e.g. Espen Lind \"When Susannah Cries\"",
+        "trackId": "3ZPhnsk7LPDPVbhyUP7VoT"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=1N5566ZYn9C7qtdIlEeHM8",
+      "id": "1N5566ZYn9C7qtdIlEeHM8"
+    },
+    {
+      "artistName": "Gaute Ormåsen",
+      "positioning": {
+        "top": 146,
+        "left": 503
+      },
+      "style": {
+        "color": "#91910f",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2dc4ee6b4d50d4b16d683f3d09c29a7d2e5c6277",
+        "title": "e.g. Gaute Ormåsen \"Kjærlighet er mer enn forelskelse\"",
+        "trackId": "2imlqNmoy1zcIritIyMSYu"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=3G9sihtaNxkYD1zddHXRYS",
+      "id": "3G9sihtaNxkYD1zddHXRYS"
+    },
+    {
+      "artistName": "Finn Kalvik",
+      "positioning": {
+        "top": 446,
+        "left": 610
+      },
+      "style": {
+        "color": "#6d9d06",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5051d7f2d1cd49f57b70a1e1f74606c0ce6c0cb1",
+        "title": "e.g. Finn Kalvik \"Trøstevise (Tröstevisa)\"",
+        "trackId": "05MxJsc8F0G2u3IIz6g0b2"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=4t5H7BynY6Et5nbYwjU3an",
+      "id": "4t5H7BynY6Et5nbYwjU3an"
+    },
+    {
+      "artistName": "Morten Abel",
+      "positioning": {
+        "top": 90,
+        "left": 655
+      },
+      "style": {
+        "color": "#b28405",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f69d220d9586be3b0992002ad93b934525b3fe48",
+        "title": "e.g. Morten Abel \"Hodet over vannet (feat. Prepple Houmb)\"",
+        "trackId": "6lPQZ2vMgtgvUGWoTuxVbs"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=60r4k4LiRa6wLr39Fc8Nrh",
+      "id": "60r4k4LiRa6wLr39Fc8Nrh"
+    },
+    {
+      "artistName": "Marius Müller",
+      "positioning": {
+        "top": 248,
+        "left": 699
+      },
+      "style": {
+        "color": "#a17719",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ae0977b2728f8e0156bfcb477cbc05dcecc0596",
+        "title": "e.g. Marius Müller \"Den du veit\"",
+        "trackId": "0oGPYMA6yzDRZuIHtPQh8o"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1OTaBuXugWLvNjcET47KP5",
+      "id": "1OTaBuXugWLvNjcET47KP5"
+    },
+    {
+      "artistName": "Alejandro Fuentes",
+      "positioning": {
+        "top": 313,
+        "left": 562
+      },
+      "style": {
+        "color": "#8d9202",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/372fe6f90c0816559184b94b9e33e630cd53d705",
+        "title": "e.g. Alejandro Fuentes \"Encore\"",
+        "trackId": "40jh13KMMgFSSZtHgCRv7R"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=43uURL7UXIZoVIsTTrLe7d",
+      "id": "43uURL7UXIZoVIsTTrLe7d"
+    },
+    {
+      "artistName": "Lillebjørn Nilsen",
+      "positioning": {
+        "top": 708,
+        "left": 998
+      },
+      "style": {
+        "color": "#5f9913",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5281568005fb0f2af44942934e795263f3b0080",
+        "title": "e.g. Lillebjørn Nilsen \"Barn Av Regnbuen\"",
+        "trackId": "1Wx4lXhRN6zIjwBEtafifD"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=2cEkdzGxcB731g81iUsH6e",
+      "id": "2cEkdzGxcB731g81iUsH6e"
+    },
+    {
+      "artistName": "Halvdan Sivertsen",
+      "positioning": {
+        "top": 549,
+        "left": 555
+      },
+      "style": {
+        "color": "#709603",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f40023c5a16dc5ddbdf2c6e94d0f8a296851539",
+        "title": "e.g. Halvdan Sivertsen \"Kjærlighetsvisa\"",
+        "trackId": "5RWXXhXRGhw7BHcVdwLpEs"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=4si4vypZaD6Vk7TiHkEXeY",
+      "id": "4si4vypZaD6Vk7TiHkEXeY"
+    },
+    {
+      "artistName": "Wenche Myhre",
+      "positioning": {
+        "top": 587,
+        "left": 880
+      },
+      "style": {
+        "color": "#7e8902",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3bca2c735546403d89197e40851339ebee1b4e06",
+        "title": "e.g. Wenche Myhre \"Gøy På Landet\"",
+        "trackId": "7Iyx6radUV3bR6nGmTI7ml"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=4C3ZoiafZ1vOv09kAKHLSf",
+      "id": "4C3ZoiafZ1vOv09kAKHLSf"
+    },
+    {
+      "artistName": "Trang Fødsel",
+      "positioning": {
+        "top": 267,
+        "left": 791
+      },
+      "style": {
+        "color": "#9c8e00",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c771ab741821b150b2c0b16ca4dc091cfe287d2a",
+        "title": "e.g. Trang Fødsel \"Kursiv\"",
+        "trackId": "2sGawNYAekAlrOYosqyfM9"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=3pOEfaqokP940PuLUoho3l",
+      "id": "3pOEfaqokP940PuLUoho3l"
+    },
+    {
+      "artistName": "Banana Airlines",
+      "positioning": {
+        "top": 241,
+        "left": 1076
+      },
+      "style": {
+        "color": "#c47100",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40dc44cf1bbdc826f5fcbf3df1700e7bec31f173",
+        "title": "e.g. Banana Airlines \"Vadsø\"",
+        "trackId": "5WzQD9p24t4cSDJp1bxKht"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=3xNqIbhrWvAiA9qaB9sF8F",
+      "id": "3xNqIbhrWvAiA9qaB9sF8F"
+    },
+    {
+      "artistName": "Trond-Viggo Torgersen",
+      "positioning": {
+        "top": 579,
+        "left": 1380
+      },
+      "style": {
+        "color": "#7b8b0b",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e769cabe11bc1878ebb9decbc0d05e4bb0db82c0",
+        "title": "e.g. Trond-Viggo Torgersen \"Tenke Sjæl\"",
+        "trackId": "4EKpBqfFYKbxxU1Qdh03Hu"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=71nrP3Yj7QwXoxJWtLJLYP",
+      "id": "71nrP3Yj7QwXoxJWtLJLYP"
+    },
+    {
+      "artistName": "The Kids",
+      "positioning": {
+        "top": 286,
+        "left": 1109
+      },
+      "style": {
+        "color": "#938003",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d97e7e17e02de2c47eae0c3f235931a0d4536d57",
+        "title": "e.g. The Kids \"Hun Er Forelska I Lærer'n\"",
+        "trackId": "2pOkXSq2y8BNkv68b69iHT"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=51D0R6qwxNJ8fo5xNnXfPp",
+      "id": "51D0R6qwxNJ8fo5xNnXfPp"
+    },
+    {
+      "artistName": "Dance With A Stranger",
+      "positioning": {
+        "top": 113,
+        "left": 858
+      },
+      "style": {
+        "color": "#a88503",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/313d7eb0a689ef935415401d24736dd8273719c8",
+        "title": "e.g. Dance With A Stranger \"The Invisible Man\"",
+        "trackId": "4igASrxcGetISPowoXzH1Q"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=71vMRyOhNxfgONPg0Bt33R",
+      "id": "71vMRyOhNxfgONPg0Bt33R"
+    },
+    {
+      "artistName": "Anita Skorgan",
+      "positioning": {
+        "top": 618,
+        "left": 566
+      },
+      "style": {
+        "color": "#559f0c",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/27c77620bd0c56c0d467710a7164f990761fe6f7",
+        "title": "e.g. Anita Skorgan \"Jeg Vil Bygge Meg En Gård\"",
+        "trackId": "0265r9LqyHSRicBonasjlz"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=4dTqh57h7Qc97TWARfoVD4",
+      "id": "4dTqh57h7Qc97TWARfoVD4"
+    },
+    {
+      "artistName": "Elisabeth Andreassen",
+      "positioning": {
+        "top": 510,
+        "left": 244
+      },
+      "style": {
+        "color": "#769a04",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83007a7464a7fc8a2fa2e3067d40de18c0390bf5",
+        "title": "e.g. Elisabeth Andreassen \"Gå nu\"",
+        "trackId": "7yJjxwG9XKVB7ZfbxMigFp"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=6Fn3e6ZtmKtAl9wQ6Y9Fbc",
+      "id": "6Fn3e6ZtmKtAl9wQ6Y9Fbc"
+    },
+    {
+      "artistName": "Jonas Fjeld",
+      "positioning": {
+        "top": 468,
+        "left": 780
+      },
+      "style": {
+        "color": "#778e08",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/855b68b7decbdab1bd964f36733443726a665f89",
+        "title": "e.g. Jonas Fjeld \"Engler i snøen\"",
+        "trackId": "5X7SE3KLKo0L3LA9RcneYb"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=7pocZafsod6agMyzxt90iD",
+      "id": "7pocZafsod6agMyzxt90iD"
+    },
+    {
+      "artistName": "Jørn Hoel",
+      "positioning": {
+        "top": 268,
+        "left": 625
+      },
+      "style": {
+        "color": "#8d9001",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/29485f3bf20b3f12cd369f79323f4880d9583f86",
+        "title": "e.g. Jørn Hoel \"Har En Drøm\"",
+        "trackId": "4gxOSJI3TBLv7YK0h2HO9Q"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=6WGO9mdAxgwVQxui0t98DC",
+      "id": "6WGO9mdAxgwVQxui0t98DC"
+    },
+    {
+      "artistName": "Inger Lise Rypdal",
+      "positioning": {
+        "top": 534,
+        "left": 555
+      },
+      "style": {
+        "color": "#858d07",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f760fbebf92b0a5e6cf30593c2dca12b4e1c695",
+        "title": "e.g. Inger Lise Rypdal \"En Spennende Dag for Josefine\"",
+        "trackId": "6TOeA3fUURRV9hbRd2dpXa"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=1lvXjNoyEprcUc0Cb2N0QH",
+      "id": "1lvXjNoyEprcUc0Cb2N0QH"
+    },
+    {
+      "artistName": "Maria Arredondo",
+      "positioning": {
+        "top": 623,
+        "left": 129
+      },
+      "style": {
+        "color": "#5ea300",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/17dc0ee45d33d3a29fb68cba0eda633aa592fd85",
+        "title": "e.g. Maria Arredondo \"Burning\"",
+        "trackId": "4z6RWhrPRginXHQrUwLEa1"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=17vxx1fQLs6mQ865r9qaNB",
+      "id": "17vxx1fQLs6mQ865r9qaNB"
+    },
+    {
+      "artistName": "Kirsti Sparboe",
+      "positioning": {
+        "top": 650,
+        "left": 725
+      },
+      "style": {
+        "color": "#569803",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/592e9b9218b9103757762d4a6798a89e31a3de9e",
+        "title": "e.g. Kirsti Sparboe \"Ein Student Aus Uppsala\"",
+        "trackId": "0F1uwpAhOfcK0AHkQODdhM"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=2sIuZYabYsCOevwupstDNr",
+      "id": "2sIuZYabYsCOevwupstDNr"
+    },
+    {
+      "artistName": "Bobbysocks",
+      "positioning": {
+        "top": 173,
+        "left": 810
+      },
+      "style": {
+        "color": "#ba6f13",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6eb54947edb579ee9499088d180e812c75e6515d",
+        "title": "e.g. Bobbysocks \"La Det Swinge\"",
+        "trackId": "3IgpWvgCqZjqhsiKwzw1Q7"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=7DNARXXVHkEPeSE1efUqfs",
+      "id": "7DNARXXVHkEPeSE1efUqfs"
+    },
+    {
+      "artistName": "Stein Ove Berg",
+      "positioning": {
+        "top": 579,
+        "left": 725
+      },
+      "style": {
+        "color": "#60a504",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f633bde82e119d523fa1ccfe9f2c9a7ca312255",
+        "title": "e.g. Stein Ove Berg \"Ikke Gråt Om Det Er Vinter Og Det Snør\"",
+        "trackId": "4g0HS364JktkQcjGrZRwn5"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=4xQqR9VPW1ZVvsB4DLxaqY",
+      "id": "4xQqR9VPW1ZVvsB4DLxaqY"
+    },
+    {
+      "artistName": "Tor Endresen",
+      "positioning": {
+        "top": 345,
+        "left": 433
+      },
+      "style": {
+        "color": "#968f00",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0dbd5ad50d41f20d049c113b251d85bacb622f30",
+        "title": "e.g. Tor Endresen \"Ingen Er Så Nydelig Som Du\"",
+        "trackId": "0HUq3sfQ2Ge3FVMzOk6PPB"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=3JS43Ai7WHUajLPtWxd8JW",
+      "id": "3JS43Ai7WHUajLPtWxd8JW"
+    },
+    {
+      "artistName": "Geirr Lystrup",
+      "positioning": {
+        "top": 692,
+        "left": 965
+      },
+      "style": {
+        "color": "#499d13",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06e6a0a6b5c18acb5dccaa0d9c5641f89d96d06a",
+        "title": "e.g. Geirr Lystrup \"Blåmann, Blåmann Bukken Min\"",
+        "trackId": "5DJLC4nCUnF4OraiM4Wn2C"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=6PmtaNKvb9C9iM6CFGJ48H",
+      "id": "6PmtaNKvb9C9iM6CFGJ48H"
+    },
+    {
+      "artistName": "Unni Wilhelmsen",
+      "positioning": {
+        "top": 539,
+        "left": 418
+      },
+      "style": {
+        "color": "#699c07",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa4ae564d37a34acb32d96dde90ac7b3e0e5f761",
+        "title": "e.g. Unni Wilhelmsen \"Won't Go Near You Again\"",
+        "trackId": "2kXBQOE3ooLGd7cKgKbfNS"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=4KxwaZDBWJJSk22fmmK3gp",
+      "id": "4KxwaZDBWJJSk22fmmK3gp"
+    },
+    {
+      "artistName": "Herborg Kråkevik",
+      "positioning": {
+        "top": 818,
+        "left": 381
+      },
+      "style": {
+        "color": "#2fa803",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a0d0283acb5970eb8d57a0a0c1269b88bbb02bb7",
+        "title": "e.g. Herborg Kråkevik \"Den Fyrste Song\"",
+        "trackId": "2enwSZWWEhMxCoGaWke2Qe"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=5uvwGfXbw7uUF9JI0KqKK5",
+      "id": "5uvwGfXbw7uUF9JI0KqKK5"
+    },
+    {
+      "artistName": "Rolf Just Nilsen",
+      "positioning": {
+        "top": 812,
+        "left": 1231
+      },
+      "style": {
+        "color": "#5b8d02",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b279420911943189ce11587c903c84483d1829c5",
+        "title": "e.g. Rolf Just Nilsen \"Og Reven Lusket Til Bondens Gård\"",
+        "trackId": "791NCUgmv2qZjmvyrGW2Lx"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=2lNvP5dud4AlChIdEMHHPq",
+      "id": "2lNvP5dud4AlChIdEMHHPq"
+    },
+    {
+      "artistName": "Erik Bye",
+      "positioning": {
+        "top": 852,
+        "left": 814
+      },
+      "style": {
+        "color": "#479d02",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20b8a3bf0839ca65c861f553f8ebcd4138d0e862",
+        "title": "e.g. Erik Bye \"Vår Beste Dag\"",
+        "trackId": "4EtXjwdVdnv4v2glKQBloT"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=1qqBCY3Scz9Ea1mjkCDgaZ",
+      "id": "1qqBCY3Scz9Ea1mjkCDgaZ"
+    },
+    {
+      "artistName": "Bjelleklang",
+      "positioning": {
+        "top": 477,
+        "left": 1381
+      },
+      "style": {
+        "color": "#798400",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e09dc6dd0e71302f839b164d5255c1a64f293dc",
+        "title": "e.g. Bjelleklang \"Gud, Hvor Du Er Deilig\"",
+        "trackId": "7fNSCV5byQqIqCjDqfF5hC"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=1XEGGQH2gTVjp5XNKXHin7",
+      "id": "1XEGGQH2gTVjp5XNKXHin7"
+    },
+    {
+      "artistName": "Tom Mathisen",
+      "positioning": {
+        "top": 461,
+        "left": 1324
+      },
+      "style": {
+        "color": "#817b06",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0825a592200ef898187b924f9e487af6e58acace",
+        "title": "e.g. Tom Mathisen \"Alle fine damer har en stygg venninne\"",
+        "trackId": "2cAy0YVI0GeLcBsxVsojZm"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=4oqBb0u35wt9CNAPqpYiVN",
+      "id": "4oqBb0u35wt9CNAPqpYiVN"
+    },
+    {
+      "artistName": "Christian Ingebrigtsen",
+      "positioning": {
+        "top": 398,
+        "left": 336
+      },
+      "style": {
+        "color": "#7b9c01",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4bbd53825ec33e81d7867e5501e466c1132b8413",
+        "title": "e.g. Christian Ingebrigtsen \"Take back yesterday\"",
+        "trackId": "3FbWOZmVD1RZvHrijNRHpS"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=2rqmyyW0bTclIFX2Ec2AwN",
+      "id": "2rqmyyW0bTclIFX2Ec2AwN"
+    },
+    {
+      "artistName": "Sigmund Groven",
+      "positioning": {
+        "top": 766,
+        "left": 292
+      },
+      "style": {
+        "color": "#29af25",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07135cf5b04bd45114971f39f7927abfe2fc6d29",
+        "title": "e.g. Sigmund Groven \"Reodors Ballade = Reodor`s Ballad\"",
+        "trackId": "6Whpi7bin6fXmGsSxY3R6i"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=35he9yh8ik3SiRr3RnafUT",
+      "id": "35he9yh8ik3SiRr3RnafUT"
+    },
+    {
+      "artistName": "Jarl Goli",
+      "positioning": {
+        "top": 378,
+        "left": 1121
+      },
+      "style": {
+        "color": "#718200",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b749016154cedcb92f899221a19f92936f0665e",
+        "title": "e.g. Jarl Goli \"Hysj, Kan Du Høre\"",
+        "trackId": "0pwqCIWrnoIAiCaSijONSW"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=7s5xlRV8yGHwxkPggVKdN6",
+      "id": "7s5xlRV8yGHwxkPggVKdN6"
+    },
+    {
+      "artistName": "Olav Stedje",
+      "positioning": {
+        "top": 328,
+        "left": 680
+      },
+      "style": {
+        "color": "#7e9a01",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f46c014cf64e9b635ea56cb4ce39768997abf00",
+        "title": "e.g. Olav Stedje \"Vi Vandrar Saman (Eg Følgjer Der Du Går)\"",
+        "trackId": "5b1AEdCpaCSNO8Z3i3SlFV"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=4SM0aaZA4Gky48PLIlqFPA",
+      "id": "4SM0aaZA4Gky48PLIlqFPA"
+    },
+    {
+      "artistName": "Prima Vera",
+      "positioning": {
+        "top": 490,
+        "left": 1195
+      },
+      "style": {
+        "color": "#737b10",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/75faf46f59131abdc87a0dba777000acb21c90cf",
+        "title": "e.g. Prima Vera \"Naboen\"",
+        "trackId": "32kbyOJyhLG7la34r7j2C0"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=3w7i1KMrMHp99fPHKZt62i",
+      "id": "3w7i1KMrMHp99fPHKZt62i"
+    },
+    {
+      "artistName": "Henki Kolstad",
+      "positioning": {
+        "top": 692,
+        "left": 1373
+      },
+      "style": {
+        "color": "#4e8602",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc7358d869e0509cb1e96121fdb476fb7f765d1f",
+        "title": "e.g. Henki Kolstad \"Vi Er Fire Glade Musikanter\"",
+        "trackId": "3JfrRhznqsHy5sVjZp9Dvz"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=1qXsm5HuqipLxOMd2bvyET",
+      "id": "1qXsm5HuqipLxOMd2bvyET"
+    },
+    {
+      "artistName": "Steinar Albrigtsen",
+      "positioning": {
+        "top": 573,
+        "left": 869
+      },
+      "style": {
+        "color": "#6c9815",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/22910281bcc125c32897c95f25caf9e07d922235",
+        "title": "e.g. Steinar Albrigtsen \"Till the morning comes\"",
+        "trackId": "5h4PwCaHYgGh7Y4U55OZdp"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=2qRjrCuBQJqlU8Nwb92kao",
+      "id": "2qRjrCuBQJqlU8Nwb92kao"
+    },
+    {
+      "artistName": "The Monroes",
+      "positioning": {
+        "top": 161,
+        "left": 621
+      },
+      "style": {
+        "color": "#918c00",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9a365a2024add45d01de76e0b68667b240d7af1",
+        "title": "e.g. The Monroes \"Cheerio\"",
+        "trackId": "1Jr9IcDZqYYVMmE853Yc5u"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=5e6KN1XMdBpyWXF4KrSdrx",
+      "id": "5e6KN1XMdBpyWXF4KrSdrx"
+    },
+    {
+      "artistName": "Lynni Treekrem",
+      "positioning": {
+        "top": 559,
+        "left": 828
+      },
+      "style": {
+        "color": "#549f01",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d5ccdf89665c678346769d8dfff07186a57a16eb",
+        "title": "e.g. Lynni Treekrem \"Mexico\"",
+        "trackId": "1OPEgg1RFpKU0eGlIZlzgc"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=15xLwK0kjRDUReNSvQDmNo",
+      "id": "15xLwK0kjRDUReNSvQDmNo"
+    },
+    {
+      "artistName": "Jan Werner",
+      "positioning": {
+        "top": 592,
+        "left": 122
+      },
+      "style": {
+        "color": "#56a103",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47a4c7203e83234ba21648121a30e1e721dbecf8",
+        "title": "e.g. Jan Werner \"Duett\"",
+        "trackId": "2YIOKzGsGdPEVQNjYO8Zra"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=3FWnZPrWcrgqTOHsSeYdDY",
+      "id": "3FWnZPrWcrgqTOHsSeYdDY"
+    },
+    {
+      "artistName": "Arne Bendiksen",
+      "positioning": {
+        "top": 647,
+        "left": 1367
+      },
+      "style": {
+        "color": "#6c9108",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd2a9c0c610deb49df065c5642666b039ca0a2f4",
+        "title": "e.g. Arne Bendiksen \"Jeg Vil Ha En Blå Ballong (Toy Balloons)\"",
+        "trackId": "1y1islZbyRtJgU1xu9X6DH"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=6fGhe3Qmi8YslXHqfzDZ4n",
+      "id": "6fGhe3Qmi8YslXHqfzDZ4n"
+    },
+    {
+      "artistName": "Hanne Sørvaag",
+      "positioning": {
+        "top": 461,
+        "left": 510
+      },
+      "style": {
+        "color": "#64a000",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5188d6fc3bcd0844053008e79d4afb23280244a5",
+        "title": "e.g. Hanne Sørvaag \"God morgen, min kjære\"",
+        "trackId": "2OH6KKq5knX82oly9XgZEY"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=6qFrcxPy2n6NfXZniuEvEH",
+      "id": "6qFrcxPy2n6NfXZniuEvEH"
+    },
+    {
+      "artistName": "Lars Kilevold",
+      "positioning": {
+        "top": 419,
+        "left": 643
+      },
+      "style": {
+        "color": "#739a88",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24d8fff8332c9ce4ebbe7b51b8f5488f87690d2a",
+        "title": "e.g. Lars Kilevold \"Livet er for kjipt\"",
+        "trackId": "26kvblHxXkWe3j4bwyOEfG"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=0B44mME3gqmZrjdLI2sUYT",
+      "id": "0B44mME3gqmZrjdLI2sUYT"
+    },
+    {
+      "artistName": "Praha Filharmoniske Orkester",
+      "positioning": {
+        "top": 307,
+        "left": 322
+      },
+      "style": {
+        "color": "#6ea001",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=4alN8BEQwKGIAp48Z9AXGU",
+      "id": "4alN8BEQwKGIAp48Z9AXGU"
+    },
+    {
+      "artistName": "Unit Five",
+      "positioning": {
+        "top": 365,
+        "left": 784
+      },
+      "style": {
+        "color": "#928b0d",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1a7ff9625a06f80619bb42f74db271f840e2246",
+        "title": "e.g. Unit Five \"Vit at Jeg Elsker Deg\"",
+        "trackId": "4ZatRVbwA8B3ZLbKfbFlI4"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=6T4bZbe7ryJvLwtRmCXqez",
+      "id": "6T4bZbe7ryJvLwtRmCXqez"
+    },
+    {
+      "artistName": "Nora Brockstedt",
+      "positioning": {
+        "top": 747,
+        "left": 851
+      },
+      "style": {
+        "color": "#439c07",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7dbfb4f075d106740309be0b52659d5da695080c",
+        "title": "e.g. Nora Brockstedt \"Voi Voi\"",
+        "trackId": "4tljE9gIKxc5s0Z0VV90VN"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=2qYLKeM0r1cFgpiFm4VtA1",
+      "id": "2qYLKeM0r1cFgpiFm4VtA1"
+    },
+    {
+      "artistName": "Rune Larsen",
+      "positioning": {
+        "top": 521,
+        "left": 544
+      },
+      "style": {
+        "color": "#749602",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54fcb20883b3fe30586479e7bc82466acb8403ad",
+        "title": "e.g. Rune Larsen \"Lollipop\"",
+        "trackId": "7lZKIx0OWDcQP8Uk0ZzKdq"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=5tG0B6BXLwbRZDcMQ3SMcZ",
+      "id": "5tG0B6BXLwbRZDcMQ3SMcZ"
+    },
+    {
+      "artistName": "Eli Rygg",
+      "positioning": {
+        "top": 669,
+        "left": 1231
+      },
+      "style": {
+        "color": "#489502",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a8fdad1bc42416aac2a819a32da8d3fe52e48aeb",
+        "title": "e.g. Eli Rygg \"Morgendagens Søsken\"",
+        "trackId": "5KOklhvI0EDi6EvJNPKeC1"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=3xbxt0Ca9fQFNe5KjHYU2F",
+      "id": "3xbxt0Ca9fQFNe5KjHYU2F"
+    },
+    {
+      "artistName": "Tre Små Kinesere",
+      "positioning": {
+        "top": 254,
+        "left": 551
+      },
+      "style": {
+        "color": "#859605",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/189f9ca9eddbe1abbe581b6ee80f5c8b04ae9540",
+        "title": "e.g. Tre Små Kinesere \"Dørstokkmila\"",
+        "trackId": "0MZQ31wi9L4UyOfjjgV26s"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=6ZKFdIahCPNYqXuISNaosB",
+      "id": "6ZKFdIahCPNYqXuISNaosB"
+    },
+    {
+      "artistName": "Anita Hegerland",
+      "positioning": {
+        "top": 433,
+        "left": 703
+      },
+      "style": {
+        "color": "#878d06",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb332422135fb64a81a4549b5df8f1327863d019",
+        "title": "e.g. Anita Hegerland \"I Bakvendtland\"",
+        "trackId": "2adZHBZR251g2HbovnnQwL"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=43hIlZ3UX4EjCiHijBmDHy",
+      "id": "43hIlZ3UX4EjCiHijBmDHy"
+    },
+    {
+      "artistName": "Didrik Solli-Tangen",
+      "positioning": {
+        "top": 494,
+        "left": 248
+      },
+      "style": {
+        "color": "#639d0d",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96982a76a55d7c4fd5cb0655d5bef96f9900a9fe",
+        "title": "e.g. Didrik Solli-Tangen \"My Heart Is Yours\"",
+        "trackId": "19h3WZDLdrWvltatqsqUOY"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=5AEjuplch66DgYDOtd66Yl",
+      "id": "5AEjuplch66DgYDOtd66Yl"
+    },
+    {
+      "artistName": "Birgit Strøm",
+      "positioning": {
+        "top": 715,
+        "left": 1375
+      },
+      "style": {
+        "color": "#499100",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a7e8de1172d74e03aa2150defd295f922d8f093",
+        "title": "e.g. Birgit Strøm \"Titten Tei André von Drei\"",
+        "trackId": "3RVEJseRyQEXOnAjpLffHV"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=4uc1Y7jgGmhP1h7V5OHZ3q",
+      "id": "4uc1Y7jgGmhP1h7V5OHZ3q"
+    },
+    {
+      "artistName": "Odd Børretzen",
+      "positioning": {
+        "top": 740,
+        "left": 1158
+      },
+      "style": {
+        "color": "#598f12",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5e66ec8f3b5bddc2050653ac11865d3b39d3cd5",
+        "title": "e.g. Odd Børretzen \"Måkene\"",
+        "trackId": "7vIacBjOgLMnabP08xmXEZ"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=4ZO9tkOanByXc1T1ilJeFz",
+      "id": "4ZO9tkOanByXc1T1ilJeFz"
+    },
+    {
+      "artistName": "Lillian Askeland",
+      "positioning": {
+        "top": 495,
+        "left": 525
+      },
+      "style": {
+        "color": "#8d9100",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f9202d950e4d9b3f6adb0458dc38bd295850ded",
+        "title": "e.g. Lillian Askeland \"Nå Er Det Over\"",
+        "trackId": "78ERClEHmLIdq3XnBcZSjL"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=5A9qaH82uDavmjcQOdHT6D",
+      "id": "5A9qaH82uDavmjcQOdHT6D"
+    },
+    {
+      "artistName": "Trine Rein",
+      "positioning": {
+        "top": 293,
+        "left": 481
+      },
+      "style": {
+        "color": "#928f00",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe9d4ed59ff41afb3c8911bdd6c6609800943239",
+        "title": "e.g. Trine Rein \"Just Missed the Train\"",
+        "trackId": "1935k4KOxCPZSdWGF6WkM8"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=7Bwd40OTvJfGOijFJj23j1",
+      "id": "7Bwd40OTvJfGOijFJj23j1"
+    },
+    {
+      "artistName": "Elg",
+      "positioning": {
+        "top": 468,
+        "left": 621
+      },
+      "style": {
+        "color": "#7e8d0d",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bdb436eb41f91b4f9b50d1b115ff27bee7d5705c",
+        "title": "e.g. Elg \"Storm\"",
+        "trackId": "3yHgJWr0jILCC7rNoMoLBv"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=6SolHQzunZ0zNSLpHgX3i5",
+      "id": "6SolHQzunZ0zNSLpHgX3i5"
+    },
+    {
+      "artistName": "Stein Ingebrigtsen",
+      "positioning": {
+        "top": 440,
+        "left": 458
+      },
+      "style": {
+        "color": "#888d05",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6841903c532b20192b223e18d6ed3ae560633715",
+        "title": "e.g. Stein Ingebrigtsen \"Landevei\"",
+        "trackId": "022GjOqDP15fOv7lwbGaI9"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=13YjJIv55yFHwh7Np0uG1M",
+      "id": "13YjJIv55yFHwh7Np0uG1M"
+    },
+    {
+      "artistName": "Arve Tellefsen",
+      "positioning": {
+        "top": 900,
+        "left": 22
+      },
+      "style": {
+        "color": "#29a747",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f33e15f73243d33323e2f1e80d600b254e33c8b5",
+        "title": "e.g. Arve Tellefsen \"Sæterjentens Søndag - The Herdgirls Sunday\"",
+        "trackId": "3hnIp4QjVrWtUDOAK3wwV6"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=2LTSGXLXtf1q9TbH6gJlpG",
+      "id": "2LTSGXLXtf1q9TbH6gJlpG"
+    },
+    {
+      "artistName": "Louis Jacoby",
+      "positioning": {
+        "top": 650,
+        "left": 865
+      },
+      "style": {
+        "color": "#5ca002",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e598415a0662a9bc31eb25c86e96bbbec154368",
+        "title": "e.g. Louis Jacoby \"Hverdag\"",
+        "trackId": "7rdYEDuvP1gm0L6iubZLNP"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=0Gw8vBPKitk5NAMJdU0Gf9",
+      "id": "0Gw8vBPKitk5NAMJdU0Gf9"
+    },
+    {
+      "artistName": "Benny Borg",
+      "positioning": {
+        "top": 613,
+        "left": 762
+      },
+      "style": {
+        "color": "#68940f",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c978aa3db2b0f81346795765e9c53a8c27bc0bc",
+        "title": "e.g. Benny Borg \"God morgen, min kjære\"",
+        "trackId": "5umEvtxcXt8FOguVU8jeKV"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=3eYsDUyn51BM8warjE2uX0",
+      "id": "3eYsDUyn51BM8warjE2uX0"
+    },
+    {
+      "artistName": "Erlend Bratland",
+      "positioning": {
+        "top": 412,
+        "left": 436
+      },
+      "style": {
+        "color": "#5a9d17",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b6edcb586e14b58ccb26811355b8cd152bfca43",
+        "title": "e.g. Erlend Bratland \"Lost\"",
+        "trackId": "5vpuiYLCebdGX2lOq5lzKE"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=205SoxeSjeWJ4gKudojCCk",
+      "id": "205SoxeSjeWJ4gKudojCCk"
+    },
+    {
+      "artistName": "Geir Børresen",
+      "positioning": {
+        "top": 537,
+        "left": 1367
+      },
+      "style": {
+        "color": "#608e09",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42bb1de82521b37a50c4cae874d8b22d1710b37a",
+        "title": "e.g. Geir Børresen \"Smurfe-Sangen\"",
+        "trackId": "4Ru2kLTNoQviKOihM5SuO8"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=13icWJvEQL1vRSsWNLWSLX",
+      "id": "13icWJvEQL1vRSsWNLWSLX"
+    },
+    {
+      "artistName": "New Jordal Swingers",
+      "positioning": {
+        "top": 290,
+        "left": 925
+      },
+      "style": {
+        "color": "#ba7b12",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7fe5e80a08f2ffd2280313a8078e537261b6dd12",
+        "title": "e.g. New Jordal Swingers \"Sea Of Heartbreak\"",
+        "trackId": "7tl4LdrQXSXzr98RD7V6aP"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=7KVOshdFArnWzTvTmTjjWz",
+      "id": "7KVOshdFArnWzTvTmTjjWz"
+    },
+    {
+      "artistName": "Freddy Kristoffersen",
+      "positioning": {
+        "top": 634,
+        "left": 680
+      },
+      "style": {
+        "color": "#699900",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20e6bd20a764bbb1f624126b58d9c66c6230c7d1",
+        "title": "e.g. Freddy Kristoffersen \"Drømmen om Elin\"",
+        "trackId": "4c7hEdDXJbUcE5U3kfTCTR"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=19QF1jcJwKBv6xQqaUbmkv",
+      "id": "19QF1jcJwKBv6xQqaUbmkv"
+    },
+    {
+      "artistName": "Vidar Sandbeck",
+      "positioning": {
+        "top": 832,
+        "left": 1367
+      },
+      "style": {
+        "color": "#37a906",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c9ea48e112bede27cd064bc03395129039b0b67",
+        "title": "e.g. Vidar Sandbeck \"Pengegaloppen\"",
+        "trackId": "7d13Dbb04uEqSimo4zINh7"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=0yCIX9JnPGeF1Apz65YRol",
+      "id": "0yCIX9JnPGeF1Apz65YRol"
+    },
+    {
+      "artistName": "Venke Knutson",
+      "positioning": {
+        "top": 0,
+        "left": 507
+      },
+      "style": {
+        "color": "#ac8b00",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c5c125ae21a72d0f94a47c91e18e66a78660f32",
+        "title": "e.g. Venke Knutson \"When The Stars Go Blue\"",
+        "trackId": "0mEcvxv1Wmx0jN65IJVZSK"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=0xdpOP0PVT7wjIbAP8570F",
+      "id": "0xdpOP0PVT7wjIbAP8570F"
+    },
+    {
+      "artistName": "Trond Granlund",
+      "positioning": {
+        "top": 423,
+        "left": 843
+      },
+      "style": {
+        "color": "#779509",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/294f6a274156d1c183e0d800584a044be6179e46",
+        "title": "e.g. Trond Granlund \"De Nære Ting\"",
+        "trackId": "4qEEVP9zQztdHOAMvUsm1j"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=20iTZJD8KAdzPvcgEZe76R",
+      "id": "20iTZJD8KAdzPvcgEZe76R"
+    },
+    {
+      "artistName": "Jannike Kruse",
+      "positioning": {
+        "top": 734,
+        "left": 762
+      },
+      "style": {
+        "color": "#48a405",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d753ee49280f9f49e34bc277b34f4354f74dbe38",
+        "title": "e.g. Jannike Kruse \"En Elefant Kom Marsjerende...\"",
+        "trackId": "7ajv4JJYmyXB3mAjmS9VNy"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=1m6ijGiwSahiYVG2WMOS3a",
+      "id": "1m6ijGiwSahiYVG2WMOS3a"
+    },
+    {
+      "artistName": "Dizzie Tunes",
+      "positioning": {
+        "top": 644,
+        "left": 984
+      },
+      "style": {
+        "color": "#828406",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3219cc9c7ce43288a7fe3c03830205181583fb7f",
+        "title": "e.g. Dizzie Tunes \"Ra-ta-ta-ta-ta\"",
+        "trackId": "7zi1RY7B2HrOlL1U2rpbTL"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=7nKRIsMvSJh56qxBrAa1eY",
+      "id": "7nKRIsMvSJh56qxBrAa1eY"
+    },
+    {
+      "artistName": "Vidar Lønn-Arnesen",
+      "positioning": {
+        "top": 519,
+        "left": 1087
+      },
+      "style": {
+        "color": "#7e8800",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51c415b4e5ae5d76a89db9d8d181d23c2bc58818",
+        "title": "e.g. Vidar Lønn-Arnesen \"Sjørøvervise (Kaptein Sorte Bill)\"",
+        "trackId": "3oGEWxtC2DxTVEpnPBm81H"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=5hHwGQ5A4rvBbDK90fdRfg",
+      "id": "5hHwGQ5A4rvBbDK90fdRfg"
+    },
+    {
+      "artistName": "Rita Engebretsen",
+      "positioning": {
+        "top": 481,
+        "left": 592
+      },
+      "style": {
+        "color": "#709a02",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/15678ae824d420f03b7f53192ad15ce851aa8d0f",
+        "title": "e.g. Rita Engebretsen \"Tafjordulykken\"",
+        "trackId": "2gHLu2Te3n7ZsOkvlqvSOl"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=2hkw8Vs5eseHro7ugmZrW2",
+      "id": "2hkw8Vs5eseHro7ugmZrW2"
+    },
+    {
+      "artistName": "Viggo Sandvik",
+      "positioning": {
+        "top": 679,
+        "left": 921
+      },
+      "style": {
+        "color": "#6c8f00",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c1f28752fdeb68ca6a66140e6c3163a2ff6c6c5c",
+        "title": "e.g. Viggo Sandvik \"Fisking i Valdres\"",
+        "trackId": "6GjeV5QqujIHNRuQlFpHwv"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=5Nzx9DYLWax2Xm9FRSGJE6",
+      "id": "5Nzx9DYLWax2Xm9FRSGJE6"
+    },
+    {
+      "artistName": "Gitarkameratene",
+      "positioning": {
+        "top": 637,
+        "left": 843
+      },
+      "style": {
+        "color": "#8c7802",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/36e0d3852b2d586d7f3aab46dbb06cbbbba42d9b",
+        "title": "e.g. Gitarkameratene \"Ryktet Forteller\"",
+        "trackId": "4axzeEnJdc01LFopSSa686"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=6eaBTqHxAaeyCvAgBsqVs9",
+      "id": "6eaBTqHxAaeyCvAgBsqVs9"
+    },
+    {
+      "artistName": "Lars Lillo-Stenberg",
+      "positioning": {
+        "top": 724,
+        "left": 943
+      },
+      "style": {
+        "color": "#46a40b",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7228a1d2678d3e72a55c3321421d46876f0b643",
+        "title": "e.g. Lars Lillo-Stenberg \"Some People In This Land\"",
+        "trackId": "12o1QpqLAkcDnM1OATwCAP"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=0NQ2GtKrBJ7KXkVcMUeZU4",
+      "id": "0NQ2GtKrBJ7KXkVcMUeZU4"
+    },
+    {
+      "artistName": "Hilde Heltberg",
+      "positioning": {
+        "top": 508,
+        "left": 603
+      },
+      "style": {
+        "color": "#729802",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a236e427cd96ad3bb1ca5e819872841a29331b7c",
+        "title": "e.g. Hilde Heltberg \"Når Vi Deler Alt\"",
+        "trackId": "2A5zfv26VEyFGpwtrxM5uo"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=0kit28sVkaBZ6JHh704Zj7",
+      "id": "0kit28sVkaBZ6JHh704Zj7"
+    },
+    {
+      "artistName": "Rita Eriksen",
+      "positioning": {
+        "top": 526,
+        "left": 410
+      },
+      "style": {
+        "color": "#549c00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e328dc8bca6189e72928bcc624b9d6ec4ce987a0",
+        "title": "e.g. Rita Eriksen \"Sønnavindvalsen\"",
+        "trackId": "02Psqd6MOdLtGoPX5ABOkA"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=2lkUWx6myyrFf2KOAAD1da",
+      "id": "2lkUWx6myyrFf2KOAAD1da"
+    },
+    {
+      "artistName": "Kate Gulbrandsen",
+      "positioning": {
+        "top": 235,
+        "left": 643
+      },
+      "style": {
+        "color": "#849201",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ac25c065a71a732ebd639518af4ddb46e34060d2",
+        "title": "e.g. Kate Gulbrandsen \"Mitt Liv\"",
+        "trackId": "2QCnfSFvALNfcjQ8wBkqLU"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=5evPkJW7fgWJ7TiNehRYG5",
+      "id": "5evPkJW7fgWJ7TiNehRYG5"
+    },
+    {
+      "artistName": "Eldar Vågan",
+      "positioning": {
+        "top": 535,
+        "left": 1006
+      },
+      "style": {
+        "color": "#a98012",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d635211eb6c68aa794a8ece8467252956ed95d4a",
+        "title": "e.g. Eldar Vågan \"Jeg Har Ikke Bruk For Gifte Ring\"",
+        "trackId": "4lpkedM1qDiOK0lfbVMlVf"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=4NHsz8STeUkqft9qcV1Gcf",
+      "id": "4NHsz8STeUkqft9qcV1Gcf"
+    },
+    {
+      "artistName": "Eriksen",
+      "positioning": {
+        "top": 446,
+        "left": 747
+      },
+      "style": {
+        "color": "#818b03",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f03949529da4c85dec537c2a56ca7da09220780",
+        "title": "e.g. Eriksen \"Kanarifoggelens Sang\"",
+        "trackId": "5LS1W9msXSCZIHtsqAcerI"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=2C4pXzaAGRltf0JglpJYmF",
+      "id": "2C4pXzaAGRltf0JglpJYmF"
+    },
+    {
+      "artistName": "Ingrid Bjørnov",
+      "positioning": {
+        "top": 584,
+        "left": 595
+      },
+      "style": {
+        "color": "#529d22",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47a5115cbaec5c86e74e6d61ed2c55971eb9d609",
+        "title": "e.g. Ingrid Bjørnov \"Spare Skrift i Sand\"",
+        "trackId": "5wjYe1kFRBf3HJzfBBJXoK"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=0T4YaWeVjwCx7lNK3hbt7S",
+      "id": "0T4YaWeVjwCx7lNK3hbt7S"
+    },
+    {
+      "artistName": "Rein Alexander",
+      "positioning": {
+        "top": 799,
+        "left": 0
+      },
+      "style": {
+        "color": "#4ea311",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd59b62e597464e5bcaf36c7603c8ba30ec418da",
+        "title": "e.g. Rein Alexander \"One Last Time\"",
+        "trackId": "1oM2IB3Aajsp75j98ruVpV"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=3C3lXCQIV1vG5SHt8pB5lj",
+      "id": "3C3lXCQIV1vG5SHt8pB5lj"
+    },
+    {
+      "artistName": "Kine Hellebust",
+      "positioning": {
+        "top": 711,
+        "left": 862
+      },
+      "style": {
+        "color": "#42a408",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3f38fe419de9089caabd5d50e8e4c24a3ea1096",
+        "title": "e.g. Kine Hellebust \"Det Hainnle Om Å Leve\"",
+        "trackId": "53EbOd2bdKu4oNEkCKAfOX"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=1xt1wtsor2VKjhcQebd9Ec",
+      "id": "1xt1wtsor2VKjhcQebd9Ec"
+    },
+    {
+      "artistName": "Ivar Medaas",
+      "positioning": {
+        "top": 760,
+        "left": 1028
+      },
+      "style": {
+        "color": "#56a102",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a4ff52b3a01d7e50e43c9b4351e86e6e3853a95",
+        "title": "e.g. Ivar Medaas \"Dar kjem dampen\"",
+        "trackId": "2gvbT9FpHzrxcB3LAYDUfl"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=4NcfWau7WsiXyCFz9djdvz",
+      "id": "4NcfWau7WsiXyCFz9djdvz"
+    },
+    {
+      "artistName": "Dollie De Luxe",
+      "positioning": {
+        "top": 553,
+        "left": 429
+      },
+      "style": {
+        "color": "#4f920e",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b6bd764091a8b613a7141e6d97ac0ee15d29efc9",
+        "title": "e.g. Dollie De Luxe \"Queen Of The Night / Satisfaction\"",
+        "trackId": "18hF0dpmy34xb3RMKpDCPv"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=4TibxG9eRiFzXSyaKdWDMk",
+      "id": "4TibxG9eRiFzXSyaKdWDMk"
+    },
+    {
+      "artistName": "Grethe Kausland",
+      "positioning": {
+        "top": 695,
+        "left": 1132
+      },
+      "style": {
+        "color": "#708200",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51266ec60bf3f678e3e06a057461e50cace507bb",
+        "title": "e.g. Grethe Kausland \"Teddyen Min\"",
+        "trackId": "5YB2ap2JDJmg5c2GcQkaxH"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=755vC7pQAAySkIrYBgvZOh",
+      "id": "755vC7pQAAySkIrYBgvZOh"
+    },
+    {
+      "artistName": "Ole I'Dole",
+      "positioning": {
+        "top": 238,
+        "left": 514
+      },
+      "style": {
+        "color": "#a77c00",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e4e3c88088f03d9006c2ac77c18cac2653e78c01",
+        "title": "e.g. Ole I'Dole \"Det Va'kke Min Skyld\"",
+        "trackId": "5fTyHqmUJmBl2EBZVFkiZa"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=5md5rFSq3gBRN9aH1zC0yr",
+      "id": "5md5rFSq3gBRN9aH1zC0yr"
+    },
+    {
+      "artistName": "Gro Anita Schønn",
+      "positioning": {
+        "top": 521,
+        "left": 651
+      },
+      "style": {
+        "color": "#819205",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a561e0f21310ecb786cf8033714426759b4dc250",
+        "title": "e.g. Gro Anita Schønn \"På Ringerike Trenger'u'kke Penger\"",
+        "trackId": "3uBuLfBLlH2AsXw14srvlR"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=1REtoCLyBkMhhFgMci3U2b",
+      "id": "1REtoCLyBkMhhFgMci3U2b"
+    },
+    {
+      "artistName": "Alf Cranner",
+      "positioning": {
+        "top": 799,
+        "left": 1198
+      },
+      "style": {
+        "color": "#36a70b",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dfe1a0259133ea4afcabb8c1e4bb14b2b5731d94",
+        "title": "e.g. Alf Cranner \"Din tanke er fri\"",
+        "trackId": "292iWkE4MVR8G7rfk5XZIV"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=1X5hA1c3l2BJM1CJWtqAwG",
+      "id": "1X5hA1c3l2BJM1CJWtqAwG"
+    },
+    {
+      "artistName": "Randi Hansen",
+      "positioning": {
+        "top": 602,
+        "left": 936
+      },
+      "style": {
+        "color": "#6ca002",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/80224c84464d72e7a979f6290043bf8acbe2bf87",
+        "title": "e.g. Randi Hansen \"Hvis jeg fikk være sola di\"",
+        "trackId": "72VduJsRwpiCXBcBUC4UEI"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=0nMDtfxvLUYMioOGJlY2J8",
+      "id": "0nMDtfxvLUYMioOGJlY2J8"
+    },
+    {
+      "artistName": "Ketil Stokkan",
+      "positioning": {
+        "top": 133,
+        "left": 555
+      },
+      "style": {
+        "color": "#ac8428",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8498b1cccc2a7527d97217d872a334c80e10eea1",
+        "title": "e.g. Ketil Stokkan \"Romeo - 2011 / Mgp 1986\"",
+        "trackId": "5Nk6YC5eThXCY9xoUq045T"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=3qjZM6CRzHljp2HQRSgs90",
+      "id": "3qjZM6CRzHljp2HQRSgs90"
+    },
+    {
+      "artistName": "Gustav Lorentzen",
+      "positioning": {
+        "top": 436,
+        "left": 925
+      },
+      "style": {
+        "color": "#749108",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8a83f3481cbc49c2a83fd77ed7da789ad2b510f7",
+        "title": "e.g. Gustav Lorentzen \"Ballongvise\"",
+        "trackId": "5PeThOqzbzWZFpuOKoVgs3"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=4yR3A2DxNv6XsLzI0J9pbj",
+      "id": "4yR3A2DxNv6XsLzI0J9pbj"
+    },
+    {
+      "artistName": "KLM",
+      "positioning": {
+        "top": 85,
+        "left": 1217
+      },
+      "style": {
+        "color": "#b17459",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e6f606bd1dc15491324ba6a54682f271db38547",
+        "title": "e.g. KLM \"Høysommer II\"",
+        "trackId": "4VfplvYws21Wdc0VvOs5Kb"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=5QZ5oV3t8CXXdCLpWxT4yg",
+      "id": "5QZ5oV3t8CXXdCLpWxT4yg"
+    },
+    {
+      "artistName": "Stanley Jacobsen",
+      "positioning": {
+        "top": 682,
+        "left": 1139
+      },
+      "style": {
+        "color": "#479d00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/33ccddc707d008df4dbbb41334aff95fe9b84b8b",
+        "title": "e.g. Stanley Jacobsen \"Skigardvise\"",
+        "trackId": "2wBW1bfqKkQs2xKWaYHpic"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=3E0tiLSdY8g4TvG7IOk7UJ",
+      "id": "3E0tiLSdY8g4TvG7IOk7UJ"
+    },
+    {
+      "artistName": "Arve Opsahl",
+      "positioning": {
+        "top": 730,
+        "left": 1400
+      },
+      "style": {
+        "color": "#708808",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8799aa6b68b29fd84acfb99a2171b6ecdf957408",
+        "title": "e.g. Arve Opsahl \"Se Der Danser Bestefar\"",
+        "trackId": "6XB2xc89ioPvRPX8QSMOU1"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=3KRg9BR2U08g4XUYYp60TE",
+      "id": "3KRg9BR2U08g4XUYYp60TE"
+    },
+    {
+      "artistName": "Ivar Simastuen",
+      "positioning": {
+        "top": 761,
+        "left": 869
+      },
+      "style": {
+        "color": "#459e05",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d752450ff46ed9da498d002830aed4e133a44ef8",
+        "title": "e.g. Ivar Simastuen \"Brunen\"",
+        "trackId": "3LutVCJYW7PVkErA61STv6"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=7veFqEIwOpPThgsH9jRuWr",
+      "id": "7veFqEIwOpPThgsH9jRuWr"
+    },
+    {
+      "artistName": "Otto Nielsen",
+      "positioning": {
+        "top": 826,
+        "left": 1198
+      },
+      "style": {
+        "color": "#429a06",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/452335012103989cf032749309b7ab4b473e9abb",
+        "title": "e.g. Otto Nielsen \"Bakklajnnets Vakre Maja (Båklandets Vackra Maja)\"",
+        "trackId": "6gHIOjwFyPiY5WHCh1cYWA"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=7dBqkfMhEaqO8MyMsZsI09",
+      "id": "7dBqkfMhEaqO8MyMsZsI09"
+    },
+    {
+      "artistName": "Rolv Wesenlund",
+      "positioning": {
+        "top": 819,
+        "left": 1394
+      },
+      "style": {
+        "color": "#6e6d00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/15d2470f94bade5fa87f6cd5c170694cd11da516",
+        "title": "e.g. Rolv Wesenlund \"Børs Song\"",
+        "trackId": "3wwShE7HNliZoZZGI5BWiI"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=02u7f9BTTftV3USQ9jTdGA",
+      "id": "02u7f9BTTftV3USQ9jTdGA"
+    },
+    {
+      "artistName": "Torstein Sødal",
+      "positioning": {
+        "top": 855,
+        "left": 20
+      },
+      "style": {
+        "color": "#3da300",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f9353144f508d4c15babe3a7377d586afd6f7191",
+        "title": "e.g. Torstein Sødal \"Eastern Wind\"",
+        "trackId": "6Wf18NBGRpNmF1xqG8wqkA"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=6VMADBvsc4SPqDDvZzyz9r",
+      "id": "6VMADBvsc4SPqDDvZzyz9r"
+    },
+    {
+      "artistName": "Britt-Synnøve Johansen",
+      "positioning": {
+        "top": 708,
+        "left": 385
+      },
+      "style": {
+        "color": "#57a300",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0038a3a0d379729de449d452ed4cff1e88c93d87",
+        "title": "e.g. Britt-Synnøve Johansen \"Godnattsangen\"",
+        "trackId": "72bA5m2p5OO84wwyjZChNX"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=1Ad7QScj2Cd9tiKQFNbfve",
+      "id": "1Ad7QScj2Cd9tiKQFNbfve"
+    },
+    {
+      "artistName": "Tramteateret",
+      "positioning": {
+        "top": 490,
+        "left": 921
+      },
+      "style": {
+        "color": "#928201",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a78bb067a8e7a48af66c1534c5fb392bfd200d3",
+        "title": "e.g. Tramteateret \"Det enkleste er pistol - 2011 Remastered Version\"",
+        "trackId": "2ZkBJPpkoX0o0u7yV39cp9"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=2V7BUgVI4fQG0fdSZ7aigs",
+      "id": "2V7BUgVI4fQG0fdSZ7aigs"
+    },
+    {
+      "artistName": "Ellen Nikolaysen",
+      "positioning": {
+        "top": 819,
+        "left": 177
+      },
+      "style": {
+        "color": "#649a01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59816dd18f99298cdaf7dc79696eec5cb34dc76a",
+        "title": "e.g. Ellen Nikolaysen \"Just the Way You Are\"",
+        "trackId": "4pemi59z9aEvb4FAn8U8ix"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=0nxRWJDYjvgyZ2jVYIlmew",
+      "id": "0nxRWJDYjvgyZ2jVYIlmew"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=classic%20norwegian%20pop"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/77XtO891xN5zPjQ6hvZkbW"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/35vKJAIerN2WVFzsWcXAOh"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0xE6CSXEYarZiUxQTDDdE9"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/1U5NL9l4bLKQU3TxmJFWrg"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=classic%20norwegian%20pop"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "norske viser",
+      "positioning": {
+        "top": 300,
+        "left": 191
+      },
+      "style": {
+        "color": "#5e9a0f",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c598c6e1754a9f85c1e138baea99cdba6aeefab",
+        "title": "e.g. Anne Grete Preus \"Når himmelen faller ned\"",
+        "trackId": "5aasUgkPxYhqKcxmNLotmH"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-norskeviser.html#tunnel"
+    },
+    {
+      "genreName": "barnemusikk",
+      "positioning": {
+        "top": 143,
+        "left": 300
+      },
+      "style": {
+        "color": "#639617",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e233266f22c39ffd5a6ef48ab1fa77ebba3d8ff0",
+        "title": "e.g. Anne Brændeland \"Ole Brumm\"",
+        "trackId": "1hOo75JYtzwnTAphgSXKCG"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-barnemusikk.html#tunnel"
+    },
+    {
+      "genreName": "danseband",
+      "positioning": {
+        "top": 0,
+        "left": 146
+      },
+      "style": {
+        "color": "#a58a06",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/edda9cfaf3fb14ed6556ba20b2af1f4f2c3b57fe",
+        "title": "e.g. Holmsve \"Linedancebølgen går\"",
+        "trackId": "3VYGF6ytimECDLbzW2SXos"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-danseband.html#tunnel"
+    },
+    {
+      "genreName": "norwegian pop",
+      "positioning": {
+        "top": 17,
+        "left": 141
+      },
+      "style": {
+        "color": "#8e9112",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e786a574eb5ba9cf3cf84a88b6024d19584b55eb",
+        "title": "e.g. Sondre Justad \"Ikke som de andre\"",
+        "trackId": "3lYlbSVfxrSDE7FwO5fzzI"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-norwegianpop.html#tunnel"
+    },
+    {
+      "genreName": "norwegian rock",
+      "positioning": {
+        "top": 26,
+        "left": 0
+      },
+      "style": {
+        "color": "#b57121",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4259b9ca04625bb3b8dcfb8703b61e13af10a30a",
+        "title": "e.g. Raga Rockers \"Noen å hate\"",
+        "trackId": "7BF9qnpZtRuQ0jxhEL327e"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-norwegianrock.html#tunnel"
+    },
+    {
+      "genreName": "classic israeli pop",
+      "positioning": {
+        "top": 185,
+        "left": 164
+      },
+      "style": {
+        "color": "#808e0a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/516ff01d77ba03fa82dad37631d8a110bac4845c",
+        "title": "e.g. Efraim Shamir \"ערב של יום בהיר\"",
+        "trackId": "2jMgv2F3fWC8FKRueqia6z"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-classicisraelipop.html#tunnel"
+    },
+    {
+      "genreName": "geek folk",
+      "positioning": {
+        "top": 263,
+        "left": 184
+      },
+      "style": {
+        "color": "#739010",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e44ac9a635e064e23c922e2c2decf4841441558",
+        "title": "e.g. Kathy Mar \"Merlin\"",
+        "trackId": "4ukObiikaYN1zNuLPNzW2w"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-geekfolk.html#tunnel"
+    },
+    {
+      "genreName": "israeli singer-songwriter",
+      "positioning": {
+        "top": 173,
+        "left": 154
+      },
+      "style": {
+        "color": "#7b940b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66b5766fedc880181c87bae04ed1ffb5c7460cf3",
+        "title": "e.g. Rona Kenan \"הריקוד המוזר של הלב\"",
+        "trackId": "5dkkASTwnkKsmRVzP5RXXE"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-israelisingersongwriter.html#tunnel"
+    },
+    {
+      "genreName": "austin singer-songwriter",
+      "positioning": {
+        "top": 124,
+        "left": 150
+      },
+      "style": {
+        "color": "#7b920e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/907af78a76d60ac5606c7ddfe01c549636307275",
+        "title": "e.g. Jimmy LaFave \"Walk Away Renée\"",
+        "trackId": "7xSdwXmwpIzBxBvjf52oZI"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-austinsingersongwriter.html#tunnel"
+    },
+    {
+      "genreName": "vintage norwegian pop",
+      "positioning": {
+        "top": 314,
+        "left": 245
+      },
+      "style": {
+        "color": "#449e16",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b8f9f0c3c8ba7ca43a1fb18ca6df1f4e0d6fe4f",
+        "title": "e.g. Gunnar Engedahl \"Vesle-Blakken\"",
+        "trackId": "7FyE7PE5QYh1cjJF54QV48"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-vintagenorwegianpop.html#tunnel"
+    },
+    {
+      "genreName": "cantautor",
+      "positioning": {
+        "top": 227,
+        "left": 202
+      },
+      "style": {
+        "color": "#7e900d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cfdb3c31b1b2cf09906e6e1a6aa7dd9fd61d5ef6",
+        "title": "e.g. Pedro Guerra \"Loco\"",
+        "trackId": "4OCBvT6SZHbNVQF4i2x5HX"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-cantautor.html#tunnel"
+    },
+    {
+      "genreName": "canadian singer-songwriter",
+      "positioning": {
+        "top": 161,
+        "left": 130
+      },
+      "style": {
+        "color": "#7a910f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd186b39fb5d9d15960c09962e6e00b20afd53f5",
+        "title": "e.g. Sarah Harmer \"Basement Apt.\"",
+        "trackId": "4l2ZwGfd6ugIZViw7dtV8K"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-canadiansingersongwriter.html#tunnel"
+    },
+    {
+      "genreName": "classic iskelma",
+      "positioning": {
+        "top": 239,
+        "left": 175
+      },
+      "style": {
+        "color": "#7c8f07",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec3fdd6d19eb98e1093ded5be17d89f6f9784f9c",
+        "title": "e.g. Marita Taavitsainen \"André\"",
+        "trackId": "7u8VaxyRzg4ZTcUIrCfxDt"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-classiciskelma.html#tunnel"
+    },
+    {
+      "genreName": "italian folk",
+      "positioning": {
+        "top": 251,
+        "left": 194
+      },
+      "style": {
+        "color": "#769119",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee11f747c3583aeda56e8da3cb47dbedccc2a295",
+        "title": "e.g. I Cantori Di Carpino \"Povero Cuoro Mio\"",
+        "trackId": "570g7Y5PGiA6yfhnvuzM70"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-italianfolk.html#tunnel"
+    },
+    {
+      "genreName": "deep latin christian",
+      "positioning": {
+        "top": 112,
+        "left": 169
+      },
+      "style": {
+        "color": "#75980f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/873d30148714d074f4ec65b365bc5d576323ddaa",
+        "title": "e.g. Paulina Rojas \"Muévete en Mí\"",
+        "trackId": "5HeZmzkvR6S77qjYirMnSA"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-deeplatinchristian.html#tunnel"
+    },
+    {
+      "genreName": "a cappella",
+      "positioning": {
+        "top": 148,
+        "left": 135
+      },
+      "style": {
+        "color": "#769107",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53ef0ab7280285de101be48bd7a0394bfea17707",
+        "title": "e.g. Tufts Beelzebubs \"Hey Juliet\"",
+        "trackId": "5sCrcqn74sRGARWDwI4llo"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-acappella.html#tunnel"
+    },
+    {
+      "genreName": "chanson quebecois",
+      "positioning": {
+        "top": 288,
+        "left": 145
+      },
+      "style": {
+        "color": "#808f08",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/64def099aa81479e09efbf17732f028110eb3905",
+        "title": "e.g. Dany Aubé \"Ma casquette\"",
+        "trackId": "0pij2Rz3Funn33ZCvtzfkD"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-chansonquebecois.html#tunnel"
+    },
+    {
+      "genreName": "cymraeg",
+      "positioning": {
+        "top": 227,
+        "left": 140
+      },
+      "style": {
+        "color": "#709413",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/563a173f99ce521514a0a6c56e6ae7cbe7e62270",
+        "title": "e.g. Sobin A'R Smaeliaid \"Gwlad Y Rasta Gwyn\"",
+        "trackId": "0LqUgr6hy0d19L7gfd1Md7"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-cymraeg.html#tunnel"
+    },
+    {
+      "genreName": "vintage cantonese pop",
+      "positioning": {
+        "top": 136,
+        "left": 144
+      },
+      "style": {
+        "color": "#7c9404",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a8122d1d5b24d2c5e92939d2ea9ff2f44d50c83d",
+        "title": "e.g. 李香琴 \"你回來吧\"",
+        "trackId": "5uRV89ZRLLoWbiiFGhP2EY"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-vintagecantonesepop.html#tunnel"
+    },
+    {
+      "genreName": "classic finnish pop",
+      "positioning": {
+        "top": 276,
+        "left": 178
+      },
+      "style": {
+        "color": "#7a8f06",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6064684d529e353c7080a6c398b7a0ea7d47f1ba",
+        "title": "e.g. Lea Laven \"Ei oo, ei tuu\"",
+        "trackId": "2rnQKCqbOgTTNaLKLtml5x"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-classicfinnishpop.html#tunnel"
+    }
+  ]
+}

@@ -1,0 +1,2374 @@
+{
+  "schemaVersion": 3,
+  "genreName": "musica potosina",
+  "artists": [
+    {
+      "artistName": "Los Avila",
+      "positioning": {
+        "top": 578,
+        "left": 403
+      },
+      "style": {
+        "color": "#c48709",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/648d1b7401faf2531d7bd6318cc85de1ec838d3e",
+        "title": "e.g. Los Avila \"Ni Mas Rico Ni Mas Pobre\"",
+        "trackId": "0Rc32Z5u0u3aGbyIAm89sA"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=0A0oFtNpb7CV86uWlxjnQo",
+      "id": "0A0oFtNpb7CV86uWlxjnQo"
+    },
+    {
+      "artistName": "Grupo Legitimo",
+      "positioning": {
+        "top": 695,
+        "left": 603
+      },
+      "style": {
+        "color": "#d28817",
+        "fontSize": "143%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d2e81149c8a5a2bdd471261176e95349b4153b89",
+        "title": "e.g. Grupo Legitimo \"Pídeme\"",
+        "trackId": "1diebTiolD8N22iuOfmvSy"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1ovPxptMcDubQ0CgYsS5hm",
+      "id": "1ovPxptMcDubQ0CgYsS5hm"
+    },
+    {
+      "artistName": "Los terribles Del Norte",
+      "positioning": {
+        "top": 660,
+        "left": 960
+      },
+      "style": {
+        "color": "#b87f00",
+        "fontSize": "139%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d311b6a0b628068365ac87a56a0331c854e5436a",
+        "title": "e.g. Los terribles Del Norte \"Corrido De La Muerta\"",
+        "trackId": "2rr90xS2B05xvZdQ0WJykz"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=6rJ9D34bMtluzXuFx2AFNT",
+      "id": "6rJ9D34bMtluzXuFx2AFNT"
+    },
+    {
+      "artistName": "Los Indomables De Cedral",
+      "positioning": {
+        "top": 654,
+        "left": 681
+      },
+      "style": {
+        "color": "#b18c06",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f6b9b96a66344637c968c70de786f14a49a16903",
+        "title": "e.g. Los Indomables De Cedral \"Tumba Sin Cruz\"",
+        "trackId": "6e4U2ZzSxApGYdHyypEMrD"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=5fuf4ARPuJV9By49m7x2Yy",
+      "id": "5fuf4ARPuJV9By49m7x2Yy"
+    },
+    {
+      "artistName": "Conjunto Agua Azul",
+      "positioning": {
+        "top": 513,
+        "left": 463
+      },
+      "style": {
+        "color": "#c58f09",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0ce41e122133b9f029388d5dbd37712228c3ebba",
+        "title": "e.g. Conjunto Agua Azul \"Tu Verdadero Amor\"",
+        "trackId": "6BeCi7Rydkc2E8odT4FzqQ"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=0gZHnsLe1aKqOFk91JgfKE",
+      "id": "0gZHnsLe1aKqOFk91JgfKE"
+    },
+    {
+      "artistName": "La Nueva Estrategia",
+      "positioning": {
+        "top": 366,
+        "left": 754
+      },
+      "style": {
+        "color": "#b58b00",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99311e74ae2a717f0dfb0c76a9a929a19b80da38",
+        "title": "e.g. La Nueva Estrategia \"Lo Dice El Corazón\"",
+        "trackId": "6nSMEQt4Ua2nvKovfMWIT7"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=6KrsPUXRtIKhTla4QfuRW0",
+      "id": "6KrsPUXRtIKhTla4QfuRW0"
+    },
+    {
+      "artistName": "Grupo Reactor De San Luis Potosí",
+      "positioning": {
+        "top": 621,
+        "left": 796
+      },
+      "style": {
+        "color": "#ba9409",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b18d5f48f1d6624890537a048e4b4a27df7f6ca4",
+        "title": "e.g. Grupo Reactor De San Luis Potosí \"Plan\"",
+        "trackId": "3VOIOOgH9EgVyvqlylsHpI"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=2aSuTNowWR5y2BLdGrXkv0",
+      "id": "2aSuTNowWR5y2BLdGrXkv0"
+    },
+    {
+      "artistName": "Juan Acuna Y El Terror Del Norte",
+      "positioning": {
+        "top": 635,
+        "left": 887
+      },
+      "style": {
+        "color": "#b08801",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a2cab6bafb05ceb2a0235cd9ac98e8f1fbe9c15",
+        "title": "e.g. Juan Acuna Y El Terror Del Norte \"Voy Llegando a Mi Tierra\"",
+        "trackId": "1fMY5ay4MDvXbt22wQmSdG"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=0PSTV2G1kujWp1ANuOFqDc",
+      "id": "0PSTV2G1kujWp1ANuOFqDc"
+    },
+    {
+      "artistName": "Kiss Sound El Rey Del Wepa",
+      "positioning": {
+        "top": 136,
+        "left": 984
+      },
+      "style": {
+        "color": "#d26e13",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/49ad45f2599f67e3c886b7f8d2c7e25778e26824",
+        "title": "e.g. Kiss Sound El Rey Del Wepa \"Bule Bule\"",
+        "trackId": "1sEfkxt97OZB3kFMhUfTBZ"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=2I1sOGi5ywG2SZmbf36svo",
+      "id": "2I1sOGi5ywG2SZmbf36svo"
+    },
+    {
+      "artistName": "Los Caciques de San Luis",
+      "positioning": {
+        "top": 654,
+        "left": 463
+      },
+      "style": {
+        "color": "#ba7b08",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6772dfebd89b48901ee93ff69e55dcc3e4df749f",
+        "title": "e.g. Los Caciques de San Luis \"El Tirado\"",
+        "trackId": "6hoAwJZcoLt6y1R72hNgDn"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=5TnMKffD6j6SqGFz7VvTXx",
+      "id": "5TnMKffD6j6SqGFz7VvTXx"
+    },
+    {
+      "artistName": "Rey del wepa oficial",
+      "positioning": {
+        "top": 91,
+        "left": 978
+      },
+      "style": {
+        "color": "#b97b00",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e3edf09adbd94f40549ae6bbbb027a3bd8d425e",
+        "title": "e.g. Rey del wepa oficial \"Kumbia Reyna (Rey Del Wepa Kiss Sound)\"",
+        "trackId": "3gMklBYg6NpuNj9ewmoZ8H"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=5eZt3BjzxKJPAVm0OJX0Ar",
+      "id": "5eZt3BjzxKJPAVm0OJX0Ar"
+    },
+    {
+      "artistName": "Los Halcones De San Luis",
+      "positioning": {
+        "top": 579,
+        "left": 802
+      },
+      "style": {
+        "color": "#ac8803",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7d3763e354ccdc440ca857789976298853748a95",
+        "title": "e.g. Los Halcones De San Luis \"Que Al Cabo Y Que\"",
+        "trackId": "28y67ZTqtwa7BrRc5sPeaq"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=0Rwp9t2fSwFJtmMKwghDay",
+      "id": "0Rwp9t2fSwFJtmMKwghDay"
+    },
+    {
+      "artistName": "Grupo la Fuerza",
+      "positioning": {
+        "top": 543,
+        "left": 784
+      },
+      "style": {
+        "color": "#a88605",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53a6c9e7eae4749ff393b6937bc3a6af167c1a25",
+        "title": "e.g. Grupo la Fuerza \"Me Gusta Bailar Contigo\"",
+        "trackId": "0bkkVBhTjPljl1kGv9591c"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=1KAc915a4U4M9Ir711R4Ny",
+      "id": "1KAc915a4U4M9Ir711R4Ny"
+    },
+    {
+      "artistName": "Forasteros De San Luis",
+      "positioning": {
+        "top": 302,
+        "left": 360
+      },
+      "style": {
+        "color": "#ae9100",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b55accef4af620ba0dc631d0b80d0f2a8c9b35d5",
+        "title": "e.g. Forasteros De San Luis \"Corazones En Guerra\"",
+        "trackId": "608gorzK5PTHBce9N4fdf4"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=0ocJXq5PhboDqPBcPEuh2C",
+      "id": "0ocJXq5PhboDqPBcPEuh2C"
+    },
+    {
+      "artistName": "Pipazo Cumbiero Oficial",
+      "positioning": {
+        "top": 457,
+        "left": 318
+      },
+      "style": {
+        "color": "#ba8f03",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cb70d678a96eba00edbc3b385a6b0e8d4cc3177a",
+        "title": "e.g. Pipazo Cumbiero Oficial \"Cuentale y Dile\"",
+        "trackId": "7czWh3hz3HXKYgyUdTLHFp"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=3D7jyMyuCVR8j2xxhGW8Ba",
+      "id": "3D7jyMyuCVR8j2xxhGW8Ba"
+    },
+    {
+      "artistName": "Los Narcos De S.L.P.",
+      "positioning": {
+        "top": 565,
+        "left": 742
+      },
+      "style": {
+        "color": "#c68000",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/55775c89979c54316ecfecf2be92a18f82de49c1",
+        "title": "e.g. Los Narcos De S.L.P. \"El Vato Chingón\"",
+        "trackId": "2KT3bApzYE7l9xt43A8EfV"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=2pEoy8beiOiU0nJadyLvBL",
+      "id": "2pEoy8beiOiU0nJadyLvBL"
+    },
+    {
+      "artistName": "El Respeto del Norte",
+      "positioning": {
+        "top": 530,
+        "left": 784
+      },
+      "style": {
+        "color": "#b38607",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb496f6238e33c197634a38a1f1d5c963dc27eec",
+        "title": "e.g. El Respeto del Norte \"Horas Negras\"",
+        "trackId": "6x5dqqVrfIb9SZTqOU7qee"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=4CxbG9HvtRKgfzzRLjSkYx",
+      "id": "4CxbG9HvtRKgfzzRLjSkYx"
+    },
+    {
+      "artistName": "Los Famosos del Bravo",
+      "positioning": {
+        "top": 774,
+        "left": 960
+      },
+      "style": {
+        "color": "#8f9102",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/52b9b3a32051e8201f0066a7285dc826ba2973db",
+        "title": "e.g. Los Famosos del Bravo \"La Ultima Monta\"",
+        "trackId": "6olGje2HZ1oAIPp5pzyHAd"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=1joqIi9BW07b2WhUVUZ6yH",
+      "id": "1joqIi9BW07b2WhUVUZ6yH"
+    },
+    {
+      "artistName": "Los Plebes de San Luis",
+      "positioning": {
+        "top": 539,
+        "left": 1044
+      },
+      "style": {
+        "color": "#aa8607",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc356a68a7690de5a9ce919686b25d0fa9aea5a2",
+        "title": "e.g. Los Plebes de San Luis \"De Sangre Mexicana\"",
+        "trackId": "6QhNw097hxRNsncEkG3B16"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=5gxZDamHyS2EsVNUaISSNY",
+      "id": "5gxZDamHyS2EsVNUaISSNY"
+    },
+    {
+      "artistName": "Caciques De San Luis Potosi",
+      "positioning": {
+        "top": 604,
+        "left": 469
+      },
+      "style": {
+        "color": "#bd8602",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cfb92270b65c1aed3e758b39529f8c6127bce99",
+        "title": "e.g. Caciques De San Luis Potosi \"Ruferos Potosinos\"",
+        "trackId": "1yBJK21RTAkAnUgUrDPMAE"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=4VxeAG46k9xq4oqpjPis92",
+      "id": "4VxeAG46k9xq4oqpjPis92"
+    },
+    {
+      "artistName": "Juan Acuna",
+      "positioning": {
+        "top": 268,
+        "left": 827
+      },
+      "style": {
+        "color": "#a6903f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9cb4be086cc04f87515ac7381cf0f6bf7fa81bd",
+        "title": "e.g. Juan Acuna \"Abran La Garganta\"",
+        "trackId": "4Wv5rqXJhxMXazfde1UxYr"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=0UN19HzmwuL405Ix0fyJlq",
+      "id": "0UN19HzmwuL405Ix0fyJlq"
+    },
+    {
+      "artistName": "Radio Kumbia",
+      "positioning": {
+        "top": 47,
+        "left": 808
+      },
+      "style": {
+        "color": "#aa9c08",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6cc31d686a2b756a8d538b9e62eea6400e90357b",
+        "title": "e.g. Radio Kumbia \"Ya No Llores Por Mi (La Rogona, La Tóxica)\"",
+        "trackId": "2u60qrVyPHxPH7ghaxJznH"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=1qBL49tg9Qs3WkTIl4zSWF",
+      "id": "1qBL49tg9Qs3WkTIl4zSWF"
+    },
+    {
+      "artistName": "El Fiero y Sus Coyotes del Bajio",
+      "positioning": {
+        "top": 501,
+        "left": 790
+      },
+      "style": {
+        "color": "#b08703",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/14fbd1b3915c59dce614f9c84a1483012aabdec2",
+        "title": "e.g. El Fiero y Sus Coyotes del Bajio \"El Hijo De Camelia\"",
+        "trackId": "0hZ9E47w9Obm3kr3Je2TuS"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1FF5jdWONVtstNjX6Kn4Jq",
+      "id": "1FF5jdWONVtstNjX6Kn4Jq"
+    },
+    {
+      "artistName": "Los Fiscales Del Norte",
+      "positioning": {
+        "top": 514,
+        "left": 681
+      },
+      "style": {
+        "color": "#869109",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b6e52ad18d2d93d901933f3bf244b1f47ff6548a",
+        "title": "e.g. Los Fiscales Del Norte \"Me Gustan Los Jaripeos\"",
+        "trackId": "36SkcjU1mNN971BZ7pF9ed"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=2zSS1vKZXjlLoJ5GDZyHm7",
+      "id": "2zSS1vKZXjlLoJ5GDZyHm7"
+    },
+    {
+      "artistName": "Refuerzo Norteño",
+      "positioning": {
+        "top": 471,
+        "left": 772
+      },
+      "style": {
+        "color": "#c67d02",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb03fded6a495e13b99970a09fd2d2e8cb771f5a",
+        "title": "e.g. Refuerzo Norteño \"Vestido a La Moda\"",
+        "trackId": "72OfLYmpTLd4ruWby0nRAu"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=7fJ9fbIcBNAU4rwB9KSwrc",
+      "id": "7fJ9fbIcBNAU4rwB9KSwrc"
+    },
+    {
+      "artistName": "Pura Marihuana",
+      "positioning": {
+        "top": 445,
+        "left": 433
+      },
+      "style": {
+        "color": "#948a01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/77ade87958220c4373fd5bd37435951f08bcc9a2",
+        "title": "e.g. Pura Marihuana \"Regresa Amor\"",
+        "trackId": "7kpTleBPjClRvHWVMOqiNC"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=56zu1T1X2ENXX0TemGpxHf",
+      "id": "56zu1T1X2ENXX0TemGpxHf"
+    },
+    {
+      "artistName": "Los Titanes Del Norte",
+      "positioning": {
+        "top": 787,
+        "left": 881
+      },
+      "style": {
+        "color": "#b18901",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b36d2d9f66bfb2a9f3992c70762faa7eda829709",
+        "title": "e.g. Los Titanes Del Norte \"Mis Dos Vicios\"",
+        "trackId": "0KOHNkfmJfG5pUDEwuhjGm"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=0ObhJA8JKkazkAkCGAIGur",
+      "id": "0ObhJA8JKkazkAkCGAIGur"
+    },
+    {
+      "artistName": "Victor Banda y Su Dinastía Norteña",
+      "positioning": {
+        "top": 724,
+        "left": 681
+      },
+      "style": {
+        "color": "#c68106",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8b959c76a3b182ec077ef2a038f950fb8094ec6c",
+        "title": "e.g. Victor Banda y Su Dinastía Norteña \"Al Mil Por Que Al Cien Cualquiera\"",
+        "trackId": "7i290OzzOanX8N0xx8TsJP"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=0MKL9D0sxkex1J36QcHXLW",
+      "id": "0MKL9D0sxkex1J36QcHXLW"
+    },
+    {
+      "artistName": "Grupo Aparecido",
+      "positioning": {
+        "top": 445,
+        "left": 651
+      },
+      "style": {
+        "color": "#c08808",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/570be284a19efad952ef2213b0b61d985f49f44b",
+        "title": "e.g. Grupo Aparecido \"Galleros Potosinos\"",
+        "trackId": "5yABgdDiy0E8WFepyPIia5"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=1nKoOl4C9mlfB3gkONjrLF",
+      "id": "1nKoOl4C9mlfB3gkONjrLF"
+    },
+    {
+      "artistName": "Isidro Renteria Y Sus Aduanales",
+      "positioning": {
+        "top": 592,
+        "left": 718
+      },
+      "style": {
+        "color": "#b77f14",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd394a3d3304d8a07dc2376afc9f16b3cef4010b",
+        "title": "e.g. Isidro Renteria Y Sus Aduanales \"El Son de la Negra\"",
+        "trackId": "2xqMX0ApImYmkzYaGaRyXu"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=40K6decUhCanLyjBScoqDA",
+      "id": "40K6decUhCanLyjBScoqDA"
+    },
+    {
+      "artistName": "Tormenta Chicana",
+      "positioning": {
+        "top": 502,
+        "left": 1099
+      },
+      "style": {
+        "color": "#af8603",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/948b587fdd82e5ecb8864e7ff4d09263dc1f6d5e",
+        "title": "e.g. Tormenta Chicana \"Colgados de un Árbol\"",
+        "trackId": "7tEswVHkQomwjKatZKxso4"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=3hMdu5gtB3OWeKmHBb2BBl",
+      "id": "3hMdu5gtB3OWeKmHBb2BBl"
+    },
+    {
+      "artistName": "Max Montes el Jefe de San Luis",
+      "positioning": {
+        "top": 642,
+        "left": 554
+      },
+      "style": {
+        "color": "#c38000",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c888c7e4d2ccd01c37f03552d2877ffee440c2f",
+        "title": "e.g. Max Montes el Jefe de San Luis \"El Emputado\"",
+        "trackId": "5ZIjHku9FNVLmiXhtU3kdp"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=3n4lONyitDlhxO36q1Lwp1",
+      "id": "3n4lONyitDlhxO36q1Lwp1"
+    },
+    {
+      "artistName": "Grupo La Fuerza El Gigante De La Cumbia",
+      "positioning": {
+        "top": 749,
+        "left": 802
+      },
+      "style": {
+        "color": "#ad9c0b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83f4213b345f69228d8a3d7d5d4074b3cd360dda",
+        "title": "e.g. Grupo La Fuerza El Gigante De La Cumbia \"Sí Te Vas\"",
+        "trackId": "16RzXcpGZngD6di2ax9rhe"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=0exXreS5JiXuAMVBVKcKe4",
+      "id": "0exXreS5JiXuAMVBVKcKe4"
+    },
+    {
+      "artistName": "Los Tipicos de Juan Torres",
+      "positioning": {
+        "top": 477,
+        "left": 403
+      },
+      "style": {
+        "color": "#b2810c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0b5f9f1d00dd266ee9298532522780196c69f68",
+        "title": "e.g. Los Tipicos de Juan Torres \"Chaparrita\"",
+        "trackId": "0FQR6tSpIWRCLr0e5vHDHY"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=5TPPUZ8ah5GqhJ1oXAQSSN",
+      "id": "5TPPUZ8ah5GqhJ1oXAQSSN"
+    },
+    {
+      "artistName": "Herencia Potosina",
+      "positioning": {
+        "top": 484,
+        "left": 699
+      },
+      "style": {
+        "color": "#a38b04",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f06a71fb8d407779ee347ce990819e1b2464e84",
+        "title": "e.g. Herencia Potosina \"Borracho y Mujeriego\"",
+        "trackId": "2mL4186fEQ6lzU9ULBvvXl"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=0mA53B46LyRCMoyzsefyFf",
+      "id": "0mA53B46LyRCMoyzsefyFf"
+    },
+    {
+      "artistName": "Los Terris de San Luis",
+      "positioning": {
+        "top": 541,
+        "left": 439
+      },
+      "style": {
+        "color": "#d07d00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff93613c44c45a9d3674eaa1e349eafe584a66eb",
+        "title": "e.g. Los Terris de San Luis \"La Cabra Que No da Leche\"",
+        "trackId": "4vJuhFTV90HYrhjWlYkeql"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=12M5yybdsaHVz1bHj7Lj4o",
+      "id": "12M5yybdsaHVz1bHj7Lj4o"
+    },
+    {
+      "artistName": "El Kombo Ec",
+      "positioning": {
+        "top": 528,
+        "left": 451
+      },
+      "style": {
+        "color": "#a29801",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9535019fd92480faebebd57949d3053aab271238",
+        "title": "e.g. El Kombo Ec \"Cumbia Del Ecuador\"",
+        "trackId": "31AhrY0eAHdHTUYfJTefZJ"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=0putZ6kIMY6tbCSBbGaFJA",
+      "id": "0putZ6kIMY6tbCSBbGaFJA"
+    },
+    {
+      "artistName": "Imperio De La Cumbia",
+      "positioning": {
+        "top": 436,
+        "left": 1129
+      },
+      "style": {
+        "color": "#989a0c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1aace1ceb3777119966a07257524cde87d503c12",
+        "title": "e.g. Imperio De La Cumbia \"El Ecuador\"",
+        "trackId": "77fPge6twAZVhAV3rbd1Wz"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=5entF9M1DAekZP6Pd1h2NW",
+      "id": "5entF9M1DAekZP6Pd1h2NW"
+    },
+    {
+      "artistName": "Los Incansables De San Luis",
+      "positioning": {
+        "top": 477,
+        "left": 1008
+      },
+      "style": {
+        "color": "#c38013",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c2d3eee040390ff78032b51744ba3e762fe57fba",
+        "title": "e.g. Los Incansables De San Luis \"El Burro Norteno\"",
+        "trackId": "2kwv3KCwqfhkgLPkWJZeLn"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=31VQOkuAz0Iw3p0XBUruHv",
+      "id": "31VQOkuAz0Iw3p0XBUruHv"
+    },
+    {
+      "artistName": "Los Andariegos del Norte",
+      "positioning": {
+        "top": 605,
+        "left": 893
+      },
+      "style": {
+        "color": "#8b8b03",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/31dc2c8bfce3abe62b9c5e3dd99810d7c0003d92",
+        "title": "e.g. Los Andariegos del Norte \"La Vieja\"",
+        "trackId": "7t428ilmrZSYFI7yJnZmEV"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=7IwwR5Q5qgHDkYkmvW4CXI",
+      "id": "7IwwR5Q5qgHDkYkmvW4CXI"
+    },
+    {
+      "artistName": "GRUPO NATIVO",
+      "positioning": {
+        "top": 870,
+        "left": 251
+      },
+      "style": {
+        "color": "#d28a18",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34f290f602ce27a65a0e9bff0cd266aa447d2cf1",
+        "title": "e.g. GRUPO NATIVO \"San Lucas\"",
+        "trackId": "61FRhRWe8lwtTXAzSmHohD"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=41YDawJBvIyRlbfr4eIlIh",
+      "id": "41YDawJBvIyRlbfr4eIlIh"
+    },
+    {
+      "artistName": "Los Tornados De San Luis",
+      "positioning": {
+        "top": 592,
+        "left": 524
+      },
+      "style": {
+        "color": "#ca7a14",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78c128e2bc56ca7dd627a28211b4798d3a4658cd",
+        "title": "e.g. Los Tornados De San Luis \"Camarada de San Luis\"",
+        "trackId": "0BWftM85gcG7CA6kkPRqco"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=2616dNlgCHI21YxbmXlEfO",
+      "id": "2616dNlgCHI21YxbmXlEfO"
+    },
+    {
+      "artistName": "Los Mini Cumbia",
+      "positioning": {
+        "top": 565,
+        "left": 488
+      },
+      "style": {
+        "color": "#a78e02",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71715f2db95ecc67acb2156b4166a3239c9e379f",
+        "title": "e.g. Los Mini Cumbia \"Cumbia del Ecuador\"",
+        "trackId": "1laQZZjPJglNxfiZ1434c4"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=4jOw2mBRzqcfgPU9aY7VfP",
+      "id": "4jOw2mBRzqcfgPU9aY7VfP"
+    },
+    {
+      "artistName": "Los Aduanales de Isidro Renteria",
+      "positioning": {
+        "top": 683,
+        "left": 675
+      },
+      "style": {
+        "color": "#cd8013",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/baa8ac7861d74804e095c518f9128021e00aee9e",
+        "title": "e.g. Los Aduanales de Isidro Renteria \"Morena de Pelo Largo\"",
+        "trackId": "0kCvuPiAyqHHeAofj3aMvO"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=0vLpRLObRIVbcj25br7Idy",
+      "id": "0vLpRLObRIVbcj25br7Idy"
+    },
+    {
+      "artistName": "El Resprto del Norte",
+      "positioning": {
+        "top": 459,
+        "left": 796
+      },
+      "style": {
+        "color": "#b2860b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/18115c8ec47f5d2703628f1d5ea8dcfe03206dc3",
+        "title": "e.g. El Resprto del Norte \"El Gallito\"",
+        "trackId": "2NGbFYnQS5hwBRpT8yeMnK"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=1T1zMGvkn35W0PJiAvB05S",
+      "id": "1T1zMGvkn35W0PJiAvB05S"
+    },
+    {
+      "artistName": "El Buen Gallo",
+      "positioning": {
+        "top": 105,
+        "left": 929
+      },
+      "style": {
+        "color": "#c27d01",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/234c025b2f41083a4bdbe8b59af64e7a1cec96b0",
+        "title": "e.g. El Buen Gallo \"Tiro Por Viaje\"",
+        "trackId": "5u3QZG2MsYlradISUGEIxp"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=20Qp7F29pSuLkriR2Ugzg8",
+      "id": "20Qp7F29pSuLkriR2Ugzg8"
+    },
+    {
+      "artistName": "Zona Cumbianchera",
+      "positioning": {
+        "top": 577,
+        "left": 2
+      },
+      "style": {
+        "color": "#b18e00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d96e077a1f94578defade636a670693c9ac6ab6c",
+        "title": "e.g. Zona Cumbianchera \"Así Fue\"",
+        "trackId": "2B5UDcZ98RThlGbJNUCjtf"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=3JOKPhE2I0CkbWhvw3XKwT",
+      "id": "3JOKPhE2I0CkbWhvw3XKwT"
+    },
+    {
+      "artistName": "Vaqueros del Norte",
+      "positioning": {
+        "top": 677,
+        "left": 1032
+      },
+      "style": {
+        "color": "#ae8e02",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eed4d7f0d9aa9c34ae2c586e99ec8d93106c4197",
+        "title": "e.g. Vaqueros del Norte \"Cicatrices\"",
+        "trackId": "66ww0aOLDHnnjDXKp1Vkby"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=1RK36gq175SZYzCZqwNxNb",
+      "id": "1RK36gq175SZYzCZqwNxNb"
+    },
+    {
+      "artistName": "Mr. Cadete",
+      "positioning": {
+        "top": 489,
+        "left": 1032
+      },
+      "style": {
+        "color": "#92861a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25fa7992c9424e24c1c3728dc634ed97858abd50",
+        "title": "e.g. Mr. Cadete \"Cachas de Oro\"",
+        "trackId": "3TfWghEmbsxtpiAJ7SNYtf"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=5WNPPuZ9NtIiK15xvrA4bu",
+      "id": "5WNPPuZ9NtIiK15xvrA4bu"
+    },
+    {
+      "artistName": "SON DE CRISTAL ADRI ZACARY",
+      "positioning": {
+        "top": 0,
+        "left": 1400
+      },
+      "style": {
+        "color": "#e68f84",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=09SU72yx4epH4VrlzVbhUt",
+      "id": "09SU72yx4epH4VrlzVbhUt"
+    },
+    {
+      "artistName": "El Rencor del Norte",
+      "positioning": {
+        "top": 565,
+        "left": 960
+      },
+      "style": {
+        "color": "#c87706",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16ce9cc2c185a6327563144951930a9cf790b72d",
+        "title": "e.g. El Rencor del Norte \"Para Jaripeos Mi Tierra\"",
+        "trackId": "7m4BAKjjgRja3zWk8CFLZ8"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=42yUw1I3DYkezqJOA25Auc",
+      "id": "42yUw1I3DYkezqJOA25Auc"
+    },
+    {
+      "artistName": "Los Vaqueros de San Luis",
+      "positioning": {
+        "top": 579,
+        "left": 596
+      },
+      "style": {
+        "color": "#ac8900",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9cf2aff1bd80a36368f9e7a02e023eaadda8eff1",
+        "title": "e.g. Los Vaqueros de San Luis \"Sentimiento de Dolor\"",
+        "trackId": "1bNyCkJyTx9q0ejY2wDk6K"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=30LsWbG7D5tJQ0bQjNgDXg",
+      "id": "30LsWbG7D5tJQ0bQjNgDXg"
+    },
+    {
+      "artistName": "Los Pinnkys",
+      "positioning": {
+        "top": 236,
+        "left": 112
+      },
+      "style": {
+        "color": "#a89f00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4b92bcb50c7faed9b46867bb27ecd41a8c09e191",
+        "title": "e.g. Los Pinnkys \"No Te Apartes de Mi\"",
+        "trackId": "4dsA6wwFqHZMEAbXfKdK3D"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3NnUVH2NmktUcOPsp7yfZg",
+      "id": "3NnUVH2NmktUcOPsp7yfZg"
+    },
+    {
+      "artistName": "Ley Salvaje",
+      "positioning": {
+        "top": 774,
+        "left": 760
+      },
+      "style": {
+        "color": "#b48403",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f10d94356e1d801b9c70b7a20aa786a8f906110",
+        "title": "e.g. Ley Salvaje \"Lobo Lobito\"",
+        "trackId": "2pP9mmLsPujXfYDC2Sa5YU"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=2vKP2T2Yb8kNJtZtQciOHp",
+      "id": "2vKP2T2Yb8kNJtZtQciOHp"
+    },
+    {
+      "artistName": "Camino Norte",
+      "positioning": {
+        "top": 349,
+        "left": 1050
+      },
+      "style": {
+        "color": "#be861a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1100c521571c84b4eb27cb1ce4a932bc1f73ec26",
+        "title": "e.g. Camino Norte \"Lucio Vasquez\"",
+        "trackId": "42r0NiL27Z9XFsRCYQu9tT"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=7bZs84htnEDZlxwmTGN8tJ",
+      "id": "7bZs84htnEDZlxwmTGN8tJ"
+    },
+    {
+      "artistName": "Conjunto Alegria de San Luis",
+      "positioning": {
+        "top": 642,
+        "left": 330
+      },
+      "style": {
+        "color": "#ca8c10",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a176a80d4db553eaf875be4e8d96e060b9ba0fb3",
+        "title": "e.g. Conjunto Alegria de San Luis \"Dos Corazones\"",
+        "trackId": "4YrFF2VcfYSxBWdvDMH9Re"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=0NaoXu7cPBOz43FFzIEzOG",
+      "id": "0NaoXu7cPBOz43FFzIEzOG"
+    },
+    {
+      "artistName": "Oazis Rules",
+      "positioning": {
+        "top": 400,
+        "left": 724
+      },
+      "style": {
+        "color": "#929200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c317e7876bf6e461c19cb6cf37d723ea77b69acf",
+        "title": "e.g. Oazis Rules \"A Llorar a Otra Parte\"",
+        "trackId": "3IDvDoBn3u8gHJtzMZIXLQ"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=05EtOcnAcMMpvunDNl5V3x",
+      "id": "05EtOcnAcMMpvunDNl5V3x"
+    },
+    {
+      "artistName": "Las Palomitas de Juan Francisco",
+      "positioning": {
+        "top": 592,
+        "left": 972
+      },
+      "style": {
+        "color": "#868b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c67750e40e50c100d79fd2f33f51d52bc41f4c3d",
+        "title": "e.g. Las Palomitas de Juan Francisco \"Que Chingue a la Suya\"",
+        "trackId": "6TL3UlAfjNzPVyrCTevnlG"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=4bFSLsUvtkVm3mtAlAIVWb",
+      "id": "4bFSLsUvtkVm3mtAlAIVWb"
+    },
+    {
+      "artistName": "Sombra Chicana de San Luis",
+      "positioning": {
+        "top": 630,
+        "left": 1383
+      },
+      "style": {
+        "color": "#997b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78d97e061cc266f43a3afa9915a0672f2e6a2530",
+        "title": "e.g. Sombra Chicana de San Luis \"De Mi Rancho a Tu Rancho\"",
+        "trackId": "2LZydwnhKu2tv0ni9hCXMk"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=32JeovvKRHO6o2FwSbc0h5",
+      "id": "32JeovvKRHO6o2FwSbc0h5"
+    },
+    {
+      "artistName": "Fuerza Potosina de Noe Carreon",
+      "positioning": {
+        "top": 553,
+        "left": 548
+      },
+      "style": {
+        "color": "#cf7600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8a9ef015fb4c3733fdf2f34e1d7e55e16aaa9ad2",
+        "title": "e.g. Fuerza Potosina de Noe Carreon \"El Negro Potosino\"",
+        "trackId": "3ZneJaHBpXStZ8twPKTlqM"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=6IE3p8F8HAycqlBTAAyBNL",
+      "id": "6IE3p8F8HAycqlBTAAyBNL"
+    },
+    {
+      "artistName": "Diamantes Azules",
+      "positioning": {
+        "top": 423,
+        "left": 972
+      },
+      "style": {
+        "color": "#af8b3f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7762759f8cfed09228d09605975ca5e5e1744375",
+        "title": "e.g. Diamantes Azules \"Di Que No Me Dejaras\"",
+        "trackId": "4Kw6sdhrZlxqWqLpli5nJD"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=3QktDSE6tieN3tDJZQGmCf",
+      "id": "3QktDSE6tieN3tDJZQGmCf"
+    },
+    {
+      "artistName": "Extremo Norte la Furia Potosina",
+      "positioning": {
+        "top": 712,
+        "left": 748
+      },
+      "style": {
+        "color": "#c88001",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e8bc5dd1d132f50d7d894632c062b6342626c63",
+        "title": "e.g. Extremo Norte la Furia Potosina \"La Gran Carrera: San Luis vs. Guanajuato\"",
+        "trackId": "4A2enYXMvNMk3n3AYeX2VH"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=0eKQsPS83n3Vzjx2VQPmP4",
+      "id": "0eKQsPS83n3Vzjx2VQPmP4"
+    },
+    {
+      "artistName": "Colombia John",
+      "positioning": {
+        "top": 28,
+        "left": 833
+      },
+      "style": {
+        "color": "#ab952c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fec1ff722ef8f48b330818fd25d63918e323ac28",
+        "title": "e.g. Colombia John \"NIÑA HERMOSA\"",
+        "trackId": "5Kz33q6De6bHbdihh7KzK7"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=0v46LbU8Grqzbo3qvs1vYB",
+      "id": "0v46LbU8Grqzbo3qvs1vYB"
+    },
+    {
+      "artistName": "Grupo Azote de San Luis",
+      "positioning": {
+        "top": 527,
+        "left": 1099
+      },
+      "style": {
+        "color": "#ab8d03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3aea9b9a100e4e9c80df607d5f02119576424b21",
+        "title": "e.g. Grupo Azote de San Luis \"El Regreso del Potosino\"",
+        "trackId": "7rRHXKEfdJx1yMV7eJCzwq"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=05k4oH5Yn5rGfpUtvP8qH4",
+      "id": "05k4oH5Yn5rGfpUtvP8qH4"
+    },
+    {
+      "artistName": "Los Dominantes de San Luis",
+      "positioning": {
+        "top": 714,
+        "left": 1002
+      },
+      "style": {
+        "color": "#b18621",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6316a50d4750d3f37370818f5a51c931cb837f6",
+        "title": "e.g. Los Dominantes de San Luis \"El Corrido de Juan Ortiz\"",
+        "trackId": "0OuFSY2aBc96UqdEhZe6v2"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=5FBQNTW9ETNoYQ49yr50DF",
+      "id": "5FBQNTW9ETNoYQ49yr50DF"
+    },
+    {
+      "artistName": "Groupo L.A. Invasion de Cerritos S.L.P.",
+      "positioning": {
+        "top": 552,
+        "left": 929
+      },
+      "style": {
+        "color": "#cf8000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13bddbd5d70955c26fd8f095e5e8813f4e5167e3",
+        "title": "e.g. Groupo L.A. Invasion de Cerritos S.L.P. \"El As de la Sierra\"",
+        "trackId": "2Om8z1C45DhCKgngcChUxm"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=0Qvjk8tabvGZAY86Wcjjb9",
+      "id": "0Qvjk8tabvGZAY86Wcjjb9"
+    },
+    {
+      "artistName": "Los Pynnkys",
+      "positioning": {
+        "top": 302,
+        "left": 548
+      },
+      "style": {
+        "color": "#b09b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99197abb95d7f7f58821a6ea5090cd35b873d6a3",
+        "title": "e.g. Los Pynnkys \"Suena Mi Esqueleto\"",
+        "trackId": "0dv7QRY8vgaQmSoFPMhccl"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=0tWCKtT2Ai3rWZT5qPCc7D",
+      "id": "0tWCKtT2Ai3rWZT5qPCc7D"
+    },
+    {
+      "artistName": "Los Rivales de San Luis",
+      "positioning": {
+        "top": 598,
+        "left": 136
+      },
+      "style": {
+        "color": "#bd8506",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1b0c3e23fb0d5053ef3d103c8bd87cf0fd398dd0",
+        "title": "e.g. Los Rivales de San Luis \"Pacas de Alfalfa\"",
+        "trackId": "4U8AmqkfKm3pPn8YXigBEE"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=4YNgP8L9Txb5Xle2q6O6mQ",
+      "id": "4YNgP8L9Txb5Xle2q6O6mQ"
+    },
+    {
+      "artistName": "Los Vaqueros del Norte de C.V.",
+      "positioning": {
+        "top": 737,
+        "left": 863
+      },
+      "style": {
+        "color": "#d17b2f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9286282d7494a9fd1d97638a3a907818fb3b5499",
+        "title": "e.g. Los Vaqueros del Norte de C.V. \"Albur de Amor\"",
+        "trackId": "1G8vRO8j78D38m6m5iYEoJ"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=7A0IJwegi5ibwpWnpInJWc",
+      "id": "7A0IJwegi5ibwpWnpInJWc"
+    },
+    {
+      "artistName": "Grupo Errante",
+      "positioning": {
+        "top": 610,
+        "left": 300
+      },
+      "style": {
+        "color": "#ba840b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ed9364e88e1a007e004b0f030602c2304f7d143",
+        "title": "e.g. Grupo Errante \"El Corrido de la Niña\"",
+        "trackId": "4w6Q33B7utLtWxusiGECwM"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=72sE7dHdHeyYorWzCmHLaz",
+      "id": "72sE7dHdHeyYorWzCmHLaz"
+    },
+    {
+      "artistName": "Libertad",
+      "positioning": {
+        "top": 509,
+        "left": 30
+      },
+      "style": {
+        "color": "#a4870e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6fd49490128abed8dcab87ddb256c363a84cc763",
+        "title": "e.g. Libertad \"Rondo a la turca\"",
+        "trackId": "6LV1Aq2pmwhJtSyxTexJxL"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=5Hr7lIXMpGCn20hMoQgKtQ",
+      "id": "5Hr7lIXMpGCn20hMoQgKtQ"
+    },
+    {
+      "artistName": "Los Paisanos del Norte",
+      "positioning": {
+        "top": 565,
+        "left": 1129
+      },
+      "style": {
+        "color": "#9b8b38",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c433465198844d4bb50ee621381dec1913b4d9fb",
+        "title": "e.g. Los Paisanos del Norte \"El Cheque\"",
+        "trackId": "1j3u8zmduHnyw2Ps2RIZew"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=1Hc10xbL92SQpWOy2erSnm",
+      "id": "1Hc10xbL92SQpWOy2erSnm"
+    },
+    {
+      "artistName": "El Retorno de San Luis",
+      "positioning": {
+        "top": 609,
+        "left": 705
+      },
+      "style": {
+        "color": "#c87510",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f15eaaf1ab45cf00d60b6f60675e4e87278f1206",
+        "title": "e.g. El Retorno de San Luis \"Carrizaleando\"",
+        "trackId": "5flEy8LzVjAXC22zcjvYMf"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=7u2RJOVHEIFEX9QrXCkDej",
+      "id": "7u2RJOVHEIFEX9QrXCkDej"
+    },
+    {
+      "artistName": "Sendero Norte",
+      "positioning": {
+        "top": 526,
+        "left": 161
+      },
+      "style": {
+        "color": "#cc7f11",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f75d915f0314899ceb727890e5702fd804e6502",
+        "title": "e.g. Sendero Norte \"El Potosino\"",
+        "trackId": "6a9K9yu7nTqn627Np556ga"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=0EpnaPZYtjvcA4ISgGRx4G",
+      "id": "0EpnaPZYtjvcA4ISgGRx4G"
+    },
+    {
+      "artistName": "Los Vaqueros de Cornelio Villanueva",
+      "positioning": {
+        "top": 737,
+        "left": 609
+      },
+      "style": {
+        "color": "#d68500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=0oQrFFaChE2KojNA9dqR2C",
+      "id": "0oQrFFaChE2KojNA9dqR2C"
+    },
+    {
+      "artistName": "Kumbia Mal Formada",
+      "positioning": {
+        "top": 843,
+        "left": 3
+      },
+      "style": {
+        "color": "#988f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98f46ccd08424ce2e8573ae8311c2f72dc77022e",
+        "title": "e.g. Kumbia Mal Formada \"Mucho Humo\"",
+        "trackId": "7lRUCpIAXz8e78vxwMHHQ2"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=3YKVBPJuyi57X5dKVD8VH3",
+      "id": "3YKVBPJuyi57X5dKVD8VH3"
+    },
+    {
+      "artistName": "Diferencia Norteña",
+      "positioning": {
+        "top": 432,
+        "left": 36
+      },
+      "style": {
+        "color": "#c98200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f6bae2852435e0dc6efb3e1420aebed3313a2369",
+        "title": "e.g. Diferencia Norteña \"Aunque Mal Paguen Ellas\"",
+        "trackId": "26yRThovwoKeptyZ9EvncW"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=3sslHP94szUNC3TSdYnGFI",
+      "id": "3sslHP94szUNC3TSdYnGFI"
+    },
+    {
+      "artistName": "Los Campeones del Norte",
+      "positioning": {
+        "top": 690,
+        "left": 960
+      },
+      "style": {
+        "color": "#ac8611",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8566ac1db464ac60546ffc8dda7c3e0e0ea86e19",
+        "title": "e.g. Los Campeones del Norte \"El Diablo Verde\"",
+        "trackId": "1BC5NmPeZf9kaMP4AbSevo"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=4mAzlg9H5Ce8RQruaxJqiV",
+      "id": "4mAzlg9H5Ce8RQruaxJqiV"
+    },
+    {
+      "artistName": "Los Narcos De San Luis",
+      "positioning": {
+        "top": 515,
+        "left": 990
+      },
+      "style": {
+        "color": "#db7400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=5aYqVDozLBznPVO9zwvwz4",
+      "id": "5aYqVDozLBznPVO9zwvwz4"
+    },
+    {
+      "artistName": "Vaqueros del Norte de C.V.",
+      "positioning": {
+        "top": 459,
+        "left": 1002
+      },
+      "style": {
+        "color": "#e87591",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=6xFuHolBV8CtVwaWputA2f",
+      "id": "6xFuHolBV8CtVwaWputA2f"
+    },
+    {
+      "artistName": "Vereda Norteña",
+      "positioning": {
+        "top": 432,
+        "left": 645
+      },
+      "style": {
+        "color": "#db7a09",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=5uCiakyq3ZsMcgYyDGmaaS",
+      "id": "5uCiakyq3ZsMcgYyDGmaaS"
+    },
+    {
+      "artistName": "Sombra Chicana de S.L.P.",
+      "positioning": {
+        "top": 668,
+        "left": 300
+      },
+      "style": {
+        "color": "#d96600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e20110fe479cd05084c7bc4aa603135bfb46fea",
+        "title": "e.g. Sombra Chicana de S.L.P. \"Homenaje a los Terribles del Norte\"",
+        "trackId": "3h8FmvS5h5nxsKXW4NBb8P"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=7dgmVvH87egRg6yVcnvPP1",
+      "id": "7dgmVvH87egRg6yVcnvPP1"
+    },
+    {
+      "artistName": "Vaqueros de Cornelio Villanueva",
+      "positioning": {
+        "top": 630,
+        "left": 445
+      },
+      "style": {
+        "color": "#c78200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/43353f6c17e25355e0d3cc567935137a7fecf32b",
+        "title": "e.g. Vaqueros de Cornelio Villanueva \"Te He de Querer\"",
+        "trackId": "4ZyFnBEoKIQA2M9tw7euN5"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=1GNZLX5vKGoN4rN2oAmVA9",
+      "id": "1GNZLX5vKGoN4rN2oAmVA9"
+    },
+    {
+      "artistName": "Rebelion Kumbia",
+      "positioning": {
+        "top": 702,
+        "left": 990
+      },
+      "style": {
+        "color": "#80a400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/caacdcd521ba22bb805fbb8af3ce11a669823e96",
+        "title": "e.g. Rebelion Kumbia \"Vamos a darnos tiempo.\"",
+        "trackId": "43R8yuTmsEgChaZoYRPuLC"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=2zPWi4xAJvf3r5w65o1z68",
+      "id": "2zPWi4xAJvf3r5w65o1z68"
+    },
+    {
+      "artistName": "Enleonados Del Norte",
+      "positioning": {
+        "top": 343,
+        "left": 397
+      },
+      "style": {
+        "color": "#b68500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2594ef4b82b6315e1490985ea4199c2590da72ed",
+        "title": "e.g. Enleonados Del Norte \"El Fiscal de Hierro\"",
+        "trackId": "4j6KGM3FIaCCwirG4MiPmQ"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=3tzBZ9lbhoRfg3RyRvWgjn",
+      "id": "3tzBZ9lbhoRfg3RyRvWgjn"
+    },
+    {
+      "artistName": "Los Palomitas",
+      "positioning": {
+        "top": 685,
+        "left": 13
+      },
+      "style": {
+        "color": "#90966f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b434c32d5a2afee14bd0ab301f4c58d7deb60a4",
+        "title": "e.g. Los Palomitas \"Caballos Famosos de la Region\"",
+        "trackId": "5Kmdbu2A0IFudb1rFYTmPo"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=0QeoSrSMhn1xYiFW1v7LtT",
+      "id": "0QeoSrSMhn1xYiFW1v7LtT"
+    },
+    {
+      "artistName": "Los Mala Junta",
+      "positioning": {
+        "top": 549,
+        "left": 45
+      },
+      "style": {
+        "color": "#b58c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae2ee75cf9e86988ef56d8872e18f269ca76fe7f",
+        "title": "e.g. Los Mala Junta \"Ritmo Colosal\"",
+        "trackId": "7wr8xCqaNSumP8noww7tRQ"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=5URKqzBA7RecLZpcvLqlEJ",
+      "id": "5URKqzBA7RecLZpcvLqlEJ"
+    },
+    {
+      "artistName": "Los Tipicos de San Juan Torres",
+      "positioning": {
+        "top": 680,
+        "left": 245
+      },
+      "style": {
+        "color": "#928300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=2nsGF3X91sTL5SuGxFwKdM",
+      "id": "2nsGF3X91sTL5SuGxFwKdM"
+    },
+    {
+      "artistName": "Alegria Norteña de San Luis",
+      "positioning": {
+        "top": 900,
+        "left": 0
+      },
+      "style": {
+        "color": "#af9300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=01xJPNdfGu8onEl1l9V0ll",
+      "id": "01xJPNdfGu8onEl1l9V0ll"
+    },
+    {
+      "artistName": "Grupo Traficante de San Luis",
+      "positioning": {
+        "top": 762,
+        "left": 30
+      },
+      "style": {
+        "color": "#bb8a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/df50e8dfaf1e06b2e295a0261c7a4cb702a67999",
+        "title": "e.g. Grupo Traficante de San Luis \"La 4x4\"",
+        "trackId": "1KCtoXlug4bMdE4uXFBobn"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=6P91v3Rel011bzvNw2XYCC",
+      "id": "6P91v3Rel011bzvNw2XYCC"
+    },
+    {
+      "artistName": "Grupo Trafficantes de San Luis",
+      "positioning": {
+        "top": 617,
+        "left": 481
+      },
+      "style": {
+        "color": "#9e8900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=4QF8R8eps6pk20H43LdFdU",
+      "id": "4QF8R8eps6pk20H43LdFdU"
+    },
+    {
+      "artistName": "Vaqueros de San Luis",
+      "positioning": {
+        "top": 489,
+        "left": 385
+      },
+      "style": {
+        "color": "#d18d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=30f33jQOUxonzIRKx6jI8s",
+      "id": "30f33jQOUxonzIRKx6jI8s"
+    },
+    {
+      "artistName": "Aparecidos",
+      "positioning": {
+        "top": 654,
+        "left": 373
+      },
+      "style": {
+        "color": "#869357",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acc1e22a24f5f7fcbe73efc4156b525b1c60a9b8",
+        "title": "e.g. Aparecidos \"Infierno en el Cielo\"",
+        "trackId": "0qBMhe4DUuMcEF7fXnpvXq"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=7w5to2q4iGWlyb88o4SHMD",
+      "id": "7w5to2q4iGWlyb88o4SHMD"
+    },
+    {
+      "artistName": "Trafficantes de San Luis",
+      "positioning": {
+        "top": 411,
+        "left": 469
+      },
+      "style": {
+        "color": "#909703",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=4DcBSDPsUjYCsAFWihfEk6",
+      "id": "4DcBSDPsUjYCsAFWihfEk6"
+    },
+    {
+      "artistName": "Vaquero del Norte de Cornelio Villanueva",
+      "positioning": {
+        "top": 762,
+        "left": 730
+      },
+      "style": {
+        "color": "#db7c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/31b4d77a7ee9f9a1a445f368a7614aa360176db3",
+        "title": "e.g. Vaquero del Norte de Cornelio Villanueva \"Nieves de Enero\"",
+        "trackId": "7iFnwCw1JuIBjMBIN7uFWs"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=41f0ChXsEiQWtzGagHG71G",
+      "id": "41f0ChXsEiQWtzGagHG71G"
+    },
+    {
+      "artistName": "Azote de San Luis",
+      "positioning": {
+        "top": 747,
+        "left": 1250
+      },
+      "style": {
+        "color": "#c58010",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/902fb46b1481433cb62eb29694ecac3f1d551227",
+        "title": "e.g. Azote de San Luis \"La Filimona\"",
+        "trackId": "0Xw2qQiwbF2qVaJkFCoeJD"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=3jHonXfmG3XCio7L6tI7UL",
+      "id": "3jHonXfmG3XCio7L6tI7UL"
+    },
+    {
+      "artistName": "Los Cazadores de San Luis",
+      "positioning": {
+        "top": 248,
+        "left": 0
+      },
+      "style": {
+        "color": "#db7000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50cda8dd5d29263fc8b0a2bb13be07e1e9728af4",
+        "title": "e.g. Los Cazadores de San Luis \"Notas Nupciales\"",
+        "trackId": "13BfPBK0eH2mBEEqAGDuCM"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=5wlM08dokv64aZU5Mn99tM",
+      "id": "5wlM08dokv64aZU5Mn99tM"
+    },
+    {
+      "artistName": "Encuentro Norteño de San Luis",
+      "positioning": {
+        "top": 496,
+        "left": 10
+      },
+      "style": {
+        "color": "#dd7e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=4BEg0dVFdwYVQ660ig0Xcs",
+      "id": "4BEg0dVFdwYVQ660ig0Xcs"
+    },
+    {
+      "artistName": "Los Narcos de S.L.P",
+      "positioning": {
+        "top": 447,
+        "left": 881
+      },
+      "style": {
+        "color": "#d48000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=5KOH1KraBv2AXqafN3Ohqw",
+      "id": "5KOH1KraBv2AXqafN3Ohqw"
+    },
+    {
+      "artistName": "Los Duenos de San Luis",
+      "positioning": {
+        "top": 670,
+        "left": 554
+      },
+      "style": {
+        "color": "#c88818",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=2bB2gZNzgxQ1m5QvHRi9fL",
+      "id": "2bB2gZNzgxQ1m5QvHRi9fL"
+    },
+    {
+      "artistName": "Talento Norteno",
+      "positioning": {
+        "top": 561,
+        "left": 118
+      },
+      "style": {
+        "color": "#a68d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c63be9d60fc413838d1a025ae820cca462b2c5ca",
+        "title": "e.g. Talento Norteno \"Mi Querido San Luis\"",
+        "trackId": "1iCQrEMFZjBRhYlit7UpFR"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=18eQWl2YxqppDVSZaRYSNG",
+      "id": "18eQWl2YxqppDVSZaRYSNG"
+    },
+    {
+      "artistName": "Los Contrabandistas de San Luis",
+      "positioning": {
+        "top": 648,
+        "left": 929
+      },
+      "style": {
+        "color": "#c68b21",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7c67b61dc19077d2badcf733c50588aa09e4eb3",
+        "title": "e.g. Los Contrabandistas de San Luis \"La Venadita\"",
+        "trackId": "2v2Slfx5OJAx8BFOkNzxqB"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=5vAMCalajrdopHM7rji34T",
+      "id": "5vAMCalajrdopHM7rji34T"
+    },
+    {
+      "artistName": "Grupo L.A. Invasion de Cerritos S.L.P.",
+      "positioning": {
+        "top": 501,
+        "left": 463
+      },
+      "style": {
+        "color": "#ce7e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=2SUzFDYodjGQI14P5JVPLb",
+      "id": "2SUzFDYodjGQI14P5JVPLb"
+    },
+    {
+      "artistName": "Los Indomables de Cedral Inseparables",
+      "positioning": {
+        "top": 645,
+        "left": 1220
+      },
+      "style": {
+        "color": "#aa9400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ada22a7743dc7b1a055e054316c72697f9633f4c",
+        "title": "e.g. Los Indomables de Cedral Inseparables \"Por Que Nos Vinimos al Norte\"",
+        "trackId": "6MDz3aBApJNtp4mYxOJuzX"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=0Tzp5QhPQzatkX3JtF3j56",
+      "id": "0Tzp5QhPQzatkX3JtF3j56"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=musica%20potosina"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/17CzstuiihayOksRwVdG5Q"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/76yp16j0XDpGYhYfvxdhEy"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5Ik8ZDVPK5QLUifv5RypS2"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/6LJhoZWRcBoXaUs3mgluSM"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=musica%20potosina"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "huapango",
+      "positioning": {
+        "top": 194,
+        "left": 274
+      },
+      "style": {
+        "color": "#af8925",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f619e2096edf7c033e94358b66dcb9882eda7f7",
+        "title": "e.g. Conjunto Linares \"Los Tecolotes\"",
+        "trackId": "0eatJoJ4OYQes97Dpym5Tk"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-huapango.html#tunnel"
+    },
+    {
+      "genreName": "musica bajacaliforniana",
+      "positioning": {
+        "top": 238,
+        "left": 174
+      },
+      "style": {
+        "color": "#ab8701",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/79af8df3e00895249c9106d94830690dd0ad110e",
+        "title": "e.g. Grupo 4to Poder \"Brazo Armado\"",
+        "trackId": "6u6tyA3S8kWR5YFdNKijsZ"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-musicabajacaliforniana.html#tunnel"
+    },
+    {
+      "genreName": "cumbia sonorense",
+      "positioning": {
+        "top": 251,
+        "left": 193
+      },
+      "style": {
+        "color": "#a68909",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a9815872075586ffb205402d8ddfade561e3578",
+        "title": "e.g. Grupo PautAzul \"La Pergola\"",
+        "trackId": "6dHS9VwI5uiikL7ndmUXy1"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-cumbiasonorense.html#tunnel"
+    },
+    {
+      "genreName": "musica costena",
+      "positioning": {
+        "top": 181,
+        "left": 274
+      },
+      "style": {
+        "color": "#aa8b06",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85c1ae75e4034e0cf116618f5635c3f7cec53630",
+        "title": "e.g. Raza Costeña \"Coyuyo\"",
+        "trackId": "5Ae6gz5x08Fnr3ryeahykN"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-musicacostena.html#tunnel"
+    },
+    {
+      "genreName": "chilena",
+      "positioning": {
+        "top": 163,
+        "left": 207
+      },
+      "style": {
+        "color": "#ab8a13",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0765e396d3a22053bc78f69220cc82238c6c7c49",
+        "title": "e.g. La Excelencia De Oaxaca \"Mi Linda Tierra\"",
+        "trackId": "7GWYJL3em1sPE3zFzCuYYA"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-chilena.html#tunnel"
+    },
+    {
+      "genreName": "folclor afrocolombiano",
+      "positioning": {
+        "top": 288,
+        "left": 237
+      },
+      "style": {
+        "color": "#aa8711",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e1380aa458812c8a2b0c3e0faa1713551fbfebcf",
+        "title": "e.g. Grupo Bahia \"Kilele\"",
+        "trackId": "5JP0h4RzOslJk1jpPZNMlu"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-folclorafrocolombiano.html#tunnel"
+    },
+    {
+      "genreName": "tropical",
+      "positioning": {
+        "top": 276,
+        "left": 181
+      },
+      "style": {
+        "color": "#b08805",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19ec22ff7f245ccbf63467252bc04e0074ceefcc",
+        "title": "e.g. Jerry Rivera \"Amores Como el Nuestro\"",
+        "trackId": "3WLXf7K7mIGEBtFq41afce"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-tropical.html#tunnel"
+    },
+    {
+      "genreName": "musica duranguense",
+      "positioning": {
+        "top": 263,
+        "left": 185
+      },
+      "style": {
+        "color": "#a28306",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/484345cad9255d5fff5c8c03dc27129af98287af",
+        "title": "e.g. Los Empacadores De Durango \"El Equipo De Los R\"",
+        "trackId": "0rjcsqV9MtfJZFnPvE3nEk"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-musicaduranguense.html#tunnel"
+    },
+    {
+      "genreName": "corridos alternativos",
+      "positioning": {
+        "top": 301,
+        "left": 215
+      },
+      "style": {
+        "color": "#a78801",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b427f7cae11c179c60ea2872129f9fddbd024fd",
+        "title": "e.g. Erik Estrada \"El Violento\"",
+        "trackId": "3TSPYXa1ItHKsHLdsBpuuh"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-corridosalternativos.html#tunnel"
+    },
+    {
+      "genreName": "salsa colombiana",
+      "positioning": {
+        "top": 129,
+        "left": 300
+      },
+      "style": {
+        "color": "#be8f07",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e78937785523c93857401dcc23a022a28dd73d6c",
+        "title": "e.g. Mariano Civico \"Te Voy a Hacer Feliz\"",
+        "trackId": "4jBkRRscUmbKtUbngf2WQf"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-salsacolombiana.html#tunnel"
+    },
+    {
+      "genreName": "kamba pop",
+      "positioning": {
+        "top": 276,
+        "left": 267
+      },
+      "style": {
+        "color": "#b88411",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/696ca022899db1fe9cdd6e7c80c0c9ef680a6866",
+        "title": "e.g. Kilamambogo Brothers \"Kilunda\"",
+        "trackId": "0Q8jBDpzZPPlILAGcAZnSE"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-kambapop.html#tunnel"
+    },
+    {
+      "genreName": "musica istmena",
+      "positioning": {
+        "top": 141,
+        "left": 237
+      },
+      "style": {
+        "color": "#a68c10",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/edaa99e7fb5f5b638b4dd8880ddfca26f96ed570",
+        "title": "e.g. Omar Osorio Y Su Orquesta \"Que Me Pasa\"",
+        "trackId": "3HNbDY1J8msPuNFzZflqEi"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-musicaistmena.html#tunnel"
+    },
+    {
+      "genreName": "musica coahuilense",
+      "positioning": {
+        "top": 58,
+        "left": 267
+      },
+      "style": {
+        "color": "#b28d06",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc96a1d07b61bedda8d9489a8d15877abad824e0",
+        "title": "e.g. Super Bandón Pobreza \"Luz y Agua\"",
+        "trackId": "0l3D32iEwV7CHBfB0yOSWn"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-musicacoahuilense.html#tunnel"
+    },
+    {
+      "genreName": "igbo pop",
+      "positioning": {
+        "top": 181,
+        "left": 156
+      },
+      "style": {
+        "color": "#c08011",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3847d9e0c133db3f782cb88d652ace204db8fc3a",
+        "title": "e.g. Zoro \"M.A.D (feat. MohBad)\"",
+        "trackId": "40q38o0RyEBtbidicwvfhm"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-igbopop.html#tunnel"
+    },
+    {
+      "genreName": "deep norteno",
+      "positioning": {
+        "top": 211,
+        "left": 0
+      },
+      "style": {
+        "color": "#b38b07",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/758011779dcf6d638985ea2b7f90f71dcd0274b0",
+        "title": "e.g. Los Palmeros de San Carlos Chih. \"El Dia de Tu Boda\"",
+        "trackId": "7GGq4GKM9wrBwnPxCKyfsX"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-deepnorteno.html#tunnel"
+    },
+    {
+      "genreName": "vallenato moderno",
+      "positioning": {
+        "top": 169,
+        "left": 293
+      },
+      "style": {
+        "color": "#bf8203",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b633e38052f7d5a45650ea49e3e9351879ea637f",
+        "title": "e.g. Mono Zabaleta \"Imborrable\"",
+        "trackId": "1X0RfkzkHU9AetJrOpUigO"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-vallenatomoderno.html#tunnel"
+    },
+    {
+      "genreName": "afrobeats",
+      "positioning": {
+        "top": 0,
+        "left": 181
+      },
+      "style": {
+        "color": "#b88806",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d9b97825d2fd155ef58cc5d3693b6e3b09ca8b42",
+        "title": "e.g. Ice Prince \"KOLO (feat. Oxlade)\"",
+        "trackId": "1UM3RVanAaakxcx9GkfNTL"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-afrobeats.html#tunnel"
+    },
+    {
+      "genreName": "azontobeats",
+      "positioning": {
+        "top": 12,
+        "left": 104
+      },
+      "style": {
+        "color": "#be8606",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/468985d9238cf7154010b470eae25c6a0ba82ba5",
+        "title": "e.g. Serge Beynaud \"C'est dosé\"",
+        "trackId": "0UWLz61FiuLAEcpLebbvZB"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-azontobeats.html#tunnel"
+    },
+    {
+      "genreName": "banda",
+      "positioning": {
+        "top": 254,
+        "left": 41
+      },
+      "style": {
+        "color": "#998e06",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9da152ba095773913e1826bfd19c78609b43496",
+        "title": "e.g. Banda Clave Nueva \"Cuál Adiós\"",
+        "trackId": "5R9lPFnoJGppR1MsI7vHxy"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-banda.html#tunnel"
+    },
+    {
+      "genreName": "banda jalisciense",
+      "positioning": {
+        "top": 288,
+        "left": 85
+      },
+      "style": {
+        "color": "#98860b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ddd66548355090da2499ba42ea0155883ac073f",
+        "title": "e.g. Banda La Peña \"Jardín Olvidado\"",
+        "trackId": "5mpvs77cZTyafzc0AYpyD0"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-bandajalisciense.html#tunnel"
+    }
+  ]
+}

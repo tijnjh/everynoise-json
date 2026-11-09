@@ -1,0 +1,1842 @@
+{
+  "schemaVersion": 3,
+  "genreName": "techengue",
+  "artists": [
+    {
+      "artistName": "ZECCA",
+      "positioning": {
+        "top": 310,
+        "left": 705
+      },
+      "style": {
+        "color": "#a69700",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=2Yia9CwtgcrsN5kVOQ0qRA",
+      "id": "2Yia9CwtgcrsN5kVOQ0qRA"
+    },
+    {
+      "artistName": "Facundo Majdalani",
+      "positioning": {
+        "top": 543,
+        "left": 409
+      },
+      "style": {
+        "color": "#ad9b02",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f0f73210d21bc5b29df2c6bdc6e85d262b409fd8",
+        "title": "e.g. Facundo Majdalani \"Pegao\"",
+        "trackId": "6FEm8wc0LnROH9CD9BReav"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=3NyQOEvPVM0jpm4Kh7sY5A",
+      "id": "3NyQOEvPVM0jpm4Kh7sY5A"
+    },
+    {
+      "artistName": "ThomyDomé",
+      "positioning": {
+        "top": 364,
+        "left": 732
+      },
+      "style": {
+        "color": "#ae8f07",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1081404c7486e16a7ad578bd8a23027358e37467",
+        "title": "e.g. ThomyDomé \"Holanda - Latin Tech\"",
+        "trackId": "0Z69ApbtywTclF3B6bXDKJ"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=5qqUYMzxKlvDnSgAMIePLd",
+      "id": "5qqUYMzxKlvDnSgAMIePLd"
+    },
+    {
+      "artistName": "Santiago Ibarra",
+      "positioning": {
+        "top": 608,
+        "left": 506
+      },
+      "style": {
+        "color": "#ae9205",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2324fad9c8b6d6508fbf9001c00dd020ad47729c",
+        "title": "e.g. Santiago Ibarra \"Playa Del Ingles (Tech House) - Remix\"",
+        "trackId": "0ujpCvMAH5QT1ktdE82MLI"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=0GdhrNbXSn4TOvqinRC076",
+      "id": "0GdhrNbXSn4TOvqinRC076"
+    },
+    {
+      "artistName": "Dj Nacho Serra",
+      "positioning": {
+        "top": 380,
+        "left": 962
+      },
+      "style": {
+        "color": "#a89209",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76da0fa06cbaf18b7bc11e7b4412e9e1df623880",
+        "title": "e.g. Dj Nacho Serra \"512v\"",
+        "trackId": "2oQz32JhGEmemuItfgoz1M"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=37JbKGCIYTyYw01zML801E",
+      "id": "37JbKGCIYTyYw01zML801E"
+    },
+    {
+      "artistName": "Benja Murano",
+      "positioning": {
+        "top": 342,
+        "left": 564
+      },
+      "style": {
+        "color": "#c68b07",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2dcab9010b02d9620f3f265248383a5b8f119a9",
+        "title": "e.g. Benja Murano \"Bachata (House Remix)\"",
+        "trackId": "1HIxnCSsGHW8BB4KsEovsL"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=60iQQCqxRxnfGVn7O0ijl4",
+      "id": "60iQQCqxRxnfGVn7O0ijl4"
+    },
+    {
+      "artistName": "Conrado",
+      "positioning": {
+        "top": 581,
+        "left": 418
+      },
+      "style": {
+        "color": "#bf8c0e",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06c4763d212590b080ca9418ab2bdd69c2edd79b",
+        "title": "e.g. Conrado \"Si No Estas\"",
+        "trackId": "0WXwpjVjaJvfZDcNvreRPR"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=5SRZIc21bFdo3fRxOaoF9e",
+      "id": "5SRZIc21bFdo3fRxOaoF9e"
+    },
+    {
+      "artistName": "GianGallia",
+      "positioning": {
+        "top": 699,
+        "left": 281
+      },
+      "style": {
+        "color": "#ae8b01",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09c702b30b04709f59dcb47ff7c1e9bbd54b5ec2",
+        "title": "e.g. GianGallia \"Rara Vez vs Where Them Girls At\"",
+        "trackId": "5PKBOEjPqa5Tp40DgilCME"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=6fkPEbBlj7lR880OY9SzCk",
+      "id": "6fkPEbBlj7lR880OY9SzCk"
+    },
+    {
+      "artistName": "Delirio Mix",
+      "positioning": {
+        "top": 526,
+        "left": 798
+      },
+      "style": {
+        "color": "#b18807",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42ff9f8d37b43fa493b393df1117a2ec3a0700b9",
+        "title": "e.g. Delirio Mix \"Discoteka\"",
+        "trackId": "6m6MtMdYdodHeiGbepHZa8"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=7fiUtSeEYMX5lZZkKoiX77",
+      "id": "7fiUtSeEYMX5lZZkKoiX77"
+    },
+    {
+      "artistName": "FRVNKK",
+      "positioning": {
+        "top": 511,
+        "left": 957
+      },
+      "style": {
+        "color": "#a98f02",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ee4f4dde888fdb5e3615f661cf708ecde16b822",
+        "title": "e.g. FRVNKK \"Un Preview\"",
+        "trackId": "7kE4nvhkurW6Zc57d67tbx"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=73ZUVJpRyRACS9qUSGVpWC",
+      "id": "73ZUVJpRyRACS9qUSGVpWC"
+    },
+    {
+      "artistName": "Mike Morato",
+      "positioning": {
+        "top": 477,
+        "left": 228
+      },
+      "style": {
+        "color": "#d18400",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee1aada447612edb676bb8644330c9e3536824dd",
+        "title": "e.g. Mike Morato \"La Ex Reina\"",
+        "trackId": "4yWXwwMFIckINbJyZhcwf9"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=3VmfDmVdwWG8h7e6psVjfM",
+      "id": "3VmfDmVdwWG8h7e6psVjfM"
+    },
+    {
+      "artistName": "Ivan Armesto",
+      "positioning": {
+        "top": 500,
+        "left": 758
+      },
+      "style": {
+        "color": "#aa9601",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/621b7fb0a1af6376ea5e995c10367f5d919e25d6",
+        "title": "e.g. Ivan Armesto \"Demasiadas Mujeres - Remix\"",
+        "trackId": "6riUxc6cJgLUeNqRdUiafQ"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=2JCTGC05daU0leldfrJg0d",
+      "id": "2JCTGC05daU0leldfrJg0d"
+    },
+    {
+      "artistName": "Lucas Cash",
+      "positioning": {
+        "top": 525,
+        "left": 285
+      },
+      "style": {
+        "color": "#b99105",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f52a071a6760aff6739c4eb103f111011b3d54f",
+        "title": "e.g. Lucas Cash \"X Eso Bb\"",
+        "trackId": "0vpq3M718WFxlx9UfkcZXx"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=4kBk37a53jWlSwkVin09yc",
+      "id": "4kBk37a53jWlSwkVin09yc"
+    },
+    {
+      "artistName": "JVX",
+      "positioning": {
+        "top": 660,
+        "left": 8
+      },
+      "style": {
+        "color": "#c28500",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3097a0ef434a5410fa715a3d2382d5d4d0af6c89",
+        "title": "e.g. JVX \"ANTHEM\"",
+        "trackId": "3lt51IE7AeTc1ceVJ6dV6Y"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=2S6Gu4CCIbjYz4TjqpKsYx",
+      "id": "2S6Gu4CCIbjYz4TjqpKsYx"
+    },
+    {
+      "artistName": "Fran Tapia DJ",
+      "positioning": {
+        "top": 572,
+        "left": 263
+      },
+      "style": {
+        "color": "#c08700",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a307fa4cd96710f61159d5a211579daa91851f2c",
+        "title": "e.g. Fran Tapia DJ \"Gta Vs Im Good (Blue) - Remix\"",
+        "trackId": "6CndLv8MEMaWOrO9biHQSZ"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=2Kk2M9tuolP8L9fWepeXgb",
+      "id": "2Kk2M9tuolP8L9fWepeXgb"
+    },
+    {
+      "artistName": "Anthony Godfather",
+      "positioning": {
+        "top": 197,
+        "left": 1353
+      },
+      "style": {
+        "color": "#bd7e65",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/36a78130d21f5f04f255096c5593f5904ccfe955",
+        "title": "e.g. Anthony Godfather \"Cacao Live Show Caliente + Extra Edit - En Vivo\"",
+        "trackId": "6z5EKok1IxVF5esYruCNSj"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=1CYqCVVCerhOIUu6gmGpP8",
+      "id": "1CYqCVVCerhOIUu6gmGpP8"
+    },
+    {
+      "artistName": "Juanka Cassane",
+      "positioning": {
+        "top": 482,
+        "left": 590
+      },
+      "style": {
+        "color": "#c28d09",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30f259c00bb55de8c63ad2ea8b68aba18d0f8be5",
+        "title": "e.g. Juanka Cassane \"Wiggy Vs P.I.M.P - House Remix\"",
+        "trackId": "0MUjkXHNjpb9c9H84lLExP"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=4I5ULmlot8VShJQeD1Qgxi",
+      "id": "4I5ULmlot8VShJQeD1Qgxi"
+    },
+    {
+      "artistName": "bauti bory",
+      "positioning": {
+        "top": 515,
+        "left": 652
+      },
+      "style": {
+        "color": "#aa9111",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc644eec4baa8776048538fae9c0c8dc5b5eef89",
+        "title": "e.g. bauti bory \"Si Quieren Frontear (House) - Remix\"",
+        "trackId": "1Lgr88u77xnfhgl7o8P4zn"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=0BhZhdXSc9JZpb8vahuJQa",
+      "id": "0BhZhdXSc9JZpb8vahuJQa"
+    },
+    {
+      "artistName": "Dj Ksa Officialx",
+      "positioning": {
+        "top": 598,
+        "left": 26
+      },
+      "style": {
+        "color": "#b78300",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5dc347434110e07d784b6a94965ebbdd8bded09c",
+        "title": "e.g. Dj Ksa Officialx \"Si Veo a Tu Mamá Vs Without You\"",
+        "trackId": "61iMxAJ5WFQyI8MbT4qSA7"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=2Yi8v5beXH3XoUnLarhFaW",
+      "id": "2Yi8v5beXH3XoUnLarhFaW"
+    },
+    {
+      "artistName": "Koatz",
+      "positioning": {
+        "top": 398,
+        "left": 962
+      },
+      "style": {
+        "color": "#ac920e",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f679a4cf8f6ae14040b8beac36e76faacda467b",
+        "title": "e.g. Koatz \"ID - Remix\"",
+        "trackId": "6vDUeM4fMUkY583UoGrN9g"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3bY5k2pwVvfkqxOmvGcIss",
+      "id": "3bY5k2pwVvfkqxOmvGcIss"
+    },
+    {
+      "artistName": "Robert Morr",
+      "positioning": {
+        "top": 172,
+        "left": 940
+      },
+      "style": {
+        "color": "#cf8088",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e896c2f6de85d536da36de6fe99e167c39b4e1b",
+        "title": "e.g. Robert Morr \"Farsante\"",
+        "trackId": "6fiWTD2xYiwB1Fyap1s03q"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=7hhJgGI7FvUFKKOtaVZ3bM",
+      "id": "7hhJgGI7FvUFKKOtaVZ3bM"
+    },
+    {
+      "artistName": "Santiago Lojo",
+      "positioning": {
+        "top": 568,
+        "left": 723
+      },
+      "style": {
+        "color": "#929804",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3becc50131a6ba847fd309e109fcbe930e983adc",
+        "title": "e.g. Santiago Lojo \"Un Finde (Crossover #2) - Remix\"",
+        "trackId": "0Lhs6gBZjts3XqvrdrsDob"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=6qBClUBiIeo7JRbu67VDSi",
+      "id": "6qBClUBiIeo7JRbu67VDSi"
+    },
+    {
+      "artistName": "SANTI VIVOT",
+      "positioning": {
+        "top": 692,
+        "left": 595
+      },
+      "style": {
+        "color": "#a29400",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dac3b8ca82ce3725085ed3207f9c1133268bf396",
+        "title": "e.g. SANTI VIVOT \"Punto G - House Remix\"",
+        "trackId": "6U3ctIALaOd2GPRlAqbxOn"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=4OyA3f3rSUhFEIKFeWFZuk",
+      "id": "4OyA3f3rSUhFEIKFeWFZuk"
+    },
+    {
+      "artistName": "Franco Giraudo",
+      "positioning": {
+        "top": 289,
+        "left": 498
+      },
+      "style": {
+        "color": "#c58222",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c01905a30b4bd9f3caaf379bcac629e8f7ab80df",
+        "title": "e.g. Franco Giraudo \"Memorias - Remix\"",
+        "trackId": "4EThtL20xu2IEFDIdE3NLk"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=0hPOmzLXp4VlVN4eOV5PaK",
+      "id": "0hPOmzLXp4VlVN4eOV5PaK"
+    },
+    {
+      "artistName": "AG Remix",
+      "positioning": {
+        "top": 215,
+        "left": 652
+      },
+      "style": {
+        "color": "#e37b06",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/908c6f6eb0a8e6c593383409c3530c8b686fdd16",
+        "title": "e.g. AG Remix \"Supernova - Remix\"",
+        "trackId": "7Ib5QVCUjhjWBaBK7EdwPk"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=7LZFRpAmD96ISiTfU3fT5R",
+      "id": "7LZFRpAmD96ISiTfU3fT5R"
+    },
+    {
+      "artistName": "Santi Cocina",
+      "positioning": {
+        "top": 513,
+        "left": 40
+      },
+      "style": {
+        "color": "#b88d0a",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2dcf8d3b0074d2ad11340e690f2df2f5d228fc38",
+        "title": "e.g. Santi Cocina \"Ni Una Ni Dos (House)\"",
+        "trackId": "5yoz1OoaIgevrCbUt3Tou6"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=5uZOZdJrE6JDHgds4Z9BkI",
+      "id": "5uZOZdJrE6JDHgds4Z9BkI"
+    },
+    {
+      "artistName": "Boyd",
+      "positioning": {
+        "top": 877,
+        "left": 157
+      },
+      "style": {
+        "color": "#aa8f02",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/152e2e94e978eafc990f18ad29ffcbdc3d5aeeae",
+        "title": "e.g. Boyd \"Out Of Market\"",
+        "trackId": "4sI0kliDIn2gVxPiVyIEWX"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=0QtxgMEY12DcJZjMcSSaHm",
+      "id": "0QtxgMEY12DcJZjMcSSaHm"
+    },
+    {
+      "artistName": "CVP . PQLM",
+      "positioning": {
+        "top": 502,
+        "left": 621
+      },
+      "style": {
+        "color": "#b18d00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/74f8e6635992464067022605d15800275c6d9a5c",
+        "title": "e.g. CVP . PQLM \"Pasame La Hookah\"",
+        "trackId": "5KBEHbmbaZ2qNrUPpKm2Tz"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=1QSiNpQ2dRYN9WZYZX795T",
+      "id": "1QSiNpQ2dRYN9WZYZX795T"
+    },
+    {
+      "artistName": "Santi Dome",
+      "positioning": {
+        "top": 785,
+        "left": 343
+      },
+      "style": {
+        "color": "#a58700",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89f7f4213677d5e1475d446826ca8b90c5defbb3",
+        "title": "e.g. Santi Dome \"Dale Mecha - House Remix\"",
+        "trackId": "5r0TYomlEGGY6eRLcyWwvO"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=62ysFsCfzsF4LLRmOphXhM",
+      "id": "62ysFsCfzsF4LLRmOphXhM"
+    },
+    {
+      "artistName": "RØCKET",
+      "positioning": {
+        "top": 612,
+        "left": 42
+      },
+      "style": {
+        "color": "#c48402",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54906558e760cec4c66e17c74432d86158668162",
+        "title": "e.g. RØCKET \"Tus Lagrimas\"",
+        "trackId": "73F8G3XN7V1YZ3Uo9tkBen"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=0swEcladq73lGGd20Hqxau",
+      "id": "0swEcladq73lGGd20Hqxau"
+    },
+    {
+      "artistName": "Guzz Martinez",
+      "positioning": {
+        "top": 624,
+        "left": 16
+      },
+      "style": {
+        "color": "#c08200",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5cf2133ba01fb66d0cc8ee429a73618a39806de2",
+        "title": "e.g. Guzz Martinez \"Mi Ciudad - House Remix\"",
+        "trackId": "2UcxtJy0iXcM4l1J4QYQyN"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6tf4WfOR7RQk8NQ4BO26DL",
+      "id": "6tf4WfOR7RQk8NQ4BO26DL"
+    },
+    {
+      "artistName": "Echu Sanchez Dj",
+      "positioning": {
+        "top": 262,
+        "left": 696
+      },
+      "style": {
+        "color": "#bf8c17",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cdeda7ef1648df29e1d7abae1a577101ecdae61e",
+        "title": "e.g. Echu Sanchez Dj \"La Bebe - Tech House\"",
+        "trackId": "6P2rCJfSS1uKAv40wreqHk"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=27pcbtJXo693Wz4XyLmURD",
+      "id": "27pcbtJXo693Wz4XyLmURD"
+    },
+    {
+      "artistName": "Daniel Maya",
+      "positioning": {
+        "top": 99,
+        "left": 1374
+      },
+      "style": {
+        "color": "#cc7848",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb0679fc31a23cf7048bb84e4df2f5de3b58caff",
+        "title": "e.g. Daniel Maya \"tu me dejaste de querer\"",
+        "trackId": "2pUnnhKT8U4IYO5Qk67pX8"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=2pfKklHfx6UUwyfIVsVq95",
+      "id": "2pfKklHfx6UUwyfIVsVq95"
+    },
+    {
+      "artistName": "Dj Taurus",
+      "positioning": {
+        "top": 586,
+        "left": 643
+      },
+      "style": {
+        "color": "#a68803",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec902aa85e20442ab75ba5f435242d1ad3dea883",
+        "title": "e.g. Dj Taurus \"Ahora Todo Cambio - Remix\"",
+        "trackId": "08HAE90tlUX9sTp2hOHluJ"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=0HrRe20mw7pYwR5eN0ejab",
+      "id": "0HrRe20mw7pYwR5eN0ejab"
+    },
+    {
+      "artistName": "Gerack",
+      "positioning": {
+        "top": 857,
+        "left": 175
+      },
+      "style": {
+        "color": "#ca7612",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c3ff78d0e3af2b19480a2418b8a7cae6776930cb",
+        "title": "e.g. Gerack \"Arena y Sal TECH\"",
+        "trackId": "2VpEbNw45i5dBUJEApFEyU"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=4MmXWkWCm3YxBDJp9c65cm",
+      "id": "4MmXWkWCm3YxBDJp9c65cm"
+    },
+    {
+      "artistName": "Alvaro Varen",
+      "positioning": {
+        "top": 276,
+        "left": 1267
+      },
+      "style": {
+        "color": "#d28d3a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=6w4FDhpjReN9gBZIDpCeKL",
+      "id": "6w4FDhpjReN9gBZIDpCeKL"
+    },
+    {
+      "artistName": "Santi Arolfo",
+      "positioning": {
+        "top": 344,
+        "left": 1006
+      },
+      "style": {
+        "color": "#b68608",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42eb74ae5186e147eee13c0953449bb3705a79ac",
+        "title": "e.g. Santi Arolfo \"Quizas\"",
+        "trackId": "6dFB28lD2mBL4qBqVNq0FG"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=5LcbVSGBm5UFtLw46d6PuL",
+      "id": "5LcbVSGBm5UFtLw46d6PuL"
+    },
+    {
+      "artistName": "DJ Guille Riveron",
+      "positioning": {
+        "top": 586,
+        "left": 17
+      },
+      "style": {
+        "color": "#bf8100",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ceebb0ea34ab90b35844e52a06e1640c0441a446",
+        "title": "e.g. DJ Guille Riveron \"No Se V3 (House)\"",
+        "trackId": "5qZgF4ZxqmQB1WqysgBGv5"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=0jEjYIuguZ9b0N4qf9kmaZ",
+      "id": "0jEjYIuguZ9b0N4qf9kmaZ"
+    },
+    {
+      "artistName": "Nico Rosevear",
+      "positioning": {
+        "top": 432,
+        "left": 113
+      },
+      "style": {
+        "color": "#bb910a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44ffce39ef67b2aa14683ce0cf001879da886390",
+        "title": "e.g. Nico Rosevear \"Mojabi Ghost - House Remix\"",
+        "trackId": "0aLShGtcW27KvQ5unFSeBB"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=26MmkX8y0qDkxJOWa9hmPt",
+      "id": "26MmkX8y0qDkxJOWa9hmPt"
+    },
+    {
+      "artistName": "Jortyz DJ",
+      "positioning": {
+        "top": 495,
+        "left": 895
+      },
+      "style": {
+        "color": "#a38f01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/577cdf1361c8f318c8ee41085ecb148b1b3a7b10",
+        "title": "e.g. Jortyz DJ \"Piel Chaqueña - Remix\"",
+        "trackId": "5EM2XLHBWRCBJOngcJVIL3"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=25EWdplWBt6SzNVkGviGvV",
+      "id": "25EWdplWBt6SzNVkGviGvV"
+    },
+    {
+      "artistName": "Sarapura",
+      "positioning": {
+        "top": 127,
+        "left": 564
+      },
+      "style": {
+        "color": "#d18034",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/987620b15577d84c9a95623c93fae5e502683bfe",
+        "title": "e.g. Sarapura \"Dance The Night (Sarapura Remix)\"",
+        "trackId": "0aJUgLegja1HwTaWhohW0M"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=36MCIOsetecL6CN8ZYqCTw",
+      "id": "36MCIOsetecL6CN8ZYqCTw"
+    },
+    {
+      "artistName": "JVE",
+      "positioning": {
+        "top": 900,
+        "left": 445
+      },
+      "style": {
+        "color": "#958600",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1SKFUt7b6nLr2lcZ8DjwfQ",
+      "id": "1SKFUt7b6nLr2lcZ8DjwfQ"
+    },
+    {
+      "artistName": "Esti Romeo",
+      "positioning": {
+        "top": 572,
+        "left": 886
+      },
+      "style": {
+        "color": "#9e8a05",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e0a690182cec6ce93a29266b619a57bb4d125cd",
+        "title": "e.g. Esti Romeo \"Pareja del Año - Remix\"",
+        "trackId": "36yQUjjjzUvFfakNohk0Tg"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=1wXi2gt7dDHXztNNc7kMT6",
+      "id": "1wXi2gt7dDHXztNNc7kMT6"
+    },
+    {
+      "artistName": "AGA",
+      "positioning": {
+        "top": 423,
+        "left": 1019
+      },
+      "style": {
+        "color": "#bf8731",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e932aefe97c25b2bdc7a688cd5d9b8645d03a97",
+        "title": "e.g. AGA \"MERCHO TECH\"",
+        "trackId": "32wMdTmsXeI68tuJJs7zWd"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=4BnabFEl44SPh57IDk5h5j",
+      "id": "4BnabFEl44SPh57IDk5h5j"
+    },
+    {
+      "artistName": "Booyd",
+      "positioning": {
+        "top": 699,
+        "left": 82
+      },
+      "style": {
+        "color": "#b69e00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0cf34387b943b527c4c11fc1e9757e9bfb46d37e",
+        "title": "e.g. Booyd \"The story\"",
+        "trackId": "3CE1ZsvIbCgwINAC4o8VQi"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=7idhDvIUys7mCc6Tr8ghYk",
+      "id": "7idhDvIUys7mCc6Tr8ghYk"
+    },
+    {
+      "artistName": "Tomi Perazzone",
+      "positioning": {
+        "top": 443,
+        "left": 445
+      },
+      "style": {
+        "color": "#99990c",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/995168faa1faadf28fcf8a84cb6c9b9bc19cc96e",
+        "title": "e.g. Tomi Perazzone \"Tarot - Remix\"",
+        "trackId": "5VlPtGGL1IoFB7U3OjM70F"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=74z8Z1oPZTkgKv40pTkDe6",
+      "id": "74z8Z1oPZTkgKv40pTkDe6"
+    },
+    {
+      "artistName": "Emi Campana",
+      "positioning": {
+        "top": 513,
+        "left": 820
+      },
+      "style": {
+        "color": "#b38f00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/001a1976a110d43413a6013e415999ae90e1f3f9",
+        "title": "e.g. Emi Campana \"Cantinero Otro Blue\"",
+        "trackId": "10QsNyRIl2zK6w3MTu1o0w"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=122AXtXHpRZrjqQKH0dc2G",
+      "id": "122AXtXHpRZrjqQKH0dc2G"
+    },
+    {
+      "artistName": "Gabi Mujica",
+      "positioning": {
+        "top": 152,
+        "left": 1231
+      },
+      "style": {
+        "color": "#92a31e",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3a27895ba9512d1f72fcd001843c3b545a681ff",
+        "title": "e.g. Gabi Mujica \"Muñecas - Tech House\"",
+        "trackId": "4OsISYY0zznS5AJmwjWbwT"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6JdsOBqypQzdYEYO8mtlDL",
+      "id": "6JdsOBqypQzdYEYO8mtlDL"
+    },
+    {
+      "artistName": "Berna Rozenblum",
+      "positioning": {
+        "top": 425,
+        "left": 705
+      },
+      "style": {
+        "color": "#b38a00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d127a40e5868f3395fa3fbfb82f582e48c4b501b",
+        "title": "e.g. Berna Rozenblum \"Classy 101 - tech house\"",
+        "trackId": "4AcLJkZaXtuni8UwR06Om6"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=20Dmnhv5NP2oyP9ZwEWgIm",
+      "id": "20Dmnhv5NP2oyP9ZwEWgIm"
+    },
+    {
+      "artistName": "Lea Gatti",
+      "positioning": {
+        "top": 310,
+        "left": 1196
+      },
+      "style": {
+        "color": "#b88505",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc5d5ac1594ca997302e6b5608c8a6888df86f6f",
+        "title": "e.g. Lea Gatti \"Previa Mix 1\"",
+        "trackId": "5f16kFmQP1TjZJ9qLh8C51"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=1ejZdBrnTmpzrJFqm0SBvF",
+      "id": "1ejZdBrnTmpzrJFqm0SBvF"
+    },
+    {
+      "artistName": "Fede Ibarra",
+      "positioning": {
+        "top": 228,
+        "left": 330
+      },
+      "style": {
+        "color": "#e87805",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=2G0JXXuW4ovIAnd5hgkHBv",
+      "id": "2G0JXXuW4ovIAnd5hgkHBv"
+    },
+    {
+      "artistName": "Surazo",
+      "positioning": {
+        "top": 380,
+        "left": 551
+      },
+      "style": {
+        "color": "#9f8b00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c0a9a1cadb1a7d5af7d30fb4916ef59197a57f8",
+        "title": "e.g. Surazo \"LACONE x Sexy Bitch\"",
+        "trackId": "6LK3klggNQZgNWlczbt4xR"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=5uorAiRSgZtvQdl84q7pXx",
+      "id": "5uorAiRSgZtvQdl84q7pXx"
+    },
+    {
+      "artistName": "Tomi Reig",
+      "positioning": {
+        "top": 244,
+        "left": 1037
+      },
+      "style": {
+        "color": "#9e9527",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e59b44d700b417170bc969d44705045c914d9efc",
+        "title": "e.g. Tomi Reig \"Toy en el Mic - Tech House\"",
+        "trackId": "6Lucg30LF6rSAIRiidfTaE"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3WVT8Ru2pGghiLHCYBDtmY",
+      "id": "3WVT8Ru2pGghiLHCYBDtmY"
+    },
+    {
+      "artistName": "DENNA",
+      "positioning": {
+        "top": 667,
+        "left": 343
+      },
+      "style": {
+        "color": "#ad9400",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07ebd9447d1212cbba6d82845305b58be333be71",
+        "title": "e.g. DENNA \"De Cocodrilo\"",
+        "trackId": "1R0z9Mpmatht8m7WyS1tRN"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=0giXcUshXQbUZmiKFMlHEs",
+      "id": "0giXcUshXQbUZmiKFMlHEs"
+    },
+    {
+      "artistName": "Guille Preda",
+      "positioning": {
+        "top": 241,
+        "left": 299
+      },
+      "style": {
+        "color": "#d58322",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f6ea66850b8a90d05fbad90f2f406f073cf53ea0",
+        "title": "e.g. Guille Preda \"Fiel - House Remix\"",
+        "trackId": "4BGlE1u1ptkteX1sxQCzSA"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=7KXLbxjmLRmsWAal7N4HnJ",
+      "id": "7KXLbxjmLRmsWAal7N4HnJ"
+    },
+    {
+      "artistName": "Iova SN",
+      "positioning": {
+        "top": 866,
+        "left": 246
+      },
+      "style": {
+        "color": "#7c9d00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ffbc8b432a0688ca437f4876abae863964d4b1a9",
+        "title": "e.g. Iova SN \"DOMINGO DE BOTE pero HOUSE\"",
+        "trackId": "5EMCVIQf7HEI5pyillf3wt"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=1bfuWI83IB6WOJ97R2nfJr",
+      "id": "1bfuWI83IB6WOJ97R2nfJr"
+    },
+    {
+      "artistName": "Manu Santibañez",
+      "positioning": {
+        "top": 329,
+        "left": 599
+      },
+      "style": {
+        "color": "#b79422",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe85b92d15c370d30a9e8d9ea23dde3865de60d1",
+        "title": "e.g. Manu Santibañez \"Reina (House)\"",
+        "trackId": "0s6REBFEuakPg0Jwjk6O41"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=0yjLDqZlJsNKl2O6b2A0hs",
+      "id": "0yjLDqZlJsNKl2O6b2A0hs"
+    },
+    {
+      "artistName": "Facundov",
+      "positioning": {
+        "top": 438,
+        "left": 661
+      },
+      "style": {
+        "color": "#b49d04",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a0f00c087c844c3ba9a537d59f523cc8dbe5bcae",
+        "title": "e.g. Facundov \"Algo Magicov\"",
+        "trackId": "0kdzBvEXGPPbEZKpkfUQSI"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=1hdHLCGmjKd7WKHn5ys9Zr",
+      "id": "1hdHLCGmjKd7WKHn5ys9Zr"
+    },
+    {
+      "artistName": "Zortness",
+      "positioning": {
+        "top": 235,
+        "left": 1116
+      },
+      "style": {
+        "color": "#cf7811",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fe37150bd4e251f9429fd4cba0b36cfc3534662",
+        "title": "e.g. Zortness \"Desesperados - Remix Extended\"",
+        "trackId": "232Otgxb12izB9CirbakcW"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=5vebRazPXOIg5ZGNkdQKrV",
+      "id": "5vebRazPXOIg5ZGNkdQKrV"
+    },
+    {
+      "artistName": "Matideckerdj",
+      "positioning": {
+        "top": 549,
+        "left": 32
+      },
+      "style": {
+        "color": "#c29320",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cdc1bf1de7d413c83bd6a426a1391a490cb4b015",
+        "title": "e.g. Matideckerdj \"Hecha pa mi-(House)\"",
+        "trackId": "22Xjt0DLl0EghF9cFClEK2"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=5MitgCjpWz3CWPnjNNuenW",
+      "id": "5MitgCjpWz3CWPnjNNuenW"
+    },
+    {
+      "artistName": "DJ Agus Cena",
+      "positioning": {
+        "top": 850,
+        "left": 374
+      },
+      "style": {
+        "color": "#a98b00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9077176e19f4522420adf5da3f4846d6a65caf29",
+        "title": "e.g. DJ Agus Cena \"La Despedida Vs Freed From Desire - Tech Remix\"",
+        "trackId": "0QKCpjE1ESnooBUdNa4Bq7"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=4Y3gLI6nMR9IQNLcBDUCS4",
+      "id": "4Y3gLI6nMR9IQNLcBDUCS4"
+    },
+    {
+      "artistName": "santiarolfo",
+      "positioning": {
+        "top": 138,
+        "left": 1311
+      },
+      "style": {
+        "color": "#be7e5e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d9e3d790ddb4fcabdea83c63fb0c7c5db4a0e440",
+        "title": "e.g. santiarolfo \"Cuentale\"",
+        "trackId": "6uNyP7NDacQLCkINXAL3WK"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=6zpni8lEGggwcQNwlfuhfm",
+      "id": "6zpni8lEGggwcQNwlfuhfm"
+    },
+    {
+      "artistName": "Blois",
+      "positioning": {
+        "top": 525,
+        "left": 1010
+      },
+      "style": {
+        "color": "#8b9800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b28ec4f9327e173ade52eb2da8c62f756f22ae2d",
+        "title": "e.g. Blois \"Columbia cachengue rmx\"",
+        "trackId": "3cGlLxrecQUHklCQYWMtcD"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=1bBAevL7V8BeZsCJXF5Cl3",
+      "id": "1bBAevL7V8BeZsCJXF5Cl3"
+    },
+    {
+      "artistName": "Dj Tokyo",
+      "positioning": {
+        "top": 204,
+        "left": 1160
+      },
+      "style": {
+        "color": "#b98d4a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd656df08d5d8db8a0c0bb562eef5223e50a29ec",
+        "title": "e.g. Dj Tokyo \"Tu Me Dejaste De Querer\"",
+        "trackId": "6HB4dSGjpfZl21ZAfnmFEc"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=7iX0OsmZtg4VRe4A5WguaV",
+      "id": "7iX0OsmZtg4VRe4A5WguaV"
+    },
+    {
+      "artistName": "Galoop",
+      "positioning": {
+        "top": 0,
+        "left": 1400
+      },
+      "style": {
+        "color": "#e16b7b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6895161bcc87cfea24f6e4006249725fe9233505",
+        "title": "e.g. Galoop \"Slow\"",
+        "trackId": "3PkO8XG3lglyLDapvI8n99"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=5MhYbWQ3Zf6HCBWzDqMzDB",
+      "id": "5MhYbWQ3Zf6HCBWzDqMzDB"
+    },
+    {
+      "artistName": "Lucas Perezz",
+      "positioning": {
+        "top": 778,
+        "left": 520
+      },
+      "style": {
+        "color": "#9d8f00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0bf0467909f27c87506380b9599d69dab75f13eb",
+        "title": "e.g. Lucas Perezz \"Sin Señal (House) - Remix\"",
+        "trackId": "1IxB1iN8fAjImvSuiV8zFd"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=2faK9Vn2WDB2rhJ6WRFWsL",
+      "id": "2faK9Vn2WDB2rhJ6WRFWsL"
+    },
+    {
+      "artistName": "Ayuxx",
+      "positioning": {
+        "top": 112,
+        "left": 1354
+      },
+      "style": {
+        "color": "#b97d8f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f3d93accaa87e6ba657a534dbd00e1b7835c49c",
+        "title": "e.g. Ayuxx \"Mi Veci (La Nena No Se Compara)\"",
+        "trackId": "3Q8XNoSPsDMBPxPO3NbaAF"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=7t4YpSSJcykpFXTGObq2az",
+      "id": "7t4YpSSJcykpFXTGObq2az"
+    },
+    {
+      "artistName": "Xiteandco",
+      "positioning": {
+        "top": 156,
+        "left": 365
+      },
+      "style": {
+        "color": "#d98b00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=6TlHj5sg6SCo83ADVLZLSy",
+      "id": "6TlHj5sg6SCo83ADVLZLSy"
+    },
+    {
+      "artistName": "Naty Camilo",
+      "positioning": {
+        "top": 154,
+        "left": 789
+      },
+      "style": {
+        "color": "#ac9401",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8f4bd0e33830e47957597d1d00a79750a0e4e8b",
+        "title": "e.g. Naty Camilo \"Titan (Tech House) - Remix\"",
+        "trackId": "0dplo0qy0y42PlrSZAFmCw"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=6Zk7Lvy85fEEHeWuB8iV7q",
+      "id": "6Zk7Lvy85fEEHeWuB8iV7q"
+    },
+    {
+      "artistName": "Cami Pomerich",
+      "positioning": {
+        "top": 678,
+        "left": 856
+      },
+      "style": {
+        "color": "#a39100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ac1e9ba7e04d3fac7f62005ecc3e6187a93a43b3",
+        "title": "e.g. Cami Pomerich \"Tu Turrito (Tech House)\"",
+        "trackId": "5mCXgR3GZdsWHHbBZKcY5q"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=7voKwbBXjxU3tOyTbUaluQ",
+      "id": "7voKwbBXjxU3tOyTbUaluQ"
+    },
+    {
+      "artistName": "Yanez",
+      "positioning": {
+        "top": 392,
+        "left": 590
+      },
+      "style": {
+        "color": "#b78d24",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb3d889e0c7e7a7f3b3a799bf382aac5e7df191e",
+        "title": "e.g. Yanez \"RARA VEZ_RMX\"",
+        "trackId": "7cXcIgcoFPHeqMFjc6FV9M"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=6XbVogsJ1r4DH9VIFIYxPE",
+      "id": "6XbVogsJ1r4DH9VIFIYxPE"
+    },
+    {
+      "artistName": "Ignnach",
+      "positioning": {
+        "top": 342,
+        "left": 674
+      },
+      "style": {
+        "color": "#cb8a12",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f05d0775255de1c89249a4bdf278d00d42f600e",
+        "title": "e.g. Ignnach \"Hips Don't Lie (tech house)\"",
+        "trackId": "0u4qUMj1H0G9L2VZm4EfgW"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=4bUjcXpJ1tz0Fi17OuiCmK",
+      "id": "4bUjcXpJ1tz0Fi17OuiCmK"
+    },
+    {
+      "artistName": "apa landa",
+      "positioning": {
+        "top": 302,
+        "left": 502
+      },
+      "style": {
+        "color": "#be9600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34174acf1ab8307ddec122eafad295a64af87347",
+        "title": "e.g. apa landa \"Cuantos Terminos - tech house\"",
+        "trackId": "7HDQ7gIEX61bvqF9GuwlUG"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=16wIgYJQsQlKBc9YNVSByS",
+      "id": "16wIgYJQsQlKBc9YNVSByS"
+    },
+    {
+      "artistName": "Valen Rosemblat",
+      "positioning": {
+        "top": 526,
+        "left": 0
+      },
+      "style": {
+        "color": "#a19804",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c09dc9d59bce944f60194678b07b40564946bef8",
+        "title": "e.g. Valen Rosemblat \"MalbecT\"",
+        "trackId": "5bmYyT38hrnGkCQXXX4Moi"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=1BNdMTiXZhxh939oSeAwfP",
+      "id": "1BNdMTiXZhxh939oSeAwfP"
+    },
+    {
+      "artistName": "Choppe Davila",
+      "positioning": {
+        "top": 253,
+        "left": 374
+      },
+      "style": {
+        "color": "#d17e02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/953b737ef1d571c5422e07f71c6098d6d360d9a0",
+        "title": "e.g. Choppe Davila \"Tattoo\"",
+        "trackId": "4IHK8U1uUelkiAJNzTER0G"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=2nlj2PpcMgfhgljY4mTzBB",
+      "id": "2nlj2PpcMgfhgljY4mTzBB"
+    },
+    {
+      "artistName": "Mixeer",
+      "positioning": {
+        "top": 292,
+        "left": 957
+      },
+      "style": {
+        "color": "#c77741",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eaeaca9f17375f0cc371b853a583560afa834a73",
+        "title": "e.g. Mixeer \"Duro (Tik Tok Version)\"",
+        "trackId": "55eWBP2esCtxjywy2IrWt7"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=2kx8TP4wVS2TiqNg28U6UU",
+      "id": "2kx8TP4wVS2TiqNg28U6UU"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=techengue"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/3icMRV3VgEKGtHHyi7Ux2O"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/26llgay6xl5wcpwg1DcDeF"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/24RwhFrkXCdrf1RFrMR3B7"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/3q4pdq5XuIGA3hPmeeq2tv"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=techengue"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "previa",
+      "positioning": {
+        "top": 162,
+        "left": 300
+      },
+      "style": {
+        "color": "#a88f05",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0a6680efedd9fb94f2c277c41482693b123e30e",
+        "title": "e.g. Nacho Radesca \"Pa Romper La Discoteca - Remix\"",
+        "trackId": "23b9U2INo6i3KJXRX9qhrP"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-previa.html#tunnel"
+    },
+    {
+      "genreName": "atlanta bass",
+      "positioning": {
+        "top": 65,
+        "left": 128
+      },
+      "style": {
+        "color": "#a5860f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e61e6557065f1ecbf499e18d17cc2c7aaf27f28b",
+        "title": "e.g. Raheem the Dream \"The Most Beautiful Girl (feat. Terrius \"The Dream\" Nash)\"",
+        "trackId": "7L5OnYcpB5AAN8i0ZuB5nH"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-atlantabass.html#tunnel"
+    },
+    {
+      "genreName": "dub brasileiro",
+      "positioning": {
+        "top": 157,
+        "left": 90
+      },
+      "style": {
+        "color": "#a58f29",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e1d397b919fa0391833dff37c93b23f34b462fd1",
+        "title": "e.g. Guux \"Força pra Viver\"",
+        "trackId": "46SZ3oEKByEiwtMJ1aIvoH"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-dubbrasileiro.html#tunnel"
+    },
+    {
+      "genreName": "mambo chileno",
+      "positioning": {
+        "top": 198,
+        "left": 105
+      },
+      "style": {
+        "color": "#b09105",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d99a03523cfeb0429e1acbfdd9e1b730ea3a3914",
+        "title": "e.g. Luxian \"Amor de Colegio\"",
+        "trackId": "1mVr9nlGK8jcvEpDroZKlw"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-mambochileno.html#tunnel"
+    },
+    {
+      "genreName": "kids hip hop",
+      "positioning": {
+        "top": 259,
+        "left": 23
+      },
+      "style": {
+        "color": "#9e880d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/272bc5dbfebe12f52516e6df69e2df37a146cc86",
+        "title": "e.g. Super Siah \"I Love My Life\"",
+        "trackId": "2B3EtzAgWYKIv5RYdCFPFb"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-kidshiphop.html#tunnel"
+    },
+    {
+      "genreName": "bolobedu house",
+      "positioning": {
+        "top": 0,
+        "left": 149
+      },
+      "style": {
+        "color": "#a89513",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ca7c5e575f45d8308925a79fee6736ea40245427",
+        "title": "e.g. Prince Benza \"Ngwago (feat. Makhadzi)\"",
+        "trackId": "2FywjOMtbUrrJNRapZIoUe"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-bolobeduhouse.html#tunnel"
+    },
+    {
+      "genreName": "dennery segment",
+      "positioning": {
+        "top": 283,
+        "left": 50
+      },
+      "style": {
+        "color": "#ad8d20",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/82f616dc49f94d69fb22e8236e40f470a69e8f90",
+        "title": "e.g. BlackBoy \"By Cout Tet\"",
+        "trackId": "5X2y2xBqvcL5RJl9uZut0o"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-dennerysegment.html#tunnel"
+    },
+    {
+      "genreName": "bounce",
+      "positioning": {
+        "top": 197,
+        "left": 50
+      },
+      "style": {
+        "color": "#b3820e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2b3965cf4280adc17a04d30ee147aee8f61e56a",
+        "title": "e.g. DJ Jubilee \"N.O. Block Party\"",
+        "trackId": "1L5lQh9dO1NbXhBLPntTwD"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-bounce.html#tunnel"
+    },
+    {
+      "genreName": "reggaeton chileno",
+      "positioning": {
+        "top": 169,
+        "left": 15
+      },
+      "style": {
+        "color": "#b58d03",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95587ffefc904057021578375c4710b58a2de377",
+        "title": "e.g. Carlitos Junior \"SE LA ROA\"",
+        "trackId": "7jRttJ5kxtLZunhg1uKQ8n"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-reggaetonchileno.html#tunnel"
+    },
+    {
+      "genreName": "funana",
+      "positioning": {
+        "top": 154,
+        "left": 6
+      },
+      "style": {
+        "color": "#b98617",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6ca8490d99eded104401fb62ac75a1826de807a",
+        "title": "e.g. Kidy \"Tiofa\"",
+        "trackId": "77AY3CP7IMpF760FjTCtWa"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-funana.html#tunnel"
+    },
+    {
+      "genreName": "crunk",
+      "positioning": {
+        "top": 222,
+        "left": 29
+      },
+      "style": {
+        "color": "#ab8304",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf9fe9ebb1ad0132ac29f05a80b7ff1dbe4f3105",
+        "title": "e.g. Bone Crusher \"Never Scared (feat. Killer Mike & T.I.) - Club Mix\"",
+        "trackId": "4kmIO0yPq92dXtKCL28RfC"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-crunk.html#tunnel"
+    },
+    {
+      "genreName": "swiss reggae",
+      "positioning": {
+        "top": 300,
+        "left": 93
+      },
+      "style": {
+        "color": "#a48f1f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ebf8a69affd4c2d9359deb0af81aa8d89f3e01f",
+        "title": "e.g. Phenomden \"Stah da\"",
+        "trackId": "2MjgHgShRfe2t1t5R087vQ"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-swissreggae.html#tunnel"
+    },
+    {
+      "genreName": "bulgarian hip hop",
+      "positioning": {
+        "top": 246,
+        "left": 35
+      },
+      "style": {
+        "color": "#a48c14",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9a33f54d1750a6c026f25576d338222d8f8f5e2c",
+        "title": "e.g. Tr1ckmusic \"Падат Бучки От Носът Ми\"",
+        "trackId": "17WituWdZsKEmnAJVLeoFO"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-bulgarianhiphop.html#tunnel"
+    },
+    {
+      "genreName": "trap queen",
+      "positioning": {
+        "top": 211,
+        "left": 102
+      },
+      "style": {
+        "color": "#a88e03",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66dbda13ccfbb397b607852e73c7d1b406e5cca8",
+        "title": "e.g. Renni Rucci \"Hands On Ya Knees (feat. Kevin Gates)\"",
+        "trackId": "3r6Y0k1n0fn8FXwq5Hbeac"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-trapqueen.html#tunnel"
+    },
+    {
+      "genreName": "bouyon",
+      "positioning": {
+        "top": 234,
+        "left": 9
+      },
+      "style": {
+        "color": "#b88a09",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/75a3b6597a74fdd9740d02e3427550032cb5d8f1",
+        "title": "e.g. Team Bwè Tou Sa \"50/50\"",
+        "trackId": "1xwjvhb9IBIGtdjdvHjEQi"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-bouyon.html#tunnel"
+    },
+    {
+      "genreName": "trival",
+      "positioning": {
+        "top": 78,
+        "left": 140
+      },
+      "style": {
+        "color": "#bb8842",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fecab7f9171dd00fa8490ff5922cf186a7c5303",
+        "title": "e.g. El Pelón del Mikrophone \"La Cumbia Tribalera (feat. Edwin Luna y La Trakalosa de Monterrey & Grupo Violento)\"",
+        "trackId": "6A96JQxi0ajdhp9941F2de"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-trival.html#tunnel"
+    },
+    {
+      "genreName": "memphis hip hop",
+      "positioning": {
+        "top": 185,
+        "left": 61
+      },
+      "style": {
+        "color": "#a29005",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa0b03f966fef8984c484d2bf06c86f8c43b74d7",
+        "title": "e.g. Gangsta Blac \"Powder\"",
+        "trackId": "4bX8llPsbMtRZhcOoK7n9U"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-memphishiphop.html#tunnel"
+    },
+    {
+      "genreName": "chicano rap",
+      "positioning": {
+        "top": 271,
+        "left": 64
+      },
+      "style": {
+        "color": "#a88208",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95e96903e108903cdefb181cfe317ce380599c30",
+        "title": "e.g. Chino Grande \"Callin My Name\"",
+        "trackId": "0kZY4RAdyiKIdUISi3nR2K"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-chicanorap.html#tunnel"
+    },
+    {
+      "genreName": "russian pixel",
+      "positioning": {
+        "top": 312,
+        "left": 26
+      },
+      "style": {
+        "color": "#a3910f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1358b055f5319a8ce303cd706efb793972647f65",
+        "title": "e.g. Райм \"Мир\"",
+        "trackId": "3qYxW4OhrbyS7zdilzRj8z"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-russianpixel.html#tunnel"
+    },
+    {
+      "genreName": "st louis rap",
+      "positioning": {
+        "top": 210,
+        "left": 0
+      },
+      "style": {
+        "color": "#a19202",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2aaaac5fc22734c178839fd0e6ba0eca4b997f10",
+        "title": "e.g. 3 Problems \"For a F**k N***a\"",
+        "trackId": "4dJQmwKhZ3vxLMIoPPXyqe"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-stlouisrap.html#tunnel"
+    }
+  ]
+}
