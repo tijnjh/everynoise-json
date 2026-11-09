@@ -1,0 +1,1728 @@
+{
+  "schemaVersion": 3,
+  "genreName": "post-rock",
+  "artists": [
+    {
+      "artistName": "Sigur Rós",
+      "positioning": {
+        "top": 717,
+        "left": 248
+      },
+      "style": {
+        "color": "#6397ab",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aefbc27d4b84f833a9bf665e0b31de2188cab263",
+        "title": "e.g. Sigur Rós \"Hoppípolla\"",
+        "trackId": "6eTGxxQxiTFE6LfZHC33Wm"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=6UUrUCIZtQeOf8tC0WuzRy",
+      "id": "6UUrUCIZtQeOf8tC0WuzRy"
+    },
+    {
+      "artistName": "Explosions In The Sky",
+      "positioning": {
+        "top": 560,
+        "left": 579
+      },
+      "style": {
+        "color": "#6598d2",
+        "fontSize": "146%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9ebc9fb40d895b3a47bf1cf3a93d26a2c226e0b",
+        "title": "e.g. Explosions In The Sky \"Your Hand in Mine\"",
+        "trackId": "3HBcQ5GenzAlBhCIgDGL3x"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1uQWmt1OhuHGRKmZ2ZcL6p",
+      "id": "1uQWmt1OhuHGRKmZ2ZcL6p"
+    },
+    {
+      "artistName": "Balmorhea",
+      "positioning": {
+        "top": 886,
+        "left": 740
+      },
+      "style": {
+        "color": "#39a0d2",
+        "fontSize": "141%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd21911f38f85188cebf92c8dfbf53c805b102dc",
+        "title": "e.g. Balmorhea \"Remembrance\"",
+        "trackId": "7xiw42KTmCcqfZNCZqUcnF"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=1U0FaHAc4fcwQcYEJFgkm9",
+      "id": "1U0FaHAc4fcwQcYEJFgkm9"
+    },
+    {
+      "artistName": "Mogwai",
+      "positioning": {
+        "top": 446,
+        "left": 639
+      },
+      "style": {
+        "color": "#6c94ca",
+        "fontSize": "137%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1ad6ae5b4f4aa0f9bf345e53f0e14db0adeeffe",
+        "title": "e.g. Mogwai \"Take Me Somewhere Nice\"",
+        "trackId": "3s2MZsEfiMe7ZjiRtun6wv"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=34UhPkLbtFKRq3nmfFgejG",
+      "id": "34UhPkLbtFKRq3nmfFgejG"
+    },
+    {
+      "artistName": "Jónsi",
+      "positioning": {
+        "top": 568,
+        "left": 418
+      },
+      "style": {
+        "color": "#768f63",
+        "fontSize": "136%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba163b7a1760dc77e155d805deefbca65747479a",
+        "title": "e.g. Jónsi \"Where No One Goes\"",
+        "trackId": "2ChTe9bXZhmd7d4ilaCca8"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=3khg8RDB6nMuw34w1IHS6Y",
+      "id": "3khg8RDB6nMuw34w1IHS6Y"
+    },
+    {
+      "artistName": "Hammock",
+      "positioning": {
+        "top": 712,
+        "left": 0
+      },
+      "style": {
+        "color": "#639adc",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc79a6832c5bceef23eb58f5bbe46445d60eb196",
+        "title": "e.g. Hammock \"I Can Almost See You\"",
+        "trackId": "11n8LudggXuZXmldSlAadR"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=0VOR7Ie9xUSb45fzIIVJQ1",
+      "id": "0VOR7Ie9xUSb45fzIIVJQ1"
+    },
+    {
+      "artistName": "Swans",
+      "positioning": {
+        "top": 492,
+        "left": 501
+      },
+      "style": {
+        "color": "#986780",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e563fc9c0dfc758cd281b74c5062af1fc2a833cf",
+        "title": "e.g. Swans \"Screen Shot\"",
+        "trackId": "2PzNFF5P9ezfuGpuyHPdyV"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=79S80ZWgVhIPMCHuvl6SkA",
+      "id": "79S80ZWgVhIPMCHuvl6SkA"
+    },
+    {
+      "artistName": "The Album Leaf",
+      "positioning": {
+        "top": 463,
+        "left": 851
+      },
+      "style": {
+        "color": "#61a8d4",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7018833a24a8d204be7793c503b45d479a727b34",
+        "title": "e.g. The Album Leaf \"The Light\"",
+        "trackId": "0PaOYkEinHPDxK4yq7sR5l"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=02uPe16VFxPaiueQsPEDkE",
+      "id": "02uPe16VFxPaiueQsPEDkE"
+    },
+    {
+      "artistName": "Sun Kil Moon",
+      "positioning": {
+        "top": 770,
+        "left": 1396
+      },
+      "style": {
+        "color": "#429d2f",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b41c98dd2d583ec5f93ea0cc43680a79e0c213ac",
+        "title": "e.g. Sun Kil Moon \"Ben's My Friend\"",
+        "trackId": "6kXzroTvu7rGdvrPnQRh9X"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=4G0XDEk7RbA4BBCTs917U9",
+      "id": "4G0XDEk7RbA4BBCTs917U9"
+    },
+    {
+      "artistName": "God Is An Astronaut",
+      "positioning": {
+        "top": 229,
+        "left": 386
+      },
+      "style": {
+        "color": "#948ad7",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d93525222ebf26d9cfe43419d0a728af09e82e73",
+        "title": "e.g. God Is An Astronaut \"All Is Violent, All Is Bright\"",
+        "trackId": "568nXF19QXYPZnQ6XSkuSH"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=079svMEXkbT5nGU2kfoqO2",
+      "id": "079svMEXkbT5nGU2kfoqO2"
+    },
+    {
+      "artistName": "Russian Circles",
+      "positioning": {
+        "top": 520,
+        "left": 451
+      },
+      "style": {
+        "color": "#a77ed1",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fb612d665c8d206582ec62b855c5f515bad19f87",
+        "title": "e.g. Russian Circles \"Memorial (feat. Chelsea Wolfe)\"",
+        "trackId": "5Y6u1FBAsYsfUAzBX7ym7k"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=0AZ3VR0YbFcS0Kgei7L2QF",
+      "id": "0AZ3VR0YbFcS0Kgei7L2QF"
+    },
+    {
+      "artistName": "This Will Destroy You",
+      "positioning": {
+        "top": 550,
+        "left": 120
+      },
+      "style": {
+        "color": "#5494d2",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c378e23027c5bf562ec7ea6370484ad44db0d0e",
+        "title": "e.g. This Will Destroy You \"They Move on Tracks of Never-Ending Light\"",
+        "trackId": "3cIG78oBauowzEbkBwWADN"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=0MG4LXIw7n4x0wjDc6WYXk",
+      "id": "0MG4LXIw7n4x0wjDc6WYXk"
+    },
+    {
+      "artistName": "Converge",
+      "positioning": {
+        "top": 471,
+        "left": 322
+      },
+      "style": {
+        "color": "#e83a86",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f55dc49b3ac964d78360666f088a6e2aeacc7da",
+        "title": "e.g. Converge \"Dark Horse\"",
+        "trackId": "4bDHr5yOmdI2nmbWvBpPS2"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=7kHzfxMLtVHHb523s43rY1",
+      "id": "7kHzfxMLtVHHb523s43rY1"
+    },
+    {
+      "artistName": "Godspeed You! Black Emperor",
+      "positioning": {
+        "top": 745,
+        "left": 78
+      },
+      "style": {
+        "color": "#6e84c1",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5624d4830998f2a35504024a1b7372d528efce0",
+        "title": "e.g. Godspeed You! Black Emperor \"Anthem for No State, Pt. I\"",
+        "trackId": "5EXm1kIT9hxrGdCwdJKpDr"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=4svpOyfmQKuWpHLjgy4cdK",
+      "id": "4svpOyfmQKuWpHLjgy4cdK"
+    },
+    {
+      "artistName": "Slint",
+      "positioning": {
+        "top": 520,
+        "left": 1358
+      },
+      "style": {
+        "color": "#698796",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad402147fab5ef3b2f696c4fb6fe4c60c4563d79",
+        "title": "e.g. Slint \"Breadcrumb Trail\"",
+        "trackId": "7K8mX41Nub7AzBt1RwwE6d"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4IwOItqRhsIoRuD5HP4vyC",
+      "id": "4IwOItqRhsIoRuD5HP4vyC"
+    },
+    {
+      "artistName": "If These Trees Could Talk",
+      "positioning": {
+        "top": 263,
+        "left": 377
+      },
+      "style": {
+        "color": "#ad8ad3",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9bf59d2f12981c07e61a334bb6e56bdde9b6a3b5",
+        "title": "e.g. If These Trees Could Talk \"Above the Earth\"",
+        "trackId": "0TqnWv2gJ4Byw0amQwUE6x"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=2GVzsXcXyU95u2EahzwqN7",
+      "id": "2GVzsXcXyU95u2EahzwqN7"
+    },
+    {
+      "artistName": "Eluvium",
+      "positioning": {
+        "top": 900,
+        "left": 276
+      },
+      "style": {
+        "color": "#33a3dc",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e1771436df42922e08838140ec368d06a36d78dd",
+        "title": "e.g. Eluvium \"Prelude For Time Feelers\"",
+        "trackId": "5fUqvvy8ZzxxbxQSQTNomi"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=4QK3YJ6hzJdhJHE9q7kbVV",
+      "id": "4QK3YJ6hzJdhJHE9q7kbVV"
+    },
+    {
+      "artistName": "Maybeshewill",
+      "positioning": {
+        "top": 85,
+        "left": 529
+      },
+      "style": {
+        "color": "#ab88c6",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/941a2f1852d4c550697a15bdff97c0cc0c4559e0",
+        "title": "e.g. Maybeshewill \"He Films The Clouds Pt. 2\"",
+        "trackId": "07nYZZQT49i7yAIs3k3tOe"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=33qUIIydEBgWpe58IA0o61",
+      "id": "33qUIIydEBgWpe58IA0o61"
+    },
+    {
+      "artistName": "65daysofstatic",
+      "positioning": {
+        "top": 214,
+        "left": 418
+      },
+      "style": {
+        "color": "#b375c0",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e09362e8c09ad343b9e36eb3917cbc8d52b60cc8",
+        "title": "e.g. 65daysofstatic \"Hypersleep\"",
+        "trackId": "6R7Cxx5oR23mgM33FY3eKn"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=6DVVsQAnpHdJjb1nYuOQ6g",
+      "id": "6DVVsQAnpHdJjb1nYuOQ6g"
+    },
+    {
+      "artistName": "múm",
+      "positioning": {
+        "top": 486,
+        "left": 1099
+      },
+      "style": {
+        "color": "#778991",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5d8b346d54ffc4402518888b5fcacaec5c36205c",
+        "title": "e.g. múm \"We Have A Map Of The Piano\"",
+        "trackId": "5NFZLpFoP4fVWjmc007A5k"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=4mw86zm4QZIL8SksdyE6OU",
+      "id": "4mw86zm4QZIL8SksdyE6OU"
+    },
+    {
+      "artistName": "El Ten Eleven",
+      "positioning": {
+        "top": 114,
+        "left": 1315
+      },
+      "style": {
+        "color": "#a78ac7",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2cd3f48a29a34e53f2fed7cf44f5afce4456a5b",
+        "title": "e.g. El Ten Eleven \"My Only Swerving\"",
+        "trackId": "4q26ViixkilRLjl1MdLABS"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=0d1j4VJ7gzAJaDslzmjTF0",
+      "id": "0d1j4VJ7gzAJaDslzmjTF0"
+    },
+    {
+      "artistName": "The American Dollar",
+      "positioning": {
+        "top": 425,
+        "left": 455
+      },
+      "style": {
+        "color": "#73a6c7",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/661712c99abc26e1a34624031548dea6f1148ce2",
+        "title": "e.g. The American Dollar \"Anything You Synthesize - Ambient\"",
+        "trackId": "0OF6WSdeVmYEGBZlxvwvLq"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=5r4OqYJL7JrtZlffx7FJlb",
+      "id": "5r4OqYJL7JrtZlffx7FJlb"
+    },
+    {
+      "artistName": "Silver Mt. Zion",
+      "positioning": {
+        "top": 648,
+        "left": 469
+      },
+      "style": {
+        "color": "#5e9577",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b4eb44227102cd41c22246fa61baab019835e5c",
+        "title": "e.g. Silver Mt. Zion \"13 Angels Standing Guard 'Round The Side Of Your Bed\"",
+        "trackId": "7jbLjvNlKbfCRUoFWKo5TR"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=0bRpSBtMd3stO4J6TWclMb",
+      "id": "0bRpSBtMd3stO4J6TWclMb"
+    },
+    {
+      "artistName": "Mooncake",
+      "positioning": {
+        "top": 334,
+        "left": 501
+      },
+      "style": {
+        "color": "#8491de",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a48929d7fab3e1a025fdb73a9e41706b29b0e0a0",
+        "title": "e.g. Mooncake \"Zaris\"",
+        "trackId": "3lG9eYlhnipGfvAR4ZkBk7"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=6DKVucXliE7U2RV52HF1YL",
+      "id": "6DKVucXliE7U2RV52HF1YL"
+    },
+    {
+      "artistName": "sleepmakeswaves",
+      "positioning": {
+        "top": 277,
+        "left": 464
+      },
+      "style": {
+        "color": "#aa82cd",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a9371e0b8cd5eb28f2594629ae4bdec60498574",
+        "title": "e.g. sleepmakeswaves \"It's Dark, It's Cold, It's Winter\"",
+        "trackId": "64MimfdzjqHsBpxr8pUuCR"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=0EnDtiDrCgklr97QMJOSPv",
+      "id": "0EnDtiDrCgklr97QMJOSPv"
+    },
+    {
+      "artistName": "Caspian",
+      "positioning": {
+        "top": 389,
+        "left": 280
+      },
+      "style": {
+        "color": "#838bd3",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4adc6ed8de03af267dc4dc48089aef2c5ee5cbf",
+        "title": "e.g. Caspian \"Hymn for the Greatest Generation\"",
+        "trackId": "3ofrLJrQjMPuEBQddeAbZn"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=4SXj7TVoA3bgfR8AVssACa",
+      "id": "4SXj7TVoA3bgfR8AVssACa"
+    },
+    {
+      "artistName": "MONO",
+      "positioning": {
+        "top": 663,
+        "left": 170
+      },
+      "style": {
+        "color": "#5892ce",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b8207f7a56ed3fd491176b96a0789555d00a987",
+        "title": "e.g. MONO \"Silent Flight, Sleeping Dawn\"",
+        "trackId": "2wjKSNOc132gQx8wcHl0kI"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=53LVoipNTQ4lvUSJ61XKU3",
+      "id": "53LVoipNTQ4lvUSJ61XKU3"
+    },
+    {
+      "artistName": "Tortoise",
+      "positioning": {
+        "top": 343,
+        "left": 1349
+      },
+      "style": {
+        "color": "#7a93cd",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cbe6177667ffed0265210f0beb0ad0b52c0321f0",
+        "title": "e.g. Tortoise \"I Set My Face to the Hillside\"",
+        "trackId": "40LPZ2Uupbt1oYh6TmwmSg"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=3WggbHDpj4rPKbL97zG5MQ",
+      "id": "3WggbHDpj4rPKbL97zG5MQ"
+    },
+    {
+      "artistName": "Crippled Black Phoenix",
+      "positioning": {
+        "top": 478,
+        "left": 506
+      },
+      "style": {
+        "color": "#898499",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/248ecef93f6d9e3ae914977295caffabdbd81adb",
+        "title": "e.g. Crippled Black Phoenix \"In Bad Dreams\"",
+        "trackId": "6FvEIPRaDHgrniwPF9s1MH"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=6WEyPcf9ezhNLm1xOBjbwH",
+      "id": "6WEyPcf9ezhNLm1xOBjbwH"
+    },
+    {
+      "artistName": "ISIS",
+      "positioning": {
+        "top": 536,
+        "left": 506
+      },
+      "style": {
+        "color": "#b072b1",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01ac8d204ebe7a49a2de1316b4befe868f2a92ad",
+        "title": "e.g. ISIS \"So Did We\"",
+        "trackId": "4o4xa9HE2kvHrcLVSKCtn4"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=2vsXeWGC8rILp3rpSN2Fyk",
+      "id": "2vsXeWGC8rILp3rpSN2Fyk"
+    },
+    {
+      "artistName": "We Lost The Sea",
+      "positioning": {
+        "top": 595,
+        "left": 432
+      },
+      "style": {
+        "color": "#778fb8",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ba28db1961ed2a5d4df0eb8b17f9cf487645302",
+        "title": "e.g. We Lost The Sea \"A Gallant Gentleman\"",
+        "trackId": "7MZM9KhwGQG8QJ4BycsnQn"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=7GVByFFfFJYCzK4d8ZyL6s",
+      "id": "7GVByFFfFJYCzK4d8ZyL6s"
+    },
+    {
+      "artistName": "Battles",
+      "positioning": {
+        "top": 155,
+        "left": 1381
+      },
+      "style": {
+        "color": "#b67b87",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/caefbb7619e42b95bffbf16bde7ffbb749914bf9",
+        "title": "e.g. Battles \"Fort Greene Park\"",
+        "trackId": "1gRYX2rklejYAUQC5WQv2H"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=3EMSpwRtkvUTxfB4aS5xnA",
+      "id": "3EMSpwRtkvUTxfB4aS5xnA"
+    },
+    {
+      "artistName": "Oh Hiroshima",
+      "positioning": {
+        "top": 78,
+        "left": 359
+      },
+      "style": {
+        "color": "#a98bd1",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/feebd40a9020cc187324dbb512bcb80bf4358239",
+        "title": "e.g. Oh Hiroshima \"This is not the end\"",
+        "trackId": "6CVXBVQ74lReZsYEj7Gouz"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=19iNYCVHcMwJMS3NZqhZ59",
+      "id": "19iNYCVHcMwJMS3NZqhZ59"
+    },
+    {
+      "artistName": "Long Distance Calling",
+      "positioning": {
+        "top": 95,
+        "left": 919
+      },
+      "style": {
+        "color": "#b885b9",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c2b2e132249afd71ef18603ec952e4d4353ce6c1",
+        "title": "e.g. Long Distance Calling \"Black Paper Planes\"",
+        "trackId": "6ZvmAXqrALWGr0sytv66NO"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=3SiCxhceGZgzusCLHd4Zz6",
+      "id": "3SiCxhceGZgzusCLHd4Zz6"
+    },
+    {
+      "artistName": "And So I Watch You from Afar",
+      "positioning": {
+        "top": 429,
+        "left": 680
+      },
+      "style": {
+        "color": "#ad72ab",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dbf60f2785af8c2bae186a90858461e05850eaa8",
+        "title": "e.g. And So I Watch You from Afar \"Mullally\"",
+        "trackId": "02tJP7k7AstDD5wLrRb16H"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=7qKMNwlACMZOUdMG3acwst",
+      "id": "7qKMNwlACMZOUdMG3acwst"
+    },
+    {
+      "artistName": "Tides From Nebula",
+      "positioning": {
+        "top": 201,
+        "left": 372
+      },
+      "style": {
+        "color": "#978ed8",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/486653f4ebea61a3dd952dad028439068acd8b37",
+        "title": "e.g. Tides From Nebula \"Dopamine\"",
+        "trackId": "7y9USehMh5BWR0tWXsXJ5K"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=1CzKORB9IN0EjPEyeKBIkf",
+      "id": "1CzKORB9IN0EjPEyeKBIkf"
+    },
+    {
+      "artistName": "World's End Girlfriend",
+      "positioning": {
+        "top": 637,
+        "left": 694
+      },
+      "style": {
+        "color": "#6e88a0",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7bb067ec5c3cab459fc903ec6391b0528d870e2",
+        "title": "e.g. World's End Girlfriend \"MEGURI\"",
+        "trackId": "3rHgjp293dDGaahZAiXWvl"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=3lqgWxgqJb19h62n19FKQp",
+      "id": "3lqgWxgqJb19h62n19FKQp"
+    },
+    {
+      "artistName": "Grails",
+      "positioning": {
+        "top": 634,
+        "left": 579
+      },
+      "style": {
+        "color": "#6d8bd8",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e07ef27e69dc380761dc4f8b9ad34a708902bcc",
+        "title": "e.g. Grails \"Sad & Illegal\"",
+        "trackId": "5jnqJ4Qm5tCPquSeJmLgtG"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=3VdjlG06JkVAnZ19TR7ZHZ",
+      "id": "3VdjlG06JkVAnZ19TR7ZHZ"
+    },
+    {
+      "artistName": "Pelican",
+      "positioning": {
+        "top": 440,
+        "left": 520
+      },
+      "style": {
+        "color": "#bc70c9",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a38bc99a23593a00a48dfbc5045a66516ae8e34a",
+        "title": "e.g. Pelican \"Ephemeral\"",
+        "trackId": "45XLKpJFFdcJ1xDCeB4qYX"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=0Gq06EJlfPumvCdMsnkJFp",
+      "id": "0Gq06EJlfPumvCdMsnkJFp"
+    },
+    {
+      "artistName": "Collapse Under The Empire",
+      "positioning": {
+        "top": 125,
+        "left": 542
+      },
+      "style": {
+        "color": "#9f8ed6",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32cc74becb4ff69d013d77570f1ede592ebc771b",
+        "title": "e.g. Collapse Under The Empire \"Captured Moments\"",
+        "trackId": "4ckmG9O7QH2qNA67QbDzjk"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=34OB6veglJfOx8CzSsu0XY",
+      "id": "34OB6veglJfOx8CzSsu0XY"
+    },
+    {
+      "artistName": "Dirty Three",
+      "positioning": {
+        "top": 783,
+        "left": 533
+      },
+      "style": {
+        "color": "#6b8dbf",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0020bf149dd1306ff3d331b14df07d1e61f0ad7b",
+        "title": "e.g. Dirty Three \"Great Waves\"",
+        "trackId": "0M9kwHlD6xmWIxcwAmdjAU"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1QUsHFoDqNsC0W9AlNyHWF",
+      "id": "1QUsHFoDqNsC0W9AlNyHWF"
+    },
+    {
+      "artistName": "Red Sparowes",
+      "positioning": {
+        "top": 577,
+        "left": 317
+      },
+      "style": {
+        "color": "#8c8ada",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2cd0d5fc725dc8f59fcb6bf3daf158c8577bd787",
+        "title": "e.g. Red Sparowes \"In Illusions Of Order\"",
+        "trackId": "2wWQwx1ymkpCr4ItPUQ94g"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=4MT9A89Dq8xRJ9hMvvPiJw",
+      "id": "4MT9A89Dq8xRJ9hMvvPiJw"
+    },
+    {
+      "artistName": "Do Make Say Think",
+      "positioning": {
+        "top": 622,
+        "left": 657
+      },
+      "style": {
+        "color": "#748bc5",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d42e81e71697bf78c7a2a9fce326f056bfb5adc5",
+        "title": "e.g. Do Make Say Think \"The Landlord Is Dead\"",
+        "trackId": "6QXxmGsc0A2PG3alWT5bYi"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=1WudHeuEN3d18SXVos95mc",
+      "id": "1WudHeuEN3d18SXVos95mc"
+    },
+    {
+      "artistName": "Don Caballero",
+      "positioning": {
+        "top": 497,
+        "left": 942
+      },
+      "style": {
+        "color": "#d558bc",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9aa42f4aeaf3560fcb5cb8ee3e8198834fb30914",
+        "title": "e.g. Don Caballero \"Fire Back About Your New Baby's Sex\"",
+        "trackId": "01VhYbUIdJABCY4Ceupxbn"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=30h1cDhDvSG9RZlfBHmt9C",
+      "id": "30h1cDhDvSG9RZlfBHmt9C"
+    },
+    {
+      "artistName": "pg.lost",
+      "positioning": {
+        "top": 372,
+        "left": 234
+      },
+      "style": {
+        "color": "#9088d1",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f890533f99f34869b0160b3ac30519f2ae85d39a",
+        "title": "e.g. pg.lost \"Terrain\"",
+        "trackId": "25s1qqeuHILtIlg0mTplBt"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=6YK58h9BCYpFNv10fsMwoS",
+      "id": "6YK58h9BCYpFNv10fsMwoS"
+    },
+    {
+      "artistName": "Exxasens",
+      "positioning": {
+        "top": 0,
+        "left": 423
+      },
+      "style": {
+        "color": "#c280c0",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d6b5f11ccbbd894b2993c06222de9ec2d62ee01",
+        "title": "e.g. Exxasens \"Your Dreams Are My Dreams\"",
+        "trackId": "3zQqvV121is4wfC3mKSyYA"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=7935eVYpj7jQM3mRJ3kGeX",
+      "id": "7935eVYpj7jQM3mRJ3kGeX"
+    },
+    {
+      "artistName": "Tristeza",
+      "positioning": {
+        "top": 410,
+        "left": 1062
+      },
+      "style": {
+        "color": "#799dcb",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/976c047fef1cac1ae148d5632207db8abc95f7eb",
+        "title": "e.g. Tristeza \"Balabaristas\"",
+        "trackId": "0iJhP5gxnbgprXwQOkZD52"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=3oglFEsE6GvwwJFConxKa5",
+      "id": "3oglFEsE6GvwwJFConxKa5"
+    },
+    {
+      "artistName": "Bark Psychosis",
+      "positioning": {
+        "top": 463,
+        "left": 611
+      },
+      "style": {
+        "color": "#6e88a2",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a1d39db4eceeb21e520a4bb3b1736e666ea8fb6e",
+        "title": "e.g. Bark Psychosis \"Pendulum Man\"",
+        "trackId": "31rWHoaORhEfXqqr6y48Hm"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=0QwH5InvCwfL4UbYkjP9pi",
+      "id": "0QwH5InvCwfL4UbYkjP9pi"
+    },
+    {
+      "artistName": "Maserati",
+      "positioning": {
+        "top": 73,
+        "left": 984
+      },
+      "style": {
+        "color": "#b785d2",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a927a9577fb0bf48f9a929636fd852002c9b91c",
+        "title": "e.g. Maserati \"Monoliths\"",
+        "trackId": "2KpyRdFIiop5Y8cAvx4CmX"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=4qQyS8N0BHNkGQRi8xsha8",
+      "id": "4qQyS8N0BHNkGQRi8xsha8"
+    },
+    {
+      "artistName": "Jakob",
+      "positioning": {
+        "top": 442,
+        "left": 864
+      },
+      "style": {
+        "color": "#749bbf",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f453acef955c852eba2bd84b3b9e9dd3f445a3a0",
+        "title": "e.g. Jakob \"Aural\"",
+        "trackId": "0w4zpOcF1LmUFYzTHhc44C"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=0SBEeMzVANjUpI6gTQdTic",
+      "id": "0SBEeMzVANjUpI6gTQdTic"
+    },
+    {
+      "artistName": "I Hear Sirens",
+      "positioning": {
+        "top": 465,
+        "left": 460
+      },
+      "style": {
+        "color": "#898dd6",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5e5d1ad6607a8641fa7f3b710166c69354a9c8d4",
+        "title": "e.g. I Hear Sirens \"Rise + Fall\"",
+        "trackId": "4qqhqeRT8LtgmaJCsYxZFL"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=2KOMKD4NveC92pilzckUTf",
+      "id": "2KOMKD4NveC92pilzckUTf"
+    },
+    {
+      "artistName": "Trans Am",
+      "positioning": {
+        "top": 177,
+        "left": 1400
+      },
+      "style": {
+        "color": "#af74aa",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1812d930b7a309657c096953842afa7bd39b7410",
+        "title": "e.g. Trans Am \"Insufficiently Breathless\"",
+        "trackId": "0rj8iSJcgj8ceVzQGxObox"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=1YFIyRFTa7povIpq08DcCA",
+      "id": "1YFIyRFTa7povIpq08DcCA"
+    },
+    {
+      "artistName": "envy",
+      "positioning": {
+        "top": 457,
+        "left": 345
+      },
+      "style": {
+        "color": "#b2697c",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a21f3550f96b2e7b356c2d2e2f9a6322305b604b",
+        "title": "e.g. envy \"Footsteps in the Distance\"",
+        "trackId": "0DFShrqfTOcQiK51Ucje85"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=0CfjW2VuMdrhWodHtG7DWi",
+      "id": "0CfjW2VuMdrhWodHtG7DWi"
+    },
+    {
+      "artistName": "Rachel's",
+      "positioning": {
+        "top": 895,
+        "left": 570
+      },
+      "style": {
+        "color": "#389ecc",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb8f27f20a8e2ff11a1c12ad9102294ccdd619fd",
+        "title": "e.g. Rachel's \"Water from the Same Source\"",
+        "trackId": "7vVoaTSJ0k4i2quvEDa3cP"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=0sXLPUQAB1hir58hoQnxZa",
+      "id": "0sXLPUQAB1hir58hoQnxZa"
+    },
+    {
+      "artistName": "Set Fire To Flames",
+      "positioning": {
+        "top": 826,
+        "left": 602
+      },
+      "style": {
+        "color": "#478ba1",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/741794f598c557fe6692508523bd250ae68b51f8",
+        "title": "e.g. Set Fire To Flames \"Your Guts Are Like Mine\"",
+        "trackId": "7vyO4soicfuw9BDY826J9Z"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=7N0ceyBaroraISr1hoECzv",
+      "id": "7N0ceyBaroraISr1hoECzv"
+    },
+    {
+      "artistName": "Lost in Kiev",
+      "positioning": {
+        "top": 244,
+        "left": 377
+      },
+      "style": {
+        "color": "#ad81cb",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84d1953b904953ad4042cb56783378034eaceaee",
+        "title": "e.g. Lost in Kiev \"Insomnia\"",
+        "trackId": "1di7h244SmoeqEEGNfpIxO"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=4VBq7oPj5Yi4Yfx4hopGY3",
+      "id": "4VBq7oPj5Yi4Yfx4hopGY3"
+    },
+    {
+      "artistName": "Meniscus",
+      "positioning": {
+        "top": 244,
+        "left": 782
+      },
+      "style": {
+        "color": "#a292ce",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ca542528ef5d20a73f1d9b4b01e442254aa4f7b3",
+        "title": "e.g. Meniscus \"Cursed\"",
+        "trackId": "1Ci5uC6aThSEBqog9H9jjZ"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=6h1Z9DOWJlUEN07cR3j1C6",
+      "id": "6h1Z9DOWJlUEN07cR3j1C6"
+    },
+    {
+      "artistName": "*shels",
+      "positioning": {
+        "top": 547,
+        "left": 584
+      },
+      "style": {
+        "color": "#53938f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/496c0a4da96a7250f04852cc5105d5d43fba203f",
+        "title": "e.g. *shels \"The Conference of the Birds\"",
+        "trackId": "3wbGsUYUxJkGElBItCB2Nj"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=0Ivm3PYwfVFeq2trxYqLi2",
+      "id": "0Ivm3PYwfVFeq2trxYqLi2"
+    },
+    {
+      "artistName": "Leech",
+      "positioning": {
+        "top": 353,
+        "left": 846
+      },
+      "style": {
+        "color": "#988bc5",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0dca00ed7a2209f228b3df2fbf43215f6bbad841",
+        "title": "e.g. Leech \"The Man With The Hammer\"",
+        "trackId": "01k0fYnD9sFE89A2zPD38v"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=21DtKSgtPS1mEUQsSl6y6Y",
+      "id": "21DtKSgtPS1mEUQsSl6y6Y"
+    },
+    {
+      "artistName": "The Best Pessimist",
+      "positioning": {
+        "top": 307,
+        "left": 322
+      },
+      "style": {
+        "color": "#8a98c9",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d4ccfe7c3bf8e0cf9bb20fa3347c938d1c3b033",
+        "title": "e.g. The Best Pessimist \"Above the Fog (Pt.2)\"",
+        "trackId": "4cjRiT6COzETZ3mWQXydnr"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=6W4aup6f745SyZe2vShUnZ",
+      "id": "6W4aup6f745SyZe2vShUnZ"
+    },
+    {
+      "artistName": "Epic45",
+      "positioning": {
+        "top": 578,
+        "left": 565
+      },
+      "style": {
+        "color": "#639ab6",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6fe8fa975bd5d845a975f56ae0538dbf2420d63",
+        "title": "e.g. Epic45 \"The Stars In Spring\"",
+        "trackId": "2ba30DnGwwHJxzeSfLuir3"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=0E76QDtyHZgw7i5l7mdn5K",
+      "id": "0E76QDtyHZgw7i5l7mdn5K"
+    },
+    {
+      "artistName": "The Evpatoria Report",
+      "positioning": {
+        "top": 662,
+        "left": 478
+      },
+      "style": {
+        "color": "#659ee1",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01c54df33ef507afc2f8df3c6a33f37f663d3419",
+        "title": "e.g. The Evpatoria Report \"Voskhod Project - Bonus\"",
+        "trackId": "2hN5qPiwQuQlkBQbQ0klaj"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=5KyWqSOpfFRnPTWsq1oUAw",
+      "id": "5KyWqSOpfFRnPTWsq1oUAw"
+    },
+    {
+      "artistName": "Moonlit Sailor",
+      "positioning": {
+        "top": 28,
+        "left": 648
+      },
+      "style": {
+        "color": "#bd8db8",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/721f70db9212beb797029dc2b8df1c4b1785cda6",
+        "title": "e.g. Moonlit Sailor \"Into the Fray\"",
+        "trackId": "0fdaQ5WPnM4nSLAG9CwyVC"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=3YX8jgxBqkl30HXjazVXXU",
+      "id": "3YX8jgxBqkl30HXjazVXXU"
+    },
+    {
+      "artistName": "ef",
+      "positioning": {
+        "top": 498,
+        "left": 432
+      },
+      "style": {
+        "color": "#6b9fae",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e400db8d3075291eaed763fb46935e09d05c877",
+        "title": "e.g. ef \"Escapade #1\"",
+        "trackId": "41nJKqZIJE3xJDAo6gDZpp"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=4K7elTMrmeEYTE9w1zGP5e",
+      "id": "4K7elTMrmeEYTE9w1zGP5e"
+    },
+    {
+      "artistName": "Audrey Fall",
+      "positioning": {
+        "top": 185,
+        "left": 248
+      },
+      "style": {
+        "color": "#b185e4",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94fb142e407b3f2c348f843e02114cb29c939696",
+        "title": "e.g. Audrey Fall \"Wolmar\"",
+        "trackId": "0JCnSBBGsougr5rRgDKob2"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=1evuNsiLo3ohG4xIYhPL03",
+      "id": "1evuNsiLo3ohG4xIYhPL03"
+    },
+    {
+      "artistName": "Yndi Halda",
+      "positioning": {
+        "top": 796,
+        "left": 391
+      },
+      "style": {
+        "color": "#699bc1",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3cc4bb6520de5015354c35ef8512102ab335200c",
+        "title": "e.g. Yndi Halda \"A Sun-Coloured Shaker - Prefuse 73 Remix\"",
+        "trackId": "1y4snRpSX5DI9YJBMqjcZb"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=6fJ7oFpKH1xy1xE9Xx1vFJ",
+      "id": "6fJ7oFpKH1xy1xE9Xx1vFJ"
+    },
+    {
+      "artistName": "Daturah",
+      "positioning": {
+        "top": 93,
+        "left": 405
+      },
+      "style": {
+        "color": "#918bcd",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78148ff1436af4160f2b8ed558bfdcd6bcfb9d5c",
+        "title": "e.g. Daturah \"Hybrisma\"",
+        "trackId": "1c8RQ6bmKXeywT9FSK4QwQ"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=1TMo9LIzfhFsHRxt5e3sJc",
+      "id": "1TMo9LIzfhFsHRxt5e3sJc"
+    },
+    {
+      "artistName": "Fly Pan Am",
+      "positioning": {
+        "top": 492,
+        "left": 598
+      },
+      "style": {
+        "color": "#a561b8",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24dd7c8c70100f657ee13466a46b9ea6ac966849",
+        "title": "e.g. Fly Pan Am \"Et aussi l'eclairage de plastique au centre de tout ces compartiments lateraux\"",
+        "trackId": "73TuC2z7uOdXitFaJngfpO"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=1G9YfcWhpM0d0p6kCIaiGE",
+      "id": "1G9YfcWhpM0d0p6kCIaiGE"
+    },
+    {
+      "artistName": "Gregor Samsa",
+      "positioning": {
+        "top": 857,
+        "left": 276
+      },
+      "style": {
+        "color": "#33a3c0",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/410253050a8c187244812902b16d3941702c846d",
+        "title": "e.g. Gregor Samsa \"O\"",
+        "trackId": "6fJou4mR3Hh1PItva5Zm4n"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=5UIAcDArFtQmJ9sYMmw0VB",
+      "id": "5UIAcDArFtQmJ9sYMmw0VB"
+    },
+    {
+      "artistName": "Jakob",
+      "positioning": {
+        "top": 429,
+        "left": 336
+      },
+      "style": {
+        "color": "#6c9ad1",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9a2ba6df359d742e3353be17210bb6d5d7e62397",
+        "title": "e.g. Jakob \"Saint\"",
+        "trackId": "6lAuH7yuFdez3G8vMOacNJ"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=1rRk0aScbAjuf5lAnnTe6n",
+      "id": "1rRk0aScbAjuf5lAnnTe6n"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=post-rock"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/3G9lrZrzBwmQ1F3OvvvV6d"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0JUeJy5EsmPYExkdJoSIGU"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5xD7ZAOcVGgoVeLgETrmqk"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0qZgCx2TZ4AlThuluOnobD"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=post-rock"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "instrumental post-rock",
+      "positioning": {
+        "top": 119,
+        "left": 92
+      },
+      "style": {
+        "color": "#8291c7",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32cc74becb4ff69d013d77570f1ede592ebc771b",
+        "title": "e.g. Collapse Under The Empire \"Captured Moments\"",
+        "trackId": "4ckmG9O7QH2qNA67QbDzjk"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-instrumentalpostrock.html#tunnel"
+    },
+    {
+      "genreName": "british post-rock",
+      "positioning": {
+        "top": 147,
+        "left": 141
+      },
+      "style": {
+        "color": "#7d91b5",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/941a2f1852d4c550697a15bdff97c0cc0c4559e0",
+        "title": "e.g. Maybeshewill \"He Films The Clouds Pt. 2\"",
+        "trackId": "07nYZZQT49i7yAIs3k3tOe"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-britishpostrock.html#tunnel"
+    },
+    {
+      "genreName": "american post-rock",
+      "positioning": {
+        "top": 106,
+        "left": 173
+      },
+      "style": {
+        "color": "#8690c2",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddf1da61fffc4deb1a7489595152c0084e978f9c",
+        "title": "e.g. Ranges \"Tower\"",
+        "trackId": "4ZYd1dYYikHsyurPN3jazZ"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-americanpostrock.html#tunnel"
+    },
+    {
+      "genreName": "canadian post-rock",
+      "positioning": {
+        "top": 252,
+        "left": 166
+      },
+      "style": {
+        "color": "#7f87a1",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b4eb44227102cd41c22246fa61baab019835e5c",
+        "title": "e.g. Silver Mt. Zion \"13 Angels Standing Guard 'Round The Side Of Your Bed\"",
+        "trackId": "7jbLjvNlKbfCRUoFWKo5TR"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-canadianpostrock.html#tunnel"
+    },
+    {
+      "genreName": "nordic post-rock",
+      "positioning": {
+        "top": 99,
+        "left": 38
+      },
+      "style": {
+        "color": "#7b93ab",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3deebb81af8158665ddc6960e848ca37c16188a6",
+        "title": "e.g. Baulta \"Nothing Seems To Make You Smile Anymore\"",
+        "trackId": "7hGAeTGEzQKdhEq6x1ujmS"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-nordicpostrock.html#tunnel"
+    },
+    {
+      "genreName": "post-metal",
+      "positioning": {
+        "top": 60,
+        "left": 0
+      },
+      "style": {
+        "color": "#b069a2",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7949a2c9171e6f64a40559785df353ca970beda",
+        "title": "e.g. Rosetta \"Homesick\"",
+        "trackId": "2qveJNR21hBHXi1IAWulR4"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-postmetal.html#tunnel"
+    },
+    {
+      "genreName": "compositional ambient",
+      "positioning": {
+        "top": 300,
+        "left": 226
+      },
+      "style": {
+        "color": "#29a5be",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cdf16706e57a63373e0969bf6b1de5a0cfa47550",
+        "title": "e.g. Jóhann Jóhannsson \"A Model of the Universe\"",
+        "trackId": "5ay0cvjtVAbMLOe8gTadFh"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-compositionalambient.html#tunnel"
+    },
+    {
+      "genreName": "atmospheric post-metal",
+      "positioning": {
+        "top": 74,
+        "left": 34
+      },
+      "style": {
+        "color": "#a972a6",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01ac8d204ebe7a49a2de1316b4befe868f2a92ad",
+        "title": "e.g. ISIS \"So Did We\"",
+        "trackId": "4o4xa9HE2kvHrcLVSKCtn4"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-atmosphericpostmetal.html#tunnel"
+    },
+    {
+      "genreName": "german post-rock",
+      "positioning": {
+        "top": 0,
+        "left": 275
+      },
+      "style": {
+        "color": "#938cc4",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4179fed75360dc5468ec05f0bd81e85015462da2",
+        "title": "e.g. Glasgow Coma Scale \"Venice Calling\"",
+        "trackId": "4t8TA1QtdFjkNlKZiL76ir"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-germanpostrock.html#tunnel"
+    },
+    {
+      "genreName": "double drumming",
+      "positioning": {
+        "top": 70,
+        "left": 219
+      },
+      "style": {
+        "color": "#b16c75",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d34ae4e87031fec082c29ae9d723ecc294dc6fc3",
+        "title": "e.g. Thee Oh Sees \"Toe Cutter - Thumb Buster\"",
+        "trackId": "4lZjHEJXzKCCTVPtgYcypv"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-doubledrumming.html#tunnel"
+    },
+    {
+      "genreName": "experimental rock",
+      "positioning": {
+        "top": 85,
+        "left": 300
+      },
+      "style": {
+        "color": "#9b6b63",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cde35a4596e2408ef4580ef7bc15874813b9e786",
+        "title": "e.g. Suicide \"Surrender ('88 Version) (2023 Remaster)\"",
+        "trackId": "784ypNcE0CXkfUxUiu0U9n"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-experimentalrock.html#tunnel"
+    },
+    {
+      "genreName": "italian occult psychedelia",
+      "positioning": {
+        "top": 240,
+        "left": 121
+      },
+      "style": {
+        "color": "#857ab1",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b10cdd34125cf13efdd07d8b5179db4fdae0ab8",
+        "title": "e.g. Squadra Omega \"Sospesi nell'oblio\"",
+        "trackId": "6kImMoBs0PiB5AoBA9aCq6"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-italianoccultpsychedelia.html#tunnel"
+    },
+    {
+      "genreName": "instrumental rock",
+      "positioning": {
+        "top": 55,
+        "left": 260
+      },
+      "style": {
+        "color": "#ae7085",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76e8776be2f4c4f3352fa7bb091b25271746aa04",
+        "title": "e.g. Tony MacAlpine \"Chrome Castles\"",
+        "trackId": "38DzeSvpFtWlBVleELTTKp"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-instrumentalrock.html#tunnel"
+    },
+    {
+      "genreName": "new isolationism",
+      "positioning": {
+        "top": 227,
+        "left": 154
+      },
+      "style": {
+        "color": "#7d86b9",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a76320387c7d5921275b8a863285f4c8cc0850a7",
+        "title": "e.g. Vanity Productions \"Melts All Your Memories\"",
+        "trackId": "34TdrxZdriLN477LSDuw5I"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-newisolationism.html#tunnel"
+    },
+    {
+      "genreName": "australian post-rock",
+      "positioning": {
+        "top": 161,
+        "left": 157
+      },
+      "style": {
+        "color": "#848eba",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a9371e0b8cd5eb28f2594629ae4bdec60498574",
+        "title": "e.g. sleepmakeswaves \"It's Dark, It's Cold, It's Winter\"",
+        "trackId": "64MimfdzjqHsBpxr8pUuCR"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-australianpostrock.html#tunnel"
+    },
+    {
+      "genreName": "portuguese post-rock",
+      "positioning": {
+        "top": 186,
+        "left": 143
+      },
+      "style": {
+        "color": "#8590b5",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c0b770db2287ddae0c22ff510e8c7e0b91489f2",
+        "title": "e.g. Surma \"Maasai\"",
+        "trackId": "7KV5DR4WCGrRU9XQIBAaF7"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-portuguesepostrock.html#tunnel"
+    },
+    {
+      "genreName": "cosmic post-rock",
+      "positioning": {
+        "top": 53,
+        "left": 87
+      },
+      "style": {
+        "color": "#7c90ca",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9164358882d886af7d157d639cd7e22656fa7c6",
+        "title": "e.g. PILLARS \"Dissolution\"",
+        "trackId": "5dEHEul1jPH1un96S5k6fu"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-cosmicpostrock.html#tunnel"
+    },
+    {
+      "genreName": "italian post-rock",
+      "positioning": {
+        "top": 174,
+        "left": 60
+      },
+      "style": {
+        "color": "#7093c5",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/64057abe0704f9743bd8c90a1f0cbfe66ba8bd56",
+        "title": "e.g. The Chasing Monster \"Frames\"",
+        "trackId": "0xGZLOndTh5EJrvxMYw0IG"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-italianpostrock.html#tunnel"
+    },
+    {
+      "genreName": "atmospheric post-rock",
+      "positioning": {
+        "top": 87,
+        "left": 114
+      },
+      "style": {
+        "color": "#8494c3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e524b938fa31fb93bf05f6b05cfc881c5c2ced07",
+        "title": "e.g. WakeThisDay \"Transmitting Light\"",
+        "trackId": "1WvIgzDBDrQDsHc1f6iwTz"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-atmosphericpostrock.html#tunnel"
+    },
+    {
+      "genreName": "cinematic post-rock",
+      "positioning": {
+        "top": 135,
+        "left": 70
+      },
+      "style": {
+        "color": "#7595c9",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ed99ee196b5c9502721a6b92ce0cbfc277c02a3c",
+        "title": "e.g. Degree of Arc \"Raptures\"",
+        "trackId": "7ImSDMTmvk6oa1cFI3TwPB"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-cinematicpostrock.html#tunnel"
+    }
+  ]
+}

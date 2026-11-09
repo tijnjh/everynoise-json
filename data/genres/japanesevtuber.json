@@ -1,0 +1,5984 @@
+{
+  "schemaVersion": 3,
+  "genreName": "japanese vtuber",
+  "artists": [
+    {
+      "artistName": "Hoshimachi Suisei",
+      "positioning": {
+        "top": 491,
+        "left": 468
+      },
+      "style": {
+        "color": "#d26e41",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9c3bb1ff9b996327ede2bab7998f53297827589",
+        "title": "e.g. Hoshimachi Suisei \"Stellar Stellar\"",
+        "trackId": "6OC9BOO9qGXQARZGWb8rqy"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=726WiFmWkohzodUxK3XjHX",
+      "id": "726WiFmWkohzodUxK3XjHX"
+    },
+    {
+      "artistName": "Mori Calliope",
+      "positioning": {
+        "top": 395,
+        "left": 791
+      },
+      "style": {
+        "color": "#d7771b",
+        "fontSize": "156%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3d9806743c35e1df8b576d4f055cefb386f29cf",
+        "title": "e.g. Mori Calliope \"end of a life\"",
+        "trackId": "0i2THDeAhJma8FrUVy90No"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1PhE6rv0146ZTQosoPDjk8",
+      "id": "1PhE6rv0146ZTQosoPDjk8"
+    },
+    {
+      "artistName": "宝鐘マリン",
+      "positioning": {
+        "top": 496,
+        "left": 675
+      },
+      "style": {
+        "color": "#dd6749",
+        "fontSize": "137%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0348fda9f523cb702b7d00fbbcb2e7612bf82371",
+        "title": "e.g. 宝鐘マリン \"美少女無罪♡パイレーツ\"",
+        "trackId": "1oNtlE9GgtBZDngXi18Mw0"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=5XaBNKQo65yYcjNA8wQPOk",
+      "id": "5XaBNKQo65yYcjNA8wQPOk"
+    },
+    {
+      "artistName": "Yunomi",
+      "positioning": {
+        "top": 123,
+        "left": 974
+      },
+      "style": {
+        "color": "#e08017",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4fb6aecaae92f2e10cf40640093157711275e2b2",
+        "title": "e.g. Yunomi \"Koino Uta\"",
+        "trackId": "15St0qWPnH4xKflV39vk28"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=2j00CVYTPx6q9ANbmB2keb",
+      "id": "2j00CVYTPx6q9ANbmB2keb"
+    },
+    {
+      "artistName": "花譜",
+      "positioning": {
+        "top": 453,
+        "left": 891
+      },
+      "style": {
+        "color": "#a6880f",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8254a1c7f74ff2d769a703e4b7568b643f3c0c0e",
+        "title": "e.g. 花譜 \"わたしの線香\"",
+        "trackId": "1Gp94UwuwbbS4vsLfaDiBz"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=2c32JruIkUyfdycHmhIph4",
+      "id": "2c32JruIkUyfdycHmhIph4"
+    },
+    {
+      "artistName": "常闇トワ",
+      "positioning": {
+        "top": 304,
+        "left": 178
+      },
+      "style": {
+        "color": "#da6b38",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86bbbd1e19040fe115fde2946fd79c0b9bae8417",
+        "title": "e.g. 常闇トワ \"Palette\"",
+        "trackId": "1hLWGQJDCPMmEMJ3cPxMqE"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=0XZGQi9wNsE1z9L0AWhC82",
+      "id": "0XZGQi9wNsE1z9L0AWhC82"
+    },
+    {
+      "artistName": "Gawr Gura",
+      "positioning": {
+        "top": 575,
+        "left": 601
+      },
+      "style": {
+        "color": "#d36c46",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec847167d6ed50b0f036ae4221017f7d6a08c583",
+        "title": "e.g. Gawr Gura \"REFLECT\"",
+        "trackId": "0B96zn11fA3apNGZqERmPO"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=1Spm887PTszc2AoNYpoCld",
+      "id": "1Spm887PTszc2AoNYpoCld"
+    },
+    {
+      "artistName": "ミツキヨ",
+      "positioning": {
+        "top": 520,
+        "left": 1375
+      },
+      "style": {
+        "color": "#8a9cb5",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fb7c9594424bcb43e4326b33606d969880c038b",
+        "title": "e.g. ミツキヨ \"Unwelcome School\"",
+        "trackId": "0Yb9nLUaGThL2BYkedY8wC"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=2yzcoSqo3ZOCguk7T0Msa9",
+      "id": "2yzcoSqo3ZOCguk7T0Msa9"
+    },
+    {
+      "artistName": "二口魔菜 Futakuchi Mana",
+      "positioning": {
+        "top": 537,
+        "left": 261
+      },
+      "style": {
+        "color": "#d36d26",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/500f3eed48c89afaaa5ad4ad5baf8ad9b5cc9633",
+        "title": "e.g. 二口魔菜 Futakuchi Mana \"KING\"",
+        "trackId": "6jQlyd5BxicSaSzIsOeMTs"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=6nhHInOnQSWKRxntTHBH29",
+      "id": "6nhHInOnQSWKRxntTHBH29"
+    },
+    {
+      "artistName": "Takanashi Kiara",
+      "positioning": {
+        "top": 210,
+        "left": 841
+      },
+      "style": {
+        "color": "#d98050",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aea48478908e6b78d38dd558f62ac81b8783439b",
+        "title": "e.g. Takanashi Kiara \"HOLOTORI Dance!\"",
+        "trackId": "62GaqnMAW90TXHHN82UJdd"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=6UCFRdg4ySMWj6O4QRKyZs",
+      "id": "6UCFRdg4ySMWj6O4QRKyZs"
+    },
+    {
+      "artistName": "湊あくあ",
+      "positioning": {
+        "top": 233,
+        "left": 746
+      },
+      "style": {
+        "color": "#da6e4d",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa35745e85e1a2ee5c455d76b9b6c9b8aa37a58e",
+        "title": "e.g. 湊あくあ \"#あくあ色ぱれっと\"",
+        "trackId": "1xFQ5lKWILBjqnyX4RgI8d"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=6GHr4rGFHGRUuzuCuxJA0f",
+      "id": "6GHr4rGFHGRUuzuCuxJA0f"
+    },
+    {
+      "artistName": "hololive IDOL PROJECT",
+      "positioning": {
+        "top": 560,
+        "left": 601
+      },
+      "style": {
+        "color": "#c37b69",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11bb23e9a48d02c97f46577703a8dcce76f7c47c",
+        "title": "e.g. hololive IDOL PROJECT \"Shiny Smily Story\"",
+        "trackId": "7xYhi9aBdlNGM7SXSeXc6n"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=18Zr9CaElvS40S0AtizMWZ",
+      "id": "18Zr9CaElvS40S0AtizMWZ"
+    },
+    {
+      "artistName": "ROF-MAO",
+      "positioning": {
+        "top": 244,
+        "left": 476
+      },
+      "style": {
+        "color": "#dc6725",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7a3f57dc522d9cf9a2a6b99ca5ad90032e0042b0",
+        "title": "e.g. ROF-MAO \"I wanna! You wanna!\"",
+        "trackId": "1WBkyEfMcX88iGpitPN9tG"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=4IyOW0gzISV2jqbkX78Uyp",
+      "id": "4IyOW0gzISV2jqbkX78Uyp"
+    },
+    {
+      "artistName": "理芽",
+      "positioning": {
+        "top": 395,
+        "left": 737
+      },
+      "style": {
+        "color": "#b78202",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f7ec176c447af68c1bf9188da6c5f972da37692",
+        "title": "e.g. 理芽 \"食虫植物\"",
+        "trackId": "5EVgCwenpUcpX55BtYboRq"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=1rFELoNfdLOYWPwtrBN6zS",
+      "id": "1rFELoNfdLOYWPwtrBN6zS"
+    },
+    {
+      "artistName": "ぼっちぼろまる",
+      "positioning": {
+        "top": 368,
+        "left": 725
+      },
+      "style": {
+        "color": "#d27200",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bbab1acc29907b84df5fdf67fe35a782349d6213",
+        "title": "e.g. ぼっちぼろまる \"おとせサンダー\"",
+        "trackId": "0TBZ2NGb9es28EVrtJGhic"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=62DFXFLKdUqfpvVmJbXAyo",
+      "id": "62DFXFLKdUqfpvVmJbXAyo"
+    },
+    {
+      "artistName": "角巻わため",
+      "positioning": {
+        "top": 355,
+        "left": 588
+      },
+      "style": {
+        "color": "#cf7439",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a91bf30068d902f85a324a856c33a2443bdcaded",
+        "title": "e.g. 角巻わため \"What an amazing swing\"",
+        "trackId": "1Tr9XdGf9emJNk3LjrYwWW"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=68609MOnEU86kVyMf26JnM",
+      "id": "68609MOnEU86kVyMf26JnM"
+    },
+    {
+      "artistName": "Nanashi Mumei",
+      "positioning": {
+        "top": 195,
+        "left": 791
+      },
+      "style": {
+        "color": "#cb8554",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f05f5cbc74369116b0968615123ae756812cd06",
+        "title": "e.g. Nanashi Mumei \"mumei\"",
+        "trackId": "7tmkved6SCLlMJGXZhpMJ8"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3LWmimMpybGBGCjuvFqhAT",
+      "id": "3LWmimMpybGBGCjuvFqhAT"
+    },
+    {
+      "artistName": "さくらみこ",
+      "positioning": {
+        "top": 99,
+        "left": 518
+      },
+      "style": {
+        "color": "#e66f56",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b8159b0c8e5ae015f813581e5be6c43b46e0374",
+        "title": "e.g. さくらみこ \"シュガーラッシュ\"",
+        "trackId": "4YkPA1WxdXsP1HNjANxvu3"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=6YFKPqnL4YtX9jJmj5zkzv",
+      "id": "6YFKPqnL4YtX9jJmj5zkzv"
+    },
+    {
+      "artistName": "猫又おかゆ",
+      "positioning": {
+        "top": 163,
+        "left": 928
+      },
+      "style": {
+        "color": "#d77732",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fb09b28990324dea372325eb2b05766f41f91042",
+        "title": "e.g. 猫又おかゆ \"もぐもぐYUMMY！ - （ぽいずにゃ〜しんどろーむ ver.）\"",
+        "trackId": "2APCw2ZdDumK8vl6NZuBe8"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=28lO8lCOqFvDB5la90xKUW",
+      "id": "28lO8lCOqFvDB5la90xKUW"
+    },
+    {
+      "artistName": "IRyS",
+      "positioning": {
+        "top": 314,
+        "left": 563
+      },
+      "style": {
+        "color": "#cd7b46",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1714df91b6e1c2220e33d59b2c728994d149950b",
+        "title": "e.g. IRyS \"HERE COMES HOPE\"",
+        "trackId": "413waXVdYeWc1iqx68Dmpm"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=7y1hO3QeftnOJmWCbzeZav",
+      "id": "7y1hO3QeftnOJmWCbzeZav"
+    },
+    {
+      "artistName": "AZKi",
+      "positioning": {
+        "top": 341,
+        "left": 485
+      },
+      "style": {
+        "color": "#d5762a",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad12520e853e7b08ae504353c092069bfca26ac3",
+        "title": "e.g. AZKi \"The Last Frontier\"",
+        "trackId": "6D2rZM4iQ57er78q28jGqq"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=0HX3yJ7THlqC9drRqhOkgo",
+      "id": "0HX3yJ7THlqC9drRqhOkgo"
+    },
+    {
+      "artistName": "葛葉",
+      "positioning": {
+        "top": 284,
+        "left": 91
+      },
+      "style": {
+        "color": "#e25d27",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3afed77d9e1c443d645ae4aa9ecd640e2cc50823",
+        "title": "e.g. 葛葉 \"Black Crack\"",
+        "trackId": "50YCh8wL8YVI0W18apljDC"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2U6KmGMil4ClWZB9vHEwSb",
+      "id": "2U6KmGMil4ClWZB9vHEwSb"
+    },
+    {
+      "artistName": "白上フブキ",
+      "positioning": {
+        "top": 202,
+        "left": 994
+      },
+      "style": {
+        "color": "#d47c4c",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0165adfa8e93b788b0acdfa5a4edcb907c316770",
+        "title": "e.g. 白上フブキ \"KONKON Beats\"",
+        "trackId": "2QPzxEJMyyNAwNStemSrCz"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=2GR0oaCTOgws9PfuheMw0k",
+      "id": "2GR0oaCTOgws9PfuheMw0k"
+    },
+    {
+      "artistName": "Marasy",
+      "positioning": {
+        "top": 900,
+        "left": 928
+      },
+      "style": {
+        "color": "#7e96b2",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99d43259072b2f62b8c7ddcacee243cefb0a52fb",
+        "title": "e.g. Marasy \"新人類\"",
+        "trackId": "66eh1jfnyg3PM6iPDad1zM"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=3Y2hPbg4GHOheV4Hc9lpXV",
+      "id": "3Y2hPbg4GHOheV4Hc9lpXV"
+    },
+    {
+      "artistName": "Luxiem",
+      "positioning": {
+        "top": 523,
+        "left": 435
+      },
+      "style": {
+        "color": "#ea7400",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a81c433fa192b09e42cc8d99d7260db2cbfe4a7e",
+        "title": "e.g. Luxiem \"Jazz on the Clock!!\"",
+        "trackId": "6YQR5USsJok1aievRkLeaA"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=1kFkuPkfE1z3STtqLNK5s1",
+      "id": "1kFkuPkfE1z3STtqLNK5s1"
+    },
+    {
+      "artistName": "stargaze shelter",
+      "positioning": {
+        "top": 520,
+        "left": 32
+      },
+      "style": {
+        "color": "#be7416",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/024c6c190b920aed462db9ddb52055eff821b7b8",
+        "title": "e.g. stargaze shelter \"emulation (mode:totonee)\"",
+        "trackId": "5XUB5h1kZcFrgLa9RZda3Y"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=3skOUqG4qsEoYiJuyZJFdW",
+      "id": "3skOUqG4qsEoYiJuyZJFdW"
+    },
+    {
+      "artistName": "Moona Hoshinova",
+      "positioning": {
+        "top": 269,
+        "left": 1007
+      },
+      "style": {
+        "color": "#bb8468",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/77822e06505bddfe348d0c2c5b724df84dafa3b0",
+        "title": "e.g. Moona Hoshinova \"High Tide\"",
+        "trackId": "68BRMLYIfQSg9CH8Fsbeay"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=2Iss9rGmxvoEfVigargjTH",
+      "id": "2Iss9rGmxvoEfVigargjTH"
+    },
+    {
+      "artistName": "HyuN",
+      "positioning": {
+        "top": 345,
+        "left": 273
+      },
+      "style": {
+        "color": "#da6951",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40109c76bca2f71c36d7387b45eeac5ae2a45d63",
+        "title": "e.g. HyuN \"Disorder\"",
+        "trackId": "1OP30nBEd1vSRB1YPHUbsz"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=6tILKatjRX2qgoBkobQMm8",
+      "id": "6tILKatjRX2qgoBkobQMm8"
+    },
+    {
+      "artistName": "Kanae",
+      "positioning": {
+        "top": 258,
+        "left": 634
+      },
+      "style": {
+        "color": "#d77349",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/646323d29c1c05ab9ce7059223ce9d07940e8b75",
+        "title": "e.g. Kanae \"Jam Jam\"",
+        "trackId": "7f9S9dHtubhQusaSWSkYYX"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=14iTK9oNk2bqL8k5rUQLll",
+      "id": "14iTK9oNk2bqL8k5rUQLll"
+    },
+    {
+      "artistName": "兎田ぺこら",
+      "positioning": {
+        "top": 136,
+        "left": 828
+      },
+      "style": {
+        "color": "#e46980",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5fc333bfe882eecd73584210a3bf14f338ff9acf",
+        "title": "e.g. 兎田ぺこら \"ぺこらんだむぶれいん!\"",
+        "trackId": "7hpm9mbhu3t6h24KUnk4EU"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=4JlcSp9i5LcilRSMqaVimt",
+      "id": "4JlcSp9i5LcilRSMqaVimt"
+    },
+    {
+      "artistName": "大空スバル",
+      "positioning": {
+        "top": 150,
+        "left": 795
+      },
+      "style": {
+        "color": "#e26e4f",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f48dc45293f9b019cbd5a98cc5fb393ae7736db3",
+        "title": "e.g. 大空スバル \"ぷ・れ・あ・で・す!\"",
+        "trackId": "5LxmEYp42yxYmdlsVhENzn"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=1gSUbOpSpv15bOewxQ64eB",
+      "id": "1gSUbOpSpv15bOewxQ64eB"
+    },
+    {
+      "artistName": "紫咲シオン",
+      "positioning": {
+        "top": 554,
+        "left": 895
+      },
+      "style": {
+        "color": "#77778f",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1b27f2b1ba5dfe2d13ec03ca336cfa6b3f959c7b",
+        "title": "e.g. 紫咲シオン \"メイジ・オブ・ヴァイオレット\"",
+        "trackId": "5iGczddK13Dr8vL8NIW6cQ"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=5Th82IWKMPF6PpvsBl06Qj",
+      "id": "5Th82IWKMPF6PpvsBl06Qj"
+    },
+    {
+      "artistName": "Ninomae Ina’nis",
+      "positioning": {
+        "top": 486,
+        "left": 232
+      },
+      "style": {
+        "color": "#d16443",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/234d0377624a85932f0dda4a38255b472f4571a7",
+        "title": "e.g. Ninomae Ina’nis \"VIOLET\"",
+        "trackId": "7dZaYDrwG1GB88BlHS99vr"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=3iPvwu8p75fYRa0V4wi8gN",
+      "id": "3iPvwu8p75fYRa0V4wi8gN"
+    },
+    {
+      "artistName": "Pavolia Reine",
+      "positioning": {
+        "top": 76,
+        "left": 1247
+      },
+      "style": {
+        "color": "#dd7b62",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d790e2fc8af7aa7ae96a97c42eea60680d9eed4c",
+        "title": "e.g. Pavolia Reine \"Sip Some Tea\"",
+        "trackId": "6jmwgiG5thj7oSoadgcpyL"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=44udMKGBm7IJxh63aPv0cj",
+      "id": "44udMKGBm7IJxh63aPv0cj"
+    },
+    {
+      "artistName": "樋口楓",
+      "positioning": {
+        "top": 258,
+        "left": 489
+      },
+      "style": {
+        "color": "#e95902",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fab06425cd191fb242faaf899bcd33205e7a7552",
+        "title": "e.g. 樋口楓 \"神のまにまに\"",
+        "trackId": "4NFwRRxKYVm7URM0oBhOdZ"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=0qQFPfQRMPx8YuS5ReAsLz",
+      "id": "0qQFPfQRMPx8YuS5ReAsLz"
+    },
+    {
+      "artistName": "REDALiCE",
+      "positioning": {
+        "top": 152,
+        "left": 319
+      },
+      "style": {
+        "color": "#f75f65",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/778cb79ab7d43124a51e656629ba0759e1bfb681",
+        "title": "e.g. REDALiCE \"Saikyo Stronger\"",
+        "trackId": "3DTEbxMLFqaIjupYLorO7l"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=3m63JSv6jhLEKNXcEd5EUK",
+      "id": "3m63JSv6jhLEKNXcEd5EUK"
+    },
+    {
+      "artistName": "天音かなた",
+      "positioning": {
+        "top": 380,
+        "left": 302
+      },
+      "style": {
+        "color": "#c87260",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b7d4c56fbd3c670986ad93f2c3d8d6e2f75118bd",
+        "title": "e.g. 天音かなた \"別世界\"",
+        "trackId": "2y2jRbsSZ9KP4wvc4uxE1c"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=3xYcccivSuAU13ZHypWoNW",
+      "id": "3xYcccivSuAU13ZHypWoNW"
+    },
+    {
+      "artistName": "HIMEHINA",
+      "positioning": {
+        "top": 414,
+        "left": 891
+      },
+      "style": {
+        "color": "#c57204",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6340e858209e92b58a4f696dbbf7ea736acda1d1",
+        "title": "e.g. HIMEHINA \"ヒトガタ\"",
+        "trackId": "2PATh1ofh4ubugHFvPITWT"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=5OBmR4AY53SS26qHZ4uwnq",
+      "id": "5OBmR4AY53SS26qHZ4uwnq"
+    },
+    {
+      "artistName": "TEMPLIME",
+      "positioning": {
+        "top": 363,
+        "left": 857
+      },
+      "style": {
+        "color": "#cf781c",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6b9b50cdf39ecea2a327477f4e16618f6b5541c9",
+        "title": "e.g. TEMPLIME \"Melody Smash\"",
+        "trackId": "2N4HffuhFJjAHTwsNorujH"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=55ci5kA4LZrGVdJRbIe6E6",
+      "id": "55ci5kA4LZrGVdJRbIe6E6"
+    },
+    {
+      "artistName": "LazuLight",
+      "positioning": {
+        "top": 92,
+        "left": 339
+      },
+      "style": {
+        "color": "#d68500",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8b2f44fdf71da984e248edaa6be32b261f6df475",
+        "title": "e.g. LazuLight \"Diamond City Lights\"",
+        "trackId": "5TCyp6n14NjGnQuRMsWL4h"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=5bBoaegoDuk5GXatH0U5Ht",
+      "id": "5bBoaegoDuk5GXatH0U5Ht"
+    },
+    {
+      "artistName": "戌神ころね",
+      "positioning": {
+        "top": 255,
+        "left": 1044
+      },
+      "style": {
+        "color": "#dc7756",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bcc02a1e3489d4795ef416d5e431c518377781ae",
+        "title": "e.g. 戌神ころね \"Doggy god's street\"",
+        "trackId": "3S7ESQHVQ493wV3llepjm6"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=6EFbQU0BE4wGLdqBjey64b",
+      "id": "6EFbQU0BE4wGLdqBjey64b"
+    },
+    {
+      "artistName": "百鬼あやめ",
+      "positioning": {
+        "top": 119,
+        "left": 439
+      },
+      "style": {
+        "color": "#de7b3e",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b807b2fd0f64a3f2445bd9a7dc8645aaa957e8a0",
+        "title": "e.g. 百鬼あやめ \"かわ世\"",
+        "trackId": "5aBIsZC4PghmIL4eVNi7oj"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1dMlek4eXZns9FyjBcvrF8",
+      "id": "1dMlek4eXZns9FyjBcvrF8"
+    },
+    {
+      "artistName": "TAKU INOUE",
+      "positioning": {
+        "top": 521,
+        "left": 746
+      },
+      "style": {
+        "color": "#bb8074",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7651b75234d6e1602e54279cd6591c69a26b550f",
+        "title": "e.g. TAKU INOUE \"Sanji Juunihun\"",
+        "trackId": "26jQE4o0tM9onEoI4ylGOV"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=1XR2SfRwBXboS4s1rOSYA0",
+      "id": "1XR2SfRwBXboS4s1rOSYA0"
+    },
+    {
+      "artistName": "ときのそら",
+      "positioning": {
+        "top": 325,
+        "left": 820
+      },
+      "style": {
+        "color": "#d17c07",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40b9a61db154c5cf0545f61baa41c69bcaefff4e",
+        "title": "e.g. ときのそら \"愛言葉Ⅳ\"",
+        "trackId": "4koeBojeDqXaBZUc3fJcIh"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=2g9gjJayRURjomDGRLNaZR",
+      "id": "2g9gjJayRURjomDGRLNaZR"
+    },
+    {
+      "artistName": "大神ミオ",
+      "positioning": {
+        "top": 232,
+        "left": 393
+      },
+      "style": {
+        "color": "#e36b4b",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0f4350a0feafd86c2532eefb1cd87d73ee1f5f31",
+        "title": "e.g. 大神ミオ \"Howling\"",
+        "trackId": "250Zat00GCzOBvPUxq7ERR"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=539Z6h1XU1IripGR4rTtbz",
+      "id": "539Z6h1XU1IripGR4rTtbz"
+    },
+    {
+      "artistName": "Toko Inui",
+      "positioning": {
+        "top": 460,
+        "left": 439
+      },
+      "style": {
+        "color": "#bf7d09",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1907d28776ae1778485a16fcb04c8d39bc6adffa",
+        "title": "e.g. Toko Inui \"気まぐれロマンティック\"",
+        "trackId": "3BupLnRgj4Ki7REboL6pA3"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=0ne7ErnOjNiUqDxacxTZDn",
+      "id": "0ne7ErnOjNiUqDxacxTZDn"
+    },
+    {
+      "artistName": "不知火フレア",
+      "positioning": {
+        "top": 181,
+        "left": 509
+      },
+      "style": {
+        "color": "#d7754f",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9fca7cd26572e41a692f8a1dc4cf1e4308014b60",
+        "title": "e.g. 不知火フレア \"なかま歌\"",
+        "trackId": "2yuxTYk8czQ6nB3Z5X6SFf"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=0JHnoazUTZHoJMqRwsCDNT",
+      "id": "0JHnoazUTZHoJMqRwsCDNT"
+    },
+    {
+      "artistName": "Ayunda Risu",
+      "positioning": {
+        "top": 355,
+        "left": 688
+      },
+      "style": {
+        "color": "#c97751",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72313b133be48cd24e1c00945a4560c10853f587",
+        "title": "e.g. Ayunda Risu \"ALiCE&u\"",
+        "trackId": "69Dew9g9bXQyy4gAK6O0uS"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=3PLJjPD8KDRzaEdznJT16j",
+      "id": "3PLJjPD8KDRzaEdznJT16j"
+    },
+    {
+      "artistName": "Kizuna AI",
+      "positioning": {
+        "top": 220,
+        "left": 721
+      },
+      "style": {
+        "color": "#dd7e1d",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c1aae3fdf0ebb2fa0962bda71d67c35bdbd5fe3",
+        "title": "e.g. Kizuna AI \"AIAIAI (feat. 中田ヤスタカ)\"",
+        "trackId": "3KIcKiftxner9luU8Na5KZ"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=2nKGmC5Mc13ct02xAY8ccS",
+      "id": "2nKGmC5Mc13ct02xAY8ccS"
+    },
+    {
+      "artistName": "白銀ノエル",
+      "positioning": {
+        "top": 351,
+        "left": 1011
+      },
+      "style": {
+        "color": "#a48664",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e52798998cf2f39bcdfb3e6ddb13498dce09dec0",
+        "title": "e.g. 白銀ノエル \"リリカルMonster\"",
+        "trackId": "5mHaHrtctukyyFdBstkvc7"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=58dqdL1HubAnJ1QYj5CQCs",
+      "id": "58dqdL1HubAnJ1QYj5CQCs"
+    },
+    {
+      "artistName": "桃鈴ねね",
+      "positioning": {
+        "top": 326,
+        "left": 717
+      },
+      "style": {
+        "color": "#da7b50",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06f9e670199b490f96bd4e9b914feed35c3738cb",
+        "title": "e.g. 桃鈴ねね \"ねねねねねねねね!大爆走\"",
+        "trackId": "0r0YcSNnUtkYHoiRoV6Z9z"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=3KixQ8ZB7p1AXDaRA62SpX",
+      "id": "3KixQ8ZB7p1AXDaRA62SpX"
+    },
+    {
+      "artistName": "Kotone",
+      "positioning": {
+        "top": 283,
+        "left": 327
+      },
+      "style": {
+        "color": "#f05900",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f93dac0883408a359928e5770f23e5e65d0d76c",
+        "title": "e.g. Kotone \"PUNISHMENT\"",
+        "trackId": "7bIItYuP9mrM7Ust0C3uuS"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=01nMGyw9a98Vm03DM2rspb",
+      "id": "01nMGyw9a98Vm03DM2rspb"
+    },
+    {
+      "artistName": "にじさんじ",
+      "positioning": {
+        "top": 247,
+        "left": 302
+      },
+      "style": {
+        "color": "#e17335",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c64ec4686e3987721c064a9b3ee5f379521ff1c1",
+        "title": "e.g. にじさんじ \"Virtual to LIVE\"",
+        "trackId": "1nALR2zDcS7cZVnH4HNe8N"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=37pTvx1NINPgHJ3ZCZND05",
+      "id": "37pTvx1NINPgHJ3ZCZND05"
+    },
+    {
+      "artistName": "Watson Amelia",
+      "positioning": {
+        "top": 364,
+        "left": 70
+      },
+      "style": {
+        "color": "#d97749",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/346462fa6066f07c44d34600fe293acbbcfd48ac",
+        "title": "e.g. Watson Amelia \"ChikuTaku\"",
+        "trackId": "1bkcUHwunLGqfYHRXy9Zfx"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=0R8gPf3buI10EYWrB7FBlm",
+      "id": "0R8gPf3buI10EYWrB7FBlm"
+    },
+    {
+      "artistName": "尾丸ポルカ",
+      "positioning": {
+        "top": 157,
+        "left": 741
+      },
+      "style": {
+        "color": "#e07079",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e2b9a809e6a70342785278e3775691fa88f3e945",
+        "title": "e.g. 尾丸ポルカ \"ペルソナ\"",
+        "trackId": "0bk2RxPHG5aBbbw8FL0HHy"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=4lnAamuhZv4tmgOMryoB73",
+      "id": "4lnAamuhZv4tmgOMryoB73"
+    },
+    {
+      "artistName": "KMNZ",
+      "positioning": {
+        "top": 308,
+        "left": 1106
+      },
+      "style": {
+        "color": "#c37907",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bccebf461dc7f98a5bfc7a30e68604f753907c12",
+        "title": "e.g. KMNZ \"Augmentation\"",
+        "trackId": "0q17SIpv40VnrNv5pbuLOb"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=4uWpa0r7BZUXJ1ip2LJysz",
+      "id": "4uWpa0r7BZUXJ1ip2LJysz"
+    },
+    {
+      "artistName": "夜空メル",
+      "positioning": {
+        "top": 258,
+        "left": 580
+      },
+      "style": {
+        "color": "#db7248",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59ea7039ca89980a10faa8da352f7b5df014a8bf",
+        "title": "e.g. 夜空メル \"Plasmagic Seasons!\"",
+        "trackId": "0lom7KdzUyMlMBzzIyS5gn"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=4Hv8fxKG4YGfv5ezI6o4Xx",
+      "id": "4Hv8fxKG4YGfv5ezI6o4Xx"
+    },
+    {
+      "artistName": "YuNi",
+      "positioning": {
+        "top": 233,
+        "left": 787
+      },
+      "style": {
+        "color": "#cb8004",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5095ed7f1e3b2e9b2f9249710253198abaf8307",
+        "title": "e.g. YuNi \"fūmi zekka\"",
+        "trackId": "2Lphm5lQ3bOULctWRuMhJ8"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=6BzlN4V17m7ogeItP4CNN5",
+      "id": "6BzlN4V17m7ogeItP4CNN5"
+    },
+    {
+      "artistName": "Kyo Hanabasami",
+      "positioning": {
+        "top": 428,
+        "left": 936
+      },
+      "style": {
+        "color": "#be8c08",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71caadebac68867b76fc7393df57ac0ce51c3e49",
+        "title": "e.g. Kyo Hanabasami \"Daisy\"",
+        "trackId": "1jhnoRqBMzb804r0XYNMVa"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=2VeV8p67KNOG5JahnqcK7x",
+      "id": "2VeV8p67KNOG5JahnqcK7x"
+    },
+    {
+      "artistName": "Rain Drops",
+      "positioning": {
+        "top": 612,
+        "left": 671
+      },
+      "style": {
+        "color": "#d26800",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa9a36a53cd54cf44447678773f7e60c2e714450",
+        "title": "e.g. Rain Drops \"エンターテイナー\"",
+        "trackId": "5GpOMgcgium5xrN3I5OoMy"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=63mQUyT3UKIYrnbUP0ybNf",
+      "id": "63mQUyT3UKIYrnbUP0ybNf"
+    },
+    {
+      "artistName": "鳳凰火凛 (CV: 健屋花那)",
+      "positioning": {
+        "top": 341,
+        "left": 588
+      },
+      "style": {
+        "color": "#ea7026",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=12WNAXEoWB8oNjlyuYU5hZ",
+      "id": "12WNAXEoWB8oNjlyuYU5hZ"
+    },
+    {
+      "artistName": "Ethyria",
+      "positioning": {
+        "top": 51,
+        "left": 899
+      },
+      "style": {
+        "color": "#f89000",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9083eb19b8fff9a89489b09b87879ecd855a547f",
+        "title": "e.g. Ethyria \"God sees all\"",
+        "trackId": "1MES6o0hVfvTcoK0JYDQq6"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=1FUCVcTXn8jXmPTS3vV9xy",
+      "id": "1FUCVcTXn8jXmPTS3vV9xy"
+    },
+    {
+      "artistName": "OBSYDIA",
+      "positioning": {
+        "top": 254,
+        "left": 203
+      },
+      "style": {
+        "color": "#f57100",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3718cdc3792bc00d6291c70cbbcea4abb09c066",
+        "title": "e.g. OBSYDIA \"Black Out\"",
+        "trackId": "0kiUO0cZrel00kjM3JXz9w"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=3Q1iMgkQEx5LvTrWxVV8Ul",
+      "id": "3Q1iMgkQEx5LvTrWxVV8Ul"
+    },
+    {
+      "artistName": "緑仙",
+      "positioning": {
+        "top": 368,
+        "left": 700
+      },
+      "style": {
+        "color": "#c57402",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10ff3611f48dde9c43897ffe102e44ce59aad66c",
+        "title": "e.g. 緑仙 \"天誅\"",
+        "trackId": "4x1ITFyAfa9d4qonnRRlgU"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=0XGVrQtpAZA0GP9jjI8GQf",
+      "id": "0XGVrQtpAZA0GP9jjI8GQf"
+    },
+    {
+      "artistName": "潤羽るしあ",
+      "positioning": {
+        "top": 393,
+        "left": 389
+      },
+      "style": {
+        "color": "#c28039",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ace36407a1bd27b969de2f8b4254ae74084eb07c",
+        "title": "e.g. 潤羽るしあ \"思ひ恋ふ\"",
+        "trackId": "0Ntwr2abKYB8aL21EnsgVg"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=70qI9Ih5VXZMuCsEVhy22C",
+      "id": "70qI9Ih5VXZMuCsEVhy22C"
+    },
+    {
+      "artistName": "瀬戸海月 (CV: シスター・クレア)",
+      "positioning": {
+        "top": 286,
+        "left": 592
+      },
+      "style": {
+        "color": "#dc7916",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=3fHDuekX2NfAhKC0f3Qde5",
+      "id": "3fHDuekX2NfAhKC0f3Qde5"
+    },
+    {
+      "artistName": "雪花ラミィ",
+      "positioning": {
+        "top": 181,
+        "left": 592
+      },
+      "style": {
+        "color": "#e8705d",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6792f1cc03d87010959d5365d58c5fab8e6db15f",
+        "title": "e.g. 雪花ラミィ \"Lamy＊Love♡Fest☆\"",
+        "trackId": "2uMny5o0bCTZXHhyjFALNl"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=0qysjJL9vlQUriZJRQmcVE",
+      "id": "0qysjJL9vlQUriZJRQmcVE"
+    },
+    {
+      "artistName": "加賀美ハヤト",
+      "positioning": {
+        "top": 305,
+        "left": 476
+      },
+      "style": {
+        "color": "#e16301",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/354b55b0f7fa03b15e40fe44ae4972310ab9bb44",
+        "title": "e.g. 加賀美ハヤト \"Follow Your Heart\"",
+        "trackId": "3nYZkt5c3C9uHoESylE6TB"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=6f2iZzGCK9m8C3Ose2DvmR",
+      "id": "6f2iZzGCK9m8C3Ose2DvmR"
+    },
+    {
+      "artistName": "いろはにほへっと あやふぶみ",
+      "positioning": {
+        "top": 313,
+        "left": 692
+      },
+      "style": {
+        "color": "#e07425",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c93c3ae8f4c7c00404ad1ce88039751d53253728",
+        "title": "e.g. いろはにほへっと あやふぶみ \"おにけもだんす\"",
+        "trackId": "2Jl8QDonwxjmKHvoBePD05"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=4yNmDmIRZptH90MevoYvQs",
+      "id": "4yNmDmIRZptH90MevoYvQs"
+    },
+    {
+      "artistName": "▽▲TRiNITY▲▽",
+      "positioning": {
+        "top": 275,
+        "left": 824
+      },
+      "style": {
+        "color": "#db7713",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bafc5976ef1fd5c6a34a4d1bb7bd71ba6305e402",
+        "title": "e.g. ▽▲TRiNITY▲▽ \"XOXO\"",
+        "trackId": "17sXml9nJuUyGCgYDs16BZ"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=1smxE5VWPZB5RfSsK3bVyM",
+      "id": "1smxE5VWPZB5RfSsK3bVyM"
+    },
+    {
+      "artistName": "somunia",
+      "positioning": {
+        "top": 293,
+        "left": 1218
+      },
+      "style": {
+        "color": "#b18e12",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07a16be1f309afe3346d9ae3c691feecae19b8ad",
+        "title": "e.g. somunia \"non player girl - nyankobrq 2P ver.\"",
+        "trackId": "6DPkB1YBZzpm0o2X4URkiB"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=6OduXXk2Xvxkfe9QG5upcc",
+      "id": "6OduXXk2Xvxkfe9QG5upcc"
+    },
+    {
+      "artistName": "yuigot",
+      "positioning": {
+        "top": 299,
+        "left": 683
+      },
+      "style": {
+        "color": "#dd7913",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/744ff3559b05b7c97bd904882f950b5615679e91",
+        "title": "e.g. yuigot \"ロストアンブレラ - yuigot Remix\"",
+        "trackId": "50ZpGIhhLctLPDGcSrH5DU"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=6JpGvdWdOnLTKuNWqOpYT0",
+      "id": "6JpGvdWdOnLTKuNWqOpYT0"
+    },
+    {
+      "artistName": "獅白ぼたん",
+      "positioning": {
+        "top": 260,
+        "left": 708
+      },
+      "style": {
+        "color": "#d77f79",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a783736b6af6b2330b28fb11af568c329c089872",
+        "title": "e.g. 獅白ぼたん \"Lioness’ Pride\"",
+        "trackId": "3uUqVWJfaRpaj3b0EgrOsS"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=6SJuFGUxkapaefayFdBwWz",
+      "id": "6SJuFGUxkapaefayFdBwWz"
+    },
+    {
+      "artistName": "アキ・ローゼンタール",
+      "positioning": {
+        "top": 351,
+        "left": 1085
+      },
+      "style": {
+        "color": "#c87d6e",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86aac7d15078d9587f4208833638c3063a9e658a",
+        "title": "e.g. アキ・ローゼンタール \"キミにまつわる運命事情\"",
+        "trackId": "1ZSQeyax0AcNfE0l1P5TDN"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=2ANytjXP6otAgDNUwWeym5",
+      "id": "2ANytjXP6otAgDNUwWeym5"
+    },
+    {
+      "artistName": "gaburyu",
+      "positioning": {
+        "top": 375,
+        "left": 1363
+      },
+      "style": {
+        "color": "#ab8b27",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eda1c9cc4fd5d323782e6937373bdd1bfdb16723",
+        "title": "e.g. gaburyu \"sweety glitch (feat. 初音ミク)\"",
+        "trackId": "0moNV1eI2iGVh8YOqbAQi4"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=7LNFEb2Axhj6CMHx3coSZc",
+      "id": "7LNFEb2Axhj6CMHx3coSZc"
+    },
+    {
+      "artistName": "波羅ノ鬼",
+      "positioning": {
+        "top": 383,
+        "left": 447
+      },
+      "style": {
+        "color": "#b98000",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76cbba36a00aeaab1e5546c8f0ac4d3b770f3bc6",
+        "title": "e.g. 波羅ノ鬼 \"余命宣告\"",
+        "trackId": "1z6Aqm2vBNBKkgF2ytBftj"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=2zwzedQhrtyDR51kPGKuID",
+      "id": "2zwzedQhrtyDR51kPGKuID"
+    },
+    {
+      "artistName": "Tsukino Mito",
+      "positioning": {
+        "top": 547,
+        "left": 580
+      },
+      "style": {
+        "color": "#d07207",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8d3190beb493ec85d5295e16030faedcf99c8e19",
+        "title": "e.g. Tsukino Mito \"浮遊感UFO\"",
+        "trackId": "1E5ET8QkpofNJZSNRmjzVT"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=707mr1aJKwfX8UP4Lc5CFg",
+      "id": "707mr1aJKwfX8UP4Lc5CFg"
+    },
+    {
+      "artistName": "花鋏キョウ",
+      "positioning": {
+        "top": 428,
+        "left": 886
+      },
+      "style": {
+        "color": "#bc8d07",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2d1598b57a51fb2b7b4d6abfaa6208965fedf7a8",
+        "title": "e.g. 花鋏キョウ \"蒼に躊躇う\"",
+        "trackId": "2KgoNit0g1dwn3jMkrdFaM"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=1YToShGh3Sto5icr0OCIQw",
+      "id": "1YToShGh3Sto5icr0OCIQw"
+    },
+    {
+      "artistName": "VESPERBELL",
+      "positioning": {
+        "top": 222,
+        "left": 298
+      },
+      "style": {
+        "color": "#de6917",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2dd2007341ed13d177a7faa8e20c24a2b49a433b",
+        "title": "e.g. VESPERBELL \"RISE\"",
+        "trackId": "5E8goGzBsqC5Unz8I9vBOT"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=0FMBfzP2kK1RajdetEVL5c",
+      "id": "0FMBfzP2kK1RajdetEVL5c"
+    },
+    {
+      "artistName": "夏色まつり",
+      "positioning": {
+        "top": 280,
+        "left": 538
+      },
+      "style": {
+        "color": "#e06a67",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/22c3e6f233fe2e73ba2af1c97610e5a4902370ef",
+        "title": "e.g. 夏色まつり \"ゼッタイ王政カーニバル!\"",
+        "trackId": "5ZBgmV94Rm1EHPAZ4LbPQO"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=5cY0arUoTdpFnqUCiAQMNx",
+      "id": "5cY0arUoTdpFnqUCiAQMNx"
+    },
+    {
+      "artistName": "大賀ルキア (CV: 星川サラ)",
+      "positioning": {
+        "top": 182,
+        "left": 721
+      },
+      "style": {
+        "color": "#eb7b17",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=3IFOQg0N8gQooK5duWNRq4",
+      "id": "3IFOQg0N8gQooK5duWNRq4"
+    },
+    {
+      "artistName": "MonsterZ MATE",
+      "positioning": {
+        "top": 396,
+        "left": 621
+      },
+      "style": {
+        "color": "#e16905",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c7afae48d4d6c6935180cb92e9d6a271dc5cde3",
+        "title": "e.g. MonsterZ MATE \"Diver×Diver\"",
+        "trackId": "6ObVFMDWGRu0rz4fkidohJ"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=6n4OdD0Q138mkJwVdk5noN",
+      "id": "6n4OdD0Q138mkJwVdk5noN"
+    },
+    {
+      "artistName": "名取さな",
+      "positioning": {
+        "top": 225,
+        "left": 837
+      },
+      "style": {
+        "color": "#df7605",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd60ab3be074f37519159de5e954f05cf70e9de3",
+        "title": "e.g. 名取さな \"モンダイナイトリッパー!\"",
+        "trackId": "1xeOtLjWyh4anACJKXzDkW"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=6vaswgRC6lAZjayit6YfvX",
+      "id": "6vaswgRC6lAZjayit6YfvX"
+    },
+    {
+      "artistName": "夢追翔",
+      "positioning": {
+        "top": 243,
+        "left": 833
+      },
+      "style": {
+        "color": "#d67700",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53ad88627f6e4d52296cb75cb974f9145b81ad0b",
+        "title": "e.g. 夢追翔 \"人間じゃないよな\"",
+        "trackId": "0RjFKWwPpddUeWsZOrG9Nj"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=57cdoMqM76oNx7wQInjpA5",
+      "id": "57cdoMqM76oNx7wQInjpA5"
+    },
+    {
+      "artistName": "ロボ子さん",
+      "positioning": {
+        "top": 433,
+        "left": 1102
+      },
+      "style": {
+        "color": "#a09736",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c2e18a1537073aaea1905a195a51f15d95efd61c",
+        "title": "e.g. ロボ子さん \"リルビ\"",
+        "trackId": "0VbwrY9KRHelfekJXRRb2E"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=1JSf6ODLyqPpYQAHN7S1Th",
+      "id": "1JSf6ODLyqPpYQAHN7S1Th"
+    },
+    {
+      "artistName": "EMMA HAZY MINAMI",
+      "positioning": {
+        "top": 651,
+        "left": 725
+      },
+      "style": {
+        "color": "#bd8501",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9567e0c5f971ce81437740f074e433a4c9504448",
+        "title": "e.g. EMMA HAZY MINAMI \"MAYONAKANO JOKE\"",
+        "trackId": "4VA1mgsulmaHPKox6NclOz"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=6jiIsVGy8SEoPnFeFOsGtH",
+      "id": "6jiIsVGy8SEoPnFeFOsGtH"
+    },
+    {
+      "artistName": "BOOGEY VOXX",
+      "positioning": {
+        "top": 280,
+        "left": 1156
+      },
+      "style": {
+        "color": "#d3700b",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/723b64ad077e64e8f7ab70edc340085bff9e0c3a",
+        "title": "e.g. BOOGEY VOXX \"CROWN\"",
+        "trackId": "7ywRRguljW6J3mAOj1EqjP"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=3VAdXfwUyM3Z1KvtnPlllq",
+      "id": "3VAdXfwUyM3Z1KvtnPlllq"
+    },
+    {
+      "artistName": "hololive Indonesia",
+      "positioning": {
+        "top": 447,
+        "left": 667
+      },
+      "style": {
+        "color": "#a17f3c",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8877a980abd0231d777a00ae22c44d61e23d66a9",
+        "title": "e.g. hololive Indonesia \"id:entity voices\"",
+        "trackId": "1tOyALwEUlV1VxHEkiDprF"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=7iDL7tTq20cIwXsAewcz4d",
+      "id": "7iDL7tTq20cIwXsAewcz4d"
+    },
+    {
+      "artistName": "METRO MEW",
+      "positioning": {
+        "top": 319,
+        "left": 1377
+      },
+      "style": {
+        "color": "#b58c29",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10949cdfd0d25d0244821e963746dfc76b7c0a71",
+        "title": "e.g. METRO MEW \"めろめろグルーヴ\"",
+        "trackId": "3wNZrPcyObjsZRLG7h6Vq6"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=1gJXZ1gVIHK0cYqQ9krQR7",
+      "id": "1gJXZ1gVIHK0cYqQ9krQR7"
+    },
+    {
+      "artistName": "NIJISANJI",
+      "positioning": {
+        "top": 177,
+        "left": 149
+      },
+      "style": {
+        "color": "#f34300",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=1eH0Ch7vjkGfP6Lqp27p9f",
+      "id": "1eH0Ch7vjkGfP6Lqp27p9f"
+    },
+    {
+      "artistName": "NEGI☆U",
+      "positioning": {
+        "top": 356,
+        "left": 493
+      },
+      "style": {
+        "color": "#db675b",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4bc46bc496f0e7b482eb2d87814560074c4d293e",
+        "title": "e.g. NEGI☆U \"TSUMARI WA ITSUMO KUJIKENAI!\"",
+        "trackId": "6i2BggYgaZ2nfSV2hUTV9x"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=0oyRWkoZs1hXQwXFaNxbQO",
+      "id": "0oyRWkoZs1hXQwXFaNxbQO"
+    },
+    {
+      "artistName": "癒月ちょこ",
+      "positioning": {
+        "top": 132,
+        "left": 596
+      },
+      "style": {
+        "color": "#d46d65",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ed3ee5c0ef292aad695f089b53c9578f8a9c439d",
+        "title": "e.g. 癒月ちょこ \"NoDistance\"",
+        "trackId": "7EXlO9lFL07yLD79gjEeVX"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=7f88eYygFslxqmdh0mDWXn",
+      "id": "7f88eYygFslxqmdh0mDWXn"
+    },
+    {
+      "artistName": "律可",
+      "positioning": {
+        "top": 232,
+        "left": 638
+      },
+      "style": {
+        "color": "#be7c4a",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f698751638c19f506cdb0807fc0bd50ad338f19",
+        "title": "e.g. 律可 \"spiral tones\"",
+        "trackId": "6T1Fh5bxr1nRVKsGCAPxUq"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=0nEKA86Og8b1gll9dc0tS9",
+      "id": "0nEKA86Og8b1gll9dc0tS9"
+    },
+    {
+      "artistName": "Kijibato",
+      "positioning": {
+        "top": 262,
+        "left": 899
+      },
+      "style": {
+        "color": "#da772d",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71317050d7ca03086534c659cafcefafd049fb0b",
+        "title": "e.g. Kijibato \"w / WWW\"",
+        "trackId": "7JTiLcSOLzYyZzVuyd677P"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=0Nu6ol0k7wvv19hjtMK5f5",
+      "id": "0Nu6ol0k7wvv19hjtMK5f5"
+    },
+    {
+      "artistName": "memex",
+      "positioning": {
+        "top": 406,
+        "left": 377
+      },
+      "style": {
+        "color": "#d5700d",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16cc991f581f1317fe15220c4e0be4239e078d14",
+        "title": "e.g. memex \"heterodoxy\"",
+        "trackId": "3wNFRvRZ8i869cs94z8UiB"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=2qv0pPCrKMJjFIxkyEUMlE",
+      "id": "2qv0pPCrKMJjFIxkyEUMlE"
+    },
+    {
+      "artistName": "アンジュ・カトリーナ",
+      "positioning": {
+        "top": 321,
+        "left": 393
+      },
+      "style": {
+        "color": "#e86900",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20edf9cd9d66e7790210e17bfa91d142e7e5efab",
+        "title": "e.g. アンジュ・カトリーナ \"3 倍！Sun Shine！カーニバル！\"",
+        "trackId": "5wEs2M8yEYx0L2DD1hQpqR"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=4cJ5TuGWo4C4h66UfPn6qC",
+      "id": "4cJ5TuGWo4C4h66UfPn6qC"
+    },
+    {
+      "artistName": "YACA IN DA HOUSE",
+      "positioning": {
+        "top": 392,
+        "left": 1193
+      },
+      "style": {
+        "color": "#bb840f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0a8404d6b1f028d81dbfedb58c7d783b695c9781",
+        "title": "e.g. YACA IN DA HOUSE \"OSARABA\"",
+        "trackId": "4T0LQIWhnpRPPODNZCnvaa"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=4B9j9r6GzY3NRLK0gOkZsD",
+      "id": "4B9j9r6GzY3NRLK0gOkZsD"
+    },
+    {
+      "artistName": "不破湊",
+      "positioning": {
+        "top": 383,
+        "left": 708
+      },
+      "style": {
+        "color": "#d57200",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2088ff8182948223dc9e4e72b8164399336f6bba",
+        "title": "e.g. 不破湊 \"ラストソング\"",
+        "trackId": "1GigCnzrV2fGLQln8b46eM"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=1PblbBCKiNJQ2O2TmXHReC",
+      "id": "1PblbBCKiNJQ2O2TmXHReC"
+    },
+    {
+      "artistName": "町田ちま",
+      "positioning": {
+        "top": 496,
+        "left": 733
+      },
+      "style": {
+        "color": "#bd8200",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/298321dbc119833943bd631ace883b792a748df2",
+        "title": "e.g. 町田ちま \"名前のない感情\"",
+        "trackId": "0M4qI3SuZLrudeWxajHOM5"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=2XdS8B1ffoRtHvgk5Ww3oF",
+      "id": "2XdS8B1ffoRtHvgk5Ww3oF"
+    },
+    {
+      "artistName": "をとは",
+      "positioning": {
+        "top": 237,
+        "left": 899
+      },
+      "style": {
+        "color": "#eb6912",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ecacc1f8a0f69b09fc3285f0c6a1b50452399829",
+        "title": "e.g. をとは \"Digital Life Hacker\"",
+        "trackId": "0U0cRH9gXXAZSvbb0PDAsx"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=4vFZAUVnDZBvqR4mIJF26K",
+      "id": "4vFZAUVnDZBvqR4mIJF26K"
+    },
+    {
+      "artistName": "葉加瀬冬雪",
+      "positioning": {
+        "top": 115,
+        "left": 907
+      },
+      "style": {
+        "color": "#c48200",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b98de75ade2bbb86679ebe3aeec1e329f08eb19d",
+        "title": "e.g. 葉加瀬冬雪 \"リトルハミング\"",
+        "trackId": "1nmQJOdozY11bL7qpInJDl"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=743iftvrwa2w6SsVHekRkf",
+      "id": "743iftvrwa2w6SsVHekRkf"
+    },
+    {
+      "artistName": "NIJISANJI EN",
+      "positioning": {
+        "top": 384,
+        "left": 501
+      },
+      "style": {
+        "color": "#e07e00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7e5ea3e74f1574fe270c2a7bc754124eaa30d69",
+        "title": "e.g. NIJISANJI EN \"Trial and Error - English Ver.\"",
+        "trackId": "0gHDKiOVuoO2W48NBkOL7t"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=3ffH9cBily4Qe0scP1VeaM",
+      "id": "3ffH9cBily4Qe0scP1VeaM"
+    },
+    {
+      "artistName": "ジョー・力一",
+      "positioning": {
+        "top": 292,
+        "left": 261
+      },
+      "style": {
+        "color": "#e95700",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf5ac6cc226b100e9974f3d649f7cf729ef0e050",
+        "title": "e.g. ジョー・力一 \"レイテストショーマン\"",
+        "trackId": "7fCThbKRuzvwMkteJBndUb"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=59vMjSu1g4ZyGfEuPzFRXp",
+      "id": "59vMjSu1g4ZyGfEuPzFRXp"
+    },
+    {
+      "artistName": "Luna Kaguya",
+      "positioning": {
+        "top": 478,
+        "left": 397
+      },
+      "style": {
+        "color": "#ee4f43",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3969c20d9a93723bde451c11124e329ea0fbb99",
+        "title": "e.g. Luna Kaguya \"Dance With Cinderella !\"",
+        "trackId": "7J4pfIEBgj3ilveEKE47zY"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=0eoylAWvxfXTc0dX43xZEU",
+      "id": "0eoylAWvxfXTc0dX43xZEU"
+    },
+    {
+      "artistName": "剣持刀也",
+      "positioning": {
+        "top": 244,
+        "left": 563
+      },
+      "style": {
+        "color": "#e36c00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5998cd702e47d1d2cd70060c49e35411536c72e",
+        "title": "e.g. 剣持刀也 \"スーサイドパレヱド - LIVE 2021/8/1\"",
+        "trackId": "1zXNgFHxDIvM4BGqz4vGj0"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=3p5u6C63zDYR7KIiRybuKu",
+      "id": "3p5u6C63zDYR7KIiRybuKu"
+    },
+    {
+      "artistName": "Dyako",
+      "positioning": {
+        "top": 219,
+        "left": 1359
+      },
+      "style": {
+        "color": "#cf7e25",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e4cec70b682f422c16f75c33b33b15ae40a6db59",
+        "title": "e.g. Dyako \"PEKO PEKO PEKO\"",
+        "trackId": "07ux9YBKetM1fAAx8nXLld"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=5DbQ5B4wgA0ujEMXYzftBp",
+      "id": "5DbQ5B4wgA0ujEMXYzftBp"
+    },
+    {
+      "artistName": "The LASTTRAK",
+      "positioning": {
+        "top": 276,
+        "left": 1326
+      },
+      "style": {
+        "color": "#aa8941",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b037e918c394d62fa18846a36a05c2764d463c3c",
+        "title": "e.g. The LASTTRAK \"fog morning\"",
+        "trackId": "1yzkFH5HZLVyH9imaRN1rG"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=27tedpw5lwTFuWL8i8xVqT",
+      "id": "27tedpw5lwTFuWL8i8xVqT"
+    },
+    {
+      "artistName": "Pinky Pop Hepburn",
+      "positioning": {
+        "top": 329,
+        "left": 489
+      },
+      "style": {
+        "color": "#f46505",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/389e9db7933fcc2efdb55e6237b366360ed17497",
+        "title": "e.g. Pinky Pop Hepburn \"MAD TIME LOVE\"",
+        "trackId": "6VZja4oRODK7QHpH7o71Yw"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=3eXlNWeumBSa8pG9VSHdwl",
+      "id": "3eXlNWeumBSa8pG9VSHdwl"
+    },
+    {
+      "artistName": "HOLOSTARS",
+      "positioning": {
+        "top": 272,
+        "left": 451
+      },
+      "style": {
+        "color": "#d27065",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85e3d231de4de1f3f3e091bbc5781a71e9053530",
+        "title": "e.g. HOLOSTARS \"Just Follow Stars\"",
+        "trackId": "0JnPGtuC6WvtIrulXBIfZJ"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=6bk51KYcUESMvf5rJGRbnH",
+      "id": "6bk51KYcUESMvf5rJGRbnH"
+    },
+    {
+      "artistName": "御伽原江良",
+      "positioning": {
+        "top": 95,
+        "left": 567
+      },
+      "style": {
+        "color": "#f07600",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c1596d53cd75ee2e3a3afa7eb58483ff57996ebe",
+        "title": "e.g. 御伽原江良 \"♡桃色片想い♡\"",
+        "trackId": "6ZIXAzVjzwAfbYFSglQsNI"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=4Wxg5VCvGfJs8OXK5xWWQH",
+      "id": "4Wxg5VCvGfJs8OXK5xWWQH"
+    },
+    {
+      "artistName": "TOMATO GUMMY",
+      "positioning": {
+        "top": 300,
+        "left": 837
+      },
+      "style": {
+        "color": "#b29168",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72bb2cfb9c948ba533ab4093b1f6decc7494b5d5",
+        "title": "e.g. TOMATO GUMMY \"FINE!!\"",
+        "trackId": "4RKKZ2NYhHmH4fGoTJicQo"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=40tpfm5rEziUVmLY48hwC5",
+      "id": "40tpfm5rEziUVmLY48hwC5"
+    },
+    {
+      "artistName": "NIJISANJI ID",
+      "positioning": {
+        "top": 207,
+        "left": 406
+      },
+      "style": {
+        "color": "#ca7b00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51075a47f58c396f86fbc75e52e78c16f7d7f81e",
+        "title": "e.g. NIJISANJI ID \"into reality\"",
+        "trackId": "6Gv3Qh3eRq6h4mhZqgppoP"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=4CXoKFNF4AhnEBHLdSebJg",
+      "id": "4CXoKFNF4AhnEBHLdSebJg"
+    },
+    {
+      "artistName": "卯月コウ",
+      "positioning": {
+        "top": 311,
+        "left": 66
+      },
+      "style": {
+        "color": "#ed5f00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c13ca7888e4cb5f9e5d1c50f2fd93d45bc814c2c",
+        "title": "e.g. 卯月コウ \"放課後シャングリラ\"",
+        "trackId": "2AUAPw7xtm2hYHjNbixKea"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=6JhTupWXrQnGWu4vErYPYw",
+      "id": "6JhTupWXrQnGWu4vErYPYw"
+    },
+    {
+      "artistName": "奏手イヅル",
+      "positioning": {
+        "top": 235,
+        "left": 315
+      },
+      "style": {
+        "color": "#be705a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/267ec70edaa3cf150d7fd5f2fe2680f23ed45ea7",
+        "title": "e.g. 奏手イヅル \"連なるモノローグ\"",
+        "trackId": "4JvgWmOCUwQGbZPIAKMfaF"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=0asG3iGnDzxlo0S4O595Td",
+      "id": "0asG3iGnDzxlo0S4O595Td"
+    },
+    {
+      "artistName": "フレン・E・ルスタリオ",
+      "positioning": {
+        "top": 371,
+        "left": 555
+      },
+      "style": {
+        "color": "#dc7a01",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c320e4b09e1eeb0f7930a0b7fc1844083cb16302",
+        "title": "e.g. フレン・E・ルスタリオ \"Alive In Wonderland\"",
+        "trackId": "3XjnOYwAmDHvue9TCQsJVZ"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=7twaDjzUd9lomD5KjStre4",
+      "id": "7twaDjzUd9lomD5KjStre4"
+    },
+    {
+      "artistName": "獅子神レオナ",
+      "positioning": {
+        "top": 575,
+        "left": 712
+      },
+      "style": {
+        "color": "#cd730c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0ed0a4893f8fabc8116dfbf9e15038836ebfa5c",
+        "title": "e.g. 獅子神レオナ \"小さな恋のうた\"",
+        "trackId": "4GP4KPpiK696MgUzhsTWFy"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=0DonwPz5UrJ1FiENHyASjl",
+      "id": "0DonwPz5UrJ1FiENHyASjl"
+    },
+    {
+      "artistName": "あるか",
+      "positioning": {
+        "top": 692,
+        "left": 592
+      },
+      "style": {
+        "color": "#15564e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/080562a161d3caba44e19d9a1754a3ebef33c9e0",
+        "title": "e.g. あるか \"ASMR - 心音 、 膝枕で耳かき 、 シャンプー 、 お耳のタッピング_pt121\"",
+        "trackId": "1IDikF4FK89FPyIrDDSGm5"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=5ZU8Oo1B9DCDvPBBSbLP7Z",
+      "id": "5ZU8Oo1B9DCDvPBBSbLP7Z"
+    },
+    {
+      "artistName": "Kanae",
+      "positioning": {
+        "top": 459,
+        "left": 518
+      },
+      "style": {
+        "color": "#c37c00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=3MQdMd9KEDjGNREFVpsuGD",
+      "id": "3MQdMd9KEDjGNREFVpsuGD"
+    },
+    {
+      "artistName": "Ririsya",
+      "positioning": {
+        "top": 369,
+        "left": 489
+      },
+      "style": {
+        "color": "#d67a02",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4142b3c292ae9943dc406a2457f83e5930d27d87",
+        "title": "e.g. Ririsya \"Parallel Night\"",
+        "trackId": "6Lcgug8fVCGOZryRdKhLTD"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=1Y0t0b7oKfedZQHSGq0J0A",
+      "id": "1Y0t0b7oKfedZQHSGq0J0A"
+    },
+    {
+      "artistName": "富士葵",
+      "positioning": {
+        "top": 513,
+        "left": 659
+      },
+      "style": {
+        "color": "#b97d07",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2873af7c627f31fd0a1c8fbdb0bb572b216b7b64",
+        "title": "e.g. 富士葵 \"クリティカルシンキング\"",
+        "trackId": "6nrM4fC71o9FGhR05w0Yi4"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=2MpCDbGU66x0pDfCRESqmZ",
+      "id": "2MpCDbGU66x0pDfCRESqmZ"
+    },
+    {
+      "artistName": "健屋花那",
+      "positioning": {
+        "top": 419,
+        "left": 410
+      },
+      "style": {
+        "color": "#c87801",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b67f4930d7c36923c7f6dded617825f21255a5c0",
+        "title": "e.g. 健屋花那 \"禁忌肢\"",
+        "trackId": "1jbPlrKh0EpWnorLSBtqye"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=0mtOFup921YqUqaueZvHKm",
+      "id": "0mtOFup921YqUqaueZvHKm"
+    },
+    {
+      "artistName": "ドーラ",
+      "positioning": {
+        "top": 283,
+        "left": 397
+      },
+      "style": {
+        "color": "#e86800",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3bfd6491ce05bc5b690d766a7d34cad35e1df71",
+        "title": "e.g. ドーラ \"革命デュアリズム - LIVE 2021/8/1\"",
+        "trackId": "5zunSLdkyyCi7spwzNF1q7"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=7oF2MxxVuYjNEM0RbexXnZ",
+      "id": "7oF2MxxVuYjNEM0RbexXnZ"
+    },
+    {
+      "artistName": "GEMS COMPANY",
+      "positioning": {
+        "top": 410,
+        "left": 601
+      },
+      "style": {
+        "color": "#d8720a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8e5ea0e7f8971396b2bdb2ab66a6070625cc1a5",
+        "title": "e.g. GEMS COMPANY \"夢を追い駆ける者たちへ\"",
+        "trackId": "4yfA7W9EuasNirKJ72T2rw"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=6XnWrx5hdp7NtFzHQ1SbZ9",
+      "id": "6XnWrx5hdp7NtFzHQ1SbZ9"
+    },
+    {
+      "artistName": "Hayato Kagami",
+      "positioning": {
+        "top": 321,
+        "left": 257
+      },
+      "style": {
+        "color": "#ee5601",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=4qDF9r0CoHahebRpxqUC7f",
+      "id": "4qDF9r0CoHahebRpxqUC7f"
+    },
+    {
+      "artistName": "petit fleurs",
+      "positioning": {
+        "top": 231,
+        "left": 534
+      },
+      "style": {
+        "color": "#e57500",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6b036c5bf7d9e6c5a932d7c3425946c97864bdf7",
+        "title": "e.g. petit fleurs \"スーパーウルトラハイパーミラクルロマンチック\"",
+        "trackId": "621cGJFGJtMaA8f0zR12vx"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=5eBEwmpEBjwbK4np6cmbzd",
+      "id": "5eBEwmpEBjwbK4np6cmbzd"
+    },
+    {
+      "artistName": "鷹宮リオン",
+      "positioning": {
+        "top": 190,
+        "left": 182
+      },
+      "style": {
+        "color": "#dc6e00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff324691599986e09478703b4c956e9cf0ad09b7",
+        "title": "e.g. 鷹宮リオン \"イキノアイマ\"",
+        "trackId": "3ARRllZbngnAaDVrG66GI8"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=1HijLHe1712QyalIiYQcwk",
+      "id": "1HijLHe1712QyalIiYQcwk"
+    },
+    {
+      "artistName": "あおぎり高校",
+      "positioning": {
+        "top": 189,
+        "left": 1027
+      },
+      "style": {
+        "color": "#be7e00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0f454a10486eb50164a48cadd4865e398c0a8145",
+        "title": "e.g. あおぎり高校 \"トリコロール・ステップ\"",
+        "trackId": "1wz1MwQ3J9fbwhmezBq8jd"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=3woHXKf2rehAfBMH53utge",
+      "id": "3woHXKf2rehAfBMH53utge"
+    },
+    {
+      "artistName": "えのぐ",
+      "positioning": {
+        "top": 267,
+        "left": 551
+      },
+      "style": {
+        "color": "#e3701a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a86b8008ae720c678422e52ce7640bfe1ce54329",
+        "title": "e.g. えのぐ \"Armor Break\"",
+        "trackId": "4fSOFF0fo5UjQ5zNtkPAWw"
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=6SI1fprYnlol2XmQdZr05n",
+      "id": "6SI1fprYnlol2XmQdZr05n"
+    },
+    {
+      "artistName": "Kuzuha",
+      "positioning": {
+        "top": 324,
+        "left": 3
+      },
+      "style": {
+        "color": "#f05700",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item129",
+      "href": "https://everynoise.com/artistprofile.html?id=7gN4FOSWrXU2oEKtsINSam",
+      "id": "7gN4FOSWrXU2oEKtsINSam"
+    },
+    {
+      "artistName": "ミライアカリ",
+      "positioning": {
+        "top": 270,
+        "left": 356
+      },
+      "style": {
+        "color": "#d7703b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f27675213f4483826b49c81f42167f700b0fdd3",
+        "title": "e.g. ミライアカリ \"ミライトミライ\"",
+        "trackId": "2Ll9oyHFI16O2zAkoWaj7b"
+      },
+      "elementId": "item130",
+      "href": "https://everynoise.com/artistprofile.html?id=0nQt0sivKt7x5EE1n6nHKt",
+      "id": "0nQt0sivKt7x5EE1n6nHKt"
+    },
+    {
+      "artistName": "ミディ",
+      "positioning": {
+        "top": 152,
+        "left": 1073
+      },
+      "style": {
+        "color": "#df6e47",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/558cf2365dcd7999a3637aa708f2b81d90e49106",
+        "title": "e.g. ミディ \"Close to my heart\"",
+        "trackId": "3FeVkBF0nAhRwx2M0WRcEt"
+      },
+      "elementId": "item131",
+      "href": "https://everynoise.com/artistprofile.html?id=2kfVJr9I2VZHzjuxkvlM12",
+      "id": "2kfVJr9I2VZHzjuxkvlM12"
+    },
+    {
+      "artistName": "笹木咲",
+      "positioning": {
+        "top": 169,
+        "left": 638
+      },
+      "style": {
+        "color": "#e37013",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6d2ebcfaf3d04687d1d8f7e07b59eb1fc1f0089a",
+        "title": "e.g. 笹木咲 \"煽動海獣ダイパンダ\"",
+        "trackId": "4ZhRmL9viOvvkZ7hfxa4i5"
+      },
+      "elementId": "item132",
+      "href": "https://everynoise.com/artistprofile.html?id=4aSO9cSl0RdtXRvihvEjaM",
+      "id": "4aSO9cSl0RdtXRvihvEjaM"
+    },
+    {
+      "artistName": "朝ノ瑠璃",
+      "positioning": {
+        "top": 333,
+        "left": 348
+      },
+      "style": {
+        "color": "#d67200",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/107263f135d400496021f7e07ead98b4df7e1193",
+        "title": "e.g. 朝ノ瑠璃 \"虹色のフリューゲル - Cover\"",
+        "trackId": "7Fk9NSiIWgFdQwkajQbPh1"
+      },
+      "elementId": "item133",
+      "href": "https://everynoise.com/artistprofile.html?id=584gKp2bM8dnPO7AyJ17Vc",
+      "id": "584gKp2bM8dnPO7AyJ17Vc"
+    },
+    {
+      "artistName": "こじらせハラスメント",
+      "positioning": {
+        "top": 218,
+        "left": 1119
+      },
+      "style": {
+        "color": "#ba7a00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2d8f544687183a69a4ea3be404205ed33bc20328",
+        "title": "e.g. こじらせハラスメント \"全力ブーメラン\"",
+        "trackId": "143cDfpW80WjvrACtbiuk9"
+      },
+      "elementId": "item134",
+      "href": "https://everynoise.com/artistprofile.html?id=3TQQYcA99MmDc3XbbE2MVy",
+      "id": "3TQQYcA99MmDc3XbbE2MVy"
+    },
+    {
+      "artistName": "Leona Shishigami",
+      "positioning": {
+        "top": 535,
+        "left": 667
+      },
+      "style": {
+        "color": "#d46f0b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f005eb13b620b28526a3d3790c6c03b98d92da4",
+        "title": "e.g. Leona Shishigami \"Brightenin' Hope\"",
+        "trackId": "3SqJpK02Ct5K1h1FJKMZUk"
+      },
+      "elementId": "item135",
+      "href": "https://everynoise.com/artistprofile.html?id=7jWG8eVCdDJ5SNrNy5koKv",
+      "id": "7jWG8eVCdDJ5SNrNy5koKv"
+    },
+    {
+      "artistName": "鈴原るる",
+      "positioning": {
+        "top": 298,
+        "left": 43
+      },
+      "style": {
+        "color": "#ef5901",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0964348e2f071ec5b8a08997eb4f4e598ff545a",
+        "title": "e.g. 鈴原るる \"そばかす (Cover)\"",
+        "trackId": "3d8KQkqNjqEsp3jywXpAuK"
+      },
+      "elementId": "item136",
+      "href": "https://everynoise.com/artistprofile.html?id=7cJXILCiulWc9jEQ6XEYx2",
+      "id": "7cJXILCiulWc9jEQ6XEYx2"
+    },
+    {
+      "artistName": "周防パトラ",
+      "positioning": {
+        "top": 163,
+        "left": 862
+      },
+      "style": {
+        "color": "#e17604",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f2b449e83230e16a26c185972453766506c8575",
+        "title": "e.g. 周防パトラ \"あいあむなんばーわんパトラちゃん様\"",
+        "trackId": "2785OqHFgVlgZg3ryY5tcC"
+      },
+      "elementId": "item137",
+      "href": "https://everynoise.com/artistprofile.html?id=3k7moMXUTPj4s7vJ0Z45In",
+      "id": "3k7moMXUTPj4s7vJ0Z45In"
+    },
+    {
+      "artistName": "ド葛本社",
+      "positioning": {
+        "top": 185,
+        "left": 232
+      },
+      "style": {
+        "color": "#c96500",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e0b16ad11e44c5d676a8eba1579a875fc106e27",
+        "title": "e.g. ド葛本社 \"Fam☆Fam☆Time!\"",
+        "trackId": "01Omghlbezflil2JDjUOZ3"
+      },
+      "elementId": "item138",
+      "href": "https://everynoise.com/artistprofile.html?id=3XBZEEgjZe5pLw7KSMQj4o",
+      "id": "3XBZEEgjZe5pLw7KSMQj4o"
+    },
+    {
+      "artistName": "式部めぐり",
+      "positioning": {
+        "top": 202,
+        "left": 1085
+      },
+      "style": {
+        "color": "#e07a02",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8df9d7f294d4e1e944bf484587f7fa588be70441",
+        "title": "e.g. 式部めぐり \"can't take my eyes off you\"",
+        "trackId": "0HX4V8cVqsX0Tw8v9977VA"
+      },
+      "elementId": "item139",
+      "href": "https://everynoise.com/artistprofile.html?id=40ozIC0MP0Y36W2qmrsrRx",
+      "id": "40ozIC0MP0Y36W2qmrsrRx"
+    },
+    {
+      "artistName": "CocoTsuki",
+      "positioning": {
+        "top": 435,
+        "left": 563
+      },
+      "style": {
+        "color": "#d3710c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53662da79fb42b7e5be2af59aa3f7cf952aa41a2",
+        "title": "e.g. CocoTsuki \"劣等上等 (Cover)\"",
+        "trackId": "0ZmlSwKLMULSebttQsSEKI"
+      },
+      "elementId": "item140",
+      "href": "https://everynoise.com/artistprofile.html?id=7E8PczLLcBk6ZCcbTdOXGc",
+      "id": "7E8PczLLcBk6ZCcbTdOXGc"
+    },
+    {
+      "artistName": "咎ノワール(伏見ガク 剣持刀也 葛葉 叶)",
+      "positioning": {
+        "top": 267,
+        "left": 170
+      },
+      "style": {
+        "color": "#f54e0d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/613275e51ac76503de3136ae473452fd9abdaa78",
+        "title": "e.g. 咎ノワール(伏見ガク 剣持刀也 葛葉 叶) \"I'm gonna be OK\"",
+        "trackId": "7rCPXAnffDC0EPsG3CFDZB"
+      },
+      "elementId": "item141",
+      "href": "https://everynoise.com/artistprofile.html?id=6HIY365jMeOJFTsYfaANSP",
+      "id": "6HIY365jMeOJFTsYfaANSP"
+    },
+    {
+      "artistName": "シスター・クレア",
+      "positioning": {
+        "top": 612,
+        "left": 754
+      },
+      "style": {
+        "color": "#81930b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1fa650ddf9ce66f8b53568fcd15cbe70d593e590",
+        "title": "e.g. シスター・クレア \"sumire iro amulet\"",
+        "trackId": "5dS8G4FfbXao1snwTdyUZu"
+      },
+      "elementId": "item142",
+      "href": "https://everynoise.com/artistprofile.html?id=6n4B2GGkOW8YGvQgiIiNGD",
+      "id": "6n4B2GGkOW8YGvQgiIiNGD"
+    },
+    {
+      "artistName": "森中花咲",
+      "positioning": {
+        "top": 313,
+        "left": 886
+      },
+      "style": {
+        "color": "#c48200",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a92235763d4f7cb02923aa987b1db830b0677704",
+        "title": "e.g. 森中花咲 \"下剋上\"",
+        "trackId": "5do7ZXf7j1isDVuOfRD175"
+      },
+      "elementId": "item143",
+      "href": "https://everynoise.com/artistprofile.html?id=0TSKuvFVaAbmRwWYVddMGs",
+      "id": "0TSKuvFVaAbmRwWYVddMGs"
+    },
+    {
+      "artistName": "犬山たまき",
+      "positioning": {
+        "top": 246,
+        "left": 389
+      },
+      "style": {
+        "color": "#c88057",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84a68f84fc15b6f8f1bb441d39cd187ebae7f3ef",
+        "title": "e.g. 犬山たまき \"空色デイズ - Cover\"",
+        "trackId": "3GG2VtPxtHL2urV09fgn9i"
+      },
+      "elementId": "item144",
+      "href": "https://everynoise.com/artistprofile.html?id=15NLTHHUNKD4kyiDvtHRhe",
+      "id": "15NLTHHUNKD4kyiDvtHRhe"
+    },
+    {
+      "artistName": "蒼月エリ",
+      "positioning": {
+        "top": 286,
+        "left": 44
+      },
+      "style": {
+        "color": "#de5500",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item145",
+      "href": "https://everynoise.com/artistprofile.html?id=1jtLt3mbmVe3Rghh1DvgBs",
+      "id": "1jtLt3mbmVe3Rghh1DvgBs"
+    },
+    {
+      "artistName": "Inui Toko",
+      "positioning": {
+        "top": 394,
+        "left": 306
+      },
+      "style": {
+        "color": "#b48500",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item146",
+      "href": "https://everynoise.com/artistprofile.html?id=3l6KaeyNsCGvvSTeOrGK9D",
+      "id": "3l6KaeyNsCGvvSTeOrGK9D"
+    },
+    {
+      "artistName": "トマト組",
+      "positioning": {
+        "top": 313,
+        "left": 837
+      },
+      "style": {
+        "color": "#b29168",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item147",
+      "href": "https://everynoise.com/artistprofile.html?id=5TFhqckBMzFwB0qxdC1pom",
+      "id": "5TFhqckBMzFwB0qxdC1pom"
+    },
+    {
+      "artistName": "本間ひまわり",
+      "positioning": {
+        "top": 90,
+        "left": 920
+      },
+      "style": {
+        "color": "#ea651b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c8f420d0ce0b2279e96b113673b08250ce61bd7",
+        "title": "e.g. 本間ひまわり \"シュガーレスガール\"",
+        "trackId": "5L6u2fD0GCislgr1jID7KI"
+      },
+      "elementId": "item148",
+      "href": "https://everynoise.com/artistprofile.html?id=4R22kMbQf9GlSL3c7sSS4M",
+      "id": "4R22kMbQf9GlSL3c7sSS4M"
+    },
+    {
+      "artistName": "まりなす",
+      "positioning": {
+        "top": 219,
+        "left": 584
+      },
+      "style": {
+        "color": "#e86305",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0444a583b384efd2179071915337837a991d5231",
+        "title": "e.g. まりなす \"ROYAL BLOOD\"",
+        "trackId": "5XZdqTF8Ff9XkmkT8K0ncW"
+      },
+      "elementId": "item149",
+      "href": "https://everynoise.com/artistprofile.html?id=39t9PEzHnlMCyLPZRPMpjI",
+      "id": "39t9PEzHnlMCyLPZRPMpjI"
+    },
+    {
+      "artistName": "Minato Fuwa",
+      "positioning": {
+        "top": 383,
+        "left": 754
+      },
+      "style": {
+        "color": "#d37400",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item150",
+      "href": "https://everynoise.com/artistprofile.html?id=187obFVYR6TqJZh2QdmN5w",
+      "id": "187obFVYR6TqJZh2QdmN5w"
+    },
+    {
+      "artistName": "SIRO",
+      "positioning": {
+        "top": 396,
+        "left": 534
+      },
+      "style": {
+        "color": "#db6b00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0ad3d0e4ebe0497ff28090f224a4910634ea4af",
+        "title": "e.g. SIRO \"またあした\"",
+        "trackId": "3c9NjR7x69fUzSsZQ23Z9d"
+      },
+      "elementId": "item151",
+      "href": "https://everynoise.com/artistprofile.html?id=3n3gkyllpW8tsdg87u6jNe",
+      "id": "3n3gkyllpW8tsdg87u6jNe"
+    },
+    {
+      "artistName": "童田明治",
+      "positioning": {
+        "top": 380,
+        "left": 373
+      },
+      "style": {
+        "color": "#c79200",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e853ed33a45a8c423cf8c017a805e4bfa56468f",
+        "title": "e.g. 童田明治 \"ハナミズキ\"",
+        "trackId": "5XSGkbGevDTmZsOIBZDa6w"
+      },
+      "elementId": "item152",
+      "href": "https://everynoise.com/artistprofile.html?id=37b3yBEpyBsFBPEvoS9f68",
+      "id": "37b3yBEpyBsFBPEvoS9f68"
+    },
+    {
+      "artistName": "Peno",
+      "positioning": {
+        "top": 268,
+        "left": 1243
+      },
+      "style": {
+        "color": "#919417",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c4f72ab8a854f71001376e86d274573de05a4246",
+        "title": "e.g. Peno \"ランデブー - Canta Bille Remix\"",
+        "trackId": "5cPrBOYHDJqu0gvGfudD6Y"
+      },
+      "elementId": "item153",
+      "href": "https://everynoise.com/artistprofile.html?id=2Wirausx6XJEL5Yx4dNLRo",
+      "id": "2Wirausx6XJEL5Yx4dNLRo"
+    },
+    {
+      "artistName": "Kakeru Yumeoi",
+      "positioning": {
+        "top": 288,
+        "left": 857
+      },
+      "style": {
+        "color": "#d37b00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item154",
+      "href": "https://everynoise.com/artistprofile.html?id=6OxQ5PFZyosKdZOv1ArS5I",
+      "id": "6OxQ5PFZyosKdZOv1ArS5I"
+    },
+    {
+      "artistName": "SorAZ",
+      "positioning": {
+        "top": 237,
+        "left": 34
+      },
+      "style": {
+        "color": "#ee6847",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e2ca72d1b7db83a1eaed4de4b54c31d4fa7bd79",
+        "title": "e.g. SorAZ \"Scale the walls\"",
+        "trackId": "69t2t83qSwSH1hyCv95tuK"
+      },
+      "elementId": "item155",
+      "href": "https://everynoise.com/artistprofile.html?id=3tpdKzxudG7ycVdYH7mQOF",
+      "id": "3tpdKzxudG7ycVdYH7mQOF"
+    },
+    {
+      "artistName": "Patra Suou",
+      "positioning": {
+        "top": 150,
+        "left": 862
+      },
+      "style": {
+        "color": "#e17604",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item156",
+      "href": "https://everynoise.com/artistprofile.html?id=5qBFhpM9Tzax0cQVdltmLp",
+      "id": "5qBFhpM9Tzax0cQVdltmLp"
+    },
+    {
+      "artistName": "おめがシスターズ",
+      "positioning": {
+        "top": 210,
+        "left": 228
+      },
+      "style": {
+        "color": "#e96b00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e664cabcf5f192bc3e90bd8dd09b9cf9ea2116c",
+        "title": "e.g. おめがシスターズ \"シンクロニティ\"",
+        "trackId": "1h9FS5OuijUfvCVufDU0iz"
+      },
+      "elementId": "item157",
+      "href": "https://everynoise.com/artistprofile.html?id=6stgMbGabQqYnRFFWUhliz",
+      "id": "6stgMbGabQqYnRFFWUhliz"
+    },
+    {
+      "artistName": "Ryushen",
+      "positioning": {
+        "top": 509,
+        "left": 741
+      },
+      "style": {
+        "color": "#b97300",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item158",
+      "href": "https://everynoise.com/artistprofile.html?id=3VovnR2HBGQRcYFSRAxX3l",
+      "id": "3VovnR2HBGQRcYFSRAxX3l"
+    },
+    {
+      "artistName": "燦鳥ノム",
+      "positioning": {
+        "top": 169,
+        "left": 543
+      },
+      "style": {
+        "color": "#e97000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f0ea18541cdbee19dc78a2163ec679ff888c789b",
+        "title": "e.g. 燦鳥ノム \"Life is tasty!\"",
+        "trackId": "3mYV2Lq5YzdDtNg3Z0MsOC"
+      },
+      "elementId": "item159",
+      "href": "https://everynoise.com/artistprofile.html?id=47dWUegQfMWoEuh9lLfIhi",
+      "id": "47dWUegQfMWoEuh9lLfIhi"
+    },
+    {
+      "artistName": "花奏かのん",
+      "positioning": {
+        "top": 229,
+        "left": 936
+      },
+      "style": {
+        "color": "#c8820f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06c3c72602a71909a2af85cfe30a88d5870fc19f",
+        "title": "e.g. 花奏かのん \"ラストダンスは求めないで\"",
+        "trackId": "2bA6nKonOuoDNwV9UD73k9"
+      },
+      "elementId": "item160",
+      "href": "https://everynoise.com/artistprofile.html?id=4dJxv1UuGjfKDYFoFFmI24",
+      "id": "4dJxv1UuGjfKDYFoFFmI24"
+    },
+    {
+      "artistName": "森中花咲 meets ▽▲TRiNITY▲▽",
+      "positioning": {
+        "top": 108,
+        "left": 584
+      },
+      "style": {
+        "color": "#ec5534",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf723e6f587de96b901a138305c35f2ed1865451",
+        "title": "e.g. 森中花咲 meets ▽▲TRiNITY▲▽ \"劣等上等\"",
+        "trackId": "5Dq6nTkHxMlyelOefUeNcC"
+      },
+      "elementId": "item161",
+      "href": "https://everynoise.com/artistprofile.html?id=4yh5i3QaTZh0kdYEnkiG6v",
+      "id": "4yh5i3QaTZh0kdYEnkiG6v"
+    },
+    {
+      "artistName": "Robokosan",
+      "positioning": {
+        "top": 243,
+        "left": 978
+      },
+      "style": {
+        "color": "#b89400",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8d5684e010caec13c3af662dad36b853edd1833",
+        "title": "e.g. Robokosan \"Azamina\"",
+        "trackId": "3xcTZlaN8603Dc4bwq3G8V"
+      },
+      "elementId": "item162",
+      "href": "https://everynoise.com/artistprofile.html?id=2woXHHEgr1jFvWQldjFJwp",
+      "id": "2woXHHEgr1jFvWQldjFJwp"
+    },
+    {
+      "artistName": "Otogibara Era",
+      "positioning": {
+        "top": 139,
+        "left": 228
+      },
+      "style": {
+        "color": "#ee6800",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item163",
+      "href": "https://everynoise.com/artistprofile.html?id=70x5XE9vki7sSj5jctoERe",
+      "id": "70x5XE9vki7sSj5jctoERe"
+    },
+    {
+      "artistName": "アメノセイ",
+      "positioning": {
+        "top": 459,
+        "left": 592
+      },
+      "style": {
+        "color": "#cd7100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c8cd59be261f1b7b1887552f02a45ef192aad51",
+        "title": "e.g. アメノセイ \"7\"",
+        "trackId": "1xmXt1N01frgs4qJNncwDb"
+      },
+      "elementId": "item164",
+      "href": "https://everynoise.com/artistprofile.html?id=4YEcY6xH077Ox6D0Ev5LfC",
+      "id": "4YEcY6xH077Ox6D0Ev5LfC"
+    },
+    {
+      "artistName": "エルセとさめのぽき",
+      "positioning": {
+        "top": 448,
+        "left": 385
+      },
+      "style": {
+        "color": "#a98200",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5587aca42f7bfa361ac9b2725d6f675371941dac",
+        "title": "e.g. エルセとさめのぽき \"True Ending\"",
+        "trackId": "2eelKMMykbOKSdWeXowLD5"
+      },
+      "elementId": "item165",
+      "href": "https://everynoise.com/artistprofile.html?id=4bHHjeilGcI8jPDCa49Oi0",
+      "id": "4bHHjeilGcI8jPDCa49Oi0"
+    },
+    {
+      "artistName": "[ahi:]",
+      "positioning": {
+        "top": 537,
+        "left": 1098
+      },
+      "style": {
+        "color": "#a08a48",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d55d6735dc04c0ce1c605dc08ead1908938cb16b",
+        "title": "e.g. [ahi:] \"ISOLATION\"",
+        "trackId": "78RBvn1LOL3HFjWWlfTcF4"
+      },
+      "elementId": "item166",
+      "href": "https://everynoise.com/artistprofile.html?id=1MvOo6rVrLAqDiaXoQTj6T",
+      "id": "1MvOo6rVrLAqDiaXoQTj6T"
+    },
+    {
+      "artistName": "Shishigami Leona",
+      "positioning": {
+        "top": 364,
+        "left": 969
+      },
+      "style": {
+        "color": "#af8318",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item167",
+      "href": "https://everynoise.com/artistprofile.html?id=3DmRUjOz6ndNr48m0Ujpcf",
+      "id": "3DmRUjOz6ndNr48m0Ujpcf"
+    },
+    {
+      "artistName": "響木アオ",
+      "positioning": {
+        "top": 600,
+        "left": 696
+      },
+      "style": {
+        "color": "#cf7d35",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/17b4f3573e9187df4827c532c7555fd84e12b4de",
+        "title": "e.g. 響木アオ \"おとなにならないおんなのこうさぎ\"",
+        "trackId": "6FeQVJlYcaemBxD5TVmRzE"
+      },
+      "elementId": "item168",
+      "href": "https://everynoise.com/artistprofile.html?id=7JbBmfOwEH5JnrcLI5pXlg",
+      "id": "7JbBmfOwEH5JnrcLI5pXlg"
+    },
+    {
+      "artistName": "竜胆尊",
+      "positioning": {
+        "top": 299,
+        "left": 87
+      },
+      "style": {
+        "color": "#d16801",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c3e1268118fb2d9423777df2367396ab7b67346e",
+        "title": "e.g. 竜胆尊 \"常夜鬼譚\"",
+        "trackId": "1V9THYSVLsRZv6Jpad3TKn"
+      },
+      "elementId": "item169",
+      "href": "https://everynoise.com/artistprofile.html?id=47VG98DGyQHJPXstVbTkb6",
+      "id": "47VG98DGyQHJPXstVbTkb6"
+    },
+    {
+      "artistName": "NIJISANJI KR",
+      "positioning": {
+        "top": 195,
+        "left": 443
+      },
+      "style": {
+        "color": "#df8700",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0ca30a3e579b558a7a66ed897eb9c8e6e16d8f88",
+        "title": "e.g. NIJISANJI KR \"All For Now!!\"",
+        "trackId": "6eVYe48qDZyrJ4HgJJKNzx"
+      },
+      "elementId": "item170",
+      "href": "https://everynoise.com/artistprofile.html?id=7nnP03ymqr0UVk7GGALGBe",
+      "id": "7nnP03ymqr0UVk7GGALGBe"
+    },
+    {
+      "artistName": "相羽ういは",
+      "positioning": {
+        "top": 472,
+        "left": 522
+      },
+      "style": {
+        "color": "#c78200",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a6f4d977245fb1710e201b402baa522d30c8ab7",
+        "title": "e.g. 相羽ういは \"夢へ向かって前ならえ!\"",
+        "trackId": "7EYEFIhK6IKGUtgopjJJ7l"
+      },
+      "elementId": "item171",
+      "href": "https://everynoise.com/artistprofile.html?id=2DaH75gLHeC86pZunB2h9t",
+      "id": "2DaH75gLHeC86pZunB2h9t"
+    },
+    {
+      "artistName": "Warabeda Meiji",
+      "positioning": {
+        "top": 495,
+        "left": 21
+      },
+      "style": {
+        "color": "#b19200",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item172",
+      "href": "https://everynoise.com/artistprofile.html?id=5qs3re0vCT2LrUUEBzgJ6J",
+      "id": "5qs3re0vCT2LrUUEBzgJ6J"
+    },
+    {
+      "artistName": "キツネDJ",
+      "positioning": {
+        "top": 288,
+        "left": 804
+      },
+      "style": {
+        "color": "#c68000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b8f56e59284f2b4fb2d1e93c83d48c4d67a53b7",
+        "title": "e.g. キツネDJ \"In My Room\"",
+        "trackId": "1RyAx1oatFqumFKlRLm8QF"
+      },
+      "elementId": "item173",
+      "href": "https://everynoise.com/artistprofile.html?id=7sDEXNgJzn0s6NtEsfFAMn",
+      "id": "7sDEXNgJzn0s6NtEsfFAMn"
+    },
+    {
+      "artistName": "グリーンルージュ(花畑チャイカ ジョー・力一)",
+      "positioning": {
+        "top": 47,
+        "left": 1317
+      },
+      "style": {
+        "color": "#e28074",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa43abe84645a6893008af32ff3e283865438bf2",
+        "title": "e.g. グリーンルージュ(花畑チャイカ ジョー・力一) \"サブリミナル・シンクロニシティ\"",
+        "trackId": "0KhDvhXICogDr8jk3I3jY7"
+      },
+      "elementId": "item174",
+      "href": "https://everynoise.com/artistprofile.html?id=593fsOjezXWi9ZcNA0Zse9",
+      "id": "593fsOjezXWi9ZcNA0Zse9"
+    },
+    {
+      "artistName": "NZMN(春崎エアル 夢追翔 成瀬鳴 卯月コウ)",
+      "positioning": {
+        "top": 279,
+        "left": 116
+      },
+      "style": {
+        "color": "#d16e65",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5d298b8808fb3b4f013563ef78402e7db974b173",
+        "title": "e.g. NZMN(春崎エアル 夢追翔 成瀬鳴 卯月コウ) \"メラメラハート\"",
+        "trackId": "4KGJTNszUzivKSMozFGE7z"
+      },
+      "elementId": "item175",
+      "href": "https://everynoise.com/artistprofile.html?id=0aWZ09YZayS43I41qNrxXh",
+      "id": "0aWZ09YZayS43I41qNrxXh"
+    },
+    {
+      "artistName": "REGALILIA",
+      "positioning": {
+        "top": 378,
+        "left": 30
+      },
+      "style": {
+        "color": "#ec4300",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1472b86cca97372584d1b363580b8bb416e08a51",
+        "title": "e.g. REGALILIA \"MORAL\"",
+        "trackId": "0YBH1I4A1FAcJGwnrQPJ9Z"
+      },
+      "elementId": "item176",
+      "href": "https://everynoise.com/artistprofile.html?id=7MG3dkNCTov5skvoySwJMQ",
+      "id": "7MG3dkNCTov5skvoySwJMQ"
+    },
+    {
+      "artistName": "Rumi/懶貓子",
+      "positioning": {
+        "top": 113,
+        "left": 207
+      },
+      "style": {
+        "color": "#f66a50",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d80a5391cea0dd1e576c10749bd8fe467cfcd1e",
+        "title": "e.g. Rumi/懶貓子 \"NON STOP SOUL!!!\"",
+        "trackId": "197ZtCciIJ4t0DcGa7UFpN"
+      },
+      "elementId": "item177",
+      "href": "https://everynoise.com/artistprofile.html?id=4MPNDxxZvftfBpQBCFB3GP",
+      "id": "4MPNDxxZvftfBpQBCFB3GP"
+    },
+    {
+      "artistName": "Kizuna AI(キズナアイ)",
+      "positioning": {
+        "top": 220,
+        "left": 393
+      },
+      "style": {
+        "color": "#ee6e00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1aadb8e166b57570f76caec0da970f07b41ed509",
+        "title": "e.g. Kizuna AI(キズナアイ) \"Precious Piece\"",
+        "trackId": "5oxCxgIK84AlsQfcjzI9Q8"
+      },
+      "elementId": "item178",
+      "href": "https://everynoise.com/artistprofile.html?id=2smyi18U8mDPhLEuIROHmH",
+      "id": "2smyi18U8mDPhLEuIROHmH"
+    },
+    {
+      "artistName": "バーチャルリアル",
+      "positioning": {
+        "top": 59,
+        "left": 1400
+      },
+      "style": {
+        "color": "#eb8300",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5db673ca67791cbe31b520f744ce435ddcc8337a",
+        "title": "e.g. バーチャルリアル \"あいがたりない\"",
+        "trackId": "5hcIGDRcPKPOgdaC927PEB"
+      },
+      "elementId": "item179",
+      "href": "https://everynoise.com/artistprofile.html?id=6E9hctU1Eow1eGeF9rjLeV",
+      "id": "6E9hctU1Eow1eGeF9rjLeV"
+    },
+    {
+      "artistName": "水科葵",
+      "positioning": {
+        "top": 484,
+        "left": 729
+      },
+      "style": {
+        "color": "#d88017",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba1078591a9f6f009e4cb7f7a506eedb3e9c6ac0",
+        "title": "e.g. 水科葵 \"unperfect\"",
+        "trackId": "6HngLAfdaewjHfvgN0mf87"
+      },
+      "elementId": "item180",
+      "href": "https://everynoise.com/artistprofile.html?id=7eaxoULFhPsn3eiqoLv0L9",
+      "id": "7eaxoULFhPsn3eiqoLv0L9"
+    },
+    {
+      "artistName": "宗谷いちか",
+      "positioning": {
+        "top": 207,
+        "left": 522
+      },
+      "style": {
+        "color": "#c58021",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ccb0d69b2f705d0b19aa732e7f983a7e5ff77274",
+        "title": "e.g. 宗谷いちか \"アオイロテイル\"",
+        "trackId": "4HAFI0K0hNMvo7NXrG76nz"
+      },
+      "elementId": "item181",
+      "href": "https://everynoise.com/artistprofile.html?id=2PXNcgHZQeTZI8aSeOMGGg",
+      "id": "2PXNcgHZQeTZI8aSeOMGGg"
+    },
+    {
+      "artistName": "鈴鹿詩子",
+      "positioning": {
+        "top": 181,
+        "left": 646
+      },
+      "style": {
+        "color": "#ed7200",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3da0e7aaaf8bb17bc976eb54193ee4bb2a9830dd",
+        "title": "e.g. 鈴鹿詩子 \"気分上々↑↑ (Cover)\"",
+        "trackId": "5TQLTwmqkoOg6V5WeVzxTV"
+      },
+      "elementId": "item182",
+      "href": "https://everynoise.com/artistprofile.html?id=02TUMFjcvLnYExi4hqnJq1",
+      "id": "02TUMFjcvLnYExi4hqnJq1"
+    },
+    {
+      "artistName": "凛々咲",
+      "positioning": {
+        "top": 293,
+        "left": 514
+      },
+      "style": {
+        "color": "#d67b03",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item183",
+      "href": "https://everynoise.com/artistprofile.html?id=5TbQK6wXs0zlR5j23mWLML",
+      "id": "5TbQK6wXs0zlR5j23mWLML"
+    },
+    {
+      "artistName": "佃煮のりお",
+      "positioning": {
+        "top": 258,
+        "left": 377
+      },
+      "style": {
+        "color": "#c2846a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e3b53663df3dc9b51c40b54ea9b1d3158d9b99b",
+        "title": "e.g. 佃煮のりお \"ぼくのしーくれっと\"",
+        "trackId": "66J8lIThsLYyEljqq3IAif"
+      },
+      "elementId": "item184",
+      "href": "https://everynoise.com/artistprofile.html?id=7AxUyTtfiCpnJqBGL8X6AU",
+      "id": "7AxUyTtfiCpnJqBGL8X6AU"
+    },
+    {
+      "artistName": "Sputrip",
+      "positioning": {
+        "top": 124,
+        "left": 845
+      },
+      "style": {
+        "color": "#e37400",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9bcf73c3690be44e7de6a8345dbff8194b160575",
+        "title": "e.g. Sputrip \"トイ×トイ☆パーティー！\"",
+        "trackId": "5aj8bHtjiFdLh0yfUwKwmL"
+      },
+      "elementId": "item185",
+      "href": "https://everynoise.com/artistprofile.html?id=4hqUrx3Z8GIEdC6voYTpqx",
+      "id": "4hqUrx3Z8GIEdC6voYTpqx"
+    },
+    {
+      "artistName": "隣町本舗",
+      "positioning": {
+        "top": 345,
+        "left": 368
+      },
+      "style": {
+        "color": "#b28034",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/618e81a1f0c35f1d8b707853ac49a6042f73b0f0",
+        "title": "e.g. 隣町本舗 \"52Hzの鯨\"",
+        "trackId": "1r42QW4gCoNoZecjE7y6Iu"
+      },
+      "elementId": "item186",
+      "href": "https://everynoise.com/artistprofile.html?id=6bS9byzSunSKLk0nNxzefv",
+      "id": "6bS9byzSunSKLk0nNxzefv"
+    },
+    {
+      "artistName": "Palette Project",
+      "positioning": {
+        "top": 166,
+        "left": 298
+      },
+      "style": {
+        "color": "#c07000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/02efff9be747458428bcd945ca5e07624ca2dee6",
+        "title": "e.g. Palette Project \"キミイロクロニクル\"",
+        "trackId": "7E90IAKQlgfH1nIcSjNyNT"
+      },
+      "elementId": "item187",
+      "href": "https://everynoise.com/artistprofile.html?id=0zLXiXvmVCnjV4FGs7YjiH",
+      "id": "0zLXiXvmVCnjV4FGs7YjiH"
+    },
+    {
+      "artistName": "ラトナ・プティ",
+      "positioning": {
+        "top": 483,
+        "left": 998
+      },
+      "style": {
+        "color": "#969800",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f68c11c128bf1d44912a587f064d86aae8f8d55a",
+        "title": "e.g. ラトナ・プティ \"ワンルーム・プラネット\"",
+        "trackId": "6o8q8QMO8gtJtgaErxMiLf"
+      },
+      "elementId": "item188",
+      "href": "https://everynoise.com/artistprofile.html?id=3TKIvKkSqhEUjffXaZwPyG",
+      "id": "3TKIvKkSqhEUjffXaZwPyG"
+    },
+    {
+      "artistName": "ミソシタ",
+      "positioning": {
+        "top": 441,
+        "left": 982
+      },
+      "style": {
+        "color": "#c76e06",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63034b9ad1fdf459b44962bf284b79b808b5b8c6",
+        "title": "e.g. ミソシタ \"Struggle for life\"",
+        "trackId": "28zJJwD7eScX5Nlfo3Klnf"
+      },
+      "elementId": "item189",
+      "href": "https://everynoise.com/artistprofile.html?id=4jKlxKpa6HB4xvuFvC1sLO",
+      "id": "4jKlxKpa6HB4xvuFvC1sLO"
+    },
+    {
+      "artistName": "紡音れい",
+      "positioning": {
+        "top": 225,
+        "left": 895
+      },
+      "style": {
+        "color": "#ea660d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cb85a875fb98cd909f949427d24a43d0ed81f72b",
+        "title": "e.g. 紡音れい \"DANCE is the answer\"",
+        "trackId": "4QKWbPoQO8GYG6InrDLPwQ"
+      },
+      "elementId": "item190",
+      "href": "https://everynoise.com/artistprofile.html?id=1eDL5Hm91OQXisqbXhliDT",
+      "id": "1eDL5Hm91OQXisqbXhliDT"
+    },
+    {
+      "artistName": "Batsu",
+      "positioning": {
+        "top": 257,
+        "left": 1367
+      },
+      "style": {
+        "color": "#ca8219",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e5077d368983e77be4f6de3b2b18474aa1576c8",
+        "title": "e.g. Batsu \"Kick it!!!!\"",
+        "trackId": "14pNcAFDleAwcjhpJcfQY1"
+      },
+      "elementId": "item191",
+      "href": "https://everynoise.com/artistprofile.html?id=7lOKCP5dmi8iA9gPh7AIAs",
+      "id": "7lOKCP5dmi8iA9gPh7AIAs"
+    },
+    {
+      "artistName": "le jouet",
+      "positioning": {
+        "top": 507,
+        "left": 41
+      },
+      "style": {
+        "color": "#fc3c00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/88970df94c6aa4c4d90d8f306a6dcc5743b509cc",
+        "title": "e.g. le jouet \"Viking\"",
+        "trackId": "5vTwzecChgVY0GNEbngqnS"
+      },
+      "elementId": "item192",
+      "href": "https://everynoise.com/artistprofile.html?id=7djpOi9QWYiZ6FUfdakknn",
+      "id": "7djpOi9QWYiZ6FUfdakknn"
+    },
+    {
+      "artistName": "かしこまり",
+      "positioning": {
+        "top": 414,
+        "left": 795
+      },
+      "style": {
+        "color": "#b98100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c76381ff6e592790c3426ce646c3492682dd9030",
+        "title": "e.g. かしこまり \"空色デイズ\"",
+        "trackId": "0ERgZZ0t2fvgWItbiMZ9mV"
+      },
+      "elementId": "item193",
+      "href": "https://everynoise.com/artistprofile.html?id=2mpbSXxEdAA8c464XaLFy8",
+      "id": "2mpbSXxEdAA8c464XaLFy8"
+    },
+    {
+      "artistName": "もこ田めめめ",
+      "positioning": {
+        "top": 371,
+        "left": 248
+      },
+      "style": {
+        "color": "#d36400",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83467a21535726bc23c4e696a9274e8dd30791fe",
+        "title": "e.g. もこ田めめめ \"灰界\"",
+        "trackId": "62hGHq4hQXGOWjbFx6krBl"
+      },
+      "elementId": "item194",
+      "href": "https://everynoise.com/artistprofile.html?id=3TkqV7yi78kFJxRKj0UuiM",
+      "id": "3TkqV7yi78kFJxRKj0UuiM"
+    },
+    {
+      "artistName": "シェリン・バーガンディ",
+      "positioning": {
+        "top": 245,
+        "left": 605
+      },
+      "style": {
+        "color": "#d38100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/87b43c98d09dbaa45056664723e53a7ac6dd1dd5",
+        "title": "e.g. シェリン・バーガンディ \"虹色のPuddle\"",
+        "trackId": "1BZR20WVCfi7AFBuKXRks1"
+      },
+      "elementId": "item195",
+      "href": "https://everynoise.com/artistprofile.html?id=0CxYD9NWROngQvzLVEWBDq",
+      "id": "0CxYD9NWROngQvzLVEWBDq"
+    },
+    {
+      "artistName": "える",
+      "positioning": {
+        "top": 112,
+        "left": 878
+      },
+      "style": {
+        "color": "#ac8f32",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a9480924949ac79d7f85f8d8acd5b6707d4e25b",
+        "title": "e.g. える \"サンデーサンデー・フルーツフール\"",
+        "trackId": "5eTgruPvlRpVmZCLbRf4mg"
+      },
+      "elementId": "item196",
+      "href": "https://everynoise.com/artistprofile.html?id=3xAh8mFHn1N6frj1x43fNd",
+      "id": "3xAh8mFHn1N6frj1x43fNd"
+    },
+    {
+      "artistName": "Ange Katrina",
+      "positioning": {
+        "top": 435,
+        "left": 791
+      },
+      "style": {
+        "color": "#da7000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item197",
+      "href": "https://everynoise.com/artistprofile.html?id=3BjWERlujPiLqz2NUJrDX9",
+      "id": "3BjWERlujPiLqz2NUJrDX9"
+    },
+    {
+      "artistName": "メリッサ",
+      "positioning": {
+        "top": 195,
+        "left": 733
+      },
+      "style": {
+        "color": "#ce6a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item198",
+      "href": "https://everynoise.com/artistprofile.html?id=57qYpKDNI2EmpAkbwKOC0Q",
+      "id": "57qYpKDNI2EmpAkbwKOC0Q"
+    },
+    {
+      "artistName": "桜凛月",
+      "positioning": {
+        "top": 638,
+        "left": 828
+      },
+      "style": {
+        "color": "#7caa00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/890de1c6ca4fbb96b49206e2b931cf740cf99fe0",
+        "title": "e.g. 桜凛月 \"3月9日 - Cover\"",
+        "trackId": "23ci0ByeGZvpQuArPvkF2J"
+      },
+      "elementId": "item199",
+      "href": "https://everynoise.com/artistprofile.html?id=6hlIIjBDMxAYRcDcFBVdwf",
+      "id": "6hlIIjBDMxAYRcDcFBVdwf"
+    },
+    {
+      "artistName": "ハニーストラップ",
+      "positioning": {
+        "top": 410,
+        "left": 717
+      },
+      "style": {
+        "color": "#e76700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ef04733b6ab9c69ec3887c4d9561128ecf535ee",
+        "title": "e.g. ハニーストラップ \"星降るメモリー\"",
+        "trackId": "1zTe9XRAUQkbmPzeCG2lZB"
+      },
+      "elementId": "item200",
+      "href": "https://everynoise.com/artistprofile.html?id=1IGKdJZ74UFWdNtNiVgDv3",
+      "id": "1IGKdJZ74UFWdNtNiVgDv3"
+    },
+    {
+      "artistName": "周防パトラ",
+      "positioning": {
+        "top": 76,
+        "left": 833
+      },
+      "style": {
+        "color": "#fd5808",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06c8bde717ac54db9d50ae9615a75cfdf5346673",
+        "title": "e.g. 周防パトラ \"もってけ！セーラーふく (Cover)\"",
+        "trackId": "0JSEPJ7gF9Y99uUZ76G9jj"
+      },
+      "elementId": "item201",
+      "href": "https://everynoise.com/artistprofile.html?id=0RYruZYfyeHlUAkPFNbcHC",
+      "id": "0RYruZYfyeHlUAkPFNbcHC"
+    },
+    {
+      "artistName": "リリィ, 向日葵, nayuta, 永渡, 片霧烈火, コゲ犬, 蓬猫(伊藤洸), むた, No:R(me:)",
+      "positioning": {
+        "top": 510,
+        "left": 244
+      },
+      "style": {
+        "color": "#d95800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/828e66a7e46089ca8366961bd24eb4270e72edd5",
+        "title": "e.g. リリィ, 向日葵, nayuta, 永渡, 片霧烈火, コゲ犬, 蓬猫(伊藤洸), むた, No:R(me:) \"Alice in N.Y.\"",
+        "trackId": "0Kvh82TW0iUatVg8UkboDp"
+      },
+      "elementId": "item202",
+      "href": "https://everynoise.com/artistprofile.html?id=1CC9QZjpdUeVBr1ZZ2zy4a",
+      "id": "1CC9QZjpdUeVBr1ZZ2zy4a"
+    },
+    {
+      "artistName": "天神子兎音",
+      "positioning": {
+        "top": 292,
+        "left": 165
+      },
+      "style": {
+        "color": "#d46800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0d2315a109cfc1d476c02d113ff4d1e138f3dc4",
+        "title": "e.g. 天神子兎音 \"地球最後の告白を - Cover\"",
+        "trackId": "5dyN8P41qX8CLT5BHAwLY8"
+      },
+      "elementId": "item203",
+      "href": "https://everynoise.com/artistprofile.html?id=22usUdYaGxZwkcGBmZCAgG",
+      "id": "22usUdYaGxZwkcGBmZCAgG"
+    },
+    {
+      "artistName": "エルセ",
+      "positioning": {
+        "top": 471,
+        "left": 1048
+      },
+      "style": {
+        "color": "#a68400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d3aca96142ce54fa5c1199df27be034e69225a6",
+        "title": "e.g. エルセ \"ミラーガール\"",
+        "trackId": "5F8GyjPXS2YzXQtY6wl4XH"
+      },
+      "elementId": "item204",
+      "href": "https://everynoise.com/artistprofile.html?id=4XAgila3up8dnfHVMuYGag",
+      "id": "4XAgila3up8dnfHVMuYGag"
+    },
+    {
+      "artistName": "虹河ラキ",
+      "positioning": {
+        "top": 206,
+        "left": 596
+      },
+      "style": {
+        "color": "#e28600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/567151f4abc39d9a9e722386df0cbd6341c84696",
+        "title": "e.g. 虹河ラキ \"スタンバイ\"",
+        "trackId": "5DebLrVrzoXd2UNblw81pU"
+      },
+      "elementId": "item205",
+      "href": "https://everynoise.com/artistprofile.html?id=2hUmgJi95amr2vljk1aroY",
+      "id": "2hUmgJi95amr2vljk1aroY"
+    },
+    {
+      "artistName": "dokuzuhonsha",
+      "positioning": {
+        "top": 197,
+        "left": 232
+      },
+      "style": {
+        "color": "#c96500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item206",
+      "href": "https://everynoise.com/artistprofile.html?id=2PJGfeSIKcH4WGSnbZxmrW",
+      "id": "2PJGfeSIKcH4WGSnbZxmrW"
+    },
+    {
+      "artistName": "静凛",
+      "positioning": {
+        "top": 483,
+        "left": 25
+      },
+      "style": {
+        "color": "#cb7f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53d28afd23e9acf6bdda6d0ff4a36a83e6a60e9c",
+        "title": "e.g. 静凛 \"Aimless Story\"",
+        "trackId": "0aE2zEIH8ohuDzq3zZ5eIz"
+      },
+      "elementId": "item207",
+      "href": "https://everynoise.com/artistprofile.html?id=7xAkenzWqmeELiSI3RGmrB",
+      "id": "7xAkenzWqmeELiSI3RGmrB"
+    },
+    {
+      "artistName": "ERRors(える 夕陽リリ 緑仙)",
+      "positioning": {
+        "top": 67,
+        "left": 70
+      },
+      "style": {
+        "color": "#f8676e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2263b126a5fd57942e519ba6eee9544bfc26e029",
+        "title": "e.g. ERRors(える 夕陽リリ 緑仙) \"愛の存在証明\"",
+        "trackId": "7buYqtvuMWlbfG9M7eomPm"
+      },
+      "elementId": "item208",
+      "href": "https://everynoise.com/artistprofile.html?id=3O2zp3ENFY9wbzD6J12dbH",
+      "id": "3O2zp3ENFY9wbzD6J12dbH"
+    },
+    {
+      "artistName": "sHimaU",
+      "positioning": {
+        "top": 399,
+        "left": 120
+      },
+      "style": {
+        "color": "#eb5921",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3e5e977980a23788e121f3aeceb39dadeed50c1",
+        "title": "e.g. sHimaU \"Lyra - sHimaU Remix\"",
+        "trackId": "0LAG2Oxa16NLtx5DFkRi5q"
+      },
+      "elementId": "item209",
+      "href": "https://everynoise.com/artistprofile.html?id=1T9latBx89EsSYfnH2jZ3N",
+      "id": "1T9latBx89EsSYfnH2jZ3N"
+    },
+    {
+      "artistName": "雪城眞尋",
+      "positioning": {
+        "top": 637,
+        "left": 696
+      },
+      "style": {
+        "color": "#a08400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06a6c3c36b01cc01c4bcb561c0aecaba67b20229",
+        "title": "e.g. 雪城眞尋 \"STAND BY ME\"",
+        "trackId": "1n2Gogiz4PoPO5cpIxQ9x4"
+      },
+      "elementId": "item210",
+      "href": "https://everynoise.com/artistprofile.html?id=1E0GKY6tTZjyKcudHmGHL7",
+      "id": "1E0GKY6tTZjyKcudHmGHL7"
+    },
+    {
+      "artistName": "流石乃ルキ",
+      "positioning": {
+        "top": 193,
+        "left": 1139
+      },
+      "style": {
+        "color": "#f66409",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42906b040e9f65885b9edc7225196971d8405b58",
+        "title": "e.g. 流石乃ルキ \"ルキロキ☆ラッキー\"",
+        "trackId": "3LRKJz7Xqy3z4DofZ5QKst"
+      },
+      "elementId": "item211",
+      "href": "https://everynoise.com/artistprofile.html?id=2XcCtCtTeD1fBsWFVuFDcS",
+      "id": "2XcCtCtTeD1fBsWFVuFDcS"
+    },
+    {
+      "artistName": "petit fleurs(森中花咲)",
+      "positioning": {
+        "top": 94,
+        "left": 1090
+      },
+      "style": {
+        "color": "#b98800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f11594454c1e7993e855cf0f949c230ca46dbd3f",
+        "title": "e.g. petit fleurs(森中花咲) \"ヴィーナスとジーザス\"",
+        "trackId": "2XGFYhgVMZMAPNiOL8VxQh"
+      },
+      "elementId": "item212",
+      "href": "https://everynoise.com/artistprofile.html?id=2sVRicLIqnJ6ri28U21UXh",
+      "id": "2sVRicLIqnJ6ri28U21UXh"
+    },
+    {
+      "artistName": "有閑喫茶あにまーれ",
+      "positioning": {
+        "top": 208,
+        "left": 688
+      },
+      "style": {
+        "color": "#ed6200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f56f47fb8b680a33ae1e549c7a25a2308cc013e9",
+        "title": "e.g. 有閑喫茶あにまーれ \"ふぁんふぁーれ!\"",
+        "trackId": "4yYqhV7fnDo1gdKRLFinJO"
+      },
+      "elementId": "item213",
+      "href": "https://everynoise.com/artistprofile.html?id=5SVZWGyhPDTMyALlLxKmOe",
+      "id": "5SVZWGyhPDTMyALlLxKmOe"
+    },
+    {
+      "artistName": "Altimate!!",
+      "positioning": {
+        "top": 210,
+        "left": 302
+      },
+      "style": {
+        "color": "#d38500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fc0500d7a701c097a526594e63cd23a4872c255",
+        "title": "e.g. Altimate!! \"ストロボフラワー\"",
+        "trackId": "080Sq8d8n6MjfNQ03578rA"
+      },
+      "elementId": "item214",
+      "href": "https://everynoise.com/artistprofile.html?id=6TKW7sW0GEQEtyBTvw0t8k",
+      "id": "6TKW7sW0GEQEtyBTvw0t8k"
+    },
+    {
+      "artistName": "北小路ヒスイ",
+      "positioning": {
+        "top": 435,
+        "left": 493
+      },
+      "style": {
+        "color": "#e96b06",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54d2eb4b37efb0055f636465b45ba08f8661ac33",
+        "title": "e.g. 北小路ヒスイ \"スピってる\"",
+        "trackId": "1xvwKPDemFspeOyRU7o6Br"
+      },
+      "elementId": "item215",
+      "href": "https://everynoise.com/artistprofile.html?id=79hRBKERka4hkPcsH5wE8x",
+      "id": "79hRBKERka4hkPcsH5wE8x"
+    },
+    {
+      "artistName": "usus(本間ひまわり ドーラ)",
+      "positioning": {
+        "top": 194,
+        "left": 584
+      },
+      "style": {
+        "color": "#fc5566",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b66eb3027def34cd16b25537641444751fd3cfa",
+        "title": "e.g. usus(本間ひまわり ドーラ) \"Buzz!!りムーヴメント\"",
+        "trackId": "4ooGnGb26CPpDbC3BARFiY"
+      },
+      "elementId": "item216",
+      "href": "https://everynoise.com/artistprofile.html?id=20j6EQS95vc2hUjclHx5VQ",
+      "id": "20j6EQS95vc2hUjclHx5VQ"
+    },
+    {
+      "artistName": "小宵",
+      "positioning": {
+        "top": 390,
+        "left": 70
+      },
+      "style": {
+        "color": "#c2771b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b4828bd7aad63ea837dca59386f5a5fe1ae4b59c",
+        "title": "e.g. 小宵 \"僕らの生義は - Alternative Arrange\"",
+        "trackId": "4rPnsDvTudmHUoJ3X6SXw5"
+      },
+      "elementId": "item217",
+      "href": "https://everynoise.com/artistprofile.html?id=1HBPcS1ncCg4xApD6QN3MX",
+      "id": "1HBPcS1ncCg4xApD6QN3MX"
+    },
+    {
+      "artistName": "愛宮みるく",
+      "positioning": {
+        "top": 106,
+        "left": 356
+      },
+      "style": {
+        "color": "#f26201",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f68e2d7d3118165868e6e8b760495a3d7833b134",
+        "title": "e.g. 愛宮みるく \"じょいふる (Cover)\"",
+        "trackId": "6wtdYAnUTe5NUX2Dq0uAVL"
+      },
+      "elementId": "item218",
+      "href": "https://everynoise.com/artistprofile.html?id=1kUvmSKuvIfn1Bb4VZPK7n",
+      "id": "1kUvmSKuvIfn1Bb4VZPK7n"
+    },
+    {
+      "artistName": "神楽 めあ",
+      "positioning": {
+        "top": 145,
+        "left": 708
+      },
+      "style": {
+        "color": "#be7649",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72fdeefc5561042237f115adfcafdb19f189e884",
+        "title": "e.g. 神楽 めあ \"針\"",
+        "trackId": "7jiBdCetwIsYheUTJhEDUB"
+      },
+      "elementId": "item219",
+      "href": "https://everynoise.com/artistprofile.html?id=4iWb6RyYos2shjLvvDV1OU",
+      "id": "4iWb6RyYos2shjLvvDV1OU"
+    },
+    {
+      "artistName": "petit fleurs(御伽原江良)",
+      "positioning": {
+        "top": 206,
+        "left": 1383
+      },
+      "style": {
+        "color": "#f06d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1afc0f66d054ecfc3e25beac67981dcafae1578",
+        "title": "e.g. petit fleurs(御伽原江良) \"ラムのラブソング\"",
+        "trackId": "5z5nK0ckCIkfGy4l315Sty"
+      },
+      "elementId": "item220",
+      "href": "https://everynoise.com/artistprofile.html?id=2lBAp2G77r7TS8exPwnhfo",
+      "id": "2lBAp2G77r7TS8exPwnhfo"
+    },
+    {
+      "artistName": "ReVdol!",
+      "positioning": {
+        "top": 356,
+        "left": 431
+      },
+      "style": {
+        "color": "#d7773e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/367d0ae91103c587b533462f9e5e34a98dbfa61d",
+        "title": "e.g. ReVdol! \"World of the happiness! - Chinese ver.\"",
+        "trackId": "3r0PRO6JQxANIE9aFYT5pc"
+      },
+      "elementId": "item221",
+      "href": "https://everynoise.com/artistprofile.html?id=473f5CkcBYJK1YxDLPqbuj",
+      "id": "473f5CkcBYJK1YxDLPqbuj"
+    },
+    {
+      "artistName": "Chima Machita",
+      "positioning": {
+        "top": 664,
+        "left": 688
+      },
+      "style": {
+        "color": "#92a300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item222",
+      "href": "https://everynoise.com/artistprofile.html?id=7bubijHq7P5tjOcLslUoUf",
+      "id": "7bubijHq7P5tjOcLslUoUf"
+    },
+    {
+      "artistName": "VirtuaReal",
+      "positioning": {
+        "top": 308,
+        "left": 323
+      },
+      "style": {
+        "color": "#e27d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3681a5a56e6a367731cb594e5751b47a764f8938",
+        "title": "e.g. VirtuaReal \"Virtual Strike - Chinese Ver.\"",
+        "trackId": "3vczr8dN8VW2l0tQFhhdOY"
+      },
+      "elementId": "item223",
+      "href": "https://everynoise.com/artistprofile.html?id=5AwsVDE3xCMRXBXu8qzpv2",
+      "id": "5AwsVDE3xCMRXBXu8qzpv2"
+    },
+    {
+      "artistName": "江戸レナ",
+      "positioning": {
+        "top": 313,
+        "left": 924
+      },
+      "style": {
+        "color": "#d77a03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5417e9f9d7fff3a43ddc90b6be737484d7e25896",
+        "title": "e.g. 江戸レナ \"PRINCESTA\"",
+        "trackId": "4GumlpVYd37yVavyReReEY"
+      },
+      "elementId": "item224",
+      "href": "https://everynoise.com/artistprofile.html?id=2t6w0VKpxsoG2IPKYln9Lr",
+      "id": "2t6w0VKpxsoG2IPKYln9Lr"
+    },
+    {
+      "artistName": "Mea Kagura",
+      "positioning": {
+        "top": 120,
+        "left": 729
+      },
+      "style": {
+        "color": "#be764c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba8ab8c13006ab1262f7f8613e71a6ced4c1d04a",
+        "title": "e.g. Mea Kagura \"Amanojaku\"",
+        "trackId": "066MqxrGDRsDBwUOftivjM"
+      },
+      "elementId": "item225",
+      "href": "https://everynoise.com/artistprofile.html?id=4QShzZnalW0NL6eHrsB4GE",
+      "id": "4QShzZnalW0NL6eHrsB4GE"
+    },
+    {
+      "artistName": "Natsuiro Matsuri",
+      "positioning": {
+        "top": 242,
+        "left": 157
+      },
+      "style": {
+        "color": "#d07340",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c03ab006769d2bd5ca6c7354a0faf3b2eb9de429",
+        "title": "e.g. Natsuiro Matsuri \"KAZE FUKEBA KOI (Cover)\"",
+        "trackId": "1Mo0KZeSj3K10vrOvGRBIF"
+      },
+      "elementId": "item226",
+      "href": "https://everynoise.com/artistprofile.html?id=2Q4XylLbowI36GGLh487Fp",
+      "id": "2Q4XylLbowI36GGLh487Fp"
+    },
+    {
+      "artistName": "ヨシナ",
+      "positioning": {
+        "top": 484,
+        "left": 700
+      },
+      "style": {
+        "color": "#bd8014",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1b134c262eb4d645d625aafe0992fb59d47d3665",
+        "title": "e.g. ヨシナ \"ツバサ\"",
+        "trackId": "0sQOvklNiH2TyOZqMSx4ma"
+      },
+      "elementId": "item227",
+      "href": "https://everynoise.com/artistprofile.html?id=6uPt5SRfOmsuULahHNIlqC",
+      "id": "6uPt5SRfOmsuULahHNIlqC"
+    },
+    {
+      "artistName": "まりなす(仮)",
+      "positioning": {
+        "top": 132,
+        "left": 692
+      },
+      "style": {
+        "color": "#f25c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f7cef588bdf866e84e10e1d26d2490398c65eb8",
+        "title": "e.g. まりなす(仮) \"JUST IN MY HEART\"",
+        "trackId": "3pSMrnhKLBQEP5fGHYOkRD"
+      },
+      "elementId": "item228",
+      "href": "https://everynoise.com/artistprofile.html?id=5L7Z6whksgoaah3sNKjnTZ",
+      "id": "5L7Z6whksgoaah3sNKjnTZ"
+    },
+    {
+      "artistName": "HAMA",
+      "positioning": {
+        "top": 600,
+        "left": 754
+      },
+      "style": {
+        "color": "#b47832",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bad37a2612b62907517138221257476a93ccaf30",
+        "title": "e.g. HAMA \"Overworld\"",
+        "trackId": "0NUpJMdbVLzzyO96vhEwxW"
+      },
+      "elementId": "item229",
+      "href": "https://everynoise.com/artistprofile.html?id=4CAA5che9kVEfZjy4qdKyA",
+      "id": "4CAA5che9kVEfZjy4qdKyA"
+    },
+    {
+      "artistName": "SPOTLIGHT vol.1 all member",
+      "positioning": {
+        "top": 339,
+        "left": 837
+      },
+      "style": {
+        "color": "#a68b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ba67945cd4ac2d0508080a03af3a6f189792ae9",
+        "title": "e.g. SPOTLIGHT vol.1 all member \"キセキ - Cover\"",
+        "trackId": "0qZrIYYmPAIdobTjiXSEZA"
+      },
+      "elementId": "item230",
+      "href": "https://everynoise.com/artistprofile.html?id=3R8oeAoSh7yvHURDplBbyw",
+      "id": "3R8oeAoSh7yvHURDplBbyw"
+    },
+    {
+      "artistName": "Alt!!",
+      "positioning": {
+        "top": 169,
+        "left": 596
+      },
+      "style": {
+        "color": "#e96e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa64e935c334480c51db93ed5f952f2bbf07629e",
+        "title": "e.g. Alt!! \"たのしむーぶ\"",
+        "trackId": "2yURFYHQL4xH6TuG0oDsbl"
+      },
+      "elementId": "item231",
+      "href": "https://everynoise.com/artistprofile.html?id=6s876G3XFa3f2lu1Cck5Mo",
+      "id": "6s876G3XFa3f2lu1Cck5Mo"
+    },
+    {
+      "artistName": "因幡はねる",
+      "positioning": {
+        "top": 125,
+        "left": 240
+      },
+      "style": {
+        "color": "#f57205",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/678b451d338bd96a47f3c92b0a5e15057e501753",
+        "title": "e.g. 因幡はねる \"独占予報\"",
+        "trackId": "7qRGRngMhKNZSQZx2vXmxU"
+      },
+      "elementId": "item232",
+      "href": "https://everynoise.com/artistprofile.html?id=4RD5W0net6Tr28o3DRnoSc",
+      "id": "4RD5W0net6Tr28o3DRnoSc"
+    },
+    {
+      "artistName": "yuzen",
+      "positioning": {
+        "top": 271,
+        "left": 584
+      },
+      "style": {
+        "color": "#da7d40",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/118a4a1d53dba177889a98960813e48c2a59e401",
+        "title": "e.g. yuzen \"採光\"",
+        "trackId": "5bgs1GZFtTO8EYk2t6SK22"
+      },
+      "elementId": "item233",
+      "href": "https://everynoise.com/artistprofile.html?id=5lOQi58SIS0Nm212wQ3Dcr",
+      "id": "5lOQi58SIS0Nm212wQ3Dcr"
+    },
+    {
+      "artistName": "朝ノ茜",
+      "positioning": {
+        "top": 248,
+        "left": 741
+      },
+      "style": {
+        "color": "#da7000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/658ab761bb691834f4241503e6226972c53c98f9",
+        "title": "e.g. 朝ノ茜 \"PLATFORM (ver.Akane)\"",
+        "trackId": "1alwEMcv7vCWS4CI31Lb4I"
+      },
+      "elementId": "item234",
+      "href": "https://everynoise.com/artistprofile.html?id=1rO1QM5mCZZVEwwCCc2Ihd",
+      "id": "1rO1QM5mCZZVEwwCCc2Ihd"
+    },
+    {
+      "artistName": "HoneyStrap",
+      "positioning": {
+        "top": 422,
+        "left": 717
+      },
+      "style": {
+        "color": "#e76700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item235",
+      "href": "https://everynoise.com/artistprofile.html?id=6yMkRLbmnyrkpi0Sy7A3RV",
+      "id": "6yMkRLbmnyrkpi0Sy7A3RV"
+    },
+    {
+      "artistName": "Hachigatsu Ni Yuki",
+      "positioning": {
+        "top": 471,
+        "left": 613
+      },
+      "style": {
+        "color": "#b78a02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d7915664a59208a9f323591098be11b8f4e6aa7",
+        "title": "e.g. Hachigatsu Ni Yuki \"ワンツーエポック\"",
+        "trackId": "6VamN4DpenaOfhajxUJ1Vt"
+      },
+      "elementId": "item236",
+      "href": "https://everynoise.com/artistprofile.html?id=2q07FwZYoYooIU3sHvkrBx",
+      "id": "2q07FwZYoYooIU3sHvkrBx"
+    },
+    {
+      "artistName": "JK組(月ノ美兎 静凛 樋口楓)",
+      "positioning": {
+        "top": 552,
+        "left": 426
+      },
+      "style": {
+        "color": "#d3675a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/615221847d4e080fb2ae3d3804de5976580515d7",
+        "title": "e.g. JK組(月ノ美兎 静凛 樋口楓) \"Dive with me!!!\"",
+        "trackId": "4EwAZ3R8VKpLUH3XGJsTpB"
+      },
+      "elementId": "item237",
+      "href": "https://everynoise.com/artistprofile.html?id=6ZybFAf2gPeFLqmbV9fZnp",
+      "id": "6ZybFAf2gPeFLqmbV9fZnp"
+    },
+    {
+      "artistName": "BGクラブ(鈴鹿詩子 森中花咲 モイラ)",
+      "positioning": {
+        "top": 422,
+        "left": 509
+      },
+      "style": {
+        "color": "#ef5c62",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae287e7ba04f7caef94edc062c8903e87c5c371f",
+        "title": "e.g. BGクラブ(鈴鹿詩子 森中花咲 モイラ) \"秘密の放課後〜貴方は染まらずにいられるか〜\"",
+        "trackId": "6NngMHHBkkHkKsco178Gkj"
+      },
+      "elementId": "item238",
+      "href": "https://everynoise.com/artistprofile.html?id=1fxeDHQuR75zCumIrvbSbQ",
+      "id": "1fxeDHQuR75zCumIrvbSbQ"
+    },
+    {
+      "artistName": "銀河アリス",
+      "positioning": {
+        "top": 301,
+        "left": 750
+      },
+      "style": {
+        "color": "#c38000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0e838a80dce542da038ef0aa754075fd6bf3d84",
+        "title": "e.g. 銀河アリス \"Someday Someday\"",
+        "trackId": "56RVA58sFEaNHRS6cLhbfq"
+      },
+      "elementId": "item239",
+      "href": "https://everynoise.com/artistprofile.html?id=0WQFII2BphMECq17abNAXj",
+      "id": "0WQFII2BphMECq17abNAXj"
+    },
+    {
+      "artistName": "Limpid",
+      "positioning": {
+        "top": 233,
+        "left": 1048
+      },
+      "style": {
+        "color": "#ed6e2b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/223fef1a4aa7f25d0d67cbac4b16986a5cee65e7",
+        "title": "e.g. Limpid \"拡散性マジョリティ\"",
+        "trackId": "2ARoH89Yn1dqYE9wOOKFww"
+      },
+      "elementId": "item240",
+      "href": "https://everynoise.com/artistprofile.html?id=6OVlpF37pXi3q85TGCA62m",
+      "id": "6OVlpF37pXi3q85TGCA62m"
+    },
+    {
+      "artistName": "月華美人(竜胆尊 赤羽葉子 椎名唯華)",
+      "positioning": {
+        "top": 368,
+        "left": 315
+      },
+      "style": {
+        "color": "#f07401",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0bc31e7d90e4b5ec0ff317537fdf48878d454141",
+        "title": "e.g. 月華美人(竜胆尊 赤羽葉子 椎名唯華) \"純情色めく焔は揺れて\"",
+        "trackId": "7fFKTXJrZaMNTggaHMQv1t"
+      },
+      "elementId": "item241",
+      "href": "https://everynoise.com/artistprofile.html?id=7e6d3ZP3n9cObLGAcQHLsb",
+      "id": "7e6d3ZP3n9cObLGAcQHLsb"
+    },
+    {
+      "artistName": "Lulu Suzuhara",
+      "positioning": {
+        "top": 409,
+        "left": 476
+      },
+      "style": {
+        "color": "#fc4700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item242",
+      "href": "https://everynoise.com/artistprofile.html?id=02NbuLluq6RZ45Bpk8c1Z0",
+      "id": "02NbuLluq6RZ45Bpk8c1Z0"
+    },
+    {
+      "artistName": "天輝おこめ",
+      "positioning": {
+        "top": 441,
+        "left": 895
+      },
+      "style": {
+        "color": "#c2731c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa894b30ac3a29eb871282e35c571e690a1634c6",
+        "title": "e.g. 天輝おこめ \"抱いてHOLD ON ME! (リビルドVer.)\"",
+        "trackId": "3ad4kThxly9oFTHUg4nMNG"
+      },
+      "elementId": "item243",
+      "href": "https://everynoise.com/artistprofile.html?id=1ibnmUKZURs4qo0t0hYKuC",
+      "id": "1ibnmUKZURs4qo0t0hYKuC"
+    },
+    {
+      "artistName": "マリー・アンドロイド",
+      "positioning": {
+        "top": 650,
+        "left": 646
+      },
+      "style": {
+        "color": "#cd6c44",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/114d8f34cb0fcf0b9434bf60526cf4ef4f820378",
+        "title": "e.g. マリー・アンドロイド \"マリー・アンドロイド(青山ジンベエ self cover)\"",
+        "trackId": "4sDnQjwddXiqxCePf92oah"
+      },
+      "elementId": "item244",
+      "href": "https://everynoise.com/artistprofile.html?id=2pUcfP9nPHJaxm2UGtqvTT",
+      "id": "2pUcfP9nPHJaxm2UGtqvTT"
+    },
+    {
+      "artistName": "ぷりずむりりっく！（宇志海いちご 家長むぎ 勇気ちひろ)",
+      "positioning": {
+        "top": 55,
+        "left": 120
+      },
+      "style": {
+        "color": "#f76366",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9560d93239b0f3031014a2075a29317e5d8c855b",
+        "title": "e.g. ぷりずむりりっく！（宇志海いちご 家長むぎ 勇気ちひろ) \"STARRY WORDS\"",
+        "trackId": "58ZnLgyXbXqfriNmNFpn8g"
+      },
+      "elementId": "item245",
+      "href": "https://everynoise.com/artistprofile.html?id=1sxp3rw2IiPQGME6RZkkSp",
+      "id": "1sxp3rw2IiPQGME6RZkkSp"
+    },
+    {
+      "artistName": "渚乃奏",
+      "positioning": {
+        "top": 414,
+        "left": 857
+      },
+      "style": {
+        "color": "#978714",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cfcd377fbfff21f81a381b4cc0f70bdfba2d0e65",
+        "title": "e.g. 渚乃奏 \"回顧、邂逅、階下にて\"",
+        "trackId": "537AM4ODqPcCFU8om3tcFx"
+      },
+      "elementId": "item246",
+      "href": "https://everynoise.com/artistprofile.html?id=4Dl2IdFs20ZHFSOz3f404B",
+      "id": "4Dl2IdFs20ZHFSOz3f404B"
+    },
+    {
+      "artistName": "pure palet(​物述有栖 シスター・クレア)",
+      "positioning": {
+        "top": 157,
+        "left": 526
+      },
+      "style": {
+        "color": "#f37b5a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf6fbc98bd0869398a0347a78f27cb538907b415",
+        "title": "e.g. pure palet(​物述有栖 シスター・クレア) \"pure♡paletワンダーランド\"",
+        "trackId": "7js5ZD2vW75nQjxuYjppqJ"
+      },
+      "elementId": "item247",
+      "href": "https://everynoise.com/artistprofile.html?id=3XUI2zHY5iPbp7RqtbVxpV",
+      "id": "3XUI2zHY5iPbp7RqtbVxpV"
+    },
+    {
+      "artistName": "堰代ミコ",
+      "positioning": {
+        "top": 841,
+        "left": 754
+      },
+      "style": {
+        "color": "#b69a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0124ae4b71d98bdb88e2b0df7c7c5d243ab62e45",
+        "title": "e.g. 堰代ミコ \"ミドリなリンゴ\"",
+        "trackId": "6zAucZjHsYByenaIxtUB1O"
+      },
+      "elementId": "item248",
+      "href": "https://everynoise.com/artistprofile.html?id=3Vey97RB0G0HtpR6gtudNS",
+      "id": "3Vey97RB0G0HtpR6gtudNS"
+    },
+    {
+      "artistName": "カミナリアイ",
+      "positioning": {
+        "top": 396,
+        "left": 460
+      },
+      "style": {
+        "color": "#fa6500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee71e73bf26cee0a2801096c31ea4f8c8331d4ba",
+        "title": "e.g. カミナリアイ \"ウラオモテ (Veil Real)\"",
+        "trackId": "0drQxz6w0ahn7OkTKuviTw"
+      },
+      "elementId": "item249",
+      "href": "https://everynoise.com/artistprofile.html?id=4DaN8pxQMGabp2AUV0xaBX",
+      "id": "4DaN8pxQMGabp2AUV0xaBX"
+    },
+    {
+      "artistName": "Re:A projecT",
+      "positioning": {
+        "top": 296,
+        "left": 310
+      },
+      "style": {
+        "color": "#ea6400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f4b838ad72bc4cff5e489b492b935f653f9ec5e8",
+        "title": "e.g. Re:A projecT \"ケセラセラ\"",
+        "trackId": "1vCzOeVpvnvWi4Bd07GtU9"
+      },
+      "elementId": "item250",
+      "href": "https://everynoise.com/artistprofile.html?id=7y2cdpBcq8RWi1TQakQd5u",
+      "id": "7y2cdpBcq8RWi1TQakQd5u"
+    },
+    {
+      "artistName": "Kur@ra",
+      "positioning": {
+        "top": 83,
+        "left": 659
+      },
+      "style": {
+        "color": "#f95987",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4d7c02eb6f981aa5e66e61706c5f4db57a00c307",
+        "title": "e.g. Kur@ra \"alpha - Kur@ra Remix\"",
+        "trackId": "15T7mJXMwJ7DeCOqrfkL5W"
+      },
+      "elementId": "item251",
+      "href": "https://everynoise.com/artistprofile.html?id=0jqkdxHiaoHSBRYyqk30ve",
+      "id": "0jqkdxHiaoHSBRYyqk30ve"
+    },
+    {
+      "artistName": "Himawari Honma",
+      "positioning": {
+        "top": 65,
+        "left": 721
+      },
+      "style": {
+        "color": "#f86800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item252",
+      "href": "https://everynoise.com/artistprofile.html?id=5n5FGYsxAMXXiYM1US8rlE",
+      "id": "5n5FGYsxAMXXiYM1US8rlE"
+    },
+    {
+      "artistName": "ジ・エイプリルフールズ",
+      "positioning": {
+        "top": 359,
+        "left": 199
+      },
+      "style": {
+        "color": "#dc7830",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4308d642f7a2ab089b00ca92e5894c3c9b899911",
+        "title": "e.g. ジ・エイプリルフールズ \"V・V・斬り込みます!\"",
+        "trackId": "3A67sXKz1lUBwa2oQfj1ty"
+      },
+      "elementId": "item253",
+      "href": "https://everynoise.com/artistprofile.html?id=3WpLefXZAW0WFGD0vxlNYN",
+      "id": "3WpLefXZAW0WFGD0vxlNYN"
+    },
+    {
+      "artistName": "剣持刀也",
+      "positioning": {
+        "top": 285,
+        "left": 464
+      },
+      "style": {
+        "color": "#d78200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item254",
+      "href": "https://everynoise.com/artistprofile.html?id=2IHSnXrnjheBlPKCzKR58w",
+      "id": "2IHSnXrnjheBlPKCzKR58w"
+    },
+    {
+      "artistName": "fulfill",
+      "positioning": {
+        "top": 160,
+        "left": 414
+      },
+      "style": {
+        "color": "#dc7047",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9bcb0a6541eb5456172965b2540480756827ee79",
+        "title": "e.g. fulfill \"形而境界のモノローグ\"",
+        "trackId": "3xhyn4bptx6zQgY8GLscAC"
+      },
+      "elementId": "item255",
+      "href": "https://everynoise.com/artistprofile.html?id=1uysb4UD4tC2QAzSoWDfRw",
+      "id": "1uysb4UD4tC2QAzSoWDfRw"
+    },
+    {
+      "artistName": "Era Otogibara",
+      "positioning": {
+        "top": 8,
+        "left": 1251
+      },
+      "style": {
+        "color": "#f49100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item256",
+      "href": "https://everynoise.com/artistprofile.html?id=4WFlRs72bNauTDAC68mpLh",
+      "id": "4WFlRs72bNauTDAC68mpLh"
+    },
+    {
+      "artistName": "ERINGIBEAM.",
+      "positioning": {
+        "top": 64,
+        "left": 870
+      },
+      "style": {
+        "color": "#f75e52",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/31832a1b65e7118a513bf75364ea3a2123e9ef85",
+        "title": "e.g. ERINGIBEAM. \"しゃかりきマイライフ!\"",
+        "trackId": "2YSj7Q2bLufv6nhUFweiXy"
+      },
+      "elementId": "item257",
+      "href": "https://everynoise.com/artistprofile.html?id=0gOMrlVhXotAr4JJ3FyKm6",
+      "id": "0gOMrlVhXotAr4JJ3FyKm6"
+    },
+    {
+      "artistName": "Saku Sasaki",
+      "positioning": {
+        "top": 72,
+        "left": 360
+      },
+      "style": {
+        "color": "#ec5e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item258",
+      "href": "https://everynoise.com/artistprofile.html?id=4XHIctLENkwCgjJpBjLHcs",
+      "id": "4XHIctLENkwCgjJpBjLHcs"
+    },
+    {
+      "artistName": "薬袋カルテ",
+      "positioning": {
+        "top": 624,
+        "left": 12
+      },
+      "style": {
+        "color": "#849d0a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/08a674233ce82398f9f3f8f48146670562a7e778",
+        "title": "e.g. 薬袋カルテ \"Stardust finding you\"",
+        "trackId": "7rGL6eXv6rX1I68oeSCkn0"
+      },
+      "elementId": "item259",
+      "href": "https://everynoise.com/artistprofile.html?id=3qEcdBBJDlQDvstea8GSpS",
+      "id": "3qEcdBBJDlQDvstea8GSpS"
+    },
+    {
+      "artistName": "星乃めあ",
+      "positioning": {
+        "top": 292,
+        "left": 223
+      },
+      "style": {
+        "color": "#ea6001",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bdfe93976a28a8fb841ded897660aa31b08052c3",
+        "title": "e.g. 星乃めあ \"Starlight\"",
+        "trackId": "2mGiK9LIWPBIfhSV59XWQB"
+      },
+      "elementId": "item260",
+      "href": "https://everynoise.com/artistprofile.html?id=0Zgzv649kW01zA6lFITFCn",
+      "id": "0Zgzv649kW01zA6lFITFCn"
+    },
+    {
+      "artistName": "キズナアイ",
+      "positioning": {
+        "top": 712,
+        "left": 1370
+      },
+      "style": {
+        "color": "#f25300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10ba3ad91a633b545b3c722121e218dac443aecf",
+        "title": "e.g. キズナアイ \"Say チーズおかき\"",
+        "trackId": "26iUncpZDK5ZoKnLahmL0K"
+      },
+      "elementId": "item261",
+      "href": "https://everynoise.com/artistprofile.html?id=2Zb7iSh2Z5Pkb6oqQYI78O",
+      "id": "2Zb7iSh2Z5Pkb6oqQYI78O"
+    },
+    {
+      "artistName": "MATULIP",
+      "positioning": {
+        "top": 138,
+        "left": 505
+      },
+      "style": {
+        "color": "#da7d72",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c683fabe99dd5a7e4677aaefb97520e4b15254d2",
+        "title": "e.g. MATULIP \"DESIGNED LOVE\"",
+        "trackId": "4vI7L7FDCheNHHPzAoJA7O"
+      },
+      "elementId": "item262",
+      "href": "https://everynoise.com/artistprofile.html?id=7wChpaUsDEfk23ZlyVsbJ3",
+      "id": "7wChpaUsDEfk23ZlyVsbJ3"
+    },
+    {
+      "artistName": "Joe Rikiichi",
+      "positioning": {
+        "top": 162,
+        "left": 58
+      },
+      "style": {
+        "color": "#f85500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item263",
+      "href": "https://everynoise.com/artistprofile.html?id=7nrrGGlD54d47u6agmdloU",
+      "id": "7nrrGGlD54d47u6agmdloU"
+    },
+    {
+      "artistName": "うたひな",
+      "positioning": {
+        "top": 232,
+        "left": 443
+      },
+      "style": {
+        "color": "#ec7063",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c7d04a0b59fd35004f24c14302d1c051e998049",
+        "title": "e.g. うたひな \"オンリー・マイ・フレンド\"",
+        "trackId": "3fRh49iS4FLtB8RgHLJBFb"
+      },
+      "elementId": "item264",
+      "href": "https://everynoise.com/artistprofile.html?id=61idQ62se77XlKrySRRrsQ",
+      "id": "61idQ62se77XlKrySRRrsQ"
+    },
+    {
+      "artistName": "ちゃらんぽらん隊",
+      "positioning": {
+        "top": 250,
+        "left": 15
+      },
+      "style": {
+        "color": "#f34d05",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20105b570cfdd9424c1dd8f42991252e4ea38db9",
+        "title": "e.g. ちゃらんぽらん隊 \"魔法なんかじゃない\"",
+        "trackId": "3cbiSCBtSFJ2DCjYIJYU9H"
+      },
+      "elementId": "item265",
+      "href": "https://everynoise.com/artistprofile.html?id=100K2W421uWj83sVFBzsFI",
+      "id": "100K2W421uWj83sVFBzsFI"
+    },
+    {
+      "artistName": "Mahiro Yukishiro",
+      "positioning": {
+        "top": 625,
+        "left": 696
+      },
+      "style": {
+        "color": "#a08400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item266",
+      "href": "https://everynoise.com/artistprofile.html?id=49coTdnNiwFLCn2wnoK51I",
+      "id": "49coTdnNiwFLCn2wnoK51I"
+    },
+    {
+      "artistName": "羽子田チカ",
+      "positioning": {
+        "top": 791,
+        "left": 1106
+      },
+      "style": {
+        "color": "#6b9100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13191ccd411df8163ae63739deec0c001dc2716f",
+        "title": "e.g. 羽子田チカ \"こだまのうた\"",
+        "trackId": "1xOo37LbKrKNhA0PErxjWO"
+      },
+      "elementId": "item267",
+      "href": "https://everynoise.com/artistprofile.html?id=4YAwQdApvEQN94JUhbWPsk",
+      "id": "4YAwQdApvEQN94JUhbWPsk"
+    },
+    {
+      "artistName": "ミディ",
+      "positioning": {
+        "top": 109,
+        "left": 1363
+      },
+      "style": {
+        "color": "#d47c13",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/664dc3c8b1b7f393552d4f058895ad8c134b2bb8",
+        "title": "e.g. ミディ \"To your star\"",
+        "trackId": "0OguIBiOsvmVnq413abBN3"
+      },
+      "elementId": "item268",
+      "href": "https://everynoise.com/artistprofile.html?id=3u50YxRiDgElDBLa5LgGDY",
+      "id": "3u50YxRiDgElDBLa5LgGDY"
+    },
+    {
+      "artistName": "Rin Shizuka",
+      "positioning": {
+        "top": 471,
+        "left": 25
+      },
+      "style": {
+        "color": "#cb7f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item269",
+      "href": "https://everynoise.com/artistprofile.html?id=0D0q4OezTald4DWaB8PiK6",
+      "id": "0D0q4OezTald4DWaB8PiK6"
+    },
+    {
+      "artistName": "citross",
+      "positioning": {
+        "top": 333,
+        "left": 290
+      },
+      "style": {
+        "color": "#9a9e53",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e8a4ee318dacaf81f267ab0725869a9a37ff786",
+        "title": "e.g. citross \"メッセージ - Instrumental\"",
+        "trackId": "2ggm0D1Dz25NdyzTl34rAY"
+      },
+      "elementId": "item270",
+      "href": "https://everynoise.com/artistprofile.html?id=2K0hvgFBzCSAcSC14W1IVr",
+      "id": "2K0hvgFBzCSAcSC14W1IVr"
+    },
+    {
+      "artistName": "ナギナミ",
+      "positioning": {
+        "top": 146,
+        "left": 1181
+      },
+      "style": {
+        "color": "#ec7900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b3bf49089e056bd6e8da3590c477c0ab4e7a488",
+        "title": "e.g. ナギナミ \"クロスエメラルド\"",
+        "trackId": "3sK4y2H4MFN3F8cDtJDm0J"
+      },
+      "elementId": "item271",
+      "href": "https://everynoise.com/artistprofile.html?id=7zSDWQGDEq6k12sjlZKmKd",
+      "id": "7zSDWQGDEq6k12sjlZKmKd"
+    },
+    {
+      "artistName": "Uiha Aiba",
+      "positioning": {
+        "top": 668,
+        "left": 891
+      },
+      "style": {
+        "color": "#939100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item272",
+      "href": "https://everynoise.com/artistprofile.html?id=2DbTTh78WVPcjyx3WOHVzX",
+      "id": "2DbTTh78WVPcjyx3WOHVzX"
+    },
+    {
+      "artistName": "KaedeHiguchi",
+      "positioning": {
+        "top": 250,
+        "left": 870
+      },
+      "style": {
+        "color": "#b29d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item273",
+      "href": "https://everynoise.com/artistprofile.html?id=5LqEAlrq4HrROL56lqPQ3j",
+      "id": "5LqEAlrq4HrROL56lqPQ3j"
+    },
+    {
+      "artistName": "白鳥生子",
+      "positioning": {
+        "top": 565,
+        "left": 34
+      },
+      "style": {
+        "color": "#e96738",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4fb5d9f509faa4bd6261cd5b6580286bd723afea",
+        "title": "e.g. 白鳥生子 \"地獄のティーパーティ\"",
+        "trackId": "5MKUvicOU74wLF2pVJc6I5"
+      },
+      "elementId": "item274",
+      "href": "https://everynoise.com/artistprofile.html?id=56eRK7sNi5F6AxBK3bxgKG",
+      "id": "56eRK7sNi5F6AxBK3bxgKG"
+    },
+    {
+      "artistName": "赤坂まさか",
+      "positioning": {
+        "top": 588,
+        "left": 721
+      },
+      "style": {
+        "color": "#c88510",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f810fccf287180fa64b8ef874b74d0fadf3aca63",
+        "title": "e.g. 赤坂まさか \"空想生活\"",
+        "trackId": "4MLheEKTztV6qfWWvV0sUP"
+      },
+      "elementId": "item275",
+      "href": "https://everynoise.com/artistprofile.html?id=4kw7ARYv3WzqsDRTkTWSTe",
+      "id": "4kw7ARYv3WzqsDRTkTWSTe"
+    },
+    {
+      "artistName": "Hisui Kitakoji",
+      "positioning": {
+        "top": 447,
+        "left": 493
+      },
+      "style": {
+        "color": "#e96b06",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item276",
+      "href": "https://everynoise.com/artistprofile.html?id=4JclI5yc08xZSvXTwxj8G9",
+      "id": "4JclI5yc08xZSvXTwxj8G9"
+    },
+    {
+      "artistName": "SERUiRE",
+      "positioning": {
+        "top": 170,
+        "left": 779
+      },
+      "style": {
+        "color": "#e37d76",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0311868145eb4fd2d0ee09ce04eab1826ae080f9",
+        "title": "e.g. SERUiRE \"Matte Mureak - Farallel Remix\"",
+        "trackId": "2R1q5AIEsfHyK8QrieQOiI"
+      },
+      "elementId": "item277",
+      "href": "https://everynoise.com/artistprofile.html?id=5miEYHO0M2iW0A2IVZBeqE",
+      "id": "5miEYHO0M2iW0A2IVZBeqE"
+    },
+    {
+      "artistName": "島村シャルロット",
+      "positioning": {
+        "top": 114,
+        "left": 509
+      },
+      "style": {
+        "color": "#b79400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9475251ce8319ec79dd106ce8eb33c2f98b26098",
+        "title": "e.g. 島村シャルロット \"トリミングアイランド\"",
+        "trackId": "2K1x3wFP9gXxEzH91YpySA"
+      },
+      "elementId": "item278",
+      "href": "https://everynoise.com/artistprofile.html?id=3W2tkqHAGIBNbnxFyHM8wM",
+      "id": "3W2tkqHAGIBNbnxFyHM8wM"
+    },
+    {
+      "artistName": "水瀬しあ",
+      "positioning": {
+        "top": 320,
+        "left": 203
+      },
+      "style": {
+        "color": "#cf8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89b8c03600e279922c6415e5400b722882e9d7b2",
+        "title": "e.g. 水瀬しあ \"「ふたりなら」\"",
+        "trackId": "1jemqyAt18WmlzuaIExswl"
+      },
+      "elementId": "item279",
+      "href": "https://everynoise.com/artistprofile.html?id=1YtaACMwNkmXmBI67rqz0x",
+      "id": "1YtaACMwNkmXmBI67rqz0x"
+    },
+    {
+      "artistName": "あくまのゴート",
+      "positioning": {
+        "top": 414,
+        "left": 0
+      },
+      "style": {
+        "color": "#db7200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1576638ce3fa5f71169e59664662c493260b131",
+        "title": "e.g. あくまのゴート \"Lunatic Mountains\"",
+        "trackId": "0QzyE7PUD88f3hALLBs8l0"
+      },
+      "elementId": "item280",
+      "href": "https://everynoise.com/artistprofile.html?id=6VMu30Dftuj60dOsEs22c4",
+      "id": "6VMu30Dftuj60dOsEs22c4"
+    },
+    {
+      "artistName": "キミノミヤ",
+      "positioning": {
+        "top": 447,
+        "left": 824
+      },
+      "style": {
+        "color": "#b49901",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/799bf6343e3359d2d5e458f6ad44ed69ee7cf8de",
+        "title": "e.g. キミノミヤ \"Mirage\"",
+        "trackId": "3hOAEEKGXtCBSAJtCgRPxY"
+      },
+      "elementId": "item281",
+      "href": "https://everynoise.com/artistprofile.html?id=335rIDj46yE1zqHZvVJ0WR",
+      "id": "335rIDj46yE1zqHZvVJ0WR"
+    },
+    {
+      "artistName": "日ノ隈らん",
+      "positioning": {
+        "top": 120,
+        "left": 596
+      },
+      "style": {
+        "color": "#fd3c5d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/62ae4d76fafe29473a8849979f24a95b8bb9a1a4",
+        "title": "e.g. 日ノ隈らん \"わ〜るどぴくにっく\"",
+        "trackId": "2SSZ1lHTmAzCqPm6as4wmz"
+      },
+      "elementId": "item282",
+      "href": "https://everynoise.com/artistprofile.html?id=6aj90qklPFoxNs4b9gdjgR",
+      "id": "6aj90qklPFoxNs4b9gdjgR"
+    },
+    {
+      "artistName": "天羽よつは",
+      "positioning": {
+        "top": 459,
+        "left": 820
+      },
+      "style": {
+        "color": "#c38e19",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9aa56e9396016ff9c071d4d18d8f99370bbec622",
+        "title": "e.g. 天羽よつは \"この場所から - The Herb Shop Remix\"",
+        "trackId": "07WKIMRTfmCxSfilIIiPpe"
+      },
+      "elementId": "item283",
+      "href": "https://everynoise.com/artistprofile.html?id=68MtmL0rkhvWuQuOlZNKEa",
+      "id": "68MtmL0rkhvWuQuOlZNKEa"
+    },
+    {
+      "artistName": "西園寺メアリ",
+      "positioning": {
+        "top": 0,
+        "left": 866
+      },
+      "style": {
+        "color": "#e55300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd1a239971d5e0345c9eaee975da5287566a8343",
+        "title": "e.g. 西園寺メアリ \"メアリサンバ\"",
+        "trackId": "4UgtqvgkLe2jWy7iFHwusD"
+      },
+      "elementId": "item284",
+      "href": "https://everynoise.com/artistprofile.html?id=1vwlkS5bWCu1r8JXxEY7hH",
+      "id": "1vwlkS5bWCu1r8JXxEY7hH"
+    },
+    {
+      "artistName": "白百合リリィ",
+      "positioning": {
+        "top": 40,
+        "left": 754
+      },
+      "style": {
+        "color": "#e88b03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/651819f85866b52556face57261b5923ca49bca3",
+        "title": "e.g. 白百合リリィ \"天使であれたら\"",
+        "trackId": "1ZVXgWolEczAPW0Tb4TFnK"
+      },
+      "elementId": "item285",
+      "href": "https://everynoise.com/artistprofile.html?id=6qhsiJPkCAFs3ftRs5zRLC",
+      "id": "6qhsiJPkCAFs3ftRs5zRLC"
+    },
+    {
+      "artistName": "K.AyuTAka",
+      "positioning": {
+        "top": 273,
+        "left": 704
+      },
+      "style": {
+        "color": "#e56e1e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e44d32e8249a937a63609d06e00ccd2c5ae844c",
+        "title": "e.g. K.AyuTAka \"battlefield\"",
+        "trackId": "6eLR1i8uJrH1QnnO0R4uWH"
+      },
+      "elementId": "item286",
+      "href": "https://everynoise.com/artistprofile.html?id=0RytdQJ0qAl689D6yMdtS4",
+      "id": "0RytdQJ0qAl689D6yMdtS4"
+    },
+    {
+      "artistName": "眠河ゆめな",
+      "positioning": {
+        "top": 351,
+        "left": 878
+      },
+      "style": {
+        "color": "#c78800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b86fa8e00909319a26b482d3fb657adeb27e3c76",
+        "title": "e.g. 眠河ゆめな \"You & Me\"",
+        "trackId": "1SRAabmvOStz9tgo8xxESX"
+      },
+      "elementId": "item287",
+      "href": "https://everynoise.com/artistprofile.html?id=0Gyd2wiEZGV5LMp5vKWJwa",
+      "id": "0Gyd2wiEZGV5LMp5vKWJwa"
+    },
+    {
+      "artistName": "キツネ DJ",
+      "positioning": {
+        "top": 121,
+        "left": 1365
+      },
+      "style": {
+        "color": "#db9800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1460dd83cfebd2d9e2db157b5453a151d11982c3",
+        "title": "e.g. キツネ DJ \"VILLAGER\"",
+        "trackId": "3DoHx8YRidL7YolzdyaYOQ"
+      },
+      "elementId": "item288",
+      "href": "https://everynoise.com/artistprofile.html?id=0jurLk4ygo2UkG7yiLPu0I",
+      "id": "0jurLk4ygo2UkG7yiLPu0I"
+    },
+    {
+      "artistName": "虹乃まほろ",
+      "positioning": {
+        "top": 148,
+        "left": 418
+      },
+      "style": {
+        "color": "#e87667",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7911cfd434c186977cc0f158630f054fd0c22367",
+        "title": "e.g. 虹乃まほろ \"トキメキSTEP\"",
+        "trackId": "2YcUywSYVqxcmxjifOXOcN"
+      },
+      "elementId": "item289",
+      "href": "https://everynoise.com/artistprofile.html?id=3FyQBkOkwHNPMtKcyGixd6",
+      "id": "3FyQBkOkwHNPMtKcyGixd6"
+    },
+    {
+      "artistName": "Maggg-Nolia",
+      "positioning": {
+        "top": 178,
+        "left": 277
+      },
+      "style": {
+        "color": "#e57978",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37a5ea3ce9866791e8d681e8976d838d4425ef22",
+        "title": "e.g. Maggg-Nolia \"Kyoso Inception - Maggg-Nolia Remix\"",
+        "trackId": "16LwRD7dx4ZjlMUqxm6SZX"
+      },
+      "elementId": "item290",
+      "href": "https://everynoise.com/artistprofile.html?id=3ANFXag2i7NLnh1nARFOsD",
+      "id": "3ANFXag2i7NLnh1nARFOsD"
+    },
+    {
+      "artistName": "kuromov",
+      "positioning": {
+        "top": 141,
+        "left": 1392
+      },
+      "style": {
+        "color": "#e17738",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40168cc1d8e7e5e710057a97972b2e7626a39656",
+        "title": "e.g. kuromov \"Clouds\"",
+        "trackId": "5JCuXWNeVqq5wbcPCJYliv"
+      },
+      "elementId": "item291",
+      "href": "https://everynoise.com/artistprofile.html?id=5Sset4KpSUe0Zi8816LxaB",
+      "id": "5Sset4KpSUe0Zi8816LxaB"
+    },
+    {
+      "artistName": "tokinosora",
+      "positioning": {
+        "top": 411,
+        "left": 66
+      },
+      "style": {
+        "color": "#f26400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item292",
+      "href": "https://everynoise.com/artistprofile.html?id=678954VcRbqC68bvmBHxvS",
+      "id": "678954VcRbqC68bvmBHxvS"
+    },
+    {
+      "artistName": "アズマ リム",
+      "positioning": {
+        "top": 98,
+        "left": 754
+      },
+      "style": {
+        "color": "#ed6900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item293",
+      "href": "https://everynoise.com/artistprofile.html?id=5WNBVQVRTM9mtwwfkUEVgQ",
+      "id": "5WNBVQVRTM9mtwwfkUEVgQ"
+    },
+    {
+      "artistName": "東雲めぐ",
+      "positioning": {
+        "top": 435,
+        "left": 1399
+      },
+      "style": {
+        "color": "#a49100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0de77307fe72abbb696917629c5ff49c44c2876d",
+        "title": "e.g. 東雲めぐ \"そうさ!おんぷっコ♪\"",
+        "trackId": "4HYMtkgzRniw4TsxjeOJ69"
+      },
+      "elementId": "item294",
+      "href": "https://everynoise.com/artistprofile.html?id=1tSo4JT3VOSSFJ463qffYG",
+      "id": "1tSo4JT3VOSSFJ463qffYG"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=japanese%20vtuber"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/17KAkGia8BUy0QhVvT6iIp"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2EEibe7W7EgLqpToPwT3sz"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2wze68Ip2p3O85GKaIuxqp"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/394LeLHvaYCZlI0BJdBA6U"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=japanese%20vtuber"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "dance-punk",
+      "positioning": {
+        "top": 133,
+        "left": 219
+      },
+      "style": {
+        "color": "#c17640",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/704b4ddb7afe9346a76723d741b75d5fb41ae10a",
+        "title": "e.g. The Rapture \"Echoes\"",
+        "trackId": "7wg5h9uqPvRngy5WUQKlAs"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-dancepunk.html#tunnel"
+    },
+    {
+      "genreName": "doujin",
+      "positioning": {
+        "top": 189,
+        "left": 103
+      },
+      "style": {
+        "color": "#c0794b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/485e66580e0c0a870760803e1e705ee4664b730c",
+        "title": "e.g. EastNewSound \"緋色月下、狂咲ノ絶 -1st Anniversary Remix-\"",
+        "trackId": "54BCBHVE768LRKC8W9b8tb"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-doujin.html#tunnel"
+    },
+    {
+      "genreName": "anime latino",
+      "positioning": {
+        "top": 211,
+        "left": 113
+      },
+      "style": {
+        "color": "#c27a1c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24dd6b4759b9bb7f4ae832ebd25fb8f8ce2794df",
+        "title": "e.g. Jade \"Olvida la Amargura\"",
+        "trackId": "5C1QBxSrrsSyUdbn9SGb6d"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-animelatino.html#tunnel"
+    },
+    {
+      "genreName": "shojo",
+      "positioning": {
+        "top": 209,
+        "left": 55
+      },
+      "style": {
+        "color": "#b57b41",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25154d22044140ef457b09baf2a84c7a95fa2fd2",
+        "title": "e.g. 池田彩 \"Alright!ハートキャッチプリキュア!\"",
+        "trackId": "2rH4mBejCYWx3cIVgFLWO8"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-shojo.html#tunnel"
+    },
+    {
+      "genreName": "j-division",
+      "positioning": {
+        "top": 154,
+        "left": 90
+      },
+      "style": {
+        "color": "#c87517",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/195e8acec6f4d89787f7bec35392519a22212aa9",
+        "title": "e.g. キタコレ(cv.小野大輔、岸尾だいすけ) \"Karma\"",
+        "trackId": "6rjRNemWyzcfkF2ItaMjSg"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-jdivision.html#tunnel"
+    },
+    {
+      "genreName": "coventry indie",
+      "positioning": {
+        "top": 236,
+        "left": 106
+      },
+      "style": {
+        "color": "#b9731f",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/337a6cab5f55f70a69bc8c948fcd4af7a731bc54",
+        "title": "e.g. The Enemy \"We'll Live and Die in These Towns\"",
+        "trackId": "2XWAPRiW50qgKBU1T7MfN7"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-coventryindie.html#tunnel"
+    },
+    {
+      "genreName": "classic j-pop",
+      "positioning": {
+        "top": 223,
+        "left": 119
+      },
+      "style": {
+        "color": "#b97c1a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c35b5ec9d6b1b9ab93297bf29081b72a60c8620",
+        "title": "e.g. Tomomi Kahara \"I’m proud 2005\"",
+        "trackId": "2SOBdW0Uph4Bz1r9ss8Nee"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-classicjpop.html#tunnel"
+    },
+    {
+      "genreName": "japanese new wave",
+      "positioning": {
+        "top": 300,
+        "left": 158
+      },
+      "style": {
+        "color": "#b67529",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19745ebbe1007ed033249f3f3a58125e7e83d62f",
+        "title": "e.g. Yapoos \"赤い戦車\"",
+        "trackId": "72DJuE51aQfHg0P2feFZBp"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-japanesenewwave.html#tunnel"
+    },
+    {
+      "genreName": "vocaloid",
+      "positioning": {
+        "top": 100,
+        "left": 55
+      },
+      "style": {
+        "color": "#ce761d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a64fa22f4b15d17fea53c0e1e931e43ea3302fe",
+        "title": "e.g. UtataP \"こちら、幸福安心委員会です。\"",
+        "trackId": "3yphjYSP0G3gvCPQnuEDXu"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-vocaloid.html#tunnel"
+    },
+    {
+      "genreName": "electronic rock",
+      "positioning": {
+        "top": 0,
+        "left": 197
+      },
+      "style": {
+        "color": "#bf794b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b9281964b5883fe9bed5c7072a277a8b9c0b50df",
+        "title": "e.g. Nine Inch Nails \"Closer\"",
+        "trackId": "2oDqmfa2g8W893LlwJG1qu"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-electronicrock.html#tunnel"
+    },
+    {
+      "genreName": "anime cv",
+      "positioning": {
+        "top": 233,
+        "left": 0
+      },
+      "style": {
+        "color": "#bc7740",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6fab079a9a22597da45f6fb0fbea49ce1708653",
+        "title": "e.g. 双海真美 (CV.下田麻美) \"フリースタイル・トップアイドル！\"",
+        "trackId": "7DpjzwMD1nsdcIMyUR47ZQ"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-animecv.html#tunnel"
+    },
+    {
+      "genreName": "kawaii future bass",
+      "positioning": {
+        "top": 57,
+        "left": 284
+      },
+      "style": {
+        "color": "#cb7d52",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0a44cc45188ec2f66a779b1f2f95b7d48241198a",
+        "title": "e.g. KOTONOHOUSE \"センチメンタリズム - feat. 芹澤 優\"",
+        "trackId": "7BIFJ3tHxrU28sBICphJQY"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-kawaiifuturebass.html#tunnel"
+    },
+    {
+      "genreName": "south borneo indie",
+      "positioning": {
+        "top": 260,
+        "left": 135
+      },
+      "style": {
+        "color": "#bc7920",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b56776cde11f529d55d9ebc7ab1a5d9f833dbc2f",
+        "title": "e.g. Rockapudink \"A.T.T.C\"",
+        "trackId": "5IXc6TqecHfZpUOIUuZfFu"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-southborneoindie.html#tunnel"
+    },
+    {
+      "genreName": "electropowerpop",
+      "positioning": {
+        "top": 96,
+        "left": 123
+      },
+      "style": {
+        "color": "#c8730e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71067ba0ae2f57ca5cdc80911c3023600922ba70",
+        "title": "e.g. Kill Paradise \"Fall From A Star\"",
+        "trackId": "1CY4v3ZrJgLNhDGBGtqLyL"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-electropowerpop.html#tunnel"
+    },
+    {
+      "genreName": "japanese electropop",
+      "positioning": {
+        "top": 122,
+        "left": 300
+      },
+      "style": {
+        "color": "#bd8139",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84c7ce5df008d22b434618ee7e9008946b01f392",
+        "title": "e.g. tofubeats \"LONELY NIGHTS\"",
+        "trackId": "40It4gOs70ssV0IFMRuul1"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-japaneseelectropop.html#tunnel"
+    },
+    {
+      "genreName": "dortmund indie",
+      "positioning": {
+        "top": 248,
+        "left": 42
+      },
+      "style": {
+        "color": "#bd7422",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/daf48e13178afc02390c0e0d922dad41dc90301a",
+        "title": "e.g. Phillip Boa And The Voodooclub \"Bay Rum\"",
+        "trackId": "2fR3nc9Uo7pqeGzZpCfPIf"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-dortmundindie.html#tunnel"
+    },
+    {
+      "genreName": "new wave",
+      "positioning": {
+        "top": 248,
+        "left": 184
+      },
+      "style": {
+        "color": "#b87421",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37e6049e5c604a5a0b0c0c5ef68208f72e0fed38",
+        "title": "e.g. The Human League \"Don't You Want Me\"",
+        "trackId": "3L7RtEcu1Hw3OXrpnthngx"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-newwave.html#tunnel"
+    },
+    {
+      "genreName": "dance rock",
+      "positioning": {
+        "top": 69,
+        "left": 284
+      },
+      "style": {
+        "color": "#c47228",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa7015e65bf8da36eb49ef1fa02d247dbca2b293",
+        "title": "e.g. Frankie Goes To Hollywood \"Relax\"",
+        "trackId": "2K22nUTdyr48JDwI5t906t"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-dancerock.html#tunnel"
+    },
+    {
+      "genreName": "industrial pop",
+      "positioning": {
+        "top": 30,
+        "left": 126
+      },
+      "style": {
+        "color": "#be7b33",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/660af371ad69a40d98af3518834c6899facabe7c",
+        "title": "e.g. KANGA \"Going Red\"",
+        "trackId": "7jzumyCOXTLPX236mpjhP3"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-industrialpop.html#tunnel"
+    },
+    {
+      "genreName": "mexican rock",
+      "positioning": {
+        "top": 272,
+        "left": 216
+      },
+      "style": {
+        "color": "#b97d1c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e45755421e33849a741dce2469f7e5817d8c682c",
+        "title": "e.g. Tijuana No! \"Pobre De Ti\"",
+        "trackId": "0j14D2Jp4i9zg9KKm9aSBk"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-mexicanrock.html#tunnel"
+    }
+  ]
+}

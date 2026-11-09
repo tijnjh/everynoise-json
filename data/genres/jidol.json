@@ -1,0 +1,2108 @@
+{
+  "schemaVersion": 3,
+  "genreName": "j-idol",
+  "artists": [
+    {
+      "artistName": "Nogizaka46",
+      "positioning": {
+        "top": 440,
+        "left": 347
+      },
+      "style": {
+        "color": "#da7434",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a906b8ed0b0b019a6f82e0a7ff1dc9e1ab7da779",
+        "title": "e.g. Nogizaka46 \"おひとりさま天国\"",
+        "trackId": "2JAwscGWJvCSK0HnES066Z"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=08lN7bm4Etec8ETFxaTUmq",
+      "id": "08lN7bm4Etec8ETFxaTUmq"
+    },
+    {
+      "artistName": "Perfume",
+      "positioning": {
+        "top": 70,
+        "left": 1238
+      },
+      "style": {
+        "color": "#ea7d37",
+        "fontSize": "142%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e107b89e83b952742d1a722a0c777722d056726b",
+        "title": "e.g. Perfume \"Moon\"",
+        "trackId": "77WrUAbySLHjGwd5n9B7WN"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=2XMxWKPKCxoLkSdpCViCnr",
+      "id": "2XMxWKPKCxoLkSdpCViCnr"
+    },
+    {
+      "artistName": "AKB48",
+      "positioning": {
+        "top": 360,
+        "left": 161
+      },
+      "style": {
+        "color": "#e06742",
+        "fontSize": "137%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc5a206668d2bb8f2488ed59efd49e06ec701d50",
+        "title": "e.g. AKB48 \"恋するフォーチュンクッキー\"",
+        "trackId": "37yHxMij3cpN8SdO915LUI"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=01wau5CL3Z1vfJJWkzBkqg",
+      "id": "01wau5CL3Z1vfJJWkzBkqg"
+    },
+    {
+      "artistName": "Keyakizaka46",
+      "positioning": {
+        "top": 491,
+        "left": 305
+      },
+      "style": {
+        "color": "#d9720e",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94bcf734d44ddd37429795327fcc5d415a5731d1",
+        "title": "e.g. Keyakizaka46 \"サイレントマジョリティー\"",
+        "trackId": "6vqGGV7ZGWYFRg5EtlcuN5"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=03E7w8NrBr4lNCK33TQyil",
+      "id": "03E7w8NrBr4lNCK33TQyil"
+    },
+    {
+      "artistName": "Kyary Pamyu Pamyu",
+      "positioning": {
+        "top": 67,
+        "left": 1382
+      },
+      "style": {
+        "color": "#f0762d",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a2dbbf0365072ddfc53f9f16e54069c11c77c29",
+        "title": "e.g. Kyary Pamyu Pamyu \"PONPONPON\"",
+        "trackId": "6W0h3ULsrzmD6C8B4cG57A"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=7Gh6fW49xfXLP8DTWaLVJP",
+      "id": "7Gh6fW49xfXLP8DTWaLVJP"
+    },
+    {
+      "artistName": "SCANDAL",
+      "positioning": {
+        "top": 476,
+        "left": 353
+      },
+      "style": {
+        "color": "#d66d17",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9163b73783085f3b04e122958b596067b3ccae4d",
+        "title": "e.g. SCANDAL \"瞬間センチメンタル\"",
+        "trackId": "3RoHAivw8gRyzlWDsvbFTB"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=7hTZwqQILVH4bAbN67CeEz",
+      "id": "7hTZwqQILVH4bAbN67CeEz"
+    },
+    {
+      "artistName": "Momoiro Clover Z",
+      "positioning": {
+        "top": 499,
+        "left": 448
+      },
+      "style": {
+        "color": "#e06b1f",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/377d996047a783d48adecba93a869e41e25c2744",
+        "title": "e.g. Momoiro Clover Z \"MOON PRIDE\"",
+        "trackId": "6XprapJCbrNFXtysmWjJt8"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=3Zl0EsuYV23OgNw6WqGelN",
+      "id": "3Zl0EsuYV23OgNw6WqGelN"
+    },
+    {
+      "artistName": "E-girls",
+      "positioning": {
+        "top": 267,
+        "left": 879
+      },
+      "style": {
+        "color": "#e17513",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40c599e982013d60b6bf33a90d05b08368377683",
+        "title": "e.g. E-girls \"Follow Me\"",
+        "trackId": "06yfLJC5pMcFw8hoNovLaT"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=6CKN3GUiWMrESH1RKn3ecz",
+      "id": "6CKN3GUiWMrESH1RKn3ecz"
+    },
+    {
+      "artistName": "Flower",
+      "positioning": {
+        "top": 607,
+        "left": 771
+      },
+      "style": {
+        "color": "#c58f1b",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e792411902ec9085c7174d03792d940a2b65a469",
+        "title": "e.g. Flower \"やさしさで溢れるように\"",
+        "trackId": "3PRPAqa2iOdeOneRClYJmS"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=0VPLGnexd8K6BGbpLiPPVj",
+      "id": "0VPLGnexd8K6BGbpLiPPVj"
+    },
+    {
+      "artistName": "ZONE",
+      "positioning": {
+        "top": 507,
+        "left": 395
+      },
+      "style": {
+        "color": "#ba840f",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9bbd5785c5af4715b2a0f48484d3719a945855af",
+        "title": "e.g. ZONE \"secret base ～君がくれたもの～\"",
+        "trackId": "1k42CHnoxIlqAJ81VE65Uc"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=5kYS7bPX5tm3jrsYqqNSZN",
+      "id": "5kYS7bPX5tm3jrsYqqNSZN"
+    },
+    {
+      "artistName": "Folder 5",
+      "positioning": {
+        "top": 6,
+        "left": 1022
+      },
+      "style": {
+        "color": "#f16226",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9add0e5449959bc25f2cc47e4e4a3c006f052953",
+        "title": "e.g. Folder 5 \"Believe\"",
+        "trackId": "5Wg6U4mLyjJj8ApPkWHBKB"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=2B7camiqgR0ErfveavlNIG",
+      "id": "2B7camiqgR0ErfveavlNIG"
+    },
+    {
+      "artistName": "Hitomi Shimatani",
+      "positioning": {
+        "top": 659,
+        "left": 819
+      },
+      "style": {
+        "color": "#bb8219",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/03d0ad6a3d93cf269f18c0a6565af207e3a50375",
+        "title": "e.g. Hitomi Shimatani \"亜麻色の髪の乙女\"",
+        "trackId": "1ixx7OysQiApsvxzluESli"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=34eavfJpWV3DnvwqOmml18",
+      "id": "34eavfJpWV3DnvwqOmml18"
+    },
+    {
+      "artistName": "NMB48",
+      "positioning": {
+        "top": 421,
+        "left": 0
+      },
+      "style": {
+        "color": "#e55f49",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/69df536e6a88dc9809e2028f406cfa7b57502662",
+        "title": "e.g. NMB48 \"ナギイチ\"",
+        "trackId": "4ZponlPKm6hfzFJYh6QnvV"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=1DdzMfvcBzMgdX5iPu69wk",
+      "id": "1DdzMfvcBzMgdX5iPu69wk"
+    },
+    {
+      "artistName": "Hitomi Yaida",
+      "positioning": {
+        "top": 592,
+        "left": 305
+      },
+      "style": {
+        "color": "#c87909",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a1d99322f3b87a33fb40603b8d85bb0c2f27ab1d",
+        "title": "e.g. Hitomi Yaida \"My Sweet Darlin'\"",
+        "trackId": "1RmIiGQG8vbUcClR9kXuqO"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=4Xho9HlopbIH2VpxfDkVXn",
+      "id": "4Xho9HlopbIH2VpxfDkVXn"
+    },
+    {
+      "artistName": "chay",
+      "positioning": {
+        "top": 839,
+        "left": 753
+      },
+      "style": {
+        "color": "#ac8908",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5997a9bdac14933c74b92a918c22efb55e5836d",
+        "title": "e.g. chay \"あなたに恋をしてみました\"",
+        "trackId": "4IqBRdBiSN251FuHM8k4Bp"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=74F5BixS3Q9eSs9AnG3xIz",
+      "id": "74F5BixS3Q9eSs9AnG3xIz"
+    },
+    {
+      "artistName": "hitomi",
+      "positioning": {
+        "top": 372,
+        "left": 550
+      },
+      "style": {
+        "color": "#d67423",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1dab3f769f5d6650ee0d82fd11e458079b33e998",
+        "title": "e.g. hitomi \"LOVE 2000\"",
+        "trackId": "0pT3b7HUzttsPoDoD9TSnS"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=5rdloWitZKhrtedmOBdhG8",
+      "id": "5rdloWitZKhrtedmOBdhG8"
+    },
+    {
+      "artistName": "Shiritsu Ebisu Chugaku",
+      "positioning": {
+        "top": 447,
+        "left": 562
+      },
+      "style": {
+        "color": "#df6728",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/506c90224c9d603928f8757cd18aad25439031fa",
+        "title": "e.g. Shiritsu Ebisu Chugaku \"仮契約のシンデレラ\"",
+        "trackId": "0Id4GD77KUxARHKOOJHWzs"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=0hWvpmIrUgyPKOYvEGcERp",
+      "id": "0hWvpmIrUgyPKOYvEGcERp"
+    },
+    {
+      "artistName": "Whiteberry",
+      "positioning": {
+        "top": 388,
+        "left": 383
+      },
+      "style": {
+        "color": "#df680e",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1582c943d9e1a55c8e04c78e0761d264776d3cd4",
+        "title": "e.g. Whiteberry \"夏祭り\"",
+        "trackId": "6rDJe5gVgAunlkaSY1vnAF"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=76oZZyUq2OsR4uvuZVYdPn",
+      "id": "76oZZyUq2OsR4uvuZVYdPn"
+    },
+    {
+      "artistName": "Yui Horie",
+      "positioning": {
+        "top": 517,
+        "left": 700
+      },
+      "style": {
+        "color": "#cc7c0b",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96dc8eb68ad2b4655633a111da53681216f58f4b",
+        "title": "e.g. Yui Horie \"silky heart\"",
+        "trackId": "5UOFQeVsLEZKuX9VMI2qtb"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=7LKC71aoVTsDcHP9weRH9R",
+      "id": "7LKC71aoVTsDcHP9weRH9R"
+    },
+    {
+      "artistName": "Aya Hirano",
+      "positioning": {
+        "top": 375,
+        "left": 395
+      },
+      "style": {
+        "color": "#e2650c",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/308033931e1142b33b08c9b5d9ba08da076f8b13",
+        "title": "e.g. Aya Hirano \"ハレ晴レユカイ\"",
+        "trackId": "0zIgHDtCRMxx4BlEkxkNph"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3i2cfgYBlN8krGOtCqEYHj",
+      "id": "3i2cfgYBlN8krGOtCqEYHj"
+    },
+    {
+      "artistName": "Dream Ami",
+      "positioning": {
+        "top": 462,
+        "left": 1285
+      },
+      "style": {
+        "color": "#c98600",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/31bbc1954c003e03bded469d69c348ef2dd5f69a",
+        "title": "e.g. Dream Ami \"Try Everything - Japan Version\"",
+        "trackId": "5xxnw2k7QLSwL0mrGV1TaX"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=6Oeb6i0acXNe1Q1MqqfkPX",
+      "id": "6Oeb6i0acXNe1Q1MqqfkPX"
+    },
+    {
+      "artistName": "Dempagumi.Inc",
+      "positioning": {
+        "top": 360,
+        "left": 759
+      },
+      "style": {
+        "color": "#e66719",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/043a68e08b6d4d6ca652025bd5360c90a8da008e",
+        "title": "e.g. Dempagumi.Inc \"Ψです I LIKE YOU\"",
+        "trackId": "5zwhs3vsW6LMsD0JIDUujL"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2jAtwNClGACPlYgR1QFAIq",
+      "id": "2jAtwNClGACPlYgR1QFAIq"
+    },
+    {
+      "artistName": "lol",
+      "positioning": {
+        "top": 261,
+        "left": 1106
+      },
+      "style": {
+        "color": "#d87f14",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/90dcb24ba677583a4cd1582c8da24debaab348cc",
+        "title": "e.g. lol \"power of the dream\"",
+        "trackId": "5q2ElAbDa7SeUrQmFmrMUf"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=2nKN6scty9Yb9G4VlT6B8z",
+      "id": "2nKN6scty9Yb9G4VlT6B8z"
+    },
+    {
+      "artistName": "HKT48",
+      "positioning": {
+        "top": 401,
+        "left": 0
+      },
+      "style": {
+        "color": "#e95743",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dae2276c703ded0485211b460b0e403635ceff88",
+        "title": "e.g. HKT48 \"12秒\"",
+        "trackId": "7589aZ7kiqj3KXzCnhlzNZ"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=4gEIINdqeWnlTnmdsCUVBf",
+      "id": "4gEIINdqeWnlTnmdsCUVBf"
+    },
+    {
+      "artistName": "Yui Ogura",
+      "positioning": {
+        "top": 280,
+        "left": 592
+      },
+      "style": {
+        "color": "#dc7733",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/031fb926a8c8675fa595316410af2a6ec4163b60",
+        "title": "e.g. Yui Ogura \"Clear Morning\"",
+        "trackId": "2FSeQD4Tk5ELPtbJHIT1ea"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=4BVBO54UlQrzDW66hSEefy",
+      "id": "4BVBO54UlQrzDW66hSEefy"
+    },
+    {
+      "artistName": "Ami Suzuki",
+      "positioning": {
+        "top": 275,
+        "left": 1088
+      },
+      "style": {
+        "color": "#cd7b1d",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9ec5f5a92d60640899d0fb501d24ad4a210de402",
+        "title": "e.g. Ami Suzuki \"BE TOGETHER　<ORIGINAL MIX>\"",
+        "trackId": "1CoADQCxm47EkDQCZ4LgiG"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=5txXmJzhOCjswudIed7MAI",
+      "id": "5txXmJzhOCjswudIed7MAI"
+    },
+    {
+      "artistName": "Dream",
+      "positioning": {
+        "top": 128,
+        "left": 843
+      },
+      "style": {
+        "color": "#df7930",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d62e88f9bb00b5c49deb7cf5aa8ce855e9095dfc",
+        "title": "e.g. Dream \"My will\"",
+        "trackId": "7cxpERtqhee7mmBP9ZJvXk"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=67j0XHDG7fP5ZHia8gDsJU",
+      "id": "67j0XHDG7fP5ZHia8gDsJU"
+    },
+    {
+      "artistName": "SKE48",
+      "positioning": {
+        "top": 528,
+        "left": 347
+      },
+      "style": {
+        "color": "#df620b",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/668f44e1fdf95922631c1d474339d8e8e9b7a55f",
+        "title": "e.g. SKE48 \"パレオはエメラルド\"",
+        "trackId": "3qqcLmcc1UaohHKAL3RY9Q"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=5G8OLQcvoCxiMQzwEcuWeN",
+      "id": "5G8OLQcvoCxiMQzwEcuWeN"
+    },
+    {
+      "artistName": "Sayaka Yamamoto",
+      "positioning": {
+        "top": 558,
+        "left": 484
+      },
+      "style": {
+        "color": "#ca7918",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c1f65492845985b1c238b084e731a3ad489ecc9e",
+        "title": "e.g. Sayaka Yamamoto \"Bring it on\"",
+        "trackId": "1elgQUxh9t2ygc81lTuv8W"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=0MkmM5Vy3gj9QX1JHiYCiK",
+      "id": "0MkmM5Vy3gj9QX1JHiYCiK"
+    },
+    {
+      "artistName": "STU48",
+      "positioning": {
+        "top": 555,
+        "left": 209
+      },
+      "style": {
+        "color": "#cf7953",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/771c2ce4cb5edc2b1e4f4d0b8ec866bf5417e8a8",
+        "title": "e.g. STU48 \"花は誰のもの?\"",
+        "trackId": "4KZWXhQivY3VmD9g7yyFpR"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=0Z45lR91V2XYj0YxdiFxnF",
+      "id": "0Z45lR91V2XYj0YxdiFxnF"
+    },
+    {
+      "artistName": "Yui Aragaki",
+      "positioning": {
+        "top": 900,
+        "left": 508
+      },
+      "style": {
+        "color": "#8d9611",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bce4fd78c799fde251d2dbbeb099fce6212eabb5",
+        "title": "e.g. Yui Aragaki \"赤い糸\"",
+        "trackId": "7rF5kk0MnpV9Q96iUbF3wy"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=60cIghPNfJZNrZpyKKfObj",
+      "id": "60cIghPNfJZNrZpyKKfObj"
+    },
+    {
+      "artistName": "Idoling!!!",
+      "positioning": {
+        "top": 293,
+        "left": 694
+      },
+      "style": {
+        "color": "#e7691d",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/164346fc32883ede0674a3f3a508e57a20efaa05",
+        "title": "e.g. Idoling!!! \"S.O.W. センスオブワンダー\"",
+        "trackId": "7jsonO04B1mqdd453uSwpB"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=4MMquRKVnKJLWy1FW5vVKO",
+      "id": "4MMquRKVnKJLWy1FW5vVKO"
+    },
+    {
+      "artistName": "NGT48",
+      "positioning": {
+        "top": 427,
+        "left": 317
+      },
+      "style": {
+        "color": "#d8753e",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07202607ade6cf1567934ce2510b4bbf8da3a184",
+        "title": "e.g. NGT48 \"あのさ、いや別に…\"",
+        "trackId": "5HTBSOQoDyX1fmeto2xJt1"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=4wZjP2p0Sm5EHM32uuAgGf",
+      "id": "4wZjP2p0Sm5EHM32uuAgGf"
+    },
+    {
+      "artistName": "26時のマスカレイド",
+      "positioning": {
+        "top": 473,
+        "left": 592
+      },
+      "style": {
+        "color": "#db7100",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0201d2bc3e42e0cc617ab27a5a87e2d80bf8bf6b",
+        "title": "e.g. 26時のマスカレイド \"ハートサングラス\"",
+        "trackId": "7p0PWcQWSvYvR07PHm4ruV"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=2RTJG5KGfKi6uAUXEgFF9d",
+      "id": "2RTJG5KGfKi6uAUXEgFF9d"
+    },
+    {
+      "artistName": "Alisa Mizuki",
+      "positioning": {
+        "top": 508,
+        "left": 1160
+      },
+      "style": {
+        "color": "#b58025",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b4050944b356487d620e306046310f7495e77bdd",
+        "title": "e.g. Alisa Mizuki \"ヒトミノチカラ\"",
+        "trackId": "32QkvXux7BGRjxPI1M1ctM"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=3F9qxTNNdfUkuxCFBHFCHg",
+      "id": "3F9qxTNNdfUkuxCFBHFCHg"
+    },
+    {
+      "artistName": "ノースリーブス",
+      "positioning": {
+        "top": 116,
+        "left": 652
+      },
+      "style": {
+        "color": "#e07246",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d03eb81b2261c685510eccb0308d08a3abcc2185",
+        "title": "e.g. ノースリーブス \"ハート型ウイルス [no3b ver.]\"",
+        "trackId": "0mbrp0RsP9C3lXnbJ7c400"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=2VM81ux8Ip6Vq2RsDdeGXW",
+      "id": "2VM81ux8Ip6Vq2RsDdeGXW"
+    },
+    {
+      "artistName": "Dream5",
+      "positioning": {
+        "top": 171,
+        "left": 998
+      },
+      "style": {
+        "color": "#ea6027",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ef644cc5ecf80dea6a4783be19c139440525c07",
+        "title": "e.g. Dream5 \"ようかい体操第一\"",
+        "trackId": "3h7t03vHR8P0jkmX1EBM5f"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=5BqQUM8Xe6LUP48eZLWhFI",
+      "id": "5BqQUM8Xe6LUP48eZLWhFI"
+    },
+    {
+      "artistName": "Maison book girl",
+      "positioning": {
+        "top": 740,
+        "left": 987
+      },
+      "style": {
+        "color": "#be7b2b",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/14cfbac477dda291aae0e291fdec9c52b3f65b96",
+        "title": "e.g. Maison book girl \"Faithlessness\"",
+        "trackId": "7H4zZGCLNDp457svnrJdZB"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=2rkgBTtk0Ec32yjIYsFP87",
+      "id": "2rkgBTtk0Ec32yjIYsFP87"
+    },
+    {
+      "artistName": "Sakuragakuin",
+      "positioning": {
+        "top": 308,
+        "left": 759
+      },
+      "style": {
+        "color": "#d67412",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2e8a11b4b27ee97618d3b672ebc76145b0cd39fb",
+        "title": "e.g. Sakuragakuin \"My Graduation Toss\"",
+        "trackId": "01bujXpZl6VCERxvvU1q87"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=6ZkreMw9VEGOdBw6NEuG92",
+      "id": "6ZkreMw9VEGOdBw6NEuG92"
+    },
+    {
+      "artistName": "Watariroukahashiritai",
+      "positioning": {
+        "top": 268,
+        "left": 616
+      },
+      "style": {
+        "color": "#df6e47",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0d2e28ae87be47011e01293e8f1b87b6e0cc1fcf",
+        "title": "e.g. Watariroukahashiritai \"Kanpeki Guu no Ne\"",
+        "trackId": "2u4Hcs5cdWby71squJAkEY"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=3MgZdA8OJAMKoKrlxdw0wc",
+      "id": "3MgZdA8OJAMKoKrlxdw0wc"
+    },
+    {
+      "artistName": "Maneki Kecak",
+      "positioning": {
+        "top": 546,
+        "left": 442
+      },
+      "style": {
+        "color": "#dc720c",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28e8760b8f1a44b33c6a9526adbca663d07b97ca",
+        "title": "e.g. Maneki Kecak \"きみわずらい\"",
+        "trackId": "4sR8oBiojS9toxu8ffHRmW"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=0LA2C0Cbh1jk7lDtQiTehi",
+      "id": "0LA2C0Cbh1jk7lDtQiTehi"
+    },
+    {
+      "artistName": "Tomomi Itano",
+      "positioning": {
+        "top": 293,
+        "left": 1034
+      },
+      "style": {
+        "color": "#d7813b",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8837623aaea88f4c225a2fd15e4b46800a874d0b",
+        "title": "e.g. Tomomi Itano \"Dear J\"",
+        "trackId": "5tN91D7Qcld6S1qbmWCa0t"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=321nhiiH5SXtp1UQ8441au",
+      "id": "321nhiiH5SXtp1UQ8441au"
+    },
+    {
+      "artistName": "misono",
+      "positioning": {
+        "top": 668,
+        "left": 490
+      },
+      "style": {
+        "color": "#c7733d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/637a8b076e1e0298e29e6e06b63ce290b268c528",
+        "title": "e.g. misono \"二人三脚\"",
+        "trackId": "3Np6RasPKUwOmAs9RnhTTM"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=6kvN5e0vPFKf6Ra4BrINU4",
+      "id": "6kvN5e0vPFKf6Ra4BrINU4"
+    },
+    {
+      "artistName": "Aya Ueto",
+      "positioning": {
+        "top": 589,
+        "left": 813
+      },
+      "style": {
+        "color": "#c38422",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a81e44d373407e9efccc119e3057382fb06799fc",
+        "title": "e.g. Aya Ueto \"Smile For...\"",
+        "trackId": "5MGoDtN3m2hzjY5QxGbQI5"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=3gQe1ekWxXzJCI1ryAvxxP",
+      "id": "3gQe1ekWxXzJCI1ryAvxxP"
+    },
+    {
+      "artistName": "#ババババンビ",
+      "positioning": {
+        "top": 233,
+        "left": 454
+      },
+      "style": {
+        "color": "#ee6701",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/086af6500e56d87f05bcd2efd4487825d334a47f",
+        "title": "e.g. #ババババンビ \"ゲイシャフジヤマ\"",
+        "trackId": "46zHFG7hukjh0t3vQmvMdn"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=0ScoDiDYnoFIGg523SA9eQ",
+      "id": "0ScoDiDYnoFIGg523SA9eQ"
+    },
+    {
+      "artistName": "lyrical school",
+      "positioning": {
+        "top": 496,
+        "left": 1377
+      },
+      "style": {
+        "color": "#c97222",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fb8b9657828f40ffa13ae92d346e3398dc2274e5",
+        "title": "e.g. lyrical school \"TIME MACHINE\"",
+        "trackId": "1pFx1eUw9cBr39Hv7vCLKU"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=6V7cWMccRQEiOWSqygWYeK",
+      "id": "6V7cWMccRQEiOWSqygWYeK"
+    },
+    {
+      "artistName": "リルネード",
+      "positioning": {
+        "top": 244,
+        "left": 1396
+      },
+      "style": {
+        "color": "#dc7418",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f7bdfc018bf313c604b0a1aab0cfb3b32f8df1b",
+        "title": "e.g. リルネード \"もうわたしを好きになってる君へ\"",
+        "trackId": "0864cdUzJvNGOrk1HUa5Vi"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=1WGJ4pblKsF80YVYA5F9J0",
+      "id": "1WGJ4pblKsF80YVYA5F9J0"
+    },
+    {
+      "artistName": "TEAM SHACHI",
+      "positioning": {
+        "top": 714,
+        "left": 837
+      },
+      "style": {
+        "color": "#c1710f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89cfcdeeb642cd5f48d861c28af9959885fbb16a",
+        "title": "e.g. TEAM SHACHI \"HORIZON\"",
+        "trackId": "1WTDPjcXmTi1E39Rn0rKwU"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6PWtv6Ry0vlA2WkbFcQfro",
+      "id": "6PWtv6Ry0vlA2WkbFcQfro"
+    },
+    {
+      "artistName": "Negicco",
+      "positioning": {
+        "top": 345,
+        "left": 1315
+      },
+      "style": {
+        "color": "#d27a32",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/791f6b6ff61d8265c25e9aebf8fe9fd17222bb15",
+        "title": "e.g. Negicco \"I LOVE YOUR LOVE\"",
+        "trackId": "1Xg43VDHhBqOd0m3vXS6qI"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=4PoAqzGXLjpuYMmTRv24q6",
+      "id": "4PoAqzGXLjpuYMmTRv24q6"
+    },
+    {
+      "artistName": "Shiho Nanba",
+      "positioning": {
+        "top": 563,
+        "left": 963
+      },
+      "style": {
+        "color": "#b68b09",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/addae7d392675c699fbd8494f38cbd8b47dff213",
+        "title": "e.g. Shiho Nanba \"ごめんね、私。\"",
+        "trackId": "1lbnfQQldxl6b9OfjVVqQX"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=5mmHPUaiqDMeaSauaMIJlv",
+      "id": "5mmHPUaiqDMeaSauaMIJlv"
+    },
+    {
+      "artistName": "Atsuko Maeda",
+      "positioning": {
+        "top": 406,
+        "left": 323
+      },
+      "style": {
+        "color": "#d0803c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d7841c9e6c80142678a8bfd1bffda0e7b36ea3a9",
+        "title": "e.g. Atsuko Maeda \"タイムマシンなんていらない\"",
+        "trackId": "1i5LCYqiAS63x8wVFx6lv4"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=2dqEyDtHYBZAihnvObcpcb",
+      "id": "2dqEyDtHYBZAihnvObcpcb"
+    },
+    {
+      "artistName": "RYUTist",
+      "positioning": {
+        "top": 398,
+        "left": 640
+      },
+      "style": {
+        "color": "#d67816",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae5ac0a131d24c6ca3cb6d67ffd2b1868328eaa0",
+        "title": "e.g. RYUTist \"水硝子\"",
+        "trackId": "1RwXXerGVvqdnaLWrgY5Xo"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=4BSpF4yQWrGiYdxNsLRdX1",
+      "id": "4BSpF4yQWrGiYdxNsLRdX1"
+    },
+    {
+      "artistName": "Mayu Watanabe",
+      "positioning": {
+        "top": 197,
+        "left": 520
+      },
+      "style": {
+        "color": "#e2765a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0443f72af04d38cbdd0af803a66c28b3ef36d71f",
+        "title": "e.g. Mayu Watanabe \"出逢いの続き\"",
+        "trackId": "3XuhAXjcwGMRhpj6x6FAB2"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=404KSG1w1GP0oWwWeT8ZIt",
+      "id": "404KSG1w1GP0oWwWeT8ZIt"
+    },
+    {
+      "artistName": "ukka",
+      "positioning": {
+        "top": 377,
+        "left": 676
+      },
+      "style": {
+        "color": "#ec6319",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32bf307d2fcdd8f008bd58e0d233617ebc8b6cf7",
+        "title": "e.g. ukka \"Rising dream\"",
+        "trackId": "4V7DEFAu2JWuq4TKxirXwf"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=5ErVIz40xS7x1tcGVpOv7p",
+      "id": "5ErVIz40xS7x1tcGVpOv7p"
+    },
+    {
+      "artistName": "Rino Sashihara",
+      "positioning": {
+        "top": 131,
+        "left": 389
+      },
+      "style": {
+        "color": "#f05150",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28159bf1be27f366b2ccd1dddfef68fbfbaa454a",
+        "title": "e.g. Rino Sashihara \"Yeah!めっちゃホリディ\"",
+        "trackId": "3GJqtCyXaBS3BWtJgF3z2O"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=0dx1RasWLhPorZF3LeB8U8",
+      "id": "0dx1RasWLhPorZF3LeB8U8"
+    },
+    {
+      "artistName": "Ayame Goriki",
+      "positioning": {
+        "top": 139,
+        "left": 1214
+      },
+      "style": {
+        "color": "#e27916",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e9cad21dfe88004d503c68b3952d7cb16daaf5c",
+        "title": "e.g. Ayame Goriki \"友達より大事な人\"",
+        "trackId": "3SHizEA2auLkPQnBf7TD2s"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=6B2sPf32geDhOV4Cy0sah3",
+      "id": "6B2sPf32geDhOV4Cy0sah3"
+    },
+    {
+      "artistName": "French Kiss",
+      "positioning": {
+        "top": 233,
+        "left": 526
+      },
+      "style": {
+        "color": "#d97466",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/786dd0b9b9a69eaa47eedf313502f8d63dc362d6",
+        "title": "e.g. French Kiss \"カッコ悪い I love you!\"",
+        "trackId": "2MTxc98soh0BFrQXDU0n4P"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=1Kl970wxlwnHyFfC8W2dLf",
+      "id": "1Kl970wxlwnHyFfC8W2dLf"
+    },
+    {
+      "artistName": "You Kikkawa",
+      "positioning": {
+        "top": 215,
+        "left": 676
+      },
+      "style": {
+        "color": "#e46b46",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/294dc834061cd3a252d181212d90a1a895c1bbea",
+        "title": "e.g. You Kikkawa \"抱いてHOLD ON ME！\"",
+        "trackId": "5pqHi9Q5x146GehXv3KMnO"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=3QA6cyQrZCYkFyuWZxMiEr",
+      "id": "3QA6cyQrZCYkFyuWZxMiEr"
+    },
+    {
+      "artistName": "Task have Fun",
+      "positioning": {
+        "top": 320,
+        "left": 676
+      },
+      "style": {
+        "color": "#d97613",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fae962dd81e5b2475b9052b26cff559230d49343",
+        "title": "e.g. Task have Fun \"キミなんだから\"",
+        "trackId": "5jdQcPXyGYMurLno6TtfyO"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=1BfnzMbhItDWP6r30cBHsm",
+      "id": "1BfnzMbhItDWP6r30cBHsm"
+    },
+    {
+      "artistName": "煌めき☆アンフォレント",
+      "positioning": {
+        "top": 461,
+        "left": 562
+      },
+      "style": {
+        "color": "#d96d26",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f9cb98894ff5a1c5ca7712c1ba1ac767ebe4aa09",
+        "title": "e.g. 煌めき☆アンフォレント \"奇跡≒スターチューン\"",
+        "trackId": "1d8tNvvn9rSeJx6VMQ1T8O"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=0V0Ijr0D7zlPtfY6L4C4Nr",
+      "id": "0V0Ijr0D7zlPtfY6L4C4Nr"
+    },
+    {
+      "artistName": "Tomato N' Pine",
+      "positioning": {
+        "top": 73,
+        "left": 729
+      },
+      "style": {
+        "color": "#da8041",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e6e55a14386a90ab227853ef5bf7c348fc3b72ea",
+        "title": "e.g. Tomato N' Pine \"なないろ☆ナミダ\"",
+        "trackId": "21G9q9V3JEwpK9HJfQUrhg"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=3cb7IpI6ujGhCdKyknSSky",
+      "id": "3cb7IpI6ujGhCdKyknSSky"
+    },
+    {
+      "artistName": "Maki Goto",
+      "positioning": {
+        "top": 557,
+        "left": 634
+      },
+      "style": {
+        "color": "#cf8105",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e6c01af4083467ab1b88a02913a1a81e33f9d57",
+        "title": "e.g. Maki Goto \"空と君のあいだに\"",
+        "trackId": "3TQVnlzWGvW7VQLG6oa0DP"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=5pJEdeLmuXxPjXLDoXDaP0",
+      "id": "5pJEdeLmuXxPjXLDoXDaP0"
+    },
+    {
+      "artistName": "Kii Kitano",
+      "positioning": {
+        "top": 247,
+        "left": 580
+      },
+      "style": {
+        "color": "#d87e1e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b8e76c1042259c54dc9fa47effbf6c23aba1ee7",
+        "title": "e.g. Kii Kitano \"サクラサク\"",
+        "trackId": "3CQU7x8a5K36xYlldJDFhk"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=6Q9k4im67ADm8hp4Q2j5XF",
+      "id": "6Q9k4im67ADm8hp4Q2j5XF"
+    },
+    {
+      "artistName": "Space Girls Planet",
+      "positioning": {
+        "top": 435,
+        "left": 30
+      },
+      "style": {
+        "color": "#e46e00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7866f3f90916ed5c7671ed1de56d7a122567eaf9",
+        "title": "e.g. Space Girls Planet \"LOVEマシーン\"",
+        "trackId": "0GwLbbY0xw8mzys1VJis2e"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=1fvlOiGxng645gbwwuu2ST",
+      "id": "1fvlOiGxng645gbwwuu2ST"
+    },
+    {
+      "artistName": "PASSPO☆",
+      "positioning": {
+        "top": 296,
+        "left": 257
+      },
+      "style": {
+        "color": "#f05720",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e877c13379ed74323d9801f0809b7f10154ac5a8",
+        "title": "e.g. PASSPO☆ \"少女飛行\"",
+        "trackId": "7pWgBidK98CeKcH3o3YU4A"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=5WDBccAjrNXefFQgCNtDcf",
+      "id": "5WDBccAjrNXefFQgCNtDcf"
+    },
+    {
+      "artistName": "桜エビ~ず",
+      "positioning": {
+        "top": 372,
+        "left": 502
+      },
+      "style": {
+        "color": "#f05700",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f981bfbd53ec3e7f1d4f6bd6da5e3912821c02fd",
+        "title": "e.g. 桜エビ~ず \"それは月曜日の9時のように\"",
+        "trackId": "0vVzJkeiKRI0oaOd0tL6Id"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=5HW2ccId5gOJc8Abl8Vz8S",
+      "id": "5HW2ccId5gOJc8Abl8Vz8S"
+    },
+    {
+      "artistName": "DIVA",
+      "positioning": {
+        "top": 160,
+        "left": 777
+      },
+      "style": {
+        "color": "#e97202",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/38efcf9c16814a59a93585458f9293aa3ab15ef2",
+        "title": "e.g. DIVA \"Lost the way\"",
+        "trackId": "1jDChDuWOERaZXe1hJcd0B"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=3XBPdf5zPCzFFcCDDdbEII",
+      "id": "3XBPdf5zPCzFFcCDDdbEII"
+    },
+    {
+      "artistName": "B.O.L.T",
+      "positioning": {
+        "top": 636,
+        "left": 317
+      },
+      "style": {
+        "color": "#d86b13",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b72642e5dda5c7cc029ba61b8c68994f42939a2e",
+        "title": "e.g. B.O.L.T \"More Fantastic\"",
+        "trackId": "4lMR3vGjTY5sE6xOpGSSIQ"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=4Bk2P9zuCwrtGzhm3GTwIQ",
+      "id": "4Bk2P9zuCwrtGzhm3GTwIQ"
+    },
+    {
+      "artistName": "THE HOOPERS",
+      "positioning": {
+        "top": 459,
+        "left": 413
+      },
+      "style": {
+        "color": "#d96b34",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ba2ec725bafb656d6d0aa190c06086a1ac7eff6",
+        "title": "e.g. THE HOOPERS \"からくりピエロ\"",
+        "trackId": "3UtStcGJbmvDa9blxVicnr"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=082w7eIrqH0lvw4pAYVfXZ",
+      "id": "082w7eIrqH0lvw4pAYVfXZ"
+    },
+    {
+      "artistName": "Nana Katase",
+      "positioning": {
+        "top": 99,
+        "left": 1238
+      },
+      "style": {
+        "color": "#e36e17",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/974e7f27ca8fad22309ff17512d6f516dd851b2e",
+        "title": "e.g. Nana Katase \"FANTASY\"",
+        "trackId": "0UnefXsrouXDb1afpcj1yB"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=0XzSS0BRodTtJDXvOZhBAP",
+      "id": "0XzSS0BRodTtJDXvOZhBAP"
+    },
+    {
+      "artistName": "Rev.from DVL",
+      "positioning": {
+        "top": 171,
+        "left": 526
+      },
+      "style": {
+        "color": "#e47063",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/479c5f02f671a3269ff7f44191574d1e933715e1",
+        "title": "e.g. Rev.from DVL \"LOVE-arigatou-\"",
+        "trackId": "2SG3YkmZmnYYUI9BLNX63S"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=7N2AaFyvqDvJuV6k29sUZW",
+      "id": "7N2AaFyvqDvJuV6k29sUZW"
+    },
+    {
+      "artistName": "PARADISE GO!! GO!!",
+      "positioning": {
+        "top": 87,
+        "left": 1172
+      },
+      "style": {
+        "color": "#cc835a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5dfd1bfc2a75386e5358653348ff44db2f14350d",
+        "title": "e.g. PARADISE GO!! GO!! \"Faraway\"",
+        "trackId": "7EdbAqwqCipPHYfalJIzGt"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=1NAVaZ5SC1tQnmLCg9MiTB",
+      "id": "1NAVaZ5SC1tQnmLCg9MiTB"
+    },
+    {
+      "artistName": "Yufu Terashima",
+      "positioning": {
+        "top": 351,
+        "left": 1064
+      },
+      "style": {
+        "color": "#cf7d25",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0f250f7c8fb2c66b4ea835c77251cc835716bae",
+        "title": "e.g. Yufu Terashima \"恋の後味\"",
+        "trackId": "5Ps6N8EagDyCIASsX4E8nW"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=1EprrjlHDT5PD1w2NrHDPJ",
+      "id": "1EprrjlHDT5PD1w2NrHDPJ"
+    },
+    {
+      "artistName": "MAGiCAL PUNCHLiNE",
+      "positioning": {
+        "top": 357,
+        "left": 502
+      },
+      "style": {
+        "color": "#e07005",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54d603bc90fdcefee88f543d253e6c439f48ee3e",
+        "title": "e.g. MAGiCAL PUNCHLiNE \"めろめろーりんぐ\"",
+        "trackId": "2tvrjHHrlVwfGVZKEXe0gy"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=5SUJ6qpEweQgaChe1qOxZY",
+      "id": "5SUJ6qpEweQgaChe1qOxZY"
+    },
+    {
+      "artistName": "otomeshinto",
+      "positioning": {
+        "top": 280,
+        "left": 723
+      },
+      "style": {
+        "color": "#eb6844",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7295f4c2673215703f341039c089d4e8a4d95968",
+        "title": "e.g. otomeshinto \"もうそう★こうかんにっき\"",
+        "trackId": "4IQRDbVe8EhYcbkBfLtpxX"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=4AsVIw71NvQiSWrIVMZkAv",
+      "id": "4AsVIw71NvQiSWrIVMZkAv"
+    },
+    {
+      "artistName": "Minami Takahashi",
+      "positioning": {
+        "top": 357,
+        "left": 251
+      },
+      "style": {
+        "color": "#d87434",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2dfe23e676f21c5e166c6fc1f4ce21cbf4763aa1",
+        "title": "e.g. Minami Takahashi \"Jane Doe\"",
+        "trackId": "04Z3IJa9SjeaxFpzM1hq3V"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=0NLRejB5IfBacdkKRNCyrE",
+      "id": "0NLRejB5IfBacdkKRNCyrE"
+    },
+    {
+      "artistName": "SweetS",
+      "positioning": {
+        "top": 256,
+        "left": 1368
+      },
+      "style": {
+        "color": "#cd7b2e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3893d1b4e38754a297b1f6174de6b385fd650013",
+        "title": "e.g. SweetS \"Earthship〜宇宙船地球号〜\"",
+        "trackId": "0kPf2aRDnE1xIT71pP61TM"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=2uGGtCBeHWrncbUCw4RxZi",
+      "id": "2uGGtCBeHWrncbUCw4RxZi"
+    },
+    {
+      "artistName": "Vanilla Beans",
+      "positioning": {
+        "top": 337,
+        "left": 963
+      },
+      "style": {
+        "color": "#d17932",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34f2650fc424f2829f1e1f2d323ddedaf5c90f23",
+        "title": "e.g. Vanilla Beans \"時計じかけのワンダーランド - Vani BestII Mastering Ver.\"",
+        "trackId": "1kg7TQk2pZKF6BSMHuVIxG"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=211shsnfmRKBYqTU99zeY9",
+      "id": "211shsnfmRKBYqTU99zeY9"
+    },
+    {
+      "artistName": "X21",
+      "positioning": {
+        "top": 209,
+        "left": 430
+      },
+      "style": {
+        "color": "#e4704a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af6e2f99f0f24f487f6c7980229dcbea4fa52036",
+        "title": "e.g. X21 \"マジカル☆キス\"",
+        "trackId": "1IiZejOvUY0Yeo7tlBqsdX"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=1b75mp8jgKDGIYViFejHQX",
+      "id": "1b75mp8jgKDGIYViFejHQX"
+    },
+    {
+      "artistName": "Dorothy Little Happy",
+      "positioning": {
+        "top": 221,
+        "left": 395
+      },
+      "style": {
+        "color": "#e27322",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/214a3e9d7102f8d04f4c2ee842ed15d5fd408744",
+        "title": "e.g. Dorothy Little Happy \"恋は走りだした\"",
+        "trackId": "1BlGk2O0Serm0xbh6ezpDd"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=26TjxNdtBCIy3HDRQjXOQ9",
+      "id": "26TjxNdtBCIy3HDRQjXOQ9"
+    },
+    {
+      "artistName": "Sweet Vacation",
+      "positioning": {
+        "top": 172,
+        "left": 807
+      },
+      "style": {
+        "color": "#e96b16",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0653b2ba03c3af18c97e540abf4c31279e61cf3b",
+        "title": "e.g. Sweet Vacation \"さよならマイデイズ\"",
+        "trackId": "6GzwcuSiQXuwajon2yF0AT"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=2uZVOnZSFwo6D45n5bmqgv",
+      "id": "2uZVOnZSFwo6D45n5bmqgv"
+    },
+    {
+      "artistName": "Rock A Japonica",
+      "positioning": {
+        "top": 255,
+        "left": 759
+      },
+      "style": {
+        "color": "#e96e32",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cbf892a7779aac587448c4bbaaaec8ae05452c90",
+        "title": "e.g. Rock A Japonica \"教歌SHOCK!\"",
+        "trackId": "6CZYzFNBJrbl6BXKopK2OP"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=6W9PMhyHF12mNB19PPprpQ",
+      "id": "6W9PMhyHF12mNB19PPprpQ"
+    },
+    {
+      "artistName": "palet",
+      "positioning": {
+        "top": 244,
+        "left": 102
+      },
+      "style": {
+        "color": "#eb6243",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/73cb242e0efdee1e2fe7f0319bcddb64cfb5c3e0",
+        "title": "e.g. palet \"Believe in Yourself!\"",
+        "trackId": "17iGCyiQoYLyoiXcKB4vbs"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=6O078cjAoffRXnTkajaYcs",
+      "id": "6O078cjAoffRXnTkajaYcs"
+    },
+    {
+      "artistName": "DAN JYO",
+      "positioning": {
+        "top": 311,
+        "left": 1100
+      },
+      "style": {
+        "color": "#d87d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fd950d87807e67f0f5e660514801ccee489ade6",
+        "title": "e.g. DAN JYO \"独DANJYO\"",
+        "trackId": "1oGItX556ioYAmQwLblyBZ"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=0sQvZ0qRN85tFhsllKCEA2",
+      "id": "0sQvZ0qRN85tFhsllKCEA2"
+    },
+    {
+      "artistName": "AeLL.",
+      "positioning": {
+        "top": 319,
+        "left": 395
+      },
+      "style": {
+        "color": "#e76f02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8c9c41a2bbcd6b79a7e73b98d2abb8318825dd3",
+        "title": "e.g. AeLL. \"Eien No Kioku\"",
+        "trackId": "3XdzjmKFPEutQnp6Szlx8Y"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=1OCf8p6PYMsN06vjRNx3fw",
+      "id": "1OCf8p6PYMsN06vjRNx3fw"
+    },
+    {
+      "artistName": "Morning Musume。",
+      "positioning": {
+        "top": 107,
+        "left": 1400
+      },
+      "style": {
+        "color": "#db751a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6eaa20cad28f63fa2ab43d308a00c9ff33596fbd",
+        "title": "e.g. Morning Musume。 \"One・Two・Three\"",
+        "trackId": "5syiEVdHnPM6T5XGpTeKeT"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=1XIXyW3U3fIt99hAZg53Co",
+      "id": "1XIXyW3U3fIt99hAZg53Co"
+    },
+    {
+      "artistName": "桜エビ~ず",
+      "positioning": {
+        "top": 385,
+        "left": 520
+      },
+      "style": {
+        "color": "#f05700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=7lkEkebFMBh9vGeCWkd3mz",
+      "id": "7lkEkebFMBh9vGeCWkd3mz"
+    },
+    {
+      "artistName": "Dance Pop Girls",
+      "positioning": {
+        "top": 0,
+        "left": 377
+      },
+      "style": {
+        "color": "#f85d65",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e9245167220b5bfdaba50a3247b52771ff9ee17",
+        "title": "e.g. Dance Pop Girls \"Blaze Emotion\"",
+        "trackId": "7abuDtsl7G51sos11cLDvt"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=7JrEV6IdPj0X7vWMskn4FG",
+      "id": "7JrEV6IdPj0X7vWMskn4FG"
+    },
+    {
+      "artistName": "Chocolove From AKB48",
+      "positioning": {
+        "top": 258,
+        "left": 365
+      },
+      "style": {
+        "color": "#a39a08",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=3amJpbql6Fx2YgBjAJIuxu",
+      "id": "3amJpbql6Fx2YgBjAJIuxu"
+    },
+    {
+      "artistName": "Hangry & Angry",
+      "positioning": {
+        "top": 238,
+        "left": 323
+      },
+      "style": {
+        "color": "#ef6700",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db14c721b4aeb9dcbf647cfb876b5e82cb6e7ed8",
+        "title": "e.g. Hangry & Angry \"The Peace ! - Hangry & Angry Death Tracks\"",
+        "trackId": "0ckRoCtkZdl5Bwsyuluw4t"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=1AznEY8g3CcMwRKXQPIDT9",
+      "id": "1AznEY8g3CcMwRKXQPIDT9"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=j-idol"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/73mIbBtGZZrvber2h9Y7Lu"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/39TXXAMOgm5z3bXz0cdGjZ"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2KalqnvIw9s1vF9IUVstxq"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2F6k6FGA3ilgoNm6Kvi82g"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=j-idol"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "j-pop girl group",
+      "positioning": {
+        "top": 67,
+        "left": 166
+      },
+      "style": {
+        "color": "#de6c2c",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/38e9f2ff2c46b96f540a66d0535b78e7d044c603",
+        "title": "e.g. Ange☆Reve \"イトシラブ\"",
+        "trackId": "0U94FSOjKsl3go0EY7HzXn"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-jpopgirlgroup.html#tunnel"
+    },
+    {
+      "genreName": "48g",
+      "positioning": {
+        "top": 65,
+        "left": 11
+      },
+      "style": {
+        "color": "#e06741",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/36f69d85c98eadcbb24a3b10c9de85554acf4ca0",
+        "title": "e.g. NMB48 Team N \"ジッパー\"",
+        "trackId": "6thnfhdFODcFKMuFL37BzH"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-48g.html#tunnel"
+    },
+    {
+      "genreName": "idol rock",
+      "positioning": {
+        "top": 127,
+        "left": 0
+      },
+      "style": {
+        "color": "#e46220",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c498c3c9899dce82628999ee4f594eab31bb258",
+        "title": "e.g. Devil ANTHEM. \"ar\"",
+        "trackId": "5UlMoBsPxKHoe85uvo9Ewn"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-idolrock.html#tunnel"
+    },
+    {
+      "genreName": "denpa-kei",
+      "positioning": {
+        "top": 133,
+        "left": 235
+      },
+      "style": {
+        "color": "#dc6b36",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96d4bed0bd8ed5d4f6d3950cdb800a8d397b2a78",
+        "title": "e.g. Nanahira \"Can I friend you on Bassbook? lol\"",
+        "trackId": "5wEy787VwmAnA7GGhEzjHR"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-denpakei.html#tunnel"
+    },
+    {
+      "genreName": "j-pop",
+      "positioning": {
+        "top": 300,
+        "left": 226
+      },
+      "style": {
+        "color": "#bb7b15",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32272361f0a4765efd6f50ee68873065bd447998",
+        "title": "e.g. Sukima Switch \"奏(かなで)\"",
+        "trackId": "5RbMlPFL4gVyEHW2lEOuzG"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-jpop.html#tunnel"
+    },
+    {
+      "genreName": "j-poprock",
+      "positioning": {
+        "top": 244,
+        "left": 101
+      },
+      "style": {
+        "color": "#ca7315",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96da553587a290f0ecaf2d45af4f1967d29d00c1",
+        "title": "e.g. SPYAIR \"イマジネーション\"",
+        "trackId": "1xc9r9pgQ3CG7iViKPf0cQ"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-jpoprock.html#tunnel"
+    },
+    {
+      "genreName": "jirai kei",
+      "positioning": {
+        "top": 147,
+        "left": 251
+      },
+      "style": {
+        "color": "#df691e",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/49aeab3935c7e4f25fbcedec5f1396adeedc46c5",
+        "title": "e.g. 夜光性アミューズ \"らぶめろでぃ\"",
+        "trackId": "0kc4DP61uD9aLxCxWQyUIU"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-jiraikei.html#tunnel"
+    },
+    {
+      "genreName": "alt-idol",
+      "positioning": {
+        "top": 112,
+        "left": 131
+      },
+      "style": {
+        "color": "#de6c19",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/346a81ef4670f1e3be9639d7f987c2d8e800b0cd",
+        "title": "e.g. ピューパ!! \"maboroshi\"",
+        "trackId": "6AQqWGmJRcJNi3BEhSSFDz"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-altidol.html#tunnel"
+    },
+    {
+      "genreName": "vocaloid",
+      "positioning": {
+        "top": 172,
+        "left": 215
+      },
+      "style": {
+        "color": "#ce761d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a64fa22f4b15d17fea53c0e1e931e43ea3302fe",
+        "title": "e.g. UtataP \"こちら、幸福安心委員会です。\"",
+        "trackId": "3yphjYSP0G3gvCPQnuEDXu"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-vocaloid.html#tunnel"
+    },
+    {
+      "genreName": "seiyu",
+      "positioning": {
+        "top": 177,
+        "left": 150
+      },
+      "style": {
+        "color": "#d07519",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2aa8e17bb4d46a0d404f89a978d3e8e70a75ca43",
+        "title": "e.g. 大橋彩香 \"Please, please!\"",
+        "trackId": "2Y8X7mYmu8dDK4o5mFaI0G"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-seiyu.html#tunnel"
+    },
+    {
+      "genreName": "men chika",
+      "positioning": {
+        "top": 112,
+        "left": 202
+      },
+      "style": {
+        "color": "#db7006",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb33992df15104312f2d2a08343b34c7922ade24",
+        "title": "e.g. =conect \"ラムネシンパシー\"",
+        "trackId": "4wSEOfvUbUXF49CptmqOQj"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-menchika.html#tunnel"
+    },
+    {
+      "genreName": "eurobeat",
+      "positioning": {
+        "top": 0,
+        "left": 300
+      },
+      "style": {
+        "color": "#d6772c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec438683381fc39ead644324955f7b328ef00ba9",
+        "title": "e.g. MATT LAND \"City Lover City Rider - Extended Mix\"",
+        "trackId": "3S4RuTfGUbOm461wET6zBF"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-eurobeat.html#tunnel"
+    },
+    {
+      "genreName": "anime cv",
+      "positioning": {
+        "top": 277,
+        "left": 169
+      },
+      "style": {
+        "color": "#bc7740",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6fab079a9a22597da45f6fb0fbea49ce1708653",
+        "title": "e.g. 双海真美 (CV.下田麻美) \"フリースタイル・トップアイドル！\"",
+        "trackId": "7DpjzwMD1nsdcIMyUR47ZQ"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-animecv.html#tunnel"
+    },
+    {
+      "genreName": "anime latino",
+      "positioning": {
+        "top": 264,
+        "left": 265
+      },
+      "style": {
+        "color": "#c27a1c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24dd6b4759b9bb7f4ae832ebd25fb8f8ce2794df",
+        "title": "e.g. Jade \"Olvida la Amargura\"",
+        "trackId": "5C1QBxSrrsSyUdbn9SGb6d"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-animelatino.html#tunnel"
+    },
+    {
+      "genreName": "anime rock",
+      "positioning": {
+        "top": 198,
+        "left": 85
+      },
+      "style": {
+        "color": "#d26e14",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/693b69d10a7a92804e9c8568fe0eac2903b0de8e",
+        "title": "e.g. 40mP \"Love Trial\"",
+        "trackId": "7oa18QwhLsV3JfITGDxslD"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-animerock.html#tunnel"
+    },
+    {
+      "genreName": "dansei seiyu",
+      "positioning": {
+        "top": 252,
+        "left": 180
+      },
+      "style": {
+        "color": "#c27315",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3895cd641cee626ff4620f22622dcde78bad749",
+        "title": "e.g. 浪川大輔 \"君に届け\"",
+        "trackId": "69TZ1UZ1qoJZhjari7sIQW"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-danseiseiyu.html#tunnel"
+    },
+    {
+      "genreName": "doujin",
+      "positioning": {
+        "top": 238,
+        "left": 256
+      },
+      "style": {
+        "color": "#c0794b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/485e66580e0c0a870760803e1e705ee4664b730c",
+        "title": "e.g. EastNewSound \"緋色月下、狂咲ノ絶 -1st Anniversary Remix-\"",
+        "trackId": "54BCBHVE768LRKC8W9b8tb"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-doujin.html#tunnel"
+    },
+    {
+      "genreName": "electropowerpop",
+      "positioning": {
+        "top": 160,
+        "left": 273
+      },
+      "style": {
+        "color": "#c8730e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71067ba0ae2f57ca5cdc80911c3023600922ba70",
+        "title": "e.g. Kill Paradise \"Fall From A Star\"",
+        "trackId": "1CY4v3ZrJgLNhDGBGtqLyL"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-electropowerpop.html#tunnel"
+    },
+    {
+      "genreName": "idol game",
+      "positioning": {
+        "top": 80,
+        "left": 25
+      },
+      "style": {
+        "color": "#e4682d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a1c4646ef22fc59352e00d39a97458e7b26cf4a7",
+        "title": "e.g. 七花少女 \"花咲キオトメ\"",
+        "trackId": "6e8nwFqheyeUXjgTbBGXIh"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-idolgame.html#tunnel"
+    },
+    {
+      "genreName": "indonesian idol pop",
+      "positioning": {
+        "top": 121,
+        "left": 275
+      },
+      "style": {
+        "color": "#bf7a08",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fdf545d0d0819c3b3689d42be6011bdb9548c77",
+        "title": "e.g. Super Girlies \"Aw Aw Aw\"",
+        "trackId": "4guvMChmvbAH1jKHvU5XkX"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-indonesianidolpop.html#tunnel"
+    }
+  ]
+}

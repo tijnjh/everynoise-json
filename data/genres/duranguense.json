@@ -1,0 +1,2830 @@
+{
+  "schemaVersion": 3,
+  "genreName": "duranguense",
+  "artists": [
+    {
+      "artistName": "El Trono de Mexico",
+      "positioning": {
+        "top": 547,
+        "left": 578
+      },
+      "style": {
+        "color": "#9d9c00",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dff478783212f445a9514acdec9a5c13b240d500",
+        "title": "e.g. El Trono de Mexico \"Prometiste Volver\"",
+        "trackId": "0su1fVTl8eVEd7TjY7vQBG"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=5L6QAKAkdJIPLsNbItZ2KF",
+      "id": "5L6QAKAkdJIPLsNbItZ2KF"
+    },
+    {
+      "artistName": "Los Primos MX",
+      "positioning": {
+        "top": 487,
+        "left": 554
+      },
+      "style": {
+        "color": "#a19302",
+        "fontSize": "148%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3f1e8226b2f29347d05bfd046ed67676cacd9cf",
+        "title": "e.g. Los Primos MX \"Tal Vez\"",
+        "trackId": "7rxHR6dby35y5pjAYQP4ZW"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=6N4VOBE2wNnRIINe3922Oc",
+      "id": "6N4VOBE2wNnRIINe3922Oc"
+    },
+    {
+      "artistName": "K-Paz De La Sierra",
+      "positioning": {
+        "top": 517,
+        "left": 617
+      },
+      "style": {
+        "color": "#b68500",
+        "fontSize": "147%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f9e7f583e1e6721d36c157c9fa447117f39661e",
+        "title": "e.g. K-Paz De La Sierra \"Mi Credo\"",
+        "trackId": "7GhyiB8rG71HqBmG27w7qT"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=1TCSet7pGZCDkcXCOzH359",
+      "id": "1TCSet7pGZCDkcXCOzH359"
+    },
+    {
+      "artistName": "Alacranes Musical",
+      "positioning": {
+        "top": 406,
+        "left": 424
+      },
+      "style": {
+        "color": "#c0880a",
+        "fontSize": "142%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57d8bbad71de86551668a62b78638d412f5d0739",
+        "title": "e.g. Alacranes Musical \"Por Tu Amor - Duranguense\"",
+        "trackId": "1jBYN6IEVkExTE3R4O9trC"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=2aZtzjAzD8fq3OhZ9egqda",
+      "id": "2aZtzjAzD8fq3OhZ9egqda"
+    },
+    {
+      "artistName": "Montez de Durango",
+      "positioning": {
+        "top": 394,
+        "left": 887
+      },
+      "style": {
+        "color": "#ac8b08",
+        "fontSize": "140%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/60a6fff35e28bbcd1641608240fcef2b533aa646",
+        "title": "e.g. Montez de Durango \"Adiós A Mi Amante\"",
+        "trackId": "5esnKPrKFnaIvgJH32XJHW"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=1i4xi4ramy5BPYr2Bhf6sc",
+      "id": "1i4xi4ramy5BPYr2Bhf6sc"
+    },
+    {
+      "artistName": "Patrulla 81",
+      "positioning": {
+        "top": 505,
+        "left": 453
+      },
+      "style": {
+        "color": "#a78f03",
+        "fontSize": "134%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a618a7e83d1423bce31fa9c3f1ae8b40d02c203",
+        "title": "e.g. Patrulla 81 \"Cómo Pude Enamorarme De Ti\"",
+        "trackId": "0A4lH5fAqNuLCSOYA3Bp7V"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=4TTxsp1mecTPT9O4dxVtvN",
+      "id": "4TTxsp1mecTPT9O4dxVtvN"
+    },
+    {
+      "artistName": "Los Horóscopos De Durango",
+      "positioning": {
+        "top": 487,
+        "left": 936
+      },
+      "style": {
+        "color": "#a79305",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c1ebc5a504532e29654c5f20b48fa8e16bdd193",
+        "title": "e.g. Los Horóscopos De Durango \"Si La Quieres\"",
+        "trackId": "5uhtYs2t9NiemfPfwHjslo"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=46uJrEeqP88sYlHFqaGPid",
+      "id": "46uJrEeqP88sYlHFqaGPid"
+    },
+    {
+      "artistName": "La Apuesta",
+      "positioning": {
+        "top": 345,
+        "left": 462
+      },
+      "style": {
+        "color": "#a58f03",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/285f4fcea1b2f728caafa04af15ab064f083c41c",
+        "title": "e.g. La Apuesta \"Por Ti\"",
+        "trackId": "7M7459QUMDR8c8tm124d9l"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=4fO3o7bcYWTiLssCXfGIkQ",
+      "id": "4fO3o7bcYWTiLssCXfGIkQ"
+    },
+    {
+      "artistName": "Banda R-15",
+      "positioning": {
+        "top": 697,
+        "left": 1293
+      },
+      "style": {
+        "color": "#958609",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84d2a9254ee1dd7bf086559af6e5d3372929d80f",
+        "title": "e.g. Banda R-15 \"Con Cartitas\"",
+        "trackId": "4vr5EelIAXPcJJ4rBffVTb"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=5l0ZjUz8rAAFVm616in8YR",
+      "id": "5l0ZjUz8rAAFVm616in8YR"
+    },
+    {
+      "artistName": "Banda Arkangel R-15",
+      "positioning": {
+        "top": 777,
+        "left": 786
+      },
+      "style": {
+        "color": "#9a7f01",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7519255e02d424b8b9d8cb52fdb18fa89860a34",
+        "title": "e.g. Banda Arkangel R-15 \"Voy a Pintar Mi Raya\"",
+        "trackId": "0JFOXqd9N6RlMaAFlaaqFw"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=2W5zpA1UnG5QaA3p3668xE",
+      "id": "2W5zpA1UnG5QaA3p3668xE"
+    },
+    {
+      "artistName": "Conjunto Atardecer",
+      "positioning": {
+        "top": 410,
+        "left": 709
+      },
+      "style": {
+        "color": "#c18802",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d4e320e8f258dcb72fc0f2e3962c5d9266299c0",
+        "title": "e.g. Conjunto Atardecer \"El Punto Final\"",
+        "trackId": "3qCuJeB14uwEtuSk8ZBWzn"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=5Q9lZeceisTLfkThW0fd94",
+      "id": "5Q9lZeceisTLfkThW0fd94"
+    },
+    {
+      "artistName": "Los Pumas Del Norte",
+      "positioning": {
+        "top": 412,
+        "left": 1187
+      },
+      "style": {
+        "color": "#b48a03",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff132c09999e1882ad42c8ea1abc4b0eac3a9807",
+        "title": "e.g. Los Pumas Del Norte \"Me Gusta la Buena Vida\"",
+        "trackId": "6AkaFgtC9dwmG9sVObX9yd"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=7oDAL6I6hsVHfn0ADFYpmh",
+      "id": "7oDAL6I6hsVHfn0ADFYpmh"
+    },
+    {
+      "artistName": "Ponzoña Musical",
+      "positioning": {
+        "top": 473,
+        "left": 443
+      },
+      "style": {
+        "color": "#ba8e00",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0e1bc3f428c167713e45303a6eff5ff0f08c4ee7",
+        "title": "e.g. Ponzoña Musical \"Son de Amores\"",
+        "trackId": "6XoJk9jjxCltYS0y7Y6fEU"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=4zd4dy5dU18U5H6Nglfy6V",
+      "id": "4zd4dy5dU18U5H6Nglfy6V"
+    },
+    {
+      "artistName": "Brazeros Musical De Durango",
+      "positioning": {
+        "top": 362,
+        "left": 771
+      },
+      "style": {
+        "color": "#9e9103",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ac6c896a61b44d014416c277522b621c2c974cca",
+        "title": "e.g. Brazeros Musical De Durango \"La Abeja Miope - En Vivo - Houston, Tx / 2005\"",
+        "trackId": "33U5ObLitg5YNCmDOzKZJb"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=2xroXLusGdM2xFGs0CbFyC",
+      "id": "2xroXLusGdM2xFGs0CbFyC"
+    },
+    {
+      "artistName": "Hechizeros Band",
+      "positioning": {
+        "top": 0,
+        "left": 1377
+      },
+      "style": {
+        "color": "#e37a27",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a1463516bf8a028db881ed76dd76f7780e7bfbe",
+        "title": "e.g. Hechizeros Band \"Ordeñando La Vaca\"",
+        "trackId": "3vcxQvjokAfVispbIo1smL"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4xqrGV8Uw2Jv3RLGnWFFqx",
+      "id": "4xqrGV8Uw2Jv3RLGnWFFqx"
+    },
+    {
+      "artistName": "Los Creadorez Del Pasito Duranguense",
+      "positioning": {
+        "top": 262,
+        "left": 1365
+      },
+      "style": {
+        "color": "#b68b02",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b2e2305e79dbf917b237a9c1edd7cd4bd81d246e",
+        "title": "e.g. Los Creadorez Del Pasito Duranguense \"Tu Defecto\"",
+        "trackId": "1jsMP8EuTI1Y8tQD350xwb"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=2u3AVErmaZI6FNEvUMGzH6",
+      "id": "2u3AVErmaZI6FNEvUMGzH6"
+    },
+    {
+      "artistName": "Mazizo Musical",
+      "positioning": {
+        "top": 211,
+        "left": 371
+      },
+      "style": {
+        "color": "#cf8304",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db4dc140820b2b860d177a8e34cf02f6c4491d44",
+        "title": "e.g. Mazizo Musical \"Hasta Mañana\"",
+        "trackId": "2Fo6ZhRKcD9cu7BDjb0Poy"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3eqg2rVGI8nQkWImWLr1s0",
+      "id": "3eqg2rVGI8nQkWImWLr1s0"
+    },
+    {
+      "artistName": "Paizaz De Guanacevi",
+      "positioning": {
+        "top": 656,
+        "left": 544
+      },
+      "style": {
+        "color": "#a38f00",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0fca6e7c8e2bf74374a3afdaeccd092fc6d26ee",
+        "title": "e.g. Paizaz De Guanacevi \"Llegar Con Ella (El Autobus)\"",
+        "trackId": "2wyZQRlQi2GZwvEd10reRS"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=212mNgmOcdI26qOiHJiyyi",
+      "id": "212mNgmOcdI26qOiHJiyyi"
+    },
+    {
+      "artistName": "Raza Obrera",
+      "positioning": {
+        "top": 598,
+        "left": 979
+      },
+      "style": {
+        "color": "#cb7600",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2055c6d083b62409b98062a31329fd4d4b69bbd0",
+        "title": "e.g. Raza Obrera \"Siempre Que Me Emborracho\"",
+        "trackId": "4TqOjavjE1emy3GUCIcdKo"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=0R5UVonrEc6yE7gjWllRGF",
+      "id": "0R5UVonrEc6yE7gjWllRGF"
+    },
+    {
+      "artistName": "Diana Reyes",
+      "positioning": {
+        "top": 376,
+        "left": 892
+      },
+      "style": {
+        "color": "#9d950a",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ec7310249f60c0e373dc79a894962bff4d0d467",
+        "title": "e.g. Diana Reyes \"Ajustando Cuentas\"",
+        "trackId": "3rbtjnfJKzKxvwvaB3zopY"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=5bY76TkueuNA4eqIm67Pkz",
+      "id": "5bY76TkueuNA4eqIm67Pkz"
+    },
+    {
+      "artistName": "Los Capos De Mexico",
+      "positioning": {
+        "top": 615,
+        "left": 1076
+      },
+      "style": {
+        "color": "#b97b02",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7de3120eb06e8613029ae5515ee1846d006b772",
+        "title": "e.g. Los Capos De Mexico \"La Canelera\"",
+        "trackId": "5zUkkQEYvkAnbPpGLBBDa4"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=20dWQb4bUoPd5CEKp9uopg",
+      "id": "20dWQb4bUoPd5CEKp9uopg"
+    },
+    {
+      "artistName": "AK-7",
+      "positioning": {
+        "top": 307,
+        "left": 535
+      },
+      "style": {
+        "color": "#b48702",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fb421251c42a4cc5c4a4261b8d7d2ff51db7b6e1",
+        "title": "e.g. AK-7 \"El Avión De Las Tres\"",
+        "trackId": "5IcGp7QQMNlpxQgey1ae2H"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=6m8eq7CdgwURpgOVlflCFh",
+      "id": "6m8eq7CdgwURpgOVlflCFh"
+    },
+    {
+      "artistName": "La Victoria De Mexico",
+      "positioning": {
+        "top": 579,
+        "left": 641
+      },
+      "style": {
+        "color": "#9f8d00",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c43e73ad96b206a6772a726db195cc828357b1d1",
+        "title": "e.g. La Victoria De Mexico \"Un Angel no debe llorar\"",
+        "trackId": "4AiILR0e82DSBoyW0EmyGP"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=5H3OgLU1hxDDEqfmr4z5l0",
+      "id": "5H3OgLU1hxDDEqfmr4z5l0"
+    },
+    {
+      "artistName": "Banda Lamento Show de Durango",
+      "positioning": {
+        "top": 579,
+        "left": 298
+      },
+      "style": {
+        "color": "#a68f0b",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae59c76a057952c3ecc66182f2568948ae84e640",
+        "title": "e.g. Banda Lamento Show de Durango \"El Viejo Roble\"",
+        "trackId": "6WkO6SoGrhBs6PRRJWj81F"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=0JUMOesm2CYz5sF9Ye7Nhz",
+      "id": "0JUMOesm2CYz5sF9Ye7Nhz"
+    },
+    {
+      "artistName": "La Historia Musical de Mexico",
+      "positioning": {
+        "top": 630,
+        "left": 651
+      },
+      "style": {
+        "color": "#9f8f01",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7e9728b8d2bd134ef19c5a4e3e55a354afb1da6",
+        "title": "e.g. La Historia Musical de Mexico \"Ojitos Negros\"",
+        "trackId": "77ebSR3IWAdeZWFWURI4vs"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=1z5Dw7sqhxeKbEilHTfJMR",
+      "id": "1z5Dw7sqhxeKbEilHTfJMR"
+    },
+    {
+      "artistName": "Los Creadorez",
+      "positioning": {
+        "top": 412,
+        "left": 1018
+      },
+      "style": {
+        "color": "#b28602",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7bde93ab50b1b2b012c9c5b4e13c6a26ec0eff03",
+        "title": "e.g. Los Creadorez \"Te Pido Que Te Quedes\"",
+        "trackId": "45uMR04UkTEgElriXtat2r"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=703bt8lQUa3giyYBNJrDtE",
+      "id": "703bt8lQUa3giyYBNJrDtE"
+    },
+    {
+      "artistName": "La Autoridad De La Sierra",
+      "positioning": {
+        "top": 462,
+        "left": 685
+      },
+      "style": {
+        "color": "#909100",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/462c2de25bfb8e461a884a75dd78168f193c8fbe",
+        "title": "e.g. La Autoridad De La Sierra \"Me Quedé Sin Nadie\"",
+        "trackId": "4OPsuMCMkST2JdLwDV4hhR"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=5BEnxhMcV9fwtDKVf7hBv2",
+      "id": "5BEnxhMcV9fwtDKVf7hBv2"
+    },
+    {
+      "artistName": "Los Elegidos",
+      "positioning": {
+        "top": 649,
+        "left": 887
+      },
+      "style": {
+        "color": "#8f8c08",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c8f08f515cd45f8487618747e395dd3e56ef16c4",
+        "title": "e.g. Los Elegidos \"Fruta Prohibida\"",
+        "trackId": "0ceEDGRfYR0n6mnkLKlbgW"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=3mSVUm5Tulv8DSTN3EMZVR",
+      "id": "3mSVUm5Tulv8DSTN3EMZVR"
+    },
+    {
+      "artistName": "Paraiso Tropical",
+      "positioning": {
+        "top": 662,
+        "left": 950
+      },
+      "style": {
+        "color": "#789513",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44f944d3fad06786ef15972462fc15428135dd17",
+        "title": "e.g. Paraiso Tropical \"Maquina 501\"",
+        "trackId": "7ckEwP5zgi4fP95iA47MD9"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=5Gd6Sh3lxuXlXmypvFqC0r",
+      "id": "5Gd6Sh3lxuXlXmypvFqC0r"
+    },
+    {
+      "artistName": "DGO Musical",
+      "positioning": {
+        "top": 285,
+        "left": 385
+      },
+      "style": {
+        "color": "#ac9000",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/504d253cbe053b0863b1ad221a27d6d43af83d8f",
+        "title": "e.g. DGO Musical \"Celoso\"",
+        "trackId": "7lDSN0c8srUhLSoiO5veqX"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=0DgSpDOxT5oVdjKYSIMWwf",
+      "id": "0DgSpDOxT5oVdjKYSIMWwf"
+    },
+    {
+      "artistName": "La Propiedad De Durango",
+      "positioning": {
+        "top": 741,
+        "left": 728
+      },
+      "style": {
+        "color": "#a38b04",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa8d55c874d4804548f665a614b8e63b6d44a723",
+        "title": "e.g. La Propiedad De Durango \"El Frijolito\"",
+        "trackId": "52FnimDNTTrDhuCWjKhqRo"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6jnzdimCBMx3HvxkvfZxAz",
+      "id": "6jnzdimCBMx3HvxkvfZxAz"
+    },
+    {
+      "artistName": "Aliados De La Sierra",
+      "positioning": {
+        "top": 643,
+        "left": 520
+      },
+      "style": {
+        "color": "#bc8a00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4af292b29b424acde174aaad8efa8c6ed784c695",
+        "title": "e.g. Aliados De La Sierra \"Con los Ojos Cerrados - Duranguense\"",
+        "trackId": "49PoN4yMk4UnXNdlMQjRb4"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=3rJ1WVZ5oP99Mm9Fs6HOj4",
+      "id": "3rJ1WVZ5oP99Mm9Fs6HOj4"
+    },
+    {
+      "artistName": "La Banda Que Manda",
+      "positioning": {
+        "top": 109,
+        "left": 994
+      },
+      "style": {
+        "color": "#be8203",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f42810b199f91522175516c747ec07560863a5bc",
+        "title": "e.g. La Banda Que Manda \"Tristes Canción\"",
+        "trackId": "2ECo6d1KF1RUi6crSbcaBW"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=3Ifb6msf7ZzgPTAPoWyPPX",
+      "id": "3Ifb6msf7ZzgPTAPoWyPPX"
+    },
+    {
+      "artistName": "Beto Terrazas",
+      "positioning": {
+        "top": 604,
+        "left": 617
+      },
+      "style": {
+        "color": "#ad9100",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/420f1b108eae4fdfbcb498584e095ce9403496b3",
+        "title": "e.g. Beto Terrazas \"Muñeca de Ojos de Miel\"",
+        "trackId": "2be8UldXngFjUN5DWKfDtS"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=1Nh7XQSFkXKDgmjUSDthWD",
+      "id": "1Nh7XQSFkXKDgmjUSDthWD"
+    },
+    {
+      "artistName": "Uranio",
+      "positioning": {
+        "top": 332,
+        "left": 631
+      },
+      "style": {
+        "color": "#ae8c00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/032e695f4505cb9e96e5a400c3f05476e7deb373",
+        "title": "e.g. Uranio \"Dulce Veneno - Duranguense\"",
+        "trackId": "6Gexqbx4kLBVoNB7A5x66V"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=6xCujbodWCJsjVW9gxPqhx",
+      "id": "6xCujbodWCJsjVW9gxPqhx"
+    },
+    {
+      "artistName": "Isabela",
+      "positioning": {
+        "top": 612,
+        "left": 955
+      },
+      "style": {
+        "color": "#9c8d00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2f6a87d9d5886184924b34316c13fcce02c72678",
+        "title": "e.g. Isabela \"Mís Ojos Lloran Por Tí\"",
+        "trackId": "4jMdFI6rNP7xcm5A0Phshy"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=6TiAXO44TRdM9yZorqznch",
+      "id": "6TiAXO44TRdM9yZorqznch"
+    },
+    {
+      "artistName": "Domador De La Sierra",
+      "positioning": {
+        "top": 754,
+        "left": 829
+      },
+      "style": {
+        "color": "#9b9000",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19fc252979154a5ebec299576c3391a8cfe4555b",
+        "title": "e.g. Domador De La Sierra \"La Avispa De La Montana\"",
+        "trackId": "7IrNcjcEACvLTA5iEpjbPN"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=1HcGQkRDKrTfzkMJ3vFLwH",
+      "id": "1HcGQkRDKrTfzkMJ3vFLwH"
+    },
+    {
+      "artistName": "Banda Show Revelación",
+      "positioning": {
+        "top": 757,
+        "left": 12
+      },
+      "style": {
+        "color": "#ab8200",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c33ca160a7724d897be255516073610293ddb32",
+        "title": "e.g. Banda Show Revelación \"No Somos Nada\"",
+        "trackId": "05jKNPCRpiiBn1WW6tyI9l"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=1pejsVs6JfAZzt5MZ6da1y",
+      "id": "1pejsVs6JfAZzt5MZ6da1y"
+    },
+    {
+      "artistName": "Banda Paraiso Tropical",
+      "positioning": {
+        "top": 728,
+        "left": 796
+      },
+      "style": {
+        "color": "#79970f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8adbd69fe24520624ee43a8788abf7126aa46878",
+        "title": "e.g. Banda Paraiso Tropical \"El Higo Desobediente\"",
+        "trackId": "5fT7bWEcTa5DhUPHPAVyGy"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=1F8bE6OkXDkDjM6poRaXbH",
+      "id": "1F8bE6OkXDkDjM6poRaXbH"
+    },
+    {
+      "artistName": "Duranguense Latino",
+      "positioning": {
+        "top": 349,
+        "left": 796
+      },
+      "style": {
+        "color": "#a78d04",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/46a77a554fd6701845c053181d60998605f85fe1",
+        "title": "e.g. Duranguense Latino \"La Chica Fresa (La Niña Fresa)\"",
+        "trackId": "1Z83dYOqlERdGDVW2lFLjV"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=0ppXBoIBJViUorkCF0WN8C",
+      "id": "0ppXBoIBJViUorkCF0WN8C"
+    },
+    {
+      "artistName": "La Autoridad De Durango",
+      "positioning": {
+        "top": 460,
+        "left": 448
+      },
+      "style": {
+        "color": "#bd8b05",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e7bdd4b72395255f6dfa1ddc1dd1112449f792f",
+        "title": "e.g. La Autoridad De Durango \"La Vecinita\"",
+        "trackId": "6jJ5KM7F9jhBpdbtwbgxFb"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=005crrstz5nTh35SEzXpXW",
+      "id": "005crrstz5nTh35SEzXpXW"
+    },
+    {
+      "artistName": "Paraiso Tropical De Durango",
+      "positioning": {
+        "top": 637,
+        "left": 979
+      },
+      "style": {
+        "color": "#699a05",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6cd9f73f0c93978e38f5db311213de84deef0c14",
+        "title": "e.g. Paraiso Tropical De Durango \"La Muerta\"",
+        "trackId": "6qh4NWHvpwaWYfcrvr4tk8"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=3FccMcVLKgZ2yO3BqWhbmr",
+      "id": "3FccMcVLKgZ2yO3BqWhbmr"
+    },
+    {
+      "artistName": "Novillos Musical",
+      "positioning": {
+        "top": 160,
+        "left": 796
+      },
+      "style": {
+        "color": "#c18f07",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d4c4e54db50d9950fe784d1b216017f4b80a99da",
+        "title": "e.g. Novillos Musical \"Pepito Y Su Caballo\"",
+        "trackId": "12s9lZZzUehnY4VbYDu3ms"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=6hYCbEsXiVlAfpHezjdGYS",
+      "id": "6hYCbEsXiVlAfpHezjdGYS"
+    },
+    {
+      "artistName": "Los Kuatro De Durango",
+      "positioning": {
+        "top": 236,
+        "left": 230
+      },
+      "style": {
+        "color": "#d78300",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9312312534287d6a8c5d255c47b69c1f5f7a2f97",
+        "title": "e.g. Los Kuatro De Durango \"Un Rayo De Sol\"",
+        "trackId": "2wnouMZNzvhlSREbuYg4Cg"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=1o8DqSa68379rQYNPbQlse",
+      "id": "1o8DqSa68379rQYNPbQlse"
+    },
+    {
+      "artistName": "El Poder De Zacatecas",
+      "positioning": {
+        "top": 561,
+        "left": 868
+      },
+      "style": {
+        "color": "#c78c18",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/520bf270fb4c1de8e6f33c64cb88ceec86e45259",
+        "title": "e.g. El Poder De Zacatecas \"La Verde\"",
+        "trackId": "30lMhyl8oH8lJ7gwD3JtmY"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=3n3k65ADvmwixFITCnC78C",
+      "id": "3n3k65ADvmwixFITCnC78C"
+    },
+    {
+      "artistName": "Los Principes del Tropico",
+      "positioning": {
+        "top": 688,
+        "left": 926
+      },
+      "style": {
+        "color": "#ab8921",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8c14b597dd95bcf90ef3be1b7ef350c54b01eaa",
+        "title": "e.g. Los Principes del Tropico \"El Tartanero\"",
+        "trackId": "0d52EPe4pi0j2hvGoxsDw7"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=4vbPDmGtZOBEJKMHurYBli",
+      "id": "4vbPDmGtZOBEJKMHurYBli"
+    },
+    {
+      "artistName": "Banda Dorado Show",
+      "positioning": {
+        "top": 423,
+        "left": 477
+      },
+      "style": {
+        "color": "#98980a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/65f3529a9c6545d69b51dafe2c9f198b93373551",
+        "title": "e.g. Banda Dorado Show \"La Novia del Pajarillo\"",
+        "trackId": "5IeVncHFtB4QasPdC6pMHb"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=6AHY9SDwq82PlK51u6vIkf",
+      "id": "6AHY9SDwq82PlK51u6vIkf"
+    },
+    {
+      "artistName": "Agresivos De La Sierra",
+      "positioning": {
+        "top": 361,
+        "left": 1037
+      },
+      "style": {
+        "color": "#b38e00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f29974e86b95e3eae80d66364666a2ece6a18c23",
+        "title": "e.g. Agresivos De La Sierra \"El Baile Del Conejito - Dialecto\"",
+        "trackId": "0Wu0zX88csEqDeBEQsvNUT"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6at5MBs0ayA4z6Z6RhCmWN",
+      "id": "6at5MBs0ayA4z6Z6RhCmWN"
+    },
+    {
+      "artistName": "Alerta Zero",
+      "positioning": {
+        "top": 511,
+        "left": 177
+      },
+      "style": {
+        "color": "#d38800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb14c142cb7ad92d49092ea927c1e4a98a1a4d10",
+        "title": "e.g. Alerta Zero \"Mi Todo\"",
+        "trackId": "5Q8eha8MRvTdfgODB4EP1R"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=5hHT1H0m3GLjz4OeaXJ5iH",
+      "id": "5hHT1H0m3GLjz4OeaXJ5iH"
+    },
+    {
+      "artistName": "Autentico Paraiso De Durango",
+      "positioning": {
+        "top": 611,
+        "left": 1279
+      },
+      "style": {
+        "color": "#a48d01",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4b9c46b31d28fa0b241e607d47972ef3db437d32",
+        "title": "e.g. Autentico Paraiso De Durango \"El Diablo En Una Botella\"",
+        "trackId": "4eqvMs8Mz5K9vUVzaFhsba"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=0RDy6eRGKkcGqsv3zjOwTt",
+      "id": "0RDy6eRGKkcGqsv3zjOwTt"
+    },
+    {
+      "artistName": "Coralillo",
+      "positioning": {
+        "top": 372,
+        "left": 424
+      },
+      "style": {
+        "color": "#b38d0f",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7a3e406c5ba42989a7a663ef3081d9db995d37bb",
+        "title": "e.g. Coralillo \"Donde Estan - Version Ranchera\"",
+        "trackId": "65Po7T6Ts55L59o9GEh0PD"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=0GKzzFmuFvXX7ZdRBzxYUk",
+      "id": "0GKzzFmuFvXX7ZdRBzxYUk"
+    },
+    {
+      "artistName": "Banda Show Paraiso Tropical de Durango",
+      "positioning": {
+        "top": 449,
+        "left": 656
+      },
+      "style": {
+        "color": "#66a104",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0dd9ed9a7de3e1edd3965b0b23cd792439c1fea6",
+        "title": "e.g. Banda Show Paraiso Tropical de Durango \"Las Dos las Querian Pa'mi\"",
+        "trackId": "6RzlRtrRJbOtFllFCwYhwT"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=1cOHSNmbmBab0pbJ25Tc7H",
+      "id": "1cOHSNmbmBab0pbJ25Tc7H"
+    },
+    {
+      "artistName": "Tormenta De Durango",
+      "positioning": {
+        "top": 585,
+        "left": 926
+      },
+      "style": {
+        "color": "#ad8b0d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/17491a4418f70c6cdf5bfafb8e15f03a80f7a1d0",
+        "title": "e.g. Tormenta De Durango \"De Torreon A Durango\"",
+        "trackId": "4Ztk3Q0IIrnUyYpNYdNSl8"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=73JQz4wDvuWjz4nKkosFqm",
+      "id": "73JQz4wDvuWjz4nKkosFqm"
+    },
+    {
+      "artistName": "Keyla Caballero",
+      "positioning": {
+        "top": 283,
+        "left": 670
+      },
+      "style": {
+        "color": "#a19600",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50768b61b5d0c9c20264e99625d991c56943e129",
+        "title": "e.g. Keyla Caballero \"Tu Obsesión Prohibida (Duranguenze)\"",
+        "trackId": "6cu5yr66bNmzfBwJXzXmpl"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=3CEXQtlysioxjM5PqJ57dW",
+      "id": "3CEXQtlysioxjM5PqJ57dW"
+    },
+    {
+      "artistName": "Lalo Rodarte",
+      "positioning": {
+        "top": 253,
+        "left": 820
+      },
+      "style": {
+        "color": "#aa9102",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b7ebde8ed301ba23aa97a7c62da72bbc2c3a042c",
+        "title": "e.g. Lalo Rodarte \"40 Grados\"",
+        "trackId": "2T8ZIRUn4TpRqFrSsAZFX1"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=6wmah1QKmAxoOFsYdBXpN2",
+      "id": "6wmah1QKmAxoOFsYdBXpN2"
+    },
+    {
+      "artistName": "Tamborazo Show Revolución",
+      "positioning": {
+        "top": 592,
+        "left": 549
+      },
+      "style": {
+        "color": "#889117",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d7c790ab5fd0b8b5b0b8449c4850ea8f6a70b1e1",
+        "title": "e.g. Tamborazo Show Revolución \"30 Cartas\"",
+        "trackId": "1IeuHDEZ3jyo9j0fyO2N3Q"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=1iJ576nBeYKgg6irAWLAjq",
+      "id": "1iJ576nBeYKgg6irAWLAjq"
+    },
+    {
+      "artistName": "Banda Preciosa De Durango",
+      "positioning": {
+        "top": 670,
+        "left": 515
+      },
+      "style": {
+        "color": "#a98d02",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fdde33e28b8cfe95c1dca4d1464c5f63eebd7a70",
+        "title": "e.g. Banda Preciosa De Durango \"Chiquitita\"",
+        "trackId": "2nlxLCTBQjKcq0R8V5LFis"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=1vVeHfNzvl3x7RJgV3Mgdg",
+      "id": "1vVeHfNzvl3x7RJgV3Mgdg"
+    },
+    {
+      "artistName": "Banda Herradero Show de Durango",
+      "positioning": {
+        "top": 289,
+        "left": 1206
+      },
+      "style": {
+        "color": "#7e961c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99e929c54e9f60cc0c1b9cfbc1d6292080d65759",
+        "title": "e.g. Banda Herradero Show de Durango \"El Remedio\"",
+        "trackId": "7gQBVgI4l7byXssW2rbf1C"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=11KY6uc3ORcn4L7OlDYUbb",
+      "id": "11KY6uc3ORcn4L7OlDYUbb"
+    },
+    {
+      "artistName": "Toreros Musical",
+      "positioning": {
+        "top": 408,
+        "left": 1
+      },
+      "style": {
+        "color": "#ab9103",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a0462c66048f39942f38ac2a07b35920ce3ae02",
+        "title": "e.g. Toreros Musical \"Amor Casual\"",
+        "trackId": "7yFcWGmr4Mi0ZA0rRgPO9R"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=4JlGxUDegrH8dM9ffQZwHh",
+      "id": "4JlGxUDegrH8dM9ffQZwHh"
+    },
+    {
+      "artistName": "Grupo Montéz De Durango",
+      "positioning": {
+        "top": 399,
+        "left": 1071
+      },
+      "style": {
+        "color": "#a48d0f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=2VOg8YgxmMWtoCGiUf9dbD",
+      "id": "2VOg8YgxmMWtoCGiUf9dbD"
+    },
+    {
+      "artistName": "Conjunto Rey",
+      "positioning": {
+        "top": 598,
+        "left": 868
+      },
+      "style": {
+        "color": "#b78d5b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/75aaedbb7ac8e1a725b6e8e4409d04eb4981a1a9",
+        "title": "e.g. Conjunto Rey \"Yo Pedi a Mi Margarita\"",
+        "trackId": "1iCuZa1NjE1VGojGwOl56K"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=7xSPOGKwmkoBsLNLbkXAzb",
+      "id": "7xSPOGKwmkoBsLNLbkXAzb"
+    },
+    {
+      "artistName": "Banda Sierra de Durango",
+      "positioning": {
+        "top": 672,
+        "left": 274
+      },
+      "style": {
+        "color": "#b27b12",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2009be864b8c6d1e8c31c64267a66c71a3de785a",
+        "title": "e.g. Banda Sierra de Durango \"Del Otro A Santiago\"",
+        "trackId": "18gdeGAn0wUZdO36tTfyWH"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=00jMU6nuqSZWuQQx0ovaRX",
+      "id": "00jMU6nuqSZWuQQx0ovaRX"
+    },
+    {
+      "artistName": "Los Chenchos",
+      "positioning": {
+        "top": 521,
+        "left": 501
+      },
+      "style": {
+        "color": "#9e850e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/504da5f77b1a7db14106384757b2b67d4fcdd31a",
+        "title": "e.g. Los Chenchos \"Las Dos las Quería Pa' Mi\"",
+        "trackId": "2rrvybTJmx7viirjOrL2HT"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=5GuINHLfU5TFImzjDBUWro",
+      "id": "5GuINHLfU5TFImzjDBUWro"
+    },
+    {
+      "artistName": "Brigada Norteña",
+      "positioning": {
+        "top": 548,
+        "left": 805
+      },
+      "style": {
+        "color": "#c89106",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1333112358d30be81894b20065dba5f6984129fd",
+        "title": "e.g. Brigada Norteña \"La Mujer Que Yo Deje\"",
+        "trackId": "3VQklkNpr35h8dTKvrywWD"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=1rvqGhuq3XzSEHvfOyONV0",
+      "id": "1rvqGhuq3XzSEHvfOyONV0"
+    },
+    {
+      "artistName": "Majestad de la Sierra",
+      "positioning": {
+        "top": 320,
+        "left": 438
+      },
+      "style": {
+        "color": "#a78e00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/75b49dce258a75927b645a96d1ca5cbcfb1dff42",
+        "title": "e.g. Majestad de la Sierra \"Mi Obsesión\"",
+        "trackId": "4Rsr4qNDpMCAWqVFaQhm7W"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=0xMjITZaMeZuzYnMUezDw5",
+      "id": "0xMjITZaMeZuzYnMUezDw5"
+    },
+    {
+      "artistName": "Dinastia Ramirez",
+      "positioning": {
+        "top": 261,
+        "left": 385
+      },
+      "style": {
+        "color": "#c88400",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d5585ec567c6e4a9501139038cbe88271d7ac446",
+        "title": "e.g. Dinastia Ramirez \"Guaymas (feat. Alacranes Musical)\"",
+        "trackId": "3LNpUD58CmkgWZw1VWAMbM"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=7fnAF2JpLhM2wToGRgb69N",
+      "id": "7fnAF2JpLhM2wToGRgb69N"
+    },
+    {
+      "artistName": "Destello Musical",
+      "positioning": {
+        "top": 437,
+        "left": 887
+      },
+      "style": {
+        "color": "#af880d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/87edb25018d564827cf12737368ae6ea6788a212",
+        "title": "e.g. Destello Musical \"Un Año\"",
+        "trackId": "3xCb1uc8aIbICVItxY42vY"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=1yLxM0lQv9ChlQlA0Dp4Tf",
+      "id": "1yLxM0lQv9ChlQlA0Dp4Tf"
+    },
+    {
+      "artistName": "Brazeros Musical",
+      "positioning": {
+        "top": 332,
+        "left": 448
+      },
+      "style": {
+        "color": "#b88d00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/80716c879d48904b627b14804903965e06374f4e",
+        "title": "e.g. Brazeros Musical \"Ultimas Noticias\"",
+        "trackId": "3bSM1vaZDOFguQF9qfepX1"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=2w1JztJOn0DCIj1wDkIrbl",
+      "id": "2w1JztJOn0DCIj1wDkIrbl"
+    },
+    {
+      "artistName": "Fa-Z-4",
+      "positioning": {
+        "top": 439,
+        "left": 1395
+      },
+      "style": {
+        "color": "#8c9102",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96d419de05a9f158c6194b35f5489b991cbca186",
+        "title": "e.g. Fa-Z-4 \"Soy Alegre Y Parrandero\"",
+        "trackId": "5BmokN27hlVkL4sNOaGlF6"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=7bGhKnOW2r7bNQ7FRaMSLV",
+      "id": "7bGhKnOW2r7bNQ7FRaMSLV"
+    },
+    {
+      "artistName": "Los Principes AM",
+      "positioning": {
+        "top": 332,
+        "left": 757
+      },
+      "style": {
+        "color": "#b78e00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e93377f18550698964656711134ecde098c23d7",
+        "title": "e.g. Los Principes AM \"Santiago Papasquiaro\"",
+        "trackId": "7amKwujat8RbXhQVHSsCGQ"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=7fGb3oycfIRPxo7jWEPCUR",
+      "id": "7fGb3oycfIRPxo7jWEPCUR"
+    },
+    {
+      "artistName": "Mazizo All-Starz",
+      "positioning": {
+        "top": 457,
+        "left": 0
+      },
+      "style": {
+        "color": "#c87a00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd5c5dd50b26ab0bb03484ba3d1a1a06b84ea4b1",
+        "title": "e.g. Mazizo All-Starz \"Hasta el Fin del Mundo\"",
+        "trackId": "1gFBH4U9Gp8zaRWnBbynts"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=5JDxDKkczAzY1Lht91kdaK",
+      "id": "5JDxDKkczAzY1Lht91kdaK"
+    },
+    {
+      "artistName": "Los Compas Del Terre",
+      "positioning": {
+        "top": 643,
+        "left": 685
+      },
+      "style": {
+        "color": "#b78500",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a5223582980f1846225b2a793823c9fc4566989",
+        "title": "e.g. Los Compas Del Terre \"Y Es Que No Puedo\"",
+        "trackId": "5jBapTnzCH4L1HTR6sGEKz"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=066swmalQ6yRM4CAfVDgsK",
+      "id": "066swmalQ6yRM4CAfVDgsK"
+    },
+    {
+      "artistName": "Banda la Revoltozza",
+      "positioning": {
+        "top": 449,
+        "left": 1027
+      },
+      "style": {
+        "color": "#a88205",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1728f324d7d795e446de9615cae19703c9448518",
+        "title": "e.g. Banda la Revoltozza \"Tiro Arriba\"",
+        "trackId": "30n0uimAPyCd40BwuVOC75"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=6YjU26ETyfcKMRYtiisxVE",
+      "id": "6YjU26ETyfcKMRYtiisxVE"
+    },
+    {
+      "artistName": "Banda Aventurero",
+      "positioning": {
+        "top": 666,
+        "left": 1293
+      },
+      "style": {
+        "color": "#848426",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad150c9bfdb0b61a43216eb668f07af40d246d71",
+        "title": "e.g. Banda Aventurero \"Animas Que No Amanezca\"",
+        "trackId": "2dGy3ckOsGBIbImGgAUTYa"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=1bqO5MAxpy8vAz9Cw07iuK",
+      "id": "1bqO5MAxpy8vAz9Cw07iuK"
+    },
+    {
+      "artistName": "Reencuentro Musical",
+      "positioning": {
+        "top": 425,
+        "left": 675
+      },
+      "style": {
+        "color": "#c38400",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ab9dbc443b4bf4a905af408153f2534b6084bbe",
+        "title": "e.g. Reencuentro Musical \"El Ritmo De La Matraka\"",
+        "trackId": "45SO2eUX78kb5AxZXDvwWs"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=4IbPxZOVfTg9nuLZ6GBgVY",
+      "id": "4IbPxZOVfTg9nuLZ6GBgVY"
+    },
+    {
+      "artistName": "Los Principes del Tropico Los Prisioneros del Pasito Duranguense",
+      "positioning": {
+        "top": 500,
+        "left": 1400
+      },
+      "style": {
+        "color": "#dd8d81",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96c9632deb2c48e6aa9acf428f81936f47ee166f",
+        "title": "e.g. Los Principes del Tropico Los Prisioneros del Pasito Duranguense \"Los Ojos de Concha\"",
+        "trackId": "7y0jtdinRKcBHh7y2HDWjM"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=5dIVV3SD5qzv9CyIUjlzuA",
+      "id": "5dIVV3SD5qzv9CyIUjlzuA"
+    },
+    {
+      "artistName": "Master Show De Durango",
+      "positioning": {
+        "top": 360,
+        "left": 535
+      },
+      "style": {
+        "color": "#bb8d04",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96c2ec79abbd1b0504ae01135b301e151777eab0",
+        "title": "e.g. Master Show De Durango \"Un Angel\"",
+        "trackId": "138RQnT4xLM3h3e9IGP63A"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=3UfdyNEIFB8rsvwsrFqHGW",
+      "id": "3UfdyNEIFB8rsvwsrFqHGW"
+    },
+    {
+      "artistName": "Adikto",
+      "positioning": {
+        "top": 396,
+        "left": 351
+      },
+      "style": {
+        "color": "#b48d00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4107d92bb5c90f500e8e3aa1334bf52ad768a1bf",
+        "title": "e.g. Adikto \"Hasta La Eternidad\"",
+        "trackId": "583zAerrOdSkrGRSqTFrCz"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=586U4k9AFysQK1SLng59Pw",
+      "id": "586U4k9AFysQK1SLng59Pw"
+    },
+    {
+      "artistName": "Los Del Tamborazo Banda Show",
+      "positioning": {
+        "top": 387,
+        "left": 1066
+      },
+      "style": {
+        "color": "#739902",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c77a953f0d6badd274a316a20cb4d6ef124530c",
+        "title": "e.g. Los Del Tamborazo Banda Show \"Solo Tu\"",
+        "trackId": "7drE7vAhbbzXPtE0zEFOfn"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=4FBq4lTfejogoM1YUoVDSn",
+      "id": "4FBq4lTfejogoM1YUoVDSn"
+    },
+    {
+      "artistName": "Renacimiento De Durango",
+      "positioning": {
+        "top": 437,
+        "left": 636
+      },
+      "style": {
+        "color": "#a79506",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9adba9589931869476b42802051972347ef475f3",
+        "title": "e.g. Renacimiento De Durango \"Las Animas Del Rio\"",
+        "trackId": "1T55rUudmJycuix4QplB5r"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=56JX18F4dwq3wnikGisODU",
+      "id": "56JX18F4dwq3wnikGisODU"
+    },
+    {
+      "artistName": "Durango Express",
+      "positioning": {
+        "top": 211,
+        "left": 569
+      },
+      "style": {
+        "color": "#c78900",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/beba7fbd3f23c091e805f421f361ec35b6aa4847",
+        "title": "e.g. Durango Express \"El Aguichote\"",
+        "trackId": "3yadjcHzt3d8ohCQQDEUoI"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=3R0SnXJSqV2dR8wNyvvU9s",
+      "id": "3R0SnXJSqV2dR8wNyvvU9s"
+    },
+    {
+      "artistName": "Empresario de Durango",
+      "positioning": {
+        "top": 503,
+        "left": 863
+      },
+      "style": {
+        "color": "#7f9e0e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fa32e9aa1fb6acf96b80e906a3ce33fe656e5bb",
+        "title": "e.g. Empresario de Durango \"Muriendo en Vida\"",
+        "trackId": "0oycljhuXvIpLIZZAEpMGE"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=6yFqfeBgN6dmuOxg8d51DC",
+      "id": "6yFqfeBgN6dmuOxg8d51DC"
+    },
+    {
+      "artistName": "La Emboscada",
+      "positioning": {
+        "top": 360,
+        "left": 395
+      },
+      "style": {
+        "color": "#b78b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7fdc0a9f9a17fc2b0b6b6e47fcb1869f6e61cbca",
+        "title": "e.g. La Emboscada \"Intocable\"",
+        "trackId": "3dDto6IVOPneDXKx3YkYZQ"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=1YOxAnIheFUILdVTWlc6Tb",
+      "id": "1YOxAnIheFUILdVTWlc6Tb"
+    },
+    {
+      "artistName": "Tamborazo 501",
+      "positioning": {
+        "top": 472,
+        "left": 1061
+      },
+      "style": {
+        "color": "#918f0e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/69af40eb01badae5933ea43958561148be601133",
+        "title": "e.g. Tamborazo 501 \"El Moro de Tepehuanes\"",
+        "trackId": "2kRGt186PYcT6lhktQUPaX"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=1W0C0hJFHkhxsXrzDnhU8b",
+      "id": "1W0C0hJFHkhxsXrzDnhU8b"
+    },
+    {
+      "artistName": "Los Brujos De La Sierra",
+      "positioning": {
+        "top": 610,
+        "left": 776
+      },
+      "style": {
+        "color": "#aa9411",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c94eda59453937c805adaf461ddc7632f11e4084",
+        "title": "e.g. Los Brujos De La Sierra \"Aya en el Kiosko\"",
+        "trackId": "6XIpW6NTJ4hDqircZCHw5m"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=68hrgM0m096xAoYugfrv5J",
+      "id": "68hrgM0m096xAoYugfrv5J"
+    },
+    {
+      "artistName": "Los Amantes De La Sierra",
+      "positioning": {
+        "top": 265,
+        "left": 897
+      },
+      "style": {
+        "color": "#c28a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2d5159ebb5a8d3947e19546db0da3ac9d7bdf4c0",
+        "title": "e.g. Los Amantes De La Sierra \"La Tanguita\"",
+        "trackId": "34xApahXXN49tKJ2hWyGJL"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=2Oek8zVwDa7dcnpIHdhPQu",
+      "id": "2Oek8zVwDa7dcnpIHdhPQu"
+    },
+    {
+      "artistName": "Sombra Musical",
+      "positioning": {
+        "top": 524,
+        "left": 202
+      },
+      "style": {
+        "color": "#b78f02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/79ac6b37e6d65bdf750908022c0b618e4ac48c29",
+        "title": "e.g. Sombra Musical \"Amor Divino\"",
+        "trackId": "2JJrJxbsJOAgIKQrHBKTkN"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=1U9pjBBP40uWYfS1Khw8Oc",
+      "id": "1U9pjBBP40uWYfS1Khw8Oc"
+    },
+    {
+      "artistName": "Banda Terremoto Show de Durango",
+      "positioning": {
+        "top": 573,
+        "left": 878
+      },
+      "style": {
+        "color": "#999017",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/608f922d77bb359a58ba89323c7e6d81a4bd889c",
+        "title": "e.g. Banda Terremoto Show de Durango \"El Cadete\"",
+        "trackId": "2bSyIlYyTjCRACFGhb9lEu"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=6HfJo5T7MmIAQio5pQC4cT",
+      "id": "6HfJo5T7MmIAQio5pQC4cT"
+    },
+    {
+      "artistName": "Banda Coralillos",
+      "positioning": {
+        "top": 900,
+        "left": 1259
+      },
+      "style": {
+        "color": "#678805",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0e5cc4380499c6b164b35aedd9de5d8c874d47bb",
+        "title": "e.g. Banda Coralillos \"La Vaquilla Colorada (En Vivo)\"",
+        "trackId": "5ZL2hFyZy8q4adXVTntUVT"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=5SjvDneHtMWMGKMQmHuVXo",
+      "id": "5SjvDneHtMWMGKMQmHuVXo"
+    },
+    {
+      "artistName": "Super Maquina Show",
+      "positioning": {
+        "top": 469,
+        "left": 1361
+      },
+      "style": {
+        "color": "#c3822b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71496f88393fe323dda61f7c98a86ceb76d37535",
+        "title": "e.g. Super Maquina Show \"Corazón De Texas\"",
+        "trackId": "5N7ALSpSyEF3ZdivQPFNI7"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=0vx65GqxECKswtJ1xGldSY",
+      "id": "0vx65GqxECKswtJ1xGldSY"
+    },
+    {
+      "artistName": "Relampago Musical",
+      "positioning": {
+        "top": 640,
+        "left": 293
+      },
+      "style": {
+        "color": "#c0820d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25cdc1dc485ab6fc007e4ff310d185757845cabc",
+        "title": "e.g. Relampago Musical \"Cruzando Cerros Y Arroyos\"",
+        "trackId": "3nRb4RsdgmZJXcBhePz710"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=0Zz4tdcOGBHVK0keG6uaMU",
+      "id": "0Zz4tdcOGBHVK0keG6uaMU"
+    },
+    {
+      "artistName": "Pensamiento Negro de Durango",
+      "positioning": {
+        "top": 800,
+        "left": 235
+      },
+      "style": {
+        "color": "#c87921",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6465e0192fbe209431f51e9b47725d9f90f7b259",
+        "title": "e.g. Pensamiento Negro de Durango \"El Teniente\"",
+        "trackId": "3UaAUPa4DwTaYZk4oBP0nb"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=5f1Ka3C0pfrORyt32eBTcA",
+      "id": "5f1Ka3C0pfrORyt32eBTcA"
+    },
+    {
+      "artistName": "Banda Bonnita",
+      "positioning": {
+        "top": 461,
+        "left": 941
+      },
+      "style": {
+        "color": "#a58f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b466070af798314204008dd80216d63f83c06a5",
+        "title": "e.g. Banda Bonnita \"Estoy Solo\"",
+        "trackId": "7MMV1lG9mWrxEMhcaqKVSR"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=0CtaRbSy9ByMboreqH9EW6",
+      "id": "0CtaRbSy9ByMboreqH9EW6"
+    },
+    {
+      "artistName": "Banda Bonnita",
+      "positioning": {
+        "top": 625,
+        "left": 931
+      },
+      "style": {
+        "color": "#a28003",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc25f7dedf083a6caa2e3ae05064c5b8ba766ec3",
+        "title": "e.g. Banda Bonnita \"Ámame Hasta Con Los Dientes\"",
+        "trackId": "0L9PnFKzFqve1qUc3Xbpqd"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=5n9JgFZ5vTi7IBrRXXqYQf",
+      "id": "5n9JgFZ5vTi7IBrRXXqYQf"
+    },
+    {
+      "artistName": "Banda Fuerza Alacranera",
+      "positioning": {
+        "top": 375,
+        "left": 1105
+      },
+      "style": {
+        "color": "#928e13",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/403da9a563590604121cba6d3df87df3d921035a",
+        "title": "e.g. Banda Fuerza Alacranera \"Cumbia San Felipe\"",
+        "trackId": "7gNizNphI15yLs24x7sfg6"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=2uDpnyje2rmZBB5E7Fk5wS",
+      "id": "2uDpnyje2rmZBB5E7Fk5wS"
+    },
+    {
+      "artistName": "Parranderos De La Sierra",
+      "positioning": {
+        "top": 241,
+        "left": 781
+      },
+      "style": {
+        "color": "#9b9100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8179090affbf5bb3fd950feae209ff6d4ff7b866",
+        "title": "e.g. Parranderos De La Sierra \"Popurri De Polkas\"",
+        "trackId": "5KvBGGothuu3ep8cHhOggP"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=6SIXq3ZeIgnkGBewvNHMhH",
+      "id": "6SIXq3ZeIgnkGBewvNHMhH"
+    },
+    {
+      "artistName": "Los Crudos De Durango",
+      "positioning": {
+        "top": 333,
+        "left": 1037
+      },
+      "style": {
+        "color": "#b58705",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f338385cb8328fba2c92948820b4f9fa9e4d3335",
+        "title": "e.g. Los Crudos De Durango \"Celoso\"",
+        "trackId": "5olWDX8ay6BCtE2KvTwDWg"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=7pb1ykE9BQ9LU3KAP5mIUD",
+      "id": "7pb1ykE9BQ9LU3KAP5mIUD"
+    },
+    {
+      "artistName": "Diablitos Musical",
+      "positioning": {
+        "top": 505,
+        "left": 569
+      },
+      "style": {
+        "color": "#9d9801",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af34cf13d71a79c4228ad3626af78d57a8dde367",
+        "title": "e.g. Diablitos Musical \"Pobre Diablo\"",
+        "trackId": "5782pujnHKDERkALi0UuPZ"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=1YPYP5ANNVhP2nO6B0E3sg",
+      "id": "1YPYP5ANNVhP2nO6B0E3sg"
+    },
+    {
+      "artistName": "Zarpazo Musical",
+      "positioning": {
+        "top": 436,
+        "left": 496
+      },
+      "style": {
+        "color": "#a89400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/592aa4ac12f011ddca3dd0968f4bae5887d2c94e",
+        "title": "e.g. Zarpazo Musical \"Se Murio De Amor\"",
+        "trackId": "5a9z5fyiCdYvIFYMuEehLc"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=7ywK8GQTZbgOeO5qMid8Tv",
+      "id": "7ywK8GQTZbgOeO5qMid8Tv"
+    },
+    {
+      "artistName": "Dezatados",
+      "positioning": {
+        "top": 285,
+        "left": 815
+      },
+      "style": {
+        "color": "#969f02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f988ac41e39de2f88cf4446dbef6ae96298c2a7",
+        "title": "e.g. Dezatados \"Fantasía - Duranguense\"",
+        "trackId": "60e6aWxXsIcPQRRlnBxW5k"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=2aUo29dCdSNjBT6OES1WPr",
+      "id": "2aUo29dCdSNjBT6OES1WPr"
+    },
+    {
+      "artistName": "Banda 501 De Nuevo Ideal Durango",
+      "positioning": {
+        "top": 273,
+        "left": 380
+      },
+      "style": {
+        "color": "#b78800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e330df8e908bc88c69e0051360b1bb6483675374",
+        "title": "e.g. Banda 501 De Nuevo Ideal Durango \"Tu Pasado - Duranguense\"",
+        "trackId": "0e5H0kQhBNdH7WsdAdme39"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=08AcgB8g2gm85agcmt9FFm",
+      "id": "08AcgB8g2gm85agcmt9FFm"
+    },
+    {
+      "artistName": "La Nueva Era del Tamborazo",
+      "positioning": {
+        "top": 675,
+        "left": 892
+      },
+      "style": {
+        "color": "#949100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c42786bc653ac75a1ffb17163743319ce0c1f5d",
+        "title": "e.g. La Nueva Era del Tamborazo \"El Campesino y el Sol\"",
+        "trackId": "2VHuAlbgU0MxrDan7slKMH"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=0Dm10VZMN5tKBqT9UgBmYQ",
+      "id": "0Dm10VZMN5tKBqT9UgBmYQ"
+    },
+    {
+      "artistName": "Chema Y Su Banda Alacranera",
+      "positioning": {
+        "top": 428,
+        "left": 90
+      },
+      "style": {
+        "color": "#c08300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd4b935c3c894515c58c5704d3923f8b869b7e9b",
+        "title": "e.g. Chema Y Su Banda Alacranera \"Tus Mentiras\"",
+        "trackId": "6T0HPZYghrDpn5fzVK54dE"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=3VycwatZBLNEGGvDlnBGxK",
+      "id": "3VycwatZBLNEGGvDlnBGxK"
+    },
+    {
+      "artistName": "Banda Radar D' Durango",
+      "positioning": {
+        "top": 228,
+        "left": 883
+      },
+      "style": {
+        "color": "#7c9411",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a0a9fbe0886156bc940905ab50f37d97e6a86d67",
+        "title": "e.g. Banda Radar D' Durango \"Paloma Herrante\"",
+        "trackId": "43mjga1wANkpZMw8jf3cIV"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=71PbMsnuPLCHIsOeK3ZrUS",
+      "id": "71PbMsnuPLCHIsOeK3ZrUS"
+    },
+    {
+      "artistName": "Los 6 De Durango",
+      "positioning": {
+        "top": 475,
+        "left": 873
+      },
+      "style": {
+        "color": "#b18600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b09d6b804394810c1f92871701351efb14757033",
+        "title": "e.g. Los 6 De Durango \"Mariposa Traicionera - Duranguense Version\"",
+        "trackId": "5ppRwtS5GSwjnRokfIKfuc"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=75PVbB3YuXc8lKoOAqlj6W",
+      "id": "75PVbB3YuXc8lKoOAqlj6W"
+    },
+    {
+      "artistName": "Terrazas Musical",
+      "positioning": {
+        "top": 566,
+        "left": 515
+      },
+      "style": {
+        "color": "#998a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f435de0a51a212817f8bd7c8926d0e861083930d",
+        "title": "e.g. Terrazas Musical \"Actos De Un Tonto\"",
+        "trackId": "0R3iUketfYErw3iNQ9F0Lq"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=5qWddauRwOcgnTPTtiCzmV",
+      "id": "5qWddauRwOcgnTPTtiCzmV"
+    },
+    {
+      "artistName": "Banda SIerra",
+      "positioning": {
+        "top": 728,
+        "left": 274
+      },
+      "style": {
+        "color": "#b97506",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16fbfac4dbf1ba930b21ffed3abe1f8049aa4bc7",
+        "title": "e.g. Banda SIerra \"El Tigre De La Sierra\"",
+        "trackId": "0Ih26X0QNi24aAUpwh3tzG"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=1oWI5Dwl3t92PwExyJHfec",
+      "id": "1oWI5Dwl3t92PwExyJHfec"
+    },
+    {
+      "artistName": "Juventud Musical de Durango",
+      "positioning": {
+        "top": 345,
+        "left": 1071
+      },
+      "style": {
+        "color": "#a08e03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2616d5a447a32aabeb13503f6ebfe450a36659b8",
+        "title": "e.g. Juventud Musical de Durango \"El Chivo Pelón\"",
+        "trackId": "2fo0KQAAMFXPRlt8xog6iS"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=5lrNDNdVoOeekmETK934F3",
+      "id": "5lrNDNdVoOeekmETK934F3"
+    },
+    {
+      "artistName": "Viento Musical De Durango",
+      "positioning": {
+        "top": 527,
+        "left": 854
+      },
+      "style": {
+        "color": "#c18800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e9b1a77f48c947f3f9d1c92aff798db21b6a5ca",
+        "title": "e.g. Viento Musical De Durango \"El Caderazo\"",
+        "trackId": "1hDFS2duo4Bd8EPrzeG4Ev"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=1L34AYMmQnOQDpV2U9h1rt",
+      "id": "1L34AYMmQnOQDpV2U9h1rt"
+    },
+    {
+      "artistName": "Skándalo Musical",
+      "positioning": {
+        "top": 448,
+        "left": 419
+      },
+      "style": {
+        "color": "#cb8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/45ac3ba4210412d97381ab15a659901ccf0c0805",
+        "title": "e.g. Skándalo Musical \"Mi Forma De Sentir\"",
+        "trackId": "5yeSKOuLrnXbg2Dp7jSp9k"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=2BYAJxjhECFdF0cw1fs5bv",
+      "id": "2BYAJxjhECFdF0cw1fs5bv"
+    },
+    {
+      "artistName": "Conjunto S-teron 69",
+      "positioning": {
+        "top": 396,
+        "left": 1308
+      },
+      "style": {
+        "color": "#7ba12a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/90ed622cf994d8aa11cee3b31cbca6c1ab86fccf",
+        "title": "e.g. Conjunto S-teron 69 \"Reto a La Muerte\"",
+        "trackId": "1fiERbY6C5MATvAaIYz6kH"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=5GZNbVpWJUOF3iAM6DiiaW",
+      "id": "5GZNbVpWJUOF3iAM6DiiaW"
+    },
+    {
+      "artistName": "Banda Real De Durango",
+      "positioning": {
+        "top": 618,
+        "left": 540
+      },
+      "style": {
+        "color": "#b29300",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c8b7625aec5d72b419a70f66299f8b091f85b3e2",
+        "title": "e.g. Banda Real De Durango \"Que Tal Se Siente\"",
+        "trackId": "1fwI8Ii5Z6VQIje77XWGZg"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=2748JHSlKgRjy3N2kbQEeG",
+      "id": "2748JHSlKgRjy3N2kbQEeG"
+    },
+    {
+      "artistName": "Sentimiento Musical De Durango",
+      "positioning": {
+        "top": 246,
+        "left": 1163
+      },
+      "style": {
+        "color": "#bb8607",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/439d648c9bcffaaecef1ca1e63e598169bc8f4dd",
+        "title": "e.g. Sentimiento Musical De Durango \"El Botecito\"",
+        "trackId": "35tSefPRucQb3k3UMN93HK"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=7G1rFsP8EukubDGsnC18g0",
+      "id": "7G1rFsP8EukubDGsnC18g0"
+    },
+    {
+      "artistName": "JC Y Su Banda Duranguense",
+      "positioning": {
+        "top": 426,
+        "left": 1139
+      },
+      "style": {
+        "color": "#bf8b0a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96a41f0d6845a3c9f7e3501d5d6ddcee2d6c15aa",
+        "title": "e.g. JC Y Su Banda Duranguense \"Supe Perder\"",
+        "trackId": "5T59e9sfCJ3cilpTsTHwFy"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=3PECAWAo5f1jFDxQYIAbUX",
+      "id": "3PECAWAo5f1jFDxQYIAbUX"
+    },
+    {
+      "artistName": "Herrantes De La Sierra",
+      "positioning": {
+        "top": 515,
+        "left": 912
+      },
+      "style": {
+        "color": "#809a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ab7ee61870d0a8351a1e9d9e726b46b4b83b878",
+        "title": "e.g. Herrantes De La Sierra \"La Machucona Polka\"",
+        "trackId": "6hv6xM2uayH5XbF988geLw"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=0BYd5QnPGaUNP9LTQksGvc",
+      "id": "0BYd5QnPGaUNP9LTQksGvc"
+    },
+    {
+      "artistName": "Jazmin Lopez",
+      "positioning": {
+        "top": 545,
+        "left": 462
+      },
+      "style": {
+        "color": "#c58e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44315d9175e89f3180653f8f3dbfa06309836a4a",
+        "title": "e.g. Jazmin Lopez \"Noche De Copas\"",
+        "trackId": "208QhrgMetpvF68YPCGrfd"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=1NKZJSkaUirjkuLDsn5ma5",
+      "id": "1NKZJSkaUirjkuLDsn5ma5"
+    },
+    {
+      "artistName": "Xtremo Musical",
+      "positioning": {
+        "top": 385,
+        "left": 487
+      },
+      "style": {
+        "color": "#bd8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1ed74da67fcd61c89c92edf8b88a034c0e3c59d",
+        "title": "e.g. Xtremo Musical \"Polkas\"",
+        "trackId": "7MmE5lOUvovdwiXpL8LVG2"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=43eo1Ux8rLnru7CPfR25JM",
+      "id": "43eo1Ux8rLnru7CPfR25JM"
+    },
+    {
+      "artistName": "Grupo Sublyme",
+      "positioning": {
+        "top": 308,
+        "left": 250
+      },
+      "style": {
+        "color": "#c18b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a1af655bfcccde6fd2fc4277bdbaadbf4ebd9ad",
+        "title": "e.g. Grupo Sublyme \"Boquita Venenosa\"",
+        "trackId": "3x6pmHvzJ708unmaUY08ph"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=4ffAdz3tZ0Ty59jWxxvbdl",
+      "id": "4ffAdz3tZ0Ty59jWxxvbdl"
+    },
+    {
+      "artistName": "Chepe Y Su Grupo Linze",
+      "positioning": {
+        "top": 398,
+        "left": 685
+      },
+      "style": {
+        "color": "#ae8600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/55ceede3f93d48d11b90323452ee335f86dd8544",
+        "title": "e.g. Chepe Y Su Grupo Linze \"Que Ironía\"",
+        "trackId": "1t28Nn5cbWNHsKdpqKTlKD"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=7uXPECzPpvZR17wONTKeUv",
+      "id": "7uXPECzPpvZR17wONTKeUv"
+    },
+    {
+      "artistName": "VIENTO MUSICAL",
+      "positioning": {
+        "top": 425,
+        "left": 854
+      },
+      "style": {
+        "color": "#b89000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e676cd4f8b8bfc306185f3374b4e51248ebdf45",
+        "title": "e.g. VIENTO MUSICAL \"El Manchado\"",
+        "trackId": "3yYu997OLPQsfNHnpDidJp"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=0dMHMVN3BgUXtbw7sB42F1",
+      "id": "0dMHMVN3BgUXtbw7sB42F1"
+    },
+    {
+      "artistName": "La Bandita De Durango",
+      "positioning": {
+        "top": 321,
+        "left": 1008
+      },
+      "style": {
+        "color": "#9b8500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f93fae6cea9cff533ec5427385d53db5f7a047f2",
+        "title": "e.g. La Bandita De Durango \"Oh Mamá, Ella Me Ha Besado - Duranguense Version\"",
+        "trackId": "3Wh9xtu6O0PdQsTOLMfntU"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=5pRtLFHqD20DHdqukPy9Sn",
+      "id": "5pRtLFHqD20DHdqukPy9Sn"
+    },
+    {
+      "artistName": "Lobillos Musical De Durango",
+      "positioning": {
+        "top": 308,
+        "left": 883
+      },
+      "style": {
+        "color": "#8f9f00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d4634eb5a4618dfdc1131ba20c970dbe62908a1c",
+        "title": "e.g. Lobillos Musical De Durango \"Llorando Bajo la Lluvia\"",
+        "trackId": "5q3EYUMuHzoHjIdqNBcc4V"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=6vCr5icBBI7WRX6CdrNoCh",
+      "id": "6vCr5icBBI7WRX6CdrNoCh"
+    },
+    {
+      "artistName": "Lucero Terrazas",
+      "positioning": {
+        "top": 566,
+        "left": 723
+      },
+      "style": {
+        "color": "#999c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0325680d16227b506c72badd2b723f8d1aae1a23",
+        "title": "e.g. Lucero Terrazas \"Buenos Amigos\"",
+        "trackId": "5UFICaAXGLqmiLA3mz1fEe"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=19kX2pmalfjl6uj9xBaKS2",
+      "id": "19kX2pmalfjl6uj9xBaKS2"
+    },
+    {
+      "artistName": "Fuego Duranguense",
+      "positioning": {
+        "top": 480,
+        "left": 317
+      },
+      "style": {
+        "color": "#b58d0c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee6d8b8bba70faa4d1010d26f3d4c9cab6240eb2",
+        "title": "e.g. Fuego Duranguense \"Arboles de la Barranca\"",
+        "trackId": "6nMjvP6GkS6o6xaNSToOUB"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=5O3fYlfkYQu9AFvxmVUC06",
+      "id": "5O3fYlfkYQu9AFvxmVUC06"
+    },
+    {
+      "artistName": "Banda Lamento Show",
+      "positioning": {
+        "top": 607,
+        "left": 240
+      },
+      "style": {
+        "color": "#a68e0f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ca260226618e4683e1faf2daf434c7cc14fc98e5",
+        "title": "e.g. Banda Lamento Show \"Rafa Caro\"",
+        "trackId": "3UkmzsqwQYx2FN8rCm6MwS"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=7AruwQ1TTBpifGuSrVRtBz",
+      "id": "7AruwQ1TTBpifGuSrVRtBz"
+    },
+    {
+      "artistName": "Banda Relajo de Durango",
+      "positioning": {
+        "top": 249,
+        "left": 298
+      },
+      "style": {
+        "color": "#c28b10",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1cb023bf1ec171fa653c50a762251edf53714084",
+        "title": "e.g. Banda Relajo de Durango \"Te Vas Con El\"",
+        "trackId": "45V7QZo3JnII5pBzgHwtbs"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=5CXp2sZXvud1sqNRVtQ6Y3",
+      "id": "5CXp2sZXvud1sqNRVtQ6Y3"
+    },
+    {
+      "artistName": "Juan Palomares y Su Tecno Banda",
+      "positioning": {
+        "top": 535,
+        "left": 602
+      },
+      "style": {
+        "color": "#a87d00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51bbe7afd755feb05c3b29212f888a48713c8498",
+        "title": "e.g. Juan Palomares y Su Tecno Banda \"Por Que Me Dejas\"",
+        "trackId": "3tcvyxOzB8KRY2iMEDG6wh"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=5iN0az67uazlN9iDv398nh",
+      "id": "5iN0az67uazlN9iDv398nh"
+    },
+    {
+      "artistName": "Puro Reyes De Durango",
+      "positioning": {
+        "top": 539,
+        "left": 945
+      },
+      "style": {
+        "color": "#dd6a00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=6dDzoutdC4U1eCUEWBALna",
+      "id": "6dDzoutdC4U1eCUEWBALna"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=duranguense"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4WRxxd7MJ2doyQgJ7QHjKa"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4kndT2wHW4El0YEekZcOJL"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4GAu0LLKK96f72zioZNYdS"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7nQUnf7fy2IWZZOyHkfJCa"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=duranguense"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "musica mexicana",
+      "positioning": {
+        "top": 245,
+        "left": 140
+      },
+      "style": {
+        "color": "#988f04",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/77d607329b195dceb8adc4fac811e2456c5ef410",
+        "title": "e.g. Voz De Mando \"Levantando Polvadera\"",
+        "trackId": "4rQyZTWAh23M9fndTO0TWG"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-musicamexicana.html#tunnel"
+    },
+    {
+      "genreName": "musica duranguense",
+      "positioning": {
+        "top": 194,
+        "left": 280
+      },
+      "style": {
+        "color": "#a28306",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/484345cad9255d5fff5c8c03dc27129af98287af",
+        "title": "e.g. Los Empacadores De Durango \"El Equipo De Los R\"",
+        "trackId": "0rjcsqV9MtfJZFnPvE3nEk"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-musicaduranguense.html#tunnel"
+    },
+    {
+      "genreName": "banda",
+      "positioning": {
+        "top": 232,
+        "left": 153
+      },
+      "style": {
+        "color": "#998e06",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9da152ba095773913e1826bfd19c78609b43496",
+        "title": "e.g. Banda Clave Nueva \"Cuál Adiós\"",
+        "trackId": "5R9lPFnoJGppR1MsI7vHxy"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-banda.html#tunnel"
+    },
+    {
+      "genreName": "norteno",
+      "positioning": {
+        "top": 283,
+        "left": 199
+      },
+      "style": {
+        "color": "#988e03",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5de4dbcb2385cecb5cb6f73d8f85438f956ff897",
+        "title": "e.g. Los Huracanes del Norte \"El Gato De Chihuahua\"",
+        "trackId": "1PKoT3dROitNnZQch89TgT"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-norteno.html#tunnel"
+    },
+    {
+      "genreName": "grupera",
+      "positioning": {
+        "top": 167,
+        "left": 33
+      },
+      "style": {
+        "color": "#9a9105",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/716615ade6dbed7c583bcf3df77ea7dc05aec60a",
+        "title": "e.g. Viento Y Sol \"Par De Anillos\"",
+        "trackId": "6ag94zXSjx4qrI20daNxwQ"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-grupera.html#tunnel"
+    },
+    {
+      "genreName": "deep norteno",
+      "positioning": {
+        "top": 192,
+        "left": 117
+      },
+      "style": {
+        "color": "#b38b07",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/758011779dcf6d638985ea2b7f90f71dcd0274b0",
+        "title": "e.g. Los Palmeros de San Carlos Chih. \"El Dia de Tu Boda\"",
+        "trackId": "7GGq4GKM9wrBwnPxCKyfsX"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-deepnorteno.html#tunnel"
+    },
+    {
+      "genreName": "cumbia villera",
+      "positioning": {
+        "top": 42,
+        "left": 183
+      },
+      "style": {
+        "color": "#bb8703",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d16c3658f45b37e4c159ee12931dda3e15c763ec",
+        "title": "e.g. Altos Cumbieros \"No voy a llorar\"",
+        "trackId": "0bCzLxE6tIXD9RNYErYrIE"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-cumbiavillera.html#tunnel"
+    },
+    {
+      "genreName": "musica mexiquense",
+      "positioning": {
+        "top": 116,
+        "left": 0
+      },
+      "style": {
+        "color": "#a68e14",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/832d69188deb430baf915f7b4991ef54526634cd",
+        "title": "e.g. El Fuego de Mexico \"Papel De Amigos\"",
+        "trackId": "1MgAIEEQpV0CZdH1xEAKKL"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-musicamexiquense.html#tunnel"
+    },
+    {
+      "genreName": "amharic pop",
+      "positioning": {
+        "top": 0,
+        "left": 0
+      },
+      "style": {
+        "color": "#ac8607",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad4925018dfdb56818ba92437ddb4551cb4c44b6",
+        "title": "e.g. Esubalew Yetayew \"Chaw Tilina\"",
+        "trackId": "5imDrGjz7SeqJadNh8Iryl"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-amharicpop.html#tunnel"
+    },
+    {
+      "genreName": "azontobeats",
+      "positioning": {
+        "top": 4,
+        "left": 209
+      },
+      "style": {
+        "color": "#be8606",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/468985d9238cf7154010b470eae25c6a0ba82ba5",
+        "title": "e.g. Serge Beynaud \"C'est dosé\"",
+        "trackId": "0UWLz61FiuLAEcpLebbvZB"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-azontobeats.html#tunnel"
+    },
+    {
+      "genreName": "banda carnavalera",
+      "positioning": {
+        "top": 271,
+        "left": 104
+      },
+      "style": {
+        "color": "#978b0f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a650909e674bd9ab8a5d7050601245e1c69e0c0",
+        "title": "e.g. Banda los Chirimoyos \"Y Claro Que Se Puede - Sones para Jaripeo\"",
+        "trackId": "5HH3ziXLVxqXYnDk7mJkLf"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-bandacarnavalera.html#tunnel"
+    },
+    {
+      "genreName": "banda guanajuatense",
+      "positioning": {
+        "top": 296,
+        "left": 62
+      },
+      "style": {
+        "color": "#9c8b0c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8a464bd7505432d8282a97501fbcd7c39965055",
+        "title": "e.g. Banda Joroches la Grande \"No Podras\"",
+        "trackId": "67GehMrHZ2Czx8ekkqrrok"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-bandaguanajuatense.html#tunnel"
+    },
+    {
+      "genreName": "banda jalisciense",
+      "positioning": {
+        "top": 258,
+        "left": 192
+      },
+      "style": {
+        "color": "#98860b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ddd66548355090da2499ba42ea0155883ac073f",
+        "title": "e.g. Banda La Peña \"Jardín Olvidado\"",
+        "trackId": "5mpvs77cZTyafzc0AYpyD0"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-bandajalisciense.html#tunnel"
+    },
+    {
+      "genreName": "burkinabe pop",
+      "positioning": {
+        "top": 113,
+        "left": 218
+      },
+      "style": {
+        "color": "#ae890d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f45b525729df0e800317c8dfbe3b58c1ed53476",
+        "title": "e.g. Greg Burkimbila \"Halaalé\"",
+        "trackId": "11FiscFPX4w2ze1p6yTNSO"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-burkinabepop.html#tunnel"
+    },
+    {
+      "genreName": "cameroonian pop",
+      "positioning": {
+        "top": 72,
+        "left": 183
+      },
+      "style": {
+        "color": "#b28909",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07952be5f5bac3aa3d4bcd7d04476365a04c4a7f",
+        "title": "e.g. Magasco \"Sokoto\"",
+        "trackId": "42iyYaSatnU9JOFJ1MZ6Pv"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-cameroonianpop.html#tunnel"
+    },
+    {
+      "genreName": "chamame brasilero",
+      "positioning": {
+        "top": 205,
+        "left": 16
+      },
+      "style": {
+        "color": "#9e8a17",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ac0c38a72884172f0535ef0e366cf310fd34f98",
+        "title": "e.g. Maciel Corrêa \"Orgulho Pantaneiro\"",
+        "trackId": "3n9uBSlCr2DmNw9U244R9y"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-chamamebrasilero.html#tunnel"
+    },
+    {
+      "genreName": "chicha",
+      "positioning": {
+        "top": 258,
+        "left": 98
+      },
+      "style": {
+        "color": "#ae8d20",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/14cc018f97fc6ffc99a7ea701e01e86b65b0a73b",
+        "title": "e.g. Los Beta 5 \"Amor sublime\"",
+        "trackId": "6TdqTNgFUQzfQXp8PiT4QG"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-chicha.html#tunnel"
+    },
+    {
+      "genreName": "chilena",
+      "positioning": {
+        "top": 146,
+        "left": 300
+      },
+      "style": {
+        "color": "#ab8a13",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0765e396d3a22053bc78f69220cc82238c6c7c49",
+        "title": "e.g. La Excelencia De Oaxaca \"Mi Linda Tierra\"",
+        "trackId": "7GWYJL3em1sPE3zFzCuYYA"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-chilena.html#tunnel"
+    },
+    {
+      "genreName": "corrido",
+      "positioning": {
+        "top": 271,
+        "left": 271
+      },
+      "style": {
+        "color": "#a28b01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cdb979187e3efd6a89c8cd8d3688f5818d8adb48",
+        "title": "e.g. Código FN \"Mood Malandro\"",
+        "trackId": "0zhymr6RqNuvp0RMIvdpdA"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-corrido.html#tunnel"
+    },
+    {
+      "genreName": "corridos adictivos",
+      "positioning": {
+        "top": 308,
+        "left": 150
+      },
+      "style": {
+        "color": "#a18801",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c2d3aa2bc0807a246b03d8f0f4c12e0f6a66ba7",
+        "title": "e.g. Jason Arreguin \"Firma - Cjng\"",
+        "trackId": "3qNiC2DlkzrinwKRaCX2yG"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-corridosadictivos.html#tunnel"
+    }
+  ]
+}

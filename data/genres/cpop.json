@@ -1,0 +1,2051 @@
+{
+  "schemaVersion": 3,
+  "genreName": "c-pop",
+  "artists": [
+    {
+      "artistName": "Jay Chou",
+      "positioning": {
+        "top": 193,
+        "left": 619
+      },
+      "style": {
+        "color": "#a68d11",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c111d39f795e549be7933a7faa1549e6daefc26",
+        "title": "e.g. Jay Chou \"晴天\"",
+        "trackId": "0F02KChKwbcQ3tk4q1YxLH"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=2elBjNSdBE2Y3f0j1mjrql",
+      "id": "2elBjNSdBE2Y3f0j1mjrql"
+    },
+    {
+      "artistName": "Eason Chan",
+      "positioning": {
+        "top": 398,
+        "left": 695
+      },
+      "style": {
+        "color": "#8f8507",
+        "fontSize": "137%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dad366d4bfb6b1ec4f2a2853d4939e7918433bc5",
+        "title": "e.g. Eason Chan \"十年\"",
+        "trackId": "25pWemriUQVrZ3yIiS2IBf"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=2QcZxAgcs2I1q7CtCkl6MI",
+      "id": "2QcZxAgcs2I1q7CtCkl6MI"
+    },
+    {
+      "artistName": "Jacky Cheung",
+      "positioning": {
+        "top": 468,
+        "left": 766
+      },
+      "style": {
+        "color": "#728d03",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ab8255e593f0a042f1e410bf6abc9e59b4b8c56a",
+        "title": "e.g. Jacky Cheung \"每天愛你多一些\"",
+        "trackId": "7uzJKRRrTqxUOeTtwQMd36"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=1Hu58yHg2CXNfDhlPd7Tdd",
+      "id": "1Hu58yHg2CXNfDhlPd7Tdd"
+    },
+    {
+      "artistName": "Faye Wong",
+      "positioning": {
+        "top": 332,
+        "left": 563
+      },
+      "style": {
+        "color": "#749b04",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e9dc2d4992ca69b59712dc3daa4915f6910e696",
+        "title": "e.g. Faye Wong \"如愿\"",
+        "trackId": "4x9retP0JqKa35zZZhNhNS"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=3df3XLKuqTQ6iOSmi0K3Wp",
+      "id": "3df3XLKuqTQ6iOSmi0K3Wp"
+    },
+    {
+      "artistName": "Beyond",
+      "positioning": {
+        "top": 228,
+        "left": 600
+      },
+      "style": {
+        "color": "#ad780c",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3ff64979b513b90a0c56d3e2c792a366484a5f9",
+        "title": "e.g. Beyond \"海闊天空\"",
+        "trackId": "77uktQePd9IdeMPVWlu1cO"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=4F5TrtYYxsVM1PhbtISE5m",
+      "id": "4F5TrtYYxsVM1PhbtISE5m"
+    },
+    {
+      "artistName": "Teresa Teng",
+      "positioning": {
+        "top": 607,
+        "left": 572
+      },
+      "style": {
+        "color": "#6d9a05",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b6f71d730e5255d904bd1f38a7de7cd47f3a5d7d",
+        "title": "e.g. Teresa Teng \"月亮代表我的心\"",
+        "trackId": "3Srw8isgDzmYsgwDi4MtbD"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=3ienC90A5I1X3irDyQoqWZ",
+      "id": "3ienC90A5I1X3irDyQoqWZ"
+    },
+    {
+      "artistName": "Leslie Cheung",
+      "positioning": {
+        "top": 370,
+        "left": 728
+      },
+      "style": {
+        "color": "#808e09",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9497c276f670a1a2dd4e392bed671d5caeb14b6",
+        "title": "e.g. Leslie Cheung \"追\"",
+        "trackId": "66cBlqEs1viJJCE74CDfGB"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=2g0QLUYku8AuPVK2udRV7i",
+      "id": "2g0QLUYku8AuPVK2udRV7i"
+    },
+    {
+      "artistName": "Andy Lau",
+      "positioning": {
+        "top": 316,
+        "left": 761
+      },
+      "style": {
+        "color": "#7d9606",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d2083ca1bdf1313b8ba89ab30e3ab01be59fb2c2",
+        "title": "e.g. Andy Lau \"一起走過的日子 - 電影《至尊無上II之永霸天下》歌曲\"",
+        "trackId": "6AleftVNlp053O6bbtnkZp"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=2n3uDrupL8UtFSeZhY38MS",
+      "id": "2n3uDrupL8UtFSeZhY38MS"
+    },
+    {
+      "artistName": "Alan Tam",
+      "positioning": {
+        "top": 397,
+        "left": 846
+      },
+      "style": {
+        "color": "#858f03",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d16a127b385508b72c7f50db8fbe64089bfd45d6",
+        "title": "e.g. Alan Tam \"一生中最愛\"",
+        "trackId": "63ThoHdxN0lcHVPsHc4a8o"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=5vWJrDpmd5vrDpdmgxqC5u",
+      "id": "5vWJrDpmd5vrDpdmgxqC5u"
+    },
+    {
+      "artistName": "Sammi Cheng",
+      "positioning": {
+        "top": 319,
+        "left": 624
+      },
+      "style": {
+        "color": "#998b03",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d6259760d546e99e3d5486388787d56c5e8da393",
+        "title": "e.g. Sammi Cheng \"終身美麗 (電影“瘦身男女”主題曲)\"",
+        "trackId": "3ctJQ3riTHFk5A5SMDr1F7"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=3XCnp5UV5wnNw49Xuka9qH",
+      "id": "3XCnp5UV5wnNw49Xuka9qH"
+    },
+    {
+      "artistName": "Hacken Lee",
+      "positioning": {
+        "top": 483,
+        "left": 842
+      },
+      "style": {
+        "color": "#838e05",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cea53488c3476802bbec7430f2e4ce77f447eae5",
+        "title": "e.g. Hacken Lee \"月半小夜曲\"",
+        "trackId": "7jFNX9aTdcQfhIgUVE02hi"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=3PV11RNUoGfX9tMN2wVljB",
+      "id": "3PV11RNUoGfX9tMN2wVljB"
+    },
+    {
+      "artistName": "Sandy Lam",
+      "positioning": {
+        "top": 384,
+        "left": 733
+      },
+      "style": {
+        "color": "#878f06",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b93068bab1813ac49a900df4c65b40679c93a67e",
+        "title": "e.g. Sandy Lam \"至少還有你\"",
+        "trackId": "0fGM6yMJ1swPXt5NI0GCdl"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=3K2hOAx9MPhduvDf2qguro",
+      "id": "3K2hOAx9MPhduvDf2qguro"
+    },
+    {
+      "artistName": "Power Station",
+      "positioning": {
+        "top": 274,
+        "left": 298
+      },
+      "style": {
+        "color": "#9a9000",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f126916f0fa6e4353235a6ac92b06d94a388d0c",
+        "title": "e.g. Power Station \"我很好騙\"",
+        "trackId": "69AvckyixY1AIGRYDZ1QnO"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6zCAdMK7SVxKyGMnAc26Cy",
+      "id": "6zCAdMK7SVxKyGMnAc26Cy"
+    },
+    {
+      "artistName": "Wakin Chau",
+      "positioning": {
+        "top": 343,
+        "left": 752
+      },
+      "style": {
+        "color": "#769402",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f81a67986f14acda566e7cf3ec7d982eab5b68e1",
+        "title": "e.g. Wakin Chau \"有沒有一首歌會讓你想起我\"",
+        "trackId": "2YOECkGti9IFHkPYTZAHWl"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=6wcIBaOvA9XNGgPujYZZ7L",
+      "id": "6wcIBaOvA9XNGgPujYZZ7L"
+    },
+    {
+      "artistName": "Dave Wang",
+      "positioning": {
+        "top": 401,
+        "left": 402
+      },
+      "style": {
+        "color": "#6f9a06",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad5f6d593d006bd0d7dde2770c3ee1ee33b31a1e",
+        "title": "e.g. Dave Wang \"一場遊戲一場夢\"",
+        "trackId": "0Id7swY6cWbvYLtVVF0wvq"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=5XMnJOQbE6OuOvcV8fn3Wg",
+      "id": "5XMnJOQbE6OuOvcV8fn3Wg"
+    },
+    {
+      "artistName": "Danny Chan",
+      "positioning": {
+        "top": 357,
+        "left": 761
+      },
+      "style": {
+        "color": "#749708",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bb5a7a2bb27987ad3479d62b2c56b9583311767",
+        "title": "e.g. Danny Chan \"偏偏喜歡你\"",
+        "trackId": "47dxS8Tlpy4dQ1xVQZPjYh"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=0Q43SYcicELiBaGB9N9aBI",
+      "id": "0Q43SYcicELiBaGB9N9aBI"
+    },
+    {
+      "artistName": "Ekin Cheng",
+      "positioning": {
+        "top": 415,
+        "left": 723
+      },
+      "style": {
+        "color": "#888802",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b24cf2df58368fdf6dab4637faa2ec4954d8696a",
+        "title": "e.g. Ekin Cheng \"I'll Have to Say I Love You in a Song\"",
+        "trackId": "6UcbxO3C7bgwkjjVdFxqim"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=2DNe29u3NiB7u8k8RS5IuD",
+      "id": "2DNe29u3NiB7u8k8RS5IuD"
+    },
+    {
+      "artistName": "Leon Lai",
+      "positioning": {
+        "top": 220,
+        "left": 988
+      },
+      "style": {
+        "color": "#8e9003",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9678e50ad0c345993c4b2bc7a6021e1f8ea36d3e",
+        "title": "e.g. Leon Lai \"今夜妳會不會來\"",
+        "trackId": "2QyEqtetkZqCNOMkshxuhh"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=0ubIxkefJsoYY8JXc2HJoa",
+      "id": "0ubIxkefJsoYY8JXc2HJoa"
+    },
+    {
+      "artistName": "Andy Hui",
+      "positioning": {
+        "top": 345,
+        "left": 676
+      },
+      "style": {
+        "color": "#8a8e02",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0e06ce9c4fe3b1188afa346b0fe20b75f21375e",
+        "title": "e.g. Andy Hui \"戀愛頻率\"",
+        "trackId": "49TW63ZUE5HJ7hSqyjbCu1"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=1q8BvOdpOtapWOIgO26sOn",
+      "id": "1q8BvOdpOtapWOIgO26sOn"
+    },
+    {
+      "artistName": "Anita Mui",
+      "positioning": {
+        "top": 330,
+        "left": 757
+      },
+      "style": {
+        "color": "#8d8b02",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7568ad1a0823422d23ec80df375f6f3f7be31405",
+        "title": "e.g. Anita Mui \"夕陽之歌\"",
+        "trackId": "5tVzG4tw3M9VLkcQ0fOtgF"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=06RD8CxzApXzuhHx54BhQL",
+      "id": "06RD8CxzApXzuhHx54BhQL"
+    },
+    {
+      "artistName": "Priscilla Chan",
+      "positioning": {
+        "top": 428,
+        "left": 766
+      },
+      "style": {
+        "color": "#749401",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20beac298857886873ff031108e8ed7c8c3de646",
+        "title": "e.g. Priscilla Chan \"千千闋歌\"",
+        "trackId": "42suymP38HAIBl0wiDfpst"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=5SLOTZhruJRRGgIRtTSPc5",
+      "id": "5SLOTZhruJRRGgIRtTSPc5"
+    },
+    {
+      "artistName": "Kelly Chen",
+      "positioning": {
+        "top": 298,
+        "left": 898
+      },
+      "style": {
+        "color": "#a38804",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/21a86506cf9b10d517b1b78d0ccdaa4d83d0b370",
+        "title": "e.g. Kelly Chen \"誰願放手\"",
+        "trackId": "7CcX5AUh3JOQZYIgOVpIr7"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=7KyaSSJ8uTv7Unev4z2Qc7",
+      "id": "7KyaSSJ8uTv7Unev4z2Qc7"
+    },
+    {
+      "artistName": "Sam Hui",
+      "positioning": {
+        "top": 423,
+        "left": 903
+      },
+      "style": {
+        "color": "#808d02",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/74750321cb4e6c089fb7faf2af1e559ae670388b",
+        "title": "e.g. Sam Hui \"浪子心聲 - 電影\"半斤八両\"歌曲\"",
+        "trackId": "3wcrXH60dSDsW9ZvUHEpLl"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1SglpJrPltamdJLLwInIL7",
+      "id": "1SglpJrPltamdJLLwInIL7"
+    },
+    {
+      "artistName": "George Lam",
+      "positioning": {
+        "top": 408,
+        "left": 1040
+      },
+      "style": {
+        "color": "#788d04",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a73eb87e1e9ccc35a9568e7a81276c0d6dbac8c3",
+        "title": "e.g. George Lam \"分分鐘需要你\"",
+        "trackId": "611jHr3FkwdDD5N4CVXPkN"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=7rxRHujzUzobMEbtoE297s",
+      "id": "7rxRHujzUzobMEbtoE297s"
+    },
+    {
+      "artistName": "Sally Yeh",
+      "positioning": {
+        "top": 468,
+        "left": 648
+      },
+      "style": {
+        "color": "#7d9600",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4fd2932e82ffbba78d0641539c12fc731c958094",
+        "title": "e.g. Sally Yeh \"情人知己\"",
+        "trackId": "1royJ1FfrCTV45v9boP8Lm"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=7Bx0SBZoIX73eywmBcdqFb",
+      "id": "7Bx0SBZoIX73eywmBcdqFb"
+    },
+    {
+      "artistName": "Tsai Chin",
+      "positioning": {
+        "top": 629,
+        "left": 194
+      },
+      "style": {
+        "color": "#4fa603",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f74cc020a6037c67f66ecb15db335f3d13c50c65",
+        "title": "e.g. Tsai Chin \"明天會更好\"",
+        "trackId": "5bcbAT32LJS87hklgOxUqM"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=0hXEo26JJ0u5lD763cTvRW",
+      "id": "0hXEo26JJ0u5lD763cTvRW"
+    },
+    {
+      "artistName": "Aaron Kwok",
+      "positioning": {
+        "top": 202,
+        "left": 965
+      },
+      "style": {
+        "color": "#9c8307",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae14704b7c1a68610cf1a299f52fcd0a416af391",
+        "title": "e.g. Aaron Kwok \"愛的呼喚\"",
+        "trackId": "6mn3MOnUpXYEIi5qTRqAik"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=3lbgPpyP2yep0sqwWTgasT",
+      "id": "3lbgPpyP2yep0sqwWTgasT"
+    },
+    {
+      "artistName": "Fei Yu-ching",
+      "positioning": {
+        "top": 566,
+        "left": 364
+      },
+      "style": {
+        "color": "#689b05",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/594de7196cf41fe57829589c97ab35d7240fcceb",
+        "title": "e.g. Fei Yu-ching \"一翦梅\"",
+        "trackId": "5Vnx5i9VJSZ6ayfK6jncf8"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=6aSJ9LaNaHOKiPchLDYGYl",
+      "id": "6aSJ9LaNaHOKiPchLDYGYl"
+    },
+    {
+      "artistName": "Vivian Chow",
+      "positioning": {
+        "top": 455,
+        "left": 823
+      },
+      "style": {
+        "color": "#719d01",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e6800aa974d2d9fa41083e6ada86649c1635cfe5",
+        "title": "e.g. Vivian Chow \"最愛\"",
+        "trackId": "473vCEDYCgaMNmbRgwD63p"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=4bzVQLX2gMBQVMINdAGElJ",
+      "id": "4bzVQLX2gMBQVMINdAGElJ"
+    },
+    {
+      "artistName": "William So",
+      "positioning": {
+        "top": 455,
+        "left": 690
+      },
+      "style": {
+        "color": "#819202",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/219066e29e4801db131db83cd31e0c81b71daeca",
+        "title": "e.g. William So \"男人不該讓女人流淚\"",
+        "trackId": "2v0GxO8gI4lB19sLOQstts"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=2oK5cSlJAH5s2Kx5e1zcvh",
+      "id": "2oK5cSlJAH5s2Kx5e1zcvh"
+    },
+    {
+      "artistName": "Grasshopper",
+      "positioning": {
+        "top": 74,
+        "left": 1376
+      },
+      "style": {
+        "color": "#af7c05",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7a5ed64e6497f7279d967a7d98016e08f2d27f1",
+        "title": "e.g. Grasshopper \"失樂園\"",
+        "trackId": "6ND5KwtvXBKWUwsQJp4Irv"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=5IxPdROZmnCyD6TBuSJMYE",
+      "id": "5IxPdROZmnCyD6TBuSJMYE"
+    },
+    {
+      "artistName": "Cass Phang",
+      "positioning": {
+        "top": 442,
+        "left": 761
+      },
+      "style": {
+        "color": "#709e01",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f6bbb2c7e533fcea1175df9077c47bba88a40c82",
+        "title": "e.g. Cass Phang \"囚鳥 - Remastered\"",
+        "trackId": "7CXIxU4GflzqTiaRNfS6LY"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=0RkQt8LMVrxCjQb9BxpBfF",
+      "id": "0RkQt8LMVrxCjQb9BxpBfF"
+    },
+    {
+      "artistName": "Nicholas Tse",
+      "positioning": {
+        "top": 243,
+        "left": 525
+      },
+      "style": {
+        "color": "#a28409",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d71171f8e3cf2e7a7a1d3e93c33ab2886014e59a",
+        "title": "e.g. Nicholas Tse \"非走不可\"",
+        "trackId": "6g7Zj55p1tMuljCfuXgJlG"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=5icAICPWHiBMzTJl7nUPMP",
+      "id": "5icAICPWHiBMzTJl7nUPMP"
+    },
+    {
+      "artistName": "Shirley Kwan",
+      "positioning": {
+        "top": 234,
+        "left": 960
+      },
+      "style": {
+        "color": "#909008",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16fcb461a90bf05c41d876333b6d1b49063817a6",
+        "title": "e.g. Shirley Kwan \"難得有情人\"",
+        "trackId": "606wvF2jK9MrZrwoWVSVnx"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=14hV8HTKYMZ5nzeaLdLp63",
+      "id": "14hV8HTKYMZ5nzeaLdLp63"
+    },
+    {
+      "artistName": "Kit Chan",
+      "positioning": {
+        "top": 570,
+        "left": 790
+      },
+      "style": {
+        "color": "#619f0e",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0e87b31e64526f046d53059d1268310c87c88404",
+        "title": "e.g. Kit Chan \"喜欢你\"",
+        "trackId": "5kSnQWC7k7LCe650Td0sxI"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=5sOVNhUf8T3jiPhvFA6T7L",
+      "id": "5sOVNhUf8T3jiPhvFA6T7L"
+    },
+    {
+      "artistName": "Jenny Tseng",
+      "positioning": {
+        "top": 640,
+        "left": 345
+      },
+      "style": {
+        "color": "#709501",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7d4e5d15635f95de80615594da1af3c0e08e37df",
+        "title": "e.g. Jenny Tseng \"世間始終你好 - 無線電視劇[射鵰英雄傳]主題曲\"",
+        "trackId": "79OoRd1GwA5iGBNO4CIlCx"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=6U7CvLXWSS3t3a9iwY52oA",
+      "id": "6U7CvLXWSS3t3a9iwY52oA"
+    },
+    {
+      "artistName": "Roman Tam",
+      "positioning": {
+        "top": 444,
+        "left": 582
+      },
+      "style": {
+        "color": "#709002",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f86e4ebc09d3b204f088cf90223142f6f1b74232",
+        "title": "e.g. Roman Tam \"鐵血丹心 - 無綫電視劇「射鵰英雄傳之銕血丹心」主題曲\"",
+        "trackId": "3FMcGPvEHPlr4GqaIEKXTP"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=7Kb6okLNmQmENkjdGA2HgO",
+      "id": "7Kb6okLNmQmENkjdGA2HgO"
+    },
+    {
+      "artistName": "巫啟賢",
+      "positioning": {
+        "top": 419,
+        "left": 530
+      },
+      "style": {
+        "color": "#7c9403",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/062abae4eb94d3260dea3d82d62950a36ce3ec9c",
+        "title": "e.g. 巫啟賢 \"太傻\"",
+        "trackId": "5hMFr5j0btsmS56acvkVwG"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=7y52WmTUJZQU7m83zYfoV2",
+      "id": "7y52WmTUJZQU7m83zYfoV2"
+    },
+    {
+      "artistName": "Wang Feng",
+      "positioning": {
+        "top": 191,
+        "left": 426
+      },
+      "style": {
+        "color": "#9d8902",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0a6db4ce35d576b378b8ca996f3a0b96440aee8",
+        "title": "e.g. Wang Feng \"存在\"",
+        "trackId": "52iiHWnWlRaYwUobhKGXW3"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=10LslMPb7P5j9L2QXGZBmM",
+      "id": "10LslMPb7P5j9L2QXGZBmM"
+    },
+    {
+      "artistName": "David Lui",
+      "positioning": {
+        "top": 332,
+        "left": 676
+      },
+      "style": {
+        "color": "#709901",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/769700d4bd8c09c6b4afb01ffaddbe2e0f560ec6",
+        "title": "e.g. David Lui \"朋友別哭\"",
+        "trackId": "1HuoJQr4Qs2Nt93K3wZ2Wy"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=6CexlJ1wj79N50NMxRBfUa",
+      "id": "6CexlJ1wj79N50NMxRBfUa"
+    },
+    {
+      "artistName": "韓紅",
+      "positioning": {
+        "top": 492,
+        "left": 180
+      },
+      "style": {
+        "color": "#7d9603",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/77ec74b88df69f3446126a834926ab53abfa6659",
+        "title": "e.g. 韓紅 \"飛雲之下\"",
+        "trackId": "7M9iRFedB4SkCHE22Y9Fvr"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1kLqxXjyc7OwDJopftAH86",
+      "id": "1kLqxXjyc7OwDJopftAH86"
+    },
+    {
+      "artistName": "Chyi Yu",
+      "positioning": {
+        "top": 643,
+        "left": 28
+      },
+      "style": {
+        "color": "#58a409",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2809a520cc1ed26f52ea6f2ffd96999c13fa912",
+        "title": "e.g. Chyi Yu \"橄欖樹\"",
+        "trackId": "0y58OaDt2n4Z3e9TN7Lqne"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=5E94Yc9O9D4N3oTr4SzJLx",
+      "id": "5E94Yc9O9D4N3oTr4SzJLx"
+    },
+    {
+      "artistName": "Paula Tsui",
+      "positioning": {
+        "top": 508,
+        "left": 709
+      },
+      "style": {
+        "color": "#6c9800",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53aeccce63c00053eabcb84e755138e3b525d4b4",
+        "title": "e.g. Paula Tsui \"風的季節\"",
+        "trackId": "4JEpSfSuhHX0v9kO6zyfQt"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=4285Dv04KV2gVNx8hCG1Aw",
+      "id": "4285Dv04KV2gVNx8hCG1Aw"
+    },
+    {
+      "artistName": "Xu Wei",
+      "positioning": {
+        "top": 203,
+        "left": 440
+      },
+      "style": {
+        "color": "#8f8f14",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7fc29f9de807f37b822680fa6b7c3537bfbf924c",
+        "title": "e.g. Xu Wei \"蓝莲花\"",
+        "trackId": "24TQIQpKJWp4isMbulvifs"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=3qObkSIVSfNNDL1vbwL2N2",
+      "id": "3qObkSIVSfNNDL1vbwL2N2"
+    },
+    {
+      "artistName": "Chyi Chin",
+      "positioning": {
+        "top": 469,
+        "left": 482
+      },
+      "style": {
+        "color": "#619b03",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e83d8eaf71033d248d36f7a3fd2d5c47ad41af9",
+        "title": "e.g. Chyi Chin \"大約在冬季\"",
+        "trackId": "5Oi1UhGQq2B7me6uPpAcc2"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=4VhiuMC32Qj7pVW3e6Nlms",
+      "id": "4VhiuMC32Qj7pVW3e6Nlms"
+    },
+    {
+      "artistName": "Michael Kwan",
+      "positioning": {
+        "top": 580,
+        "left": 487
+      },
+      "style": {
+        "color": "#58a002",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f3baea19ccacc471edee558437a5a59f82374049",
+        "title": "e.g. Michael Kwan \"人在旅途灑淚時 - 電視劇 “人在江湖 ” 插曲\"",
+        "trackId": "7MAaqOZpnsulxagFClekUS"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=6t12u8eGw0eN6AcMtUMkoG",
+      "id": "6t12u8eGw0eN6AcMtUMkoG"
+    },
+    {
+      "artistName": "Lowell Lo",
+      "positioning": {
+        "top": 495,
+        "left": 752
+      },
+      "style": {
+        "color": "#629602",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/664256cda2fd8e51222a478f3a4e6e36a571130d",
+        "title": "e.g. Lowell Lo \"一生所愛\"",
+        "trackId": "6zzVfWt16XAejBMA0mnDvg"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=0PBs3xfhn0PA6irWFrknJ4",
+      "id": "0PBs3xfhn0PA6irWFrknJ4"
+    },
+    {
+      "artistName": "Kenny Bee",
+      "positioning": {
+        "top": 458,
+        "left": 960
+      },
+      "style": {
+        "color": "#709504",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/55661071deac678b1ab66b0d1445a73ff29d7db1",
+        "title": "e.g. Kenny Bee \"讓一切隨風\"",
+        "trackId": "0lvwP60MlhzxZ7mnxWt6oa"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=1SnFcgaLa1l0bV8ZOEL3Cg",
+      "id": "1SnFcgaLa1l0bV8ZOEL3Cg"
+    },
+    {
+      "artistName": "Christopher Wong",
+      "positioning": {
+        "top": 371,
+        "left": 846
+      },
+      "style": {
+        "color": "#6f9904",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c1521f0202ac25e8af05abc0d5689b1331f69f45",
+        "title": "e.g. Christopher Wong \"雨中的戀人們\"",
+        "trackId": "5ZZUeqoDrKOZs0YAsFF7pR"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=5kMXXkEwTVEXEMF1VBf17q",
+      "id": "5kMXXkEwTVEXEMF1VBf17q"
+    },
+    {
+      "artistName": "Vivian Lai",
+      "positioning": {
+        "top": 384,
+        "left": 861
+      },
+      "style": {
+        "color": "#789900",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/432860edc79f40503fcf337bac12782d1e6b537f",
+        "title": "e.g. Vivian Lai \"一人有一個夢想\"",
+        "trackId": "5bRt9Vs7UPznXM6EfBhiZ1"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=1c18L1dF6HDTrAqYt4qMlI",
+      "id": "1c18L1dF6HDTrAqYt4qMlI"
+    },
+    {
+      "artistName": "Jackie Chan",
+      "positioning": {
+        "top": 268,
+        "left": 861
+      },
+      "style": {
+        "color": "#888613",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fd11790a74f55469dcbc3a9e03df7c3203e1b28",
+        "title": "e.g. Jackie Chan \"真心英雄\"",
+        "trackId": "1VcwIxoUBHE2RPL87sDBUy"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=0wVKXWiOMLfqmFCdCPR7Ar",
+      "id": "0wVKXWiOMLfqmFCdCPR7Ar"
+    },
+    {
+      "artistName": "Cally Kwong",
+      "positioning": {
+        "top": 411,
+        "left": 903
+      },
+      "style": {
+        "color": "#6a9a01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b01d76a8dec2179b658fbcd595f8b5594e9e01cc",
+        "title": "e.g. Cally Kwong \"堆積情感\"",
+        "trackId": "5Gs71kpuLS4EDgGkCJYgFQ"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=0Dx75BcGd0qLi7y1kqRlad",
+      "id": "0Dx75BcGd0qLi7y1kqRlad"
+    },
+    {
+      "artistName": "Frances Yip",
+      "positioning": {
+        "top": 556,
+        "left": 619
+      },
+      "style": {
+        "color": "#719607",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bfc8e34eb9ce4c3c9dacefa94776d9d077d7e24e",
+        "title": "e.g. Frances Yip \"上海灘 - 無線電視劇[上海灘]主題曲\"",
+        "trackId": "0NMzmmXi6DCUo8tijwHvCe"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=4IVGDZOvqtiXxQpAHbNRmI",
+      "id": "4IVGDZOvqtiXxQpAHbNRmI"
+    },
+    {
+      "artistName": "Tat Ming Pair",
+      "positioning": {
+        "top": 236,
+        "left": 709
+      },
+      "style": {
+        "color": "#968406",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5e207d853cffb12da735046bd9de2a333025903b",
+        "title": "e.g. Tat Ming Pair \"石頭記 - 電影「金燕子」主題曲\"",
+        "trackId": "1Plo7aqKmkCDRqaxNlgaOt"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=2cvtzIo0OSIAkyr7LisIT6",
+      "id": "2cvtzIo0OSIAkyr7LisIT6"
+    },
+    {
+      "artistName": "蔡國權",
+      "positioning": {
+        "top": 381,
+        "left": 1092
+      },
+      "style": {
+        "color": "#719d01",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/00ced0add95935e96b1a197b37416e0f0f75cafa",
+        "title": "e.g. 蔡國權 \"順流逆流\"",
+        "trackId": "0B84kCPn1wwqAHvpESpscV"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=1Um3mUSS03Q0zApJwu5xUw",
+      "id": "1Um3mUSS03Q0zApJwu5xUw"
+    },
+    {
+      "artistName": "Dicky Cheung",
+      "positioning": {
+        "top": 177,
+        "left": 955
+      },
+      "style": {
+        "color": "#a18300",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8445edf23c4821f49a564468542b04645a1a43ef",
+        "title": "e.g. Dicky Cheung \"你愛我像誰\"",
+        "trackId": "5SDuFSLVA43qNlgC39XGi1"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=05U40G1dajZMe9KdTG8LTo",
+      "id": "05U40G1dajZMe9KdTG8LTo"
+    },
+    {
+      "artistName": "姚蘇蓉",
+      "positioning": {
+        "top": 780,
+        "left": 544
+      },
+      "style": {
+        "color": "#689c04",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a3744bc4f6c1e445f05ba9b9bba1eb3234eff796",
+        "title": "e.g. 姚蘇蓉 \"今天不回家\"",
+        "trackId": "2DeogNm5FJHoo5p4DApG9Z"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=5GuBMWlDG2nWafBiFSiALO",
+      "id": "5GuBMWlDG2nWafBiFSiALO"
+    },
+    {
+      "artistName": "崔健",
+      "positioning": {
+        "top": 252,
+        "left": 1059
+      },
+      "style": {
+        "color": "#a5740e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d59a5b247fdce5b9a446ce7418c3cadcc9e7818c",
+        "title": "e.g. 崔健 \"花房姑娘\"",
+        "trackId": "6rfWywxF7VQEBig0KfGOpU"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=1YwBQZlsK015NpwaF8gpd9",
+      "id": "1YwBQZlsK015NpwaF8gpd9"
+    },
+    {
+      "artistName": "周璇",
+      "positioning": {
+        "top": 883,
+        "left": 600
+      },
+      "style": {
+        "color": "#3aa25a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7eeca26130e22ba6c3504770ff1c657adb8aa79",
+        "title": "e.g. 周璇 \"月圓花好\"",
+        "trackId": "0VcTi8CYXUgz2UBKbWW8UD"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=1bONVLlQIiuULYblokrPxj",
+      "id": "1bONVLlQIiuULYblokrPxj"
+    },
+    {
+      "artistName": "Prudence Liew",
+      "positioning": {
+        "top": 319,
+        "left": 1059
+      },
+      "style": {
+        "color": "#848d00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f282c660256881feea8d8328c7cbca246b9c1301",
+        "title": "e.g. Prudence Liew \"午夜情\"",
+        "trackId": "5GU7dsMMFeelumheTra30F"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=7CgMLbkDNX2GegKzzekbXr",
+      "id": "7CgMLbkDNX2GegKzzekbXr"
+    },
+    {
+      "artistName": "劉秋儀",
+      "positioning": {
+        "top": 483,
+        "left": 752
+      },
+      "style": {
+        "color": "#979401",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/230c5c57236f5c200085348f75d216b608c51e4a",
+        "title": "e.g. 劉秋儀 \"萍聚 - 修復版\"",
+        "trackId": "70XtiC10SIC2ualKPnKvKV"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=4bI5ci3Z8RnhENcrwpzTIT",
+      "id": "4bI5ci3Z8RnhENcrwpzTIT"
+    },
+    {
+      "artistName": "劉家昌",
+      "positioning": {
+        "top": 637,
+        "left": 270
+      },
+      "style": {
+        "color": "#699407",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ef8246074834fe200749b3da8c8ecf8463936eb4",
+        "title": "e.g. 劉家昌 \"在雨中\"",
+        "trackId": "6R12ASXt8WfBtxXl90QPYL"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=40eYkW0AjitO80b7Sxtnhg",
+      "id": "40eYkW0AjitO80b7Sxtnhg"
+    },
+    {
+      "artistName": "青山",
+      "positioning": {
+        "top": 673,
+        "left": 359
+      },
+      "style": {
+        "color": "#5e9a07",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1de34910710dcfdac8906eabd48c644d9980be61",
+        "title": "e.g. 青山 \"尋夢園\"",
+        "trackId": "0QsNVAxE5l58kp5KARDeaU"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=06eIWxoPqln2UoSboMq08H",
+      "id": "06eIWxoPqln2UoSboMq08H"
+    },
+    {
+      "artistName": "姚莉",
+      "positioning": {
+        "top": 846,
+        "left": 1017
+      },
+      "style": {
+        "color": "#3aa212",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7d30b0ec34f3df728ff802f989e963f0be09540",
+        "title": "e.g. 姚莉 \"人生就是戲 - 電影\"入室佳人\"插曲\"",
+        "trackId": "33CADHAQpjk54klrUrznva"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=3agVasaCG20vNRxAE8niec",
+      "id": "3agVasaCG20vNRxAE8niec"
+    },
+    {
+      "artistName": "夏韶聲",
+      "positioning": {
+        "top": 480,
+        "left": 1002
+      },
+      "style": {
+        "color": "#739106",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f3b8b13382b215588452b5793da4254b0bfe7ee8",
+        "title": "e.g. 夏韶聲 \"空凳\"",
+        "trackId": "6Hgl5LpipHYTWtxK9GihEr"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=4xXPOPbcagqTbEXLUIeYSl",
+      "id": "4xXPOPbcagqTbEXLUIeYSl"
+    },
+    {
+      "artistName": "紫薇",
+      "positioning": {
+        "top": 648,
+        "left": 473
+      },
+      "style": {
+        "color": "#4ea302",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9a1a078be4846cc1a38b5cc91c52f167aae2f7a9",
+        "title": "e.g. 紫薇 \"天涯歌女\"",
+        "trackId": "1o0QkKTS25XVMf0RCwfiIv"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=3YBu0JqKn8W63SHCeFDmZr",
+      "id": "3YBu0JqKn8W63SHCeFDmZr"
+    },
+    {
+      "artistName": "張露",
+      "positioning": {
+        "top": 771,
+        "left": 1054
+      },
+      "style": {
+        "color": "#569612",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/407f52f2f56f650c901ed0cce2595ab87dfe0379",
+        "title": "e.g. 張露 \"給我一個吻\"",
+        "trackId": "3YA3BwOeEv8vvzLAo14hyx"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=5OSr1J92YEsVUjPmA20puE",
+      "id": "5OSr1J92YEsVUjPmA20puE"
+    },
+    {
+      "artistName": "白光",
+      "positioning": {
+        "top": 846,
+        "left": 350
+      },
+      "style": {
+        "color": "#41a12f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1522bfee07325c0d39804df621e76457c85e0d09",
+        "title": "e.g. 白光 \"等著你回來\"",
+        "trackId": "47sJLGlnC15q1ZLPDt1H5X"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=7thwsuVqcX7BytxdLNT51E",
+      "id": "7thwsuVqcX7BytxdLNT51E"
+    },
+    {
+      "artistName": "Tsui Ping",
+      "positioning": {
+        "top": 825,
+        "left": 180
+      },
+      "style": {
+        "color": "#4aa306",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11c9cd80069affe7e431d787a418d103ca5e3fef",
+        "title": "e.g. Tsui Ping \"今宵多珍重\"",
+        "trackId": "6Q5V26suOKVjUpJpnU8PkY"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=5CnOxpBPKy53rVOQ77bUYO",
+      "id": "5CnOxpBPKy53rVOQ77bUYO"
+    },
+    {
+      "artistName": "Jonathan Lee McElhenny",
+      "positioning": {
+        "top": 249,
+        "left": 76
+      },
+      "style": {
+        "color": "#958d0e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4b95dd92eaf5d57ef7d0332ec28917c53c87e2b7",
+        "title": "e.g. Jonathan Lee McElhenny \"What Could Have Been\"",
+        "trackId": "0mY8ZOtLOSZqTqSjP8dFu7"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=08vxD3roX2JckYwjZZVjr2",
+      "id": "08vxD3roX2JckYwjZZVjr2"
+    },
+    {
+      "artistName": "Poon Sow Keng",
+      "positioning": {
+        "top": 594,
+        "left": 383
+      },
+      "style": {
+        "color": "#5e9e00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10ac6dab984da78396b49ae94f00ab9bbd22aa48",
+        "title": "e.g. Poon Sow Keng \"情人的眼淚\"",
+        "trackId": "2lgWSqcNpbqz9bnBqrQaHd"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=2xeNseBITTvjwbS7BzPI9U",
+      "id": "2xeNseBITTvjwbS7BzPI9U"
+    },
+    {
+      "artistName": "刘欢",
+      "positioning": {
+        "top": 485,
+        "left": 0
+      },
+      "style": {
+        "color": "#7b9202",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c4d9a253edb87d31d4eb6b38675ac6ecdcb67c23",
+        "title": "e.g. 刘欢 \"好汉歌\"",
+        "trackId": "4pPjpyCJE2MqVwKmqg5Gea"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=3K4aEHMBQbW2hJVAhooLGy",
+      "id": "3K4aEHMBQbW2hJVAhooLGy"
+    },
+    {
+      "artistName": "Tsin Ting",
+      "positioning": {
+        "top": 819,
+        "left": 421
+      },
+      "style": {
+        "color": "#50a006",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f12735b55119392a80d88fd91e31a2eb8f3c8870",
+        "title": "e.g. Tsin Ting \"春風吻上我的臉\"",
+        "trackId": "3u8F6pN9qhblEok7kUcJbW"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=1QIkyfmfofV0AVDuzn6Ew9",
+      "id": "1QIkyfmfofV0AVDuzn6Ew9"
+    },
+    {
+      "artistName": "美黛",
+      "positioning": {
+        "top": 771,
+        "left": 624
+      },
+      "style": {
+        "color": "#40a702",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51522501087828ea53349bb5bfb548ba4ea1e086",
+        "title": "e.g. 美黛 \"我在你左右\"",
+        "trackId": "3RtxECi7ibVsamKbrLvTPH"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=7jUYaw1IyegjrwDNXzr7Qh",
+      "id": "7jUYaw1IyegjrwDNXzr7Qh"
+    },
+    {
+      "artistName": "李香蘭",
+      "positioning": {
+        "top": 854,
+        "left": 128
+      },
+      "style": {
+        "color": "#49a71b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95e75709e0071f5775dd8521185f37dbf0adca7a",
+        "title": "e.g. 李香蘭 \"三年\"",
+        "trackId": "5ZrrCwjFG1F8Mo7LL4TDUf"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=2vMJQwaL3gFEDScNaNj2ZR",
+      "id": "2vMJQwaL3gFEDScNaNj2ZR"
+    },
+    {
+      "artistName": "Ying Yin Wu",
+      "positioning": {
+        "top": 835,
+        "left": 747
+      },
+      "style": {
+        "color": "#43a20b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ebdcdacab2fef965d7f597f2c927bdfbd17a53e",
+        "title": "e.g. Ying Yin Wu \"岷江夜曲\"",
+        "trackId": "2wsrNY3uHtlS77XUDnwAXj"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=4Id8e7ATmAtOVCX9S0Jc0F",
+      "id": "4Id8e7ATmAtOVCX9S0Jc0F"
+    },
+    {
+      "artistName": "張小英",
+      "positioning": {
+        "top": 622,
+        "left": 619
+      },
+      "style": {
+        "color": "#9b8f00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cdbf710213972bf43867b9e8ff11d5b40496b7be",
+        "title": "e.g. 張小英 \"心上人 - 修復版\"",
+        "trackId": "3MN91OCR9bGMT8OS79TvqX"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=4pqvGhGevu2moCcbRLEWxt",
+      "id": "4pqvGhGevu2moCcbRLEWxt"
+    },
+    {
+      "artistName": "顧媚",
+      "positioning": {
+        "top": 899,
+        "left": 317
+      },
+      "style": {
+        "color": "#45a30b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6588729cdb08f4269f096791933fc1409383a3f2",
+        "title": "e.g. 顧媚 \"相思河畔\"",
+        "trackId": "3jPy0szQzTntTic3TwcSoQ"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=5LRTdQUen8N2M8G2eKcodc",
+      "id": "5LRTdQUen8N2M8G2eKcodc"
+    },
+    {
+      "artistName": "李谷一",
+      "positioning": {
+        "top": 748,
+        "left": 52
+      },
+      "style": {
+        "color": "#49a006",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bccb389788f20d3b28fa91b81e15cf0f8121e4ab",
+        "title": "e.g. 李谷一 \"难忘今宵\"",
+        "trackId": "3GBK3loAuZFO992N1GqVUH"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=411ErRicsAi6V56Mc4rHQM",
+      "id": "411ErRicsAi6V56Mc4rHQM"
+    },
+    {
+      "artistName": "Yun Liu",
+      "positioning": {
+        "top": 693,
+        "left": 714
+      },
+      "style": {
+        "color": "#599806",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/142faeeae267eed36d44ed94e603bf8eb44ffad1",
+        "title": "e.g. Yun Liu \"姑娘十八一朵花\"",
+        "trackId": "6sgX3PLQXe9rdZMUnhxi4t"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=1kVpOgdsSLo9r6AWUN2iAK",
+      "id": "1kVpOgdsSLo9r6AWUN2iAK"
+    },
+    {
+      "artistName": "You Ya",
+      "positioning": {
+        "top": 716,
+        "left": 435
+      },
+      "style": {
+        "color": "#6f9b09",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/743fe8246ee42b2549bb5b7fb77451e341eb57c2",
+        "title": "e.g. You Ya \"忘不了初恋情人\"",
+        "trackId": "5IHTRicrAa8IYsTvVlu9SR"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=0WgJMLCZ8MrfmXkqWphAM1",
+      "id": "0WgJMLCZ8MrfmXkqWphAM1"
+    },
+    {
+      "artistName": "青山",
+      "positioning": {
+        "top": 701,
+        "left": 402
+      },
+      "style": {
+        "color": "#6c9a01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5d57c97201ed9fc3ab7a212ffdf6d4009ebd066",
+        "title": "e.g. 青山 \"今夜雨蒙蒙\"",
+        "trackId": "4jjFOheORYO7C6dCDtq505"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=1dmJhQpgJH97Lsysy3w5sj",
+      "id": "1dmJhQpgJH97Lsysy3w5sj"
+    },
+    {
+      "artistName": "林竹君",
+      "positioning": {
+        "top": 644,
+        "left": 600
+      },
+      "style": {
+        "color": "#699c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fbef418451636a5863add85b1fef86a247e54d80",
+        "title": "e.g. 林竹君 \"心上人\"",
+        "trackId": "4tpMQi1MM7G1BInTVpJbS2"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=2eJlg2DfxnBoI3AFu52DLQ",
+      "id": "2eJlg2DfxnBoI3AFu52DLQ"
+    },
+    {
+      "artistName": "龔秋霞",
+      "positioning": {
+        "top": 900,
+        "left": 345
+      },
+      "style": {
+        "color": "#2bab18",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a446b7343598c45824f34d0a608341cf6a37060",
+        "title": "e.g. 龔秋霞 \"秋水伊人\"",
+        "trackId": "5zcZAd8a3K1QDGaAWr444k"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=2ppIIDLbKa3tBqyJ4G9Q6M",
+      "id": "2ppIIDLbKa3tBqyJ4G9Q6M"
+    },
+    {
+      "artistName": "Liu Jia Chang",
+      "positioning": {
+        "top": 595,
+        "left": 572
+      },
+      "style": {
+        "color": "#9f8b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c3746bd67b083771404c4f0eb069bc503a68cabe",
+        "title": "e.g. Liu Jia Chang \"River of Clouds\"",
+        "trackId": "24wYkzlq54YMriztqwNPXs"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=0VyVCPxnOeV3WqPjl6WWd3",
+      "id": "0VyVCPxnOeV3WqPjl6WWd3"
+    },
+    {
+      "artistName": "Julie Su",
+      "positioning": {
+        "top": 0,
+        "left": 482
+      },
+      "style": {
+        "color": "#b87c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=1r97MOmdKv9psg6cEM8wLt",
+      "id": "1r97MOmdKv9psg6cEM8wLt"
+    },
+    {
+      "artistName": "Roman Tam",
+      "positioning": {
+        "top": 114,
+        "left": 1400
+      },
+      "style": {
+        "color": "#bb8400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=2a8qNGwlpAj8O35WYYPOxL",
+      "id": "2a8qNGwlpAj8O35WYYPOxL"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=c-pop"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/1xyLXFq8PsdtkBeTmWqRjQ"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/58hZQqYkSmZllCGpK8Cnvo"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7KtTTZxbGsAGLKlY25EC00"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/3LwPzgtAziJn93hHdGONgQ"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=c-pop"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "classic cantopop",
+      "positioning": {
+        "top": 62,
+        "left": 300
+      },
+      "style": {
+        "color": "#7e9103",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6eaf77d08c1fc650fd51e691511b3d65974e32ee",
+        "title": "e.g. Annabelle Lui \"舊夢不須記 - 電影\"舊夢不須記\"主題曲\"",
+        "trackId": "5L05QWKGIh3n5fn3jDX3bx"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-classiccantopop.html#tunnel"
+    },
+    {
+      "genreName": "classic mandopop",
+      "positioning": {
+        "top": 165,
+        "left": 125
+      },
+      "style": {
+        "color": "#719805",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dcdc3e0e91576720a4c64599adb5e4cd94523997",
+        "title": "e.g. 娃娃 \"飄洋過海來看你\"",
+        "trackId": "31xFm6EuErUjw8ZqJ1L0P7"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-classicmandopop.html#tunnel"
+    },
+    {
+      "genreName": "cantopop",
+      "positioning": {
+        "top": 0,
+        "left": 288
+      },
+      "style": {
+        "color": "#898e05",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c9c0d009717ab8de9cf97e92ff0b62cc9e0254c",
+        "title": "e.g. Vincy Chan \"感應\"",
+        "trackId": "5JHcpKOc9zpZTWlpdaZKvo"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-cantopop.html#tunnel"
+    },
+    {
+      "genreName": "vintage chinese pop",
+      "positioning": {
+        "top": 300,
+        "left": 129
+      },
+      "style": {
+        "color": "#6a9a08",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1a317578e6e352e16328cd69c03c92880019e78",
+        "title": "e.g. 白虹 \"醉人的口紅\"",
+        "trackId": "5WN1OQDR4Cdq5e1fyFJPdE"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-vintagechinesepop.html#tunnel"
+    },
+    {
+      "genreName": "lilith",
+      "positioning": {
+        "top": 62,
+        "left": 242
+      },
+      "style": {
+        "color": "#7e9209",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b607a1315744ee96ec0afb301eadcfc99e4bf855",
+        "title": "e.g. Indigo Girls \"Closer to Fine\"",
+        "trackId": "7rKyITVLEwldhdXIy7P6Vw"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-lilith.html#tunnel"
+    },
+    {
+      "genreName": "acoustic pop",
+      "positioning": {
+        "top": 99,
+        "left": 238
+      },
+      "style": {
+        "color": "#76980c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09c4463827e7a7caded93593c834f4dc67428522",
+        "title": "e.g. Peter Bradley Adams \"My Arms Were Always Around You\"",
+        "trackId": "53iFMaNUXn6Oj8hUIKSO5a"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-acousticpop.html#tunnel"
+    },
+    {
+      "genreName": "brazilian ccm",
+      "positioning": {
+        "top": 99,
+        "left": 132
+      },
+      "style": {
+        "color": "#7a960d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7fd3ffcf6593a760f0c810d681d121f580e14f1",
+        "title": "e.g. Salette Ferreira \"Deus Cuida de Mim\"",
+        "trackId": "2DsGQtBzqFvXk3w2DZlJNQ"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-brazilianccm.html#tunnel"
+    },
+    {
+      "genreName": "taiwan singer-songwriter",
+      "positioning": {
+        "top": 50,
+        "left": 222
+      },
+      "style": {
+        "color": "#7e920e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d2182ca36e14b745de5aeaedc5910b65617f8953",
+        "title": "e.g. Sandee Chan \"成為一個厲害的普通人\"",
+        "trackId": "17nwyYPZ6vTXoLH5suqxdN"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-taiwansingersongwriter.html#tunnel"
+    },
+    {
+      "genreName": "queer country",
+      "positioning": {
+        "top": 192,
+        "left": 238
+      },
+      "style": {
+        "color": "#78940a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24be79cfcba71cdd134c220b40ae4fb9bfb1d5eb",
+        "title": "e.g. Paisley Fields \"Ride Me Cowboy\"",
+        "trackId": "3TdwOxeKcl7yhvTas8mqiB"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-queercountry.html#tunnel"
+    },
+    {
+      "genreName": "opm",
+      "positioning": {
+        "top": 87,
+        "left": 210
+      },
+      "style": {
+        "color": "#799711",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c41f36887dbab20b60ca7da3ab210abe6ad9db73",
+        "title": "e.g. Moonstar88 \"Migraine\"",
+        "trackId": "7sW3f7PqDV7BQ7qqeVBJIA"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-opm.html#tunnel"
+    },
+    {
+      "genreName": "svensk lovsang",
+      "positioning": {
+        "top": 87,
+        "left": 94
+      },
+      "style": {
+        "color": "#769409",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f497845d8ed67487628060a0d505d1b8f818720",
+        "title": "e.g. Mattias Martinson \"I Ditt ansiktes ljus\"",
+        "trackId": "5Ier0TABOX7GF1z5mGudlF"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-svensklovsang.html#tunnel"
+    },
+    {
+      "genreName": "xinyao",
+      "positioning": {
+        "top": 138,
+        "left": 140
+      },
+      "style": {
+        "color": "#729807",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0e87b31e64526f046d53059d1268310c87c88404",
+        "title": "e.g. Kit Chan \"喜欢你\"",
+        "trackId": "5kSnQWC7k7LCe650Td0sxI"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-xinyao.html#tunnel"
+    },
+    {
+      "genreName": "classic opm",
+      "positioning": {
+        "top": 180,
+        "left": 203
+      },
+      "style": {
+        "color": "#719710",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8a27521dd44bab80640dff0c90518dcd6eb06fad",
+        "title": "e.g. Leah Navarro \"Ang Pag-Ibig Kong Ito\"",
+        "trackId": "2rPuNCmYXiAwYxChgZpamG"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-classicopm.html#tunnel"
+    },
+    {
+      "genreName": "muzica crestina",
+      "positioning": {
+        "top": 111,
+        "left": 113
+      },
+      "style": {
+        "color": "#799612",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d5deccdee93e1353ddfde5c9e658c01e032bdc35",
+        "title": "e.g. Ciurdas Andrei \"Domnul Meu, Lumina Mea\"",
+        "trackId": "4AzXfjbY5H9AguXhqDsMtR"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-muzicacrestina.html#tunnel"
+    },
+    {
+      "genreName": "a cappella",
+      "positioning": {
+        "top": 165,
+        "left": 281
+      },
+      "style": {
+        "color": "#769107",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53ef0ab7280285de101be48bd7a0394bfea17707",
+        "title": "e.g. Tufts Beelzebubs \"Hey Juliet\"",
+        "trackId": "5sCrcqn74sRGARWDwI4llo"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-acappella.html#tunnel"
+    },
+    {
+      "genreName": "taiwan campus folk",
+      "positioning": {
+        "top": 257,
+        "left": 0
+      },
+      "style": {
+        "color": "#619c07",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/696fe90c73216b3c5d5a92504bb11c060e72b380",
+        "title": "e.g. 潘安邦 \"外婆的澎湖灣\"",
+        "trackId": "2q6eeMRQTUDyZmT3rM5QaY"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-taiwancampusfolk.html#tunnel"
+    },
+    {
+      "genreName": "family gospel",
+      "positioning": {
+        "top": 204,
+        "left": 168
+      },
+      "style": {
+        "color": "#759409",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/877a92acd7ecc1fc1e8f17394d41f80dd432f60a",
+        "title": "e.g. The Whisnants \"Is Anything Too Hard For God?\"",
+        "trackId": "5pH7ZbZYrU4o7JC0KbyLq4"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-familygospel.html#tunnel"
+    },
+    {
+      "genreName": "vietnamese bolero",
+      "positioning": {
+        "top": 153,
+        "left": 175
+      },
+      "style": {
+        "color": "#809a04",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/831c258c9a2a059f9f7454c38ea647a24cf6252b",
+        "title": "e.g. Lưu Ánh Loan \"Nếu Anh Đừng Hẹn\"",
+        "trackId": "7syZN8HGBwjwgSf5rQAlVq"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-vietnamesebolero.html#tunnel"
+    },
+    {
+      "genreName": "kayokyoku",
+      "positioning": {
+        "top": 87,
+        "left": 249
+      },
+      "style": {
+        "color": "#848f0b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ff6aaeb593acd36db4b03acbdd7746ac1ab11cf",
+        "title": "e.g. Hitomi Ishikawa \"まちぶせ\"",
+        "trackId": "08vpJLMyKhYe5RZa5TVgRe"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-kayokyoku.html#tunnel"
+    },
+    {
+      "genreName": "pei indie",
+      "positioning": {
+        "top": 75,
+        "left": 183
+      },
+      "style": {
+        "color": "#7f940f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d7b6fa7d263ddffd7ac191cef6437adca3a5498f",
+        "title": "e.g. Logan Richard \"The Start\"",
+        "trackId": "2gAl1eR8nHULoGJ6YwgqBj"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-peiindie.html#tunnel"
+    }
+  ]
+}

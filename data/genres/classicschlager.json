@@ -1,0 +1,4369 @@
+{
+  "schemaVersion": 3,
+  "genreName": "classic schlager",
+  "artists": [
+    {
+      "artistName": "Roland Kaiser",
+      "positioning": {
+        "top": 520,
+        "left": 486
+      },
+      "style": {
+        "color": "#b78004",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/917ed0829c498e463d9595aa358eb49f8c3bc2cf",
+        "title": "e.g. Roland Kaiser \"Warum hast Du nicht nein gesagt - Club Mix\"",
+        "trackId": "1OGxXjPkblmZPjoi17xN6T"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=1uphmI1bErhHslREq9QusL",
+      "id": "1uphmI1bErhHslREq9QusL"
+    },
+    {
+      "artistName": "Matthias Reim",
+      "positioning": {
+        "top": 218,
+        "left": 383
+      },
+      "style": {
+        "color": "#c67d02",
+        "fontSize": "153%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db3fa6031662c4991dd58c52cd2990bd792b63a1",
+        "title": "e.g. Matthias Reim \"Verdammt Ich lieb' dich\"",
+        "trackId": "2XEwnFyQhDBHq6rFEaAOQj"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=3fgh28NoU2ArVdUdymvnf3",
+      "id": "3fgh28NoU2ArVdUdymvnf3"
+    },
+    {
+      "artistName": "Wolfgang Petry",
+      "positioning": {
+        "top": 242,
+        "left": 652
+      },
+      "style": {
+        "color": "#c77c02",
+        "fontSize": "151%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b39bf1134ca39d4765789bae62589103cc323018",
+        "title": "e.g. Wolfgang Petry \"Verlieben, verloren, vergessen, verzeih'n\"",
+        "trackId": "2WysCkH85JSZbWAAIsLQWE"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=0JLbfIT1Z20raMAVYWtCD7",
+      "id": "0JLbfIT1Z20raMAVYWtCD7"
+    },
+    {
+      "artistName": "DJ Ötzi",
+      "positioning": {
+        "top": 67,
+        "left": 545
+      },
+      "style": {
+        "color": "#e46d01",
+        "fontSize": "150%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a742aaadd642d00382b3e9ede9f13ad04a3337a2",
+        "title": "e.g. DJ Ötzi \"Hey Baby (Radio Mix)\"",
+        "trackId": "0HNXnhNZZtRZFLhP4hfyCP"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=0DR4z5jMA1eqx0CmHBUpkr",
+      "id": "0DR4z5jMA1eqx0CmHBUpkr"
+    },
+    {
+      "artistName": "Maite Kelly",
+      "positioning": {
+        "top": 273,
+        "left": 839
+      },
+      "style": {
+        "color": "#bb8400",
+        "fontSize": "148%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ff645237927d329e2fe781b45345c6e23d3d50f",
+        "title": "e.g. Maite Kelly \"Sieben Leben für dich\"",
+        "trackId": "3vMiVz4dMHyHVkWuduPTfj"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=67e4k4hUdeTb0UIm878liJ",
+      "id": "67e4k4hUdeTb0UIm878liJ"
+    },
+    {
+      "artistName": "Howard Carpendale",
+      "positioning": {
+        "top": 594,
+        "left": 515
+      },
+      "style": {
+        "color": "#9b8a04",
+        "fontSize": "143%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f31c0fe1c72e061213143406b0fc73c9cbf88ec1",
+        "title": "e.g. Howard Carpendale \"Ti Amo\"",
+        "trackId": "1CKihAZUQIsMAlVHgqlRaf"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=4MBr9OSalM5lcFFcmtACoF",
+      "id": "4MBr9OSalM5lcFFcmtACoF"
+    },
+    {
+      "artistName": "Andrea Berg",
+      "positioning": {
+        "top": 304,
+        "left": 801
+      },
+      "style": {
+        "color": "#bf8401",
+        "fontSize": "143%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b77b03307e187f9cf783a41a26d00b8089d14698",
+        "title": "e.g. Andrea Berg \"Du hast mich tausendmal belogen\"",
+        "trackId": "65wKbNqjUTmdyk47Z31Czm"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=5dXbkgq9goxRAwCFoNU9Dp",
+      "id": "5dXbkgq9goxRAwCFoNU9Dp"
+    },
+    {
+      "artistName": "Udo Jürgens",
+      "positioning": {
+        "top": 747,
+        "left": 575
+      },
+      "style": {
+        "color": "#948406",
+        "fontSize": "142%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83c99c0fa028bb3dd6b3c494bddc2a1bd2cb17ff",
+        "title": "e.g. Udo Jürgens \"Griechischer Wein\"",
+        "trackId": "2f8Hc0w7BpDtzwoa6BHKec"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=2G0htB8PxlO2onxnIismur",
+      "id": "2G0htB8PxlO2onxnIismur"
+    },
+    {
+      "artistName": "Roger Whittaker",
+      "positioning": {
+        "top": 612,
+        "left": 379
+      },
+      "style": {
+        "color": "#91880a",
+        "fontSize": "141%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c0e5e1816bd8ad38cefce90962869763d04a24d9",
+        "title": "e.g. Roger Whittaker \"Ein bisschen Aroma - Stereoact Remix\"",
+        "trackId": "38lWlGRELJxyYGLNJvi48e"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=6pgfx4K1p1kT0RewXjmLfk",
+      "id": "6pgfx4K1p1kT0RewXjmLfk"
+    },
+    {
+      "artistName": "Michelle",
+      "positioning": {
+        "top": 438,
+        "left": 579
+      },
+      "style": {
+        "color": "#bd8604",
+        "fontSize": "140%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c594c6b5f4f009448cdf56a37cbd2368c9fe5fff",
+        "title": "e.g. Michelle \"Idiot - Version 2011\"",
+        "trackId": "4FZmjzFP31JGVPnpWanMEo"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=7aJNXzRL7Cac8L6KF7HKUO",
+      "id": "7aJNXzRL7Cac8L6KF7HKUO"
+    },
+    {
+      "artistName": "Peter Maffay",
+      "positioning": {
+        "top": 450,
+        "left": 724
+      },
+      "style": {
+        "color": "#957703",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/998e1e610dfa3ceab4b59e4bfdc19f13d1f189f6",
+        "title": "e.g. Peter Maffay \"Du\"",
+        "trackId": "6fFshpRdAV1MHSpzXP3Yyk"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=5W3s4beu23rOlseCbVOp4l",
+      "id": "5W3s4beu23rOlseCbVOp4l"
+    },
+    {
+      "artistName": "Beatrice Egli",
+      "positioning": {
+        "top": 105,
+        "left": 1124
+      },
+      "style": {
+        "color": "#d67d02",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c54c162124b73a9f33df31a720b136c4fb13013d",
+        "title": "e.g. Beatrice Egli \"Mein Herz\"",
+        "trackId": "1CINbWotyT3WDt9EDh3cww"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=7J8A1bNBCuikXoOOetFCKz",
+      "id": "7J8A1bNBCuikXoOOetFCKz"
+    },
+    {
+      "artistName": "Die Flippers",
+      "positioning": {
+        "top": 282,
+        "left": 277
+      },
+      "style": {
+        "color": "#aa8200",
+        "fontSize": "134%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bc8d07cf59277cdd93c3387db376004b4cb11491",
+        "title": "e.g. Die Flippers \"Wir sagen danke schön - DAS ORIGINAL\"",
+        "trackId": "5oCCVPPduu3KNtf9wRo1eV"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=043PrBIjao3PCKicMRvbgf",
+      "id": "043PrBIjao3PCKicMRvbgf"
+    },
+    {
+      "artistName": "Die Prinzen",
+      "positioning": {
+        "top": 467,
+        "left": 779
+      },
+      "style": {
+        "color": "#92840b",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1bfe9d2bba11a4cad3d73e2f48a6660ebb380b60",
+        "title": "e.g. Die Prinzen \"Alles nur geklaut\"",
+        "trackId": "6X1mehC9bJ1ExEip4HB79W"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=7F0bQWvv3rfV3EubmoQlwZ",
+      "id": "7F0bQWvv3rfV3EubmoQlwZ"
+    },
+    {
+      "artistName": "Anna-Maria Zimmermann",
+      "positioning": {
+        "top": 57,
+        "left": 758
+      },
+      "style": {
+        "color": "#e47002",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4c5e2123d63dfec78ece240ac74fd22c978bbdcc",
+        "title": "e.g. Anna-Maria Zimmermann \"1000 Träume weit (Tornero)\"",
+        "trackId": "5nu6DLPJ91h2lSKQuPDzYd"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=0sAQ6ln7fHovbG6Tk2Phrf",
+      "id": "0sAQ6ln7fHovbG6Tk2Phrf"
+    },
+    {
+      "artistName": "Münchener Freiheit",
+      "positioning": {
+        "top": 201,
+        "left": 307
+      },
+      "style": {
+        "color": "#b08402",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ad9f071ddf0728ddc07a80ee6d7592615ae636c",
+        "title": "e.g. Münchener Freiheit \"Ohne Dich (schlaf' ich heut Nacht nicht ein)\"",
+        "trackId": "7JM1dFLOa1kI5MqGnDufiY"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=353KPo8gVAfcZfwF7BPZDy",
+      "id": "353KPo8gVAfcZfwF7BPZDy"
+    },
+    {
+      "artistName": "Nik P.",
+      "positioning": {
+        "top": 58,
+        "left": 664
+      },
+      "style": {
+        "color": "#d67e02",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/349f86a6249bf2f31ac9e58b132681dd9044796e",
+        "title": "e.g. Nik P. \"Mit den Füßen im Meer\"",
+        "trackId": "1S1mpIFR1k9LeGsifoiT3Y"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=159oJddLiuKFNYTa3ZNueS",
+      "id": "159oJddLiuKFNYTa3ZNueS"
+    },
+    {
+      "artistName": "Spider Murphy Gang",
+      "positioning": {
+        "top": 416,
+        "left": 1026
+      },
+      "style": {
+        "color": "#c97107",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2695cf505bddc70109788e52287197af5d70f2d7",
+        "title": "e.g. Spider Murphy Gang \"Skandal im Sperrbezirk\"",
+        "trackId": "26kXONuhWX8sutaxnmcpPg"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=7LdEfCVOGOJ2jaAxsmnTeN",
+      "id": "7LdEfCVOGOJ2jaAxsmnTeN"
+    },
+    {
+      "artistName": "Jürgen Drews",
+      "positioning": {
+        "top": 187,
+        "left": 613
+      },
+      "style": {
+        "color": "#da6a00",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c199b0b14846f4169095755deba7e046b923606",
+        "title": "e.g. Jürgen Drews \"Ein Bett Im Kornfeld\"",
+        "trackId": "7DfHmCnSLftVHPvtFPFsmA"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=4rvJA6PKInIg35XkH4HESw",
+      "id": "4rvJA6PKInIg35XkH4HESw"
+    },
+    {
+      "artistName": "Juliane Werding",
+      "positioning": {
+        "top": 507,
+        "left": 681
+      },
+      "style": {
+        "color": "#998d02",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e8b2f7a25c7c5ab42d71e8059c56d0ef8ea2329",
+        "title": "e.g. Juliane Werding \"Am Tag, als Conny Kramer starb\"",
+        "trackId": "5xWGpcvb1q6N1IIJwtDNRF"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=1GxuBISOyVHyRO5GDZEz9C",
+      "id": "1GxuBISOyVHyRO5GDZEz9C"
+    },
+    {
+      "artistName": "Nino de Angelo",
+      "positioning": {
+        "top": 354,
+        "left": 396
+      },
+      "style": {
+        "color": "#b58002",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b2aeddd8271e57f21af8129c2368c0080e5c3183",
+        "title": "e.g. Nino de Angelo \"Jenseits von Eden - Single Version\"",
+        "trackId": "3oS0q79t6MUPzkKv8ykMcO"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=2TWKU6gA4uorXNGR193VlO",
+      "id": "2TWKU6gA4uorXNGR193VlO"
+    },
+    {
+      "artistName": "Klaus Lage",
+      "positioning": {
+        "top": 394,
+        "left": 1014
+      },
+      "style": {
+        "color": "#9d8400",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/602949d685aafc88475b3f92b34b054bb20b74cc",
+        "title": "e.g. Klaus Lage \"1000 und 1 Nacht - Remastered 2008\"",
+        "trackId": "52jP6hYf7FQxYiyK493YRb"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2gMAioN7m2k5XulfNClMRB",
+      "id": "2gMAioN7m2k5XulfNClMRB"
+    },
+    {
+      "artistName": "Vicky Leandros",
+      "positioning": {
+        "top": 593,
+        "left": 226
+      },
+      "style": {
+        "color": "#968900",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/92e75dd86d76b8c18f0fbfd5d1f8d92030f57ff9",
+        "title": "e.g. Vicky Leandros \"Ich liebe das Leben - Stereoact #Remix\"",
+        "trackId": "6JVxY1CIPVlFyKkCIRwS2L"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=68yjIBoc8l4GaliVFZDUcJ",
+      "id": "68yjIBoc8l4GaliVFZDUcJ"
+    },
+    {
+      "artistName": "Dschinghis Khan",
+      "positioning": {
+        "top": 174,
+        "left": 903
+      },
+      "style": {
+        "color": "#d07003",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20b356459cb5f2d99f6d2afdb6707d15982fff28",
+        "title": "e.g. Dschinghis Khan \"Moskau\"",
+        "trackId": "31wVu1EYhWOFCECXTqLWQ4"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=1g1nVvle9qO9AWIUWYvPAP",
+      "id": "1g1nVvle9qO9AWIUWYvPAP"
+    },
+    {
+      "artistName": "Semino Rossi",
+      "positioning": {
+        "top": 420,
+        "left": 243
+      },
+      "style": {
+        "color": "#af8a00",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8e02c408246cc3dbdc830b147905d0b2ee2671c",
+        "title": "e.g. Semino Rossi \"Was bitte was\"",
+        "trackId": "6wsVwFJxBUFDTT2L3Hu9xJ"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=5u7XKRtVQQxpaienPaIMN0",
+      "id": "5u7XKRtVQQxpaienPaIMN0"
+    },
+    {
+      "artistName": "Kastelruther Spatzen",
+      "positioning": {
+        "top": 423,
+        "left": 511
+      },
+      "style": {
+        "color": "#ac8803",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50efee4462407871d4c2e17364fc305fc482123f",
+        "title": "e.g. Kastelruther Spatzen \"Eine weiße Rose\"",
+        "trackId": "4mkdrO29qe9Uo6rgm7ixco"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=38C7mOgwJcs34XWndTcKke",
+      "id": "38C7mOgwJcs34XWndTcKke"
+    },
+    {
+      "artistName": "Florian Silbereisen",
+      "positioning": {
+        "top": 322,
+        "left": 835
+      },
+      "style": {
+        "color": "#ca792e",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f0a5dac0b1bb991ad85203ba837e02c6d9575da",
+        "title": "e.g. Florian Silbereisen \"Und brennen 100.000 Kerzen\"",
+        "trackId": "2lUJpPJfggQ4FYUeXb3Swj"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=4zgxsfsKRmAn6Wj2HXRYcq",
+      "id": "4zgxsfsKRmAn6Wj2HXRYcq"
+    },
+    {
+      "artistName": "Geier Sturzflug",
+      "positioning": {
+        "top": 203,
+        "left": 541
+      },
+      "style": {
+        "color": "#e05e02",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c1cdc07f97a4cd556eb2071f1c820e0da147ab8",
+        "title": "e.g. Geier Sturzflug \"Bruttosozialprodukt\"",
+        "trackId": "7KvP2ZTaarTcejYyR8KWPs"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=3vQGJGekBpxyOrob92qTcE",
+      "id": "3vQGJGekBpxyOrob92qTcE"
+    },
+    {
+      "artistName": "Oli. P",
+      "positioning": {
+        "top": 201,
+        "left": 1031
+      },
+      "style": {
+        "color": "#b58508",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/977e1837abe36d6bce517d803f31b173ec4bd277",
+        "title": "e.g. Oli. P \"Flugzeuge im Bauch - Radio Mix\"",
+        "trackId": "5tYNY1VFSIl30D9TQWcUJ1"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=4SP3LwSvQscEr8Fs3HfesU",
+      "id": "4SP3LwSvQscEr8Fs3HfesU"
+    },
+    {
+      "artistName": "Marianne Rosenberg",
+      "positioning": {
+        "top": 654,
+        "left": 490
+      },
+      "style": {
+        "color": "#a98508",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72fa5ac10029a73f8e610a3a634d196e7789ee75",
+        "title": "e.g. Marianne Rosenberg \"Er gehört zu mir\"",
+        "trackId": "3SA3ciNUJ8Bd2tua2UuLih"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=4RVBHXd0cu2qrEyv8jVjQZ",
+      "id": "4RVBHXd0cu2qrEyv8jVjQZ"
+    },
+    {
+      "artistName": "Nockis",
+      "positioning": {
+        "top": 382,
+        "left": 639
+      },
+      "style": {
+        "color": "#b68803",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2f56ca763dc1679d5ccbf3c83d120b90621d3f65",
+        "title": "e.g. Nockis \"Zieh dich an und geh\"",
+        "trackId": "4LOSfyGSRPjRbjudq43QVf"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=5zhgr2K8b8Zmp5exDcyM8y",
+      "id": "5zhgr2K8b8Zmp5exDcyM8y"
+    },
+    {
+      "artistName": "Bernhard Brink",
+      "positioning": {
+        "top": 354,
+        "left": 630
+      },
+      "style": {
+        "color": "#b77b01",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3dc823e5eb114c1cfbac2164c50aa0dbc3ebdfc",
+        "title": "e.g. Bernhard Brink \"Du hast mich einmal zu oft angesehen - Xtreme Sound Mix\"",
+        "trackId": "3qoMWo1JY6FZMh1aulUIrW"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=0rFjQZAuPOhjYhRaGHNbKR",
+      "id": "0rFjQZAuPOhjYhRaGHNbKR"
+    },
+    {
+      "artistName": "Hubert Kah",
+      "positioning": {
+        "top": 159,
+        "left": 877
+      },
+      "style": {
+        "color": "#b87d1c",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/123c4fc8a2026572c373146bb0119584ea452b9b",
+        "title": "e.g. Hubert Kah \"Sternenhimmel\"",
+        "trackId": "79hX0z70ufkP63Ocr4Jz4K"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=2ijskvLzfJbZvDXOfH6jRJ",
+      "id": "2ijskvLzfJbZvDXOfH6jRJ"
+    },
+    {
+      "artistName": "Nicole",
+      "positioning": {
+        "top": 313,
+        "left": 447
+      },
+      "style": {
+        "color": "#bc7f00",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c8aa30128ae0abb6b88e102842e40f37a4c6ef3f",
+        "title": "e.g. Nicole \"Ein bisschen Frieden - Stereoact #Remix\"",
+        "trackId": "2htsBWFGjnCmlb1c7eKLRZ"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=1C5PhB7zfGmDKaYLLt5GYZ",
+      "id": "1C5PhB7zfGmDKaYLLt5GYZ"
+    },
+    {
+      "artistName": "KLUBBB3",
+      "positioning": {
+        "top": 73,
+        "left": 894
+      },
+      "style": {
+        "color": "#df7500",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cb101206a9d1ef404bb7bcde0f0dd139c03773e2",
+        "title": "e.g. KLUBBB3 \"Du schaffst das schon\"",
+        "trackId": "4eh0ZnjqYVs5RDc4UZ8pu6"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=2GgpRPMDuW81boDje4soKs",
+      "id": "2GgpRPMDuW81boDje4soKs"
+    },
+    {
+      "artistName": "Truck Stop",
+      "positioning": {
+        "top": 566,
+        "left": 566
+      },
+      "style": {
+        "color": "#be7f02",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c58e1ec083288ff4f0a1f7a28b72896dc22c6f27",
+        "title": "e.g. Truck Stop \"Take It Easy, altes Haus\"",
+        "trackId": "2e2slZgDbTQOTQfv86s5r5"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=7eH4Ds7cmyDRSmmApbJHUc",
+      "id": "7eH4Ds7cmyDRSmmApbJHUc"
+    },
+    {
+      "artistName": "Peter Alexander",
+      "positioning": {
+        "top": 716,
+        "left": 886
+      },
+      "style": {
+        "color": "#838501",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f12c30b8079523d5d14ff9301a4aa490aad07fa",
+        "title": "e.g. Peter Alexander \"Die kleine Kneipe\"",
+        "trackId": "7lkm69lMX7sGuxhrncPMTW"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=55n0d54QHnPlc1BQtJcNdi",
+      "id": "55n0d54QHnPlc1BQtJcNdi"
+    },
+    {
+      "artistName": "Fantasy",
+      "positioning": {
+        "top": 125,
+        "left": 1035
+      },
+      "style": {
+        "color": "#d28407",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f7b5e522f823a511629353f75ef6c482cdde285e",
+        "title": "e.g. Fantasy \"Rosa oder Blau (Que Sera)\"",
+        "trackId": "2ZwMNZqHfuV3w6TWv7y50G"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=3QK6XTFKV94wlcLVQkBJ8O",
+      "id": "3QK6XTFKV94wlcLVQkBJ8O"
+    },
+    {
+      "artistName": "Puhdys",
+      "positioning": {
+        "top": 337,
+        "left": 226
+      },
+      "style": {
+        "color": "#b27714",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c6dd637b42dcffc93c4ae50552039607c8afe8fe",
+        "title": "e.g. Puhdys \"Alt wie ein Baum\"",
+        "trackId": "5e0WETecXdnjDusAglLsHd"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=2oIff3MArfKonx1PCiXj8O",
+      "id": "2oIff3MArfKonx1PCiXj8O"
+    },
+    {
+      "artistName": "Michael Holm",
+      "positioning": {
+        "top": 540,
+        "left": 469
+      },
+      "style": {
+        "color": "#988405",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/753d505deee3c9997b7a296e37e7e9715425f1fe",
+        "title": "e.g. Michael Holm \"Mendocino\"",
+        "trackId": "5KCissLwDtwLDkpDXj0Atc"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=2XFJaC8sLcJaswyzw95WFo",
+      "id": "2XFJaC8sLcJaswyzw95WFo"
+    },
+    {
+      "artistName": "Die Cappuccinos",
+      "positioning": {
+        "top": 85,
+        "left": 647
+      },
+      "style": {
+        "color": "#d47e00",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0fc5067c6d0815a0be7bb10f4acbe3a0464f2476",
+        "title": "e.g. Die Cappuccinos \"Es ist das erste Mal\"",
+        "trackId": "3JRBNjAkuz71SWxX1K4Y6d"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=0VWBeB4dSnIG4Xp8HjvrSh",
+      "id": "0VWBeB4dSnIG4Xp8HjvrSh"
+    },
+    {
+      "artistName": "Claudia Jung",
+      "positioning": {
+        "top": 300,
+        "left": 622
+      },
+      "style": {
+        "color": "#b98801",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/81baace1be7cd08c89b61aae1452ffd3225bac08",
+        "title": "e.g. Claudia Jung \"Domani l'amore vincera\"",
+        "trackId": "71H8Ae2H6waqbsYm7bH0e8"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=7DcGRxTtG2j0Kp2SVHxDi5",
+      "id": "7DcGRxTtG2j0Kp2SVHxDi5"
+    },
+    {
+      "artistName": "Roy Black",
+      "positioning": {
+        "top": 589,
+        "left": 0
+      },
+      "style": {
+        "color": "#83901d",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e62068a977b863099c20ceb5cb8e4119695e15f",
+        "title": "e.g. Roy Black \"Schön ist es auf der Welt zu sein\"",
+        "trackId": "4rC8PZ7ISEUecMSd5OWeiP"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=6MZV0zLjOvDN1gIYUB2GxB",
+      "id": "6MZV0zLjOvDN1gIYUB2GxB"
+    },
+    {
+      "artistName": "Zillertaler Schürzenjäger",
+      "positioning": {
+        "top": 618,
+        "left": 720
+      },
+      "style": {
+        "color": "#928b19",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c8b464a36df8ee8f1e7f132c8d63f699fad7b19",
+        "title": "e.g. Zillertaler Schürzenjäger \"Sierra Madre\"",
+        "trackId": "7Cu2JjFYseaheA36Aehgt4"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=1Co7VCKyS0KXwn3SiKXykR",
+      "id": "1Co7VCKyS0KXwn3SiKXykR"
+    },
+    {
+      "artistName": "Drafi Deutscher",
+      "positioning": {
+        "top": 682,
+        "left": 592
+      },
+      "style": {
+        "color": "#a07c04",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/55921770ac5fa02286c10e3d1f89d38fdb8bc116",
+        "title": "e.g. Drafi Deutscher \"Marmor, Stein und Eisen bricht - Version 1987\"",
+        "trackId": "5IUSvXnhiIxc0fAscMRkj2"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=3AzUhAlIf00iaylhLVwszM",
+      "id": "3AzUhAlIf00iaylhLVwszM"
+    },
+    {
+      "artistName": "Karat",
+      "positioning": {
+        "top": 580,
+        "left": 575
+      },
+      "style": {
+        "color": "#8c8b0e",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f76a5d82f40be19b58e95f29ebdcc9931068da8d",
+        "title": "e.g. Karat \"Über sieben Brücken musst du gehn\"",
+        "trackId": "6lhzUwb3Ggfi1tPR3YoIh6"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=18yvjJdI9KYQ7uJAZ2z8fY",
+      "id": "18yvjJdI9KYQ7uJAZ2z8fY"
+    },
+    {
+      "artistName": "Christian Anders",
+      "positioning": {
+        "top": 459,
+        "left": 417
+      },
+      "style": {
+        "color": "#a98e01",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a831faa81b7db443b3f3ce14840c1da2489a3ad2",
+        "title": "e.g. Christian Anders \"Gespensterstadt 2009 - Radio Edit\"",
+        "trackId": "5jw3qLAj0Vc6dvXFipchXA"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=0UQInyiO7zQCo1mq0Z26ei",
+      "id": "0UQInyiO7zQCo1mq0Z26ei"
+    },
+    {
+      "artistName": "Marc Pircher",
+      "positioning": {
+        "top": 242,
+        "left": 809
+      },
+      "style": {
+        "color": "#c97d08",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be556e77a477afd240d0630f67b0ec474abea3ab",
+        "title": "e.g. Marc Pircher \"Sieben Sünden\"",
+        "trackId": "4czM7MuP00ulKhmdf0xpch"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=7pNnbFPWqtDSdSeNydTPbJ",
+      "id": "7pNnbFPWqtDSdSeNydTPbJ"
+    },
+    {
+      "artistName": "Tom Astor",
+      "positioning": {
+        "top": 612,
+        "left": 613
+      },
+      "style": {
+        "color": "#a38602",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d33623fc01d126b793e20d7b11ece3f783f40d59",
+        "title": "e.g. Tom Astor \"Junger Adler (Ein Lied für (m)einen Sohn)\"",
+        "trackId": "4VNgEIUdqaUdQey9slUIQS"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=0DyyKLZJd9gnBKTeEibH4k",
+      "id": "0DyyKLZJd9gnBKTeEibH4k"
+    },
+    {
+      "artistName": "Andy Borg",
+      "positioning": {
+        "top": 237,
+        "left": 354
+      },
+      "style": {
+        "color": "#c77d02",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20389ed128a1af1997c45b805cf226b53b6bb5c1",
+        "title": "e.g. Andy Borg \"Adios Amor\"",
+        "trackId": "4t2mUzuqxzGqIaHFuTe0Hc"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=02cwf63pmoVJ5xtq7JDED4",
+      "id": "02cwf63pmoVJ5xtq7JDED4"
+    },
+    {
+      "artistName": "Freddy Quinn",
+      "positioning": {
+        "top": 789,
+        "left": 584
+      },
+      "style": {
+        "color": "#6d8e03",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9940e5a616f6c61da8460052fbd5c6b45f74d94c",
+        "title": "e.g. Freddy Quinn \"Junge, komm bald wieder\"",
+        "trackId": "6HYQDkdOmX0ybHUtZRcEE2"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=18mGtkaRoIjbOaGT1rykKP",
+      "id": "18mGtkaRoIjbOaGT1rykKP"
+    },
+    {
+      "artistName": "Bata Illic",
+      "positioning": {
+        "top": 480,
+        "left": 681
+      },
+      "style": {
+        "color": "#9a8803",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5e46b12ce1c919407a80132fcc2b35a25ed971df",
+        "title": "e.g. Bata Illic \"Michaela\"",
+        "trackId": "1KPdPbyq1Kj3epj5gUtmPb"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=4LaL7eRBrAXVj5MyRQ7TW1",
+      "id": "4LaL7eRBrAXVj5MyRQ7TW1"
+    },
+    {
+      "artistName": "Andreas Martin",
+      "positioning": {
+        "top": 203,
+        "left": 724
+      },
+      "style": {
+        "color": "#be8006",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd60af67d17e5ce3ec6476de0578e9334e30555d",
+        "title": "e.g. Andreas Martin \"Ich fang dir den Mond\"",
+        "trackId": "1avlgedKenw5drgR5hzXFj"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3XblYf2FLBX59yq3vchF54",
+      "id": "3XblYf2FLBX59yq3vchF54"
+    },
+    {
+      "artistName": "Peggy March",
+      "positioning": {
+        "top": 638,
+        "left": 511
+      },
+      "style": {
+        "color": "#9d8700",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa8644dfef43b45b7c9e431d65c831117f6186f0",
+        "title": "e.g. Peggy March \"I Will Follow Him\"",
+        "trackId": "3GQETOg4ZXyQ1jEFqfMoac"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=5EVZqrbIyEYGGite2sMhDk",
+      "id": "5EVZqrbIyEYGGite2sMhDk"
+    },
+    {
+      "artistName": "Ross Antony",
+      "positioning": {
+        "top": 121,
+        "left": 703
+      },
+      "style": {
+        "color": "#df7200",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c0bec19fc29e52c2446c58723edce8663029ea72",
+        "title": "e.g. Ross Antony \"Lass die Liebe Liebe sein\"",
+        "trackId": "3oxfeTU8lKDfqkzvja8ZFN"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=0C581YqnaoKwG75z27qZBf",
+      "id": "0C581YqnaoKwG75z27qZBf"
+    },
+    {
+      "artistName": "Oliver Frank",
+      "positioning": {
+        "top": 0,
+        "left": 1052
+      },
+      "style": {
+        "color": "#e17b03",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2e04ecd8be00b7d678b30bf235aa06a953c52f74",
+        "title": "e.g. Oliver Frank \"Italienische Sehnsucht\"",
+        "trackId": "2RfXoyDFnKXrlV7jccut2j"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=0J3jrWrFGmzZIGQFRmtTIc",
+      "id": "0J3jrWrFGmzZIGQFRmtTIc"
+    },
+    {
+      "artistName": "Costa Cordalis",
+      "positioning": {
+        "top": 668,
+        "left": 558
+      },
+      "style": {
+        "color": "#9f8006",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc3b2166779e90439932a9b342b7964569b1eda8",
+        "title": "e.g. Costa Cordalis \"Anita\"",
+        "trackId": "0ObItSI2K1SP6uJPdHSyb9"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=6mWpc739csxhfYUK2fiydq",
+      "id": "6mWpc739csxhfYUK2fiydq"
+    },
+    {
+      "artistName": "Ute Freudenberg",
+      "positioning": {
+        "top": 395,
+        "left": 434
+      },
+      "style": {
+        "color": "#9c8d00",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f41dda4d639c7bdaf6d2ed732318f47a6825732",
+        "title": "e.g. Ute Freudenberg \"Jugendliebe\"",
+        "trackId": "4RiJvobUGlKXqOvt9AFnsx"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=5GHk0LCz4eJEL6BDhHDQn6",
+      "id": "5GHk0LCz4eJEL6BDhHDQn6"
+    },
+    {
+      "artistName": "Nicki",
+      "positioning": {
+        "top": 199,
+        "left": 843
+      },
+      "style": {
+        "color": "#bc8408",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d3c6b113f418fe000d5fec70f6f5f17bfc40673",
+        "title": "e.g. Nicki \"Wenn i mit dir tanz\"",
+        "trackId": "1UYWocoT1yNBAedYF7UBZw"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=3cK4QJWvX1Pla8Igs7pey9",
+      "id": "3cK4QJWvX1Pla8Igs7pey9"
+    },
+    {
+      "artistName": "Chris Roberts",
+      "positioning": {
+        "top": 340,
+        "left": 524
+      },
+      "style": {
+        "color": "#c77b00",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/75b7186bb58066bed6a2ccfffbc0c3532178d30e",
+        "title": "e.g. Chris Roberts \"Du kannst nicht immer 17 sein\"",
+        "trackId": "5A17EawFejwLCU9zYDG3qk"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=3pBpqYidlsaMmx63JtmP4D",
+      "id": "3pBpqYidlsaMmx63JtmP4D"
+    },
+    {
+      "artistName": "Francine Jordi",
+      "positioning": {
+        "top": 368,
+        "left": 528
+      },
+      "style": {
+        "color": "#c08400",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2c6d479ec844a1b1baad6342895d3de171d6d905",
+        "title": "e.g. Francine Jordi \"Paradies - Single Mix\"",
+        "trackId": "4uUdr8JGDWyFe8N8GaJYmS"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=31HO9Fvw0jI7bszSpiEXNB",
+      "id": "31HO9Fvw0jI7bszSpiEXNB"
+    },
+    {
+      "artistName": "Hansi Hinterseer",
+      "positioning": {
+        "top": 311,
+        "left": 234
+      },
+      "style": {
+        "color": "#a98a01",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d455258e3d691e04278d7f476898d6441f050d1d",
+        "title": "e.g. Hansi Hinterseer \"Amore Mio\"",
+        "trackId": "2HYjcIf5mnGw9F7xuCg1cQ"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=7m2tpD8DRZqubnY4BydLGe",
+      "id": "7m2tpD8DRZqubnY4BydLGe"
+    },
+    {
+      "artistName": "Christian Lais",
+      "positioning": {
+        "top": 148,
+        "left": 554
+      },
+      "style": {
+        "color": "#d47d01",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7c9a423cb69a5561269f9f18eea1ec69827b9d11",
+        "title": "e.g. Christian Lais \"Sie vergass zu verzeihn - Radio\"",
+        "trackId": "1OXGIxnylcFNGWpzpvg3KV"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=45VGyqTR2OtW1c7aM0Y6PQ",
+      "id": "45VGyqTR2OtW1c7aM0Y6PQ"
+    },
+    {
+      "artistName": "Ella Endlich",
+      "positioning": {
+        "top": 579,
+        "left": 281
+      },
+      "style": {
+        "color": "#899401",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acefde86c8a2ef1237a8f89324967d2b550294d5",
+        "title": "e.g. Ella Endlich \"Adrenalin\"",
+        "trackId": "3N40bADjDG1tzR4vcEMwOh"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=5CbCf86F6Ecw5oXkzlnDF2",
+      "id": "5CbCf86F6Ecw5oXkzlnDF2"
+    },
+    {
+      "artistName": "Brunner & Brunner",
+      "positioning": {
+        "top": 260,
+        "left": 549
+      },
+      "style": {
+        "color": "#c37f02",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e738b9881ed7ccb1f8fd0fecaf60e8d90cd97e3",
+        "title": "e.g. Brunner & Brunner \"Wir sind alle über 40 - Originalversion\"",
+        "trackId": "2DdcYcUOEv4IVtsWpiIAeN"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=3wbftONQjYa0CGlyEwxJUR",
+      "id": "3wbftONQjYa0CGlyEwxJUR"
+    },
+    {
+      "artistName": "Rex Gildo",
+      "positioning": {
+        "top": 604,
+        "left": 826
+      },
+      "style": {
+        "color": "#8a8100",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc33a8b855f7113fe53fafc9d98fa3e921e1f6a0",
+        "title": "e.g. Rex Gildo \"Fiesta Mexicana\"",
+        "trackId": "1rN5NmqLUBwAlacJreDnR9"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=1bgbFPzGjOOXdvg9XKWe39",
+      "id": "1bgbFPzGjOOXdvg9XKWe39"
+    },
+    {
+      "artistName": "Kristina Bach",
+      "positioning": {
+        "top": 340,
+        "left": 643
+      },
+      "style": {
+        "color": "#c18000",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/694dcd340ffed938f46d8e905d705d9186cc9e66",
+        "title": "e.g. Kristina Bach \"Er schenkte mir den Eiffelturm\"",
+        "trackId": "0SqBdYI1OiTD8KZMfleKXs"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=2AFM3kpVkIwNbYGOit16hT",
+      "id": "2AFM3kpVkIwNbYGOit16hT"
+    },
+    {
+      "artistName": "Cora",
+      "positioning": {
+        "top": 148,
+        "left": 733
+      },
+      "style": {
+        "color": "#bf8016",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0f52a02754b7e90b922513aaf9928fadb357dd2",
+        "title": "e.g. Cora \"Amsterdam\"",
+        "trackId": "7FrsdB6c1buzMfSndN4UQL"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=1CgZJ1xulYlXA3TBv3ufmr",
+      "id": "1CgZJ1xulYlXA3TBv3ufmr"
+    },
+    {
+      "artistName": "Jürgen Marcus",
+      "positioning": {
+        "top": 511,
+        "left": 281
+      },
+      "style": {
+        "color": "#a08402",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b09ca0c0aa362f11fe6d1de1dd674b9200f639e2",
+        "title": "e.g. Jürgen Marcus \"Eine neue Liebe ist wie ein neues Leben\"",
+        "trackId": "0oH9kW4faMsq9YgRYirgD0"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=4bl1ZfRwVhSCkiVQNMWtcy",
+      "id": "4bl1ZfRwVhSCkiVQNMWtcy"
+    },
+    {
+      "artistName": "Monika Martin",
+      "positioning": {
+        "top": 525,
+        "left": 230
+      },
+      "style": {
+        "color": "#929603",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/074d75f4ab0593bb06a42735e8ca188a85a54fcc",
+        "title": "e.g. Monika Martin \"Später - wann ist das\"",
+        "trackId": "23OobSHcetBEvQlz1ZZLE7"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=5yHyE5Nh0plBI9YNf8fWLH",
+      "id": "5yHyE5Nh0plBI9YNf8fWLH"
+    },
+    {
+      "artistName": "Ronny",
+      "positioning": {
+        "top": 583,
+        "left": 166
+      },
+      "style": {
+        "color": "#808a10",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b17e54bcc4099ec62e387ddb81e281ebce6bdc71",
+        "title": "e.g. Ronny \"Hohe Tannen\"",
+        "trackId": "4Inc0t5YFxgn9lC7XvffpA"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=1y5d1LmE706jNPVBsE0n0X",
+      "id": "1y5d1LmE706jNPVBsE0n0X"
+    },
+    {
+      "artistName": "Les Humphries Singers",
+      "positioning": {
+        "top": 507,
+        "left": 413
+      },
+      "style": {
+        "color": "#c86002",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e47838d0a03817f6761c72224559560ae14c59ca",
+        "title": "e.g. Les Humphries Singers \"Mexico - Remastered Version\"",
+        "trackId": "2yPPu8wssALCYP4MUFwkzq"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=44WoJUwIWiFbhiowz9B6Bx",
+      "id": "44WoJUwIWiFbhiowz9B6Bx"
+    },
+    {
+      "artistName": "Andrea Jürgens",
+      "positioning": {
+        "top": 449,
+        "left": 230
+      },
+      "style": {
+        "color": "#af8601",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4009f559796735e426069788eab281c10a8985b8",
+        "title": "e.g. Andrea Jürgens \"Manuel Goodbye\"",
+        "trackId": "4eGonx8gms27Y9ER3C62h1"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=1ATNpczIuBPONlzCmWEF88",
+      "id": "1ATNpczIuBPONlzCmWEF88"
+    },
+    {
+      "artistName": "Ireen Sheer",
+      "positioning": {
+        "top": 396,
+        "left": 613
+      },
+      "style": {
+        "color": "#bd8100",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e14700e7d3f188c3d07cafe815963d3de1145beb",
+        "title": "e.g. Ireen Sheer \"Heut' Abend hab' ich Kopfweh\"",
+        "trackId": "5B0caT14ELZmND1ew4kuE5"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=6DtzOuUkjukrHLwgG4EnDw",
+      "id": "6DtzOuUkjukrHLwgG4EnDw"
+    },
+    {
+      "artistName": "Markus",
+      "positioning": {
+        "top": 134,
+        "left": 792
+      },
+      "style": {
+        "color": "#dc7400",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dbea9ba7bc052f564f799e38c921681f73f7430a",
+        "title": "e.g. Markus \"Ich will Spaß\"",
+        "trackId": "4NHO1vwPG2Do1Y3gByphbV"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=17v3lYLbmp9OhL8Sx3f1bq",
+      "id": "17v3lYLbmp9OhL8Sx3f1bq"
+    },
+    {
+      "artistName": "Daliah Lavi",
+      "positioning": {
+        "top": 681,
+        "left": 439
+      },
+      "style": {
+        "color": "#838b00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e2dcbcf58a7542f4c3ea09ab1b12540607da4c67",
+        "title": "e.g. Daliah Lavi \"Willst du mit mir geh'n\"",
+        "trackId": "0MZXfdHy25Co8CSOAwB24q"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=6az1ImuFcfXd1Rnzonmqau",
+      "id": "6az1ImuFcfXd1Rnzonmqau"
+    },
+    {
+      "artistName": "Henry Valentino",
+      "positioning": {
+        "top": 291,
+        "left": 822
+      },
+      "style": {
+        "color": "#b9800f",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/46d3dfadc379f8709450d25b79c0a70038f96051",
+        "title": "e.g. Henry Valentino \"Im Wagen vor mir\"",
+        "trackId": "0ZvRbLOqsKlHQwshZoGN7H"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=6rarLiS3EtKoAyMgslaCub",
+      "id": "6rarLiS3EtKoAyMgslaCub"
+    },
+    {
+      "artistName": "Mike Krüger",
+      "positioning": {
+        "top": 784,
+        "left": 1357
+      },
+      "style": {
+        "color": "#697f00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a1e120a098c1ac84a7f0183b3dd991ded3aa83e",
+        "title": "e.g. Mike Krüger \"Wer Banknoten Nachmacht - Remastered\"",
+        "trackId": "1wNgc05aCdwZHRuC9wMixm"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=0tahGtnmu4Jg9pNt7xzO9z",
+      "id": "0tahGtnmu4Jg9pNt7xzO9z"
+    },
+    {
+      "artistName": "Olaf Henning",
+      "positioning": {
+        "top": 8,
+        "left": 1218
+      },
+      "style": {
+        "color": "#e87602",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ca1a65b5ab4adbc8a6268f740a8aa084b8c1ecaa",
+        "title": "e.g. Olaf Henning \"Cowboy & Indianer (Komm' hol das Lasso raus!) (Hit Version)\"",
+        "trackId": "0vh7GmOauXU3Fq2wczDfBz"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=1hSvZI47FuIW9cvaJuL9Yu",
+      "id": "1hSvZI47FuIW9cvaJuL9Yu"
+    },
+    {
+      "artistName": "Klostertaler",
+      "positioning": {
+        "top": 314,
+        "left": 575
+      },
+      "style": {
+        "color": "#c77707",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d8751d138a75063b7d67cb3671cdf6068ca87a5",
+        "title": "e.g. Klostertaler \"Ha-le-lu-ja\"",
+        "trackId": "79620P7nP5cSS7f8ULHfo8"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=6adGYZ9CU5LPwqLYt6yQc7",
+      "id": "6adGYZ9CU5LPwqLYt6yQc7"
+    },
+    {
+      "artistName": "G.G. Anderson",
+      "positioning": {
+        "top": 134,
+        "left": 656
+      },
+      "style": {
+        "color": "#d47c00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f337db8c502032cf7d650d0538e300cdf6c9816",
+        "title": "e.g. G.G. Anderson \"Cheerio\"",
+        "trackId": "07p4u4q91WdzFADBgz148t"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=5TaYIuMl20kU7z83HeIi6c",
+      "id": "5TaYIuMl20kU7z83HeIi6c"
+    },
+    {
+      "artistName": "Frank Zander",
+      "positioning": {
+        "top": 368,
+        "left": 1018
+      },
+      "style": {
+        "color": "#c16503",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d33c06df75c4da3a6a3681c9b6ed9834ecc55eeb",
+        "title": "e.g. Frank Zander \"Hier kommt Kurt\"",
+        "trackId": "6RE97TNubJ4EMkoULibMLw"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=2DL9tdRM016h5KHlmSH8Ni",
+      "id": "2DL9tdRM016h5KHlmSH8Ni"
+    },
+    {
+      "artistName": "Katja Ebstein",
+      "positioning": {
+        "top": 626,
+        "left": 1069
+      },
+      "style": {
+        "color": "#839000",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b80181e4f53b820b7110a1a96bbc1667a9d1b0ed",
+        "title": "e.g. Katja Ebstein \"Wunder gibt es immer wieder\"",
+        "trackId": "68pun2nSn33MONTnLYKgpm"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=4wvxXnEKj4ModbmMLGAKYZ",
+      "id": "4wvxXnEKj4ModbmMLGAKYZ"
+    },
+    {
+      "artistName": "Die Paldauer",
+      "positioning": {
+        "top": 274,
+        "left": 566
+      },
+      "style": {
+        "color": "#c18201",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1ae356e4e05113ce9a4a401a4e639f5ce7a6989",
+        "title": "e.g. Die Paldauer \"3000 Jahre\"",
+        "trackId": "2hnVxEaQw0AOPSySanbNcY"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=0XLKhXxquwsKKtQVLA3Ifj",
+      "id": "0XLKhXxquwsKKtQVLA3Ifj"
+    },
+    {
+      "artistName": "Klaus & Klaus",
+      "positioning": {
+        "top": 229,
+        "left": 971
+      },
+      "style": {
+        "color": "#ce6401",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d3477f7c2138700f4e2049823ad380544454a14",
+        "title": "e.g. Klaus & Klaus \"An Der Nordseeküste\"",
+        "trackId": "7lg9reolractKDt8McON0K"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=24islXXqJ3A4A3C2hArZjL",
+      "id": "24islXXqJ3A4A3C2hArZjL"
+    },
+    {
+      "artistName": "Conny Froboess",
+      "positioning": {
+        "top": 632,
+        "left": 886
+      },
+      "style": {
+        "color": "#7e8c00",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2f977764f6a0e3f53f7b38521a5b5e9b9213aaa3",
+        "title": "e.g. Conny Froboess \"Zwei kleine Italiener\"",
+        "trackId": "2v3TG35plidR486Cltpgxs"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=6f2LUH4PkJ5glS83rEyyOk",
+      "id": "6f2LUH4PkJ5glS83rEyyOk"
+    },
+    {
+      "artistName": "Tony Marshall",
+      "positioning": {
+        "top": 641,
+        "left": 618
+      },
+      "style": {
+        "color": "#b96e08",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9723b0b8127ca7e012b318a6a2abdf8e8b8ef83",
+        "title": "e.g. Tony Marshall \"Schöne Maid\"",
+        "trackId": "2izcgHVUUl6tWXCjx2XivM"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=7utPI6iKF2NfBnswqc3VyW",
+      "id": "7utPI6iKF2NfBnswqc3VyW"
+    },
+    {
+      "artistName": "Rosanna Rocci",
+      "positioning": {
+        "top": 99,
+        "left": 911
+      },
+      "style": {
+        "color": "#d87905",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7d20fa7dcf54a98cabbb2b5391aff48e96641d4b",
+        "title": "e.g. Rosanna Rocci \"Felicita - dt./ital. Version\"",
+        "trackId": "37xvG2tVrFsYw8Hvgz9kOB"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=2fwpETLXQSMKRHWMYGqhRM",
+      "id": "2fwpETLXQSMKRHWMYGqhRM"
+    },
+    {
+      "artistName": "Stephan Remmler",
+      "positioning": {
+        "top": 209,
+        "left": 1363
+      },
+      "style": {
+        "color": "#9b820c",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7865a941e3bd50b94412abec67d6accd62e47445",
+        "title": "e.g. Stephan Remmler \"Keine Sterne in Athen (3-4-5 x in 1 Monat)\"",
+        "trackId": "3U2pPoe2nfNMr5QfaJsGrG"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=7eLCDzaCPnvXqveBrwroez",
+      "id": "7eLCDzaCPnvXqveBrwroez"
+    },
+    {
+      "artistName": "Stefan Mross",
+      "positioning": {
+        "top": 436,
+        "left": 162
+      },
+      "style": {
+        "color": "#95906d",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/948ca527ea051f5c3b2b5cb7471ce2220d9aac5d",
+        "title": "e.g. Stefan Mross \"Griechischer Wein\"",
+        "trackId": "3XQthMRSBUF3hfSyFMyA7b"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=5rK4qltYpIzxV6287eTqIw",
+      "id": "5rK4qltYpIzxV6287eTqIw"
+    },
+    {
+      "artistName": "Christian Franke",
+      "positioning": {
+        "top": 237,
+        "left": 520
+      },
+      "style": {
+        "color": "#d18006",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0da36bea29a49da8328ab0d28d58b4e68c62b615",
+        "title": "e.g. Christian Franke \"Ich wünsch dir die Hölle auf Erden 2001 - Radio Edit\"",
+        "trackId": "0AmY6FX1LlhF0o0foG5O2n"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=31FayCDysz9SnE2rgNGMql",
+      "id": "31FayCDysz9SnE2rgNGMql"
+    },
+    {
+      "artistName": "Bernd Clüver",
+      "positioning": {
+        "top": 382,
+        "left": 511
+      },
+      "style": {
+        "color": "#a38902",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/80298e17e5144fe217d077cf87bfbb18aeeb0d1b",
+        "title": "e.g. Bernd Clüver \"Der Junge mit der Mundharmonika ('94er Version)\"",
+        "trackId": "5OzgLgIKGntgxS5dk8GltU"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=2w1Ujqp1ejaV3lSaScSqjG",
+      "id": "2w1Ujqp1ejaV3lSaScSqjG"
+    },
+    {
+      "artistName": "Michael Morgan",
+      "positioning": {
+        "top": 229,
+        "left": 707
+      },
+      "style": {
+        "color": "#c37d0c",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec91ee0325281b284e810eed5e74704b7f8193f4",
+        "title": "e.g. Michael Morgan \"Komm Geh Mit Mir Nach Kanada\"",
+        "trackId": "19QXTWH9dYAaQdm1v4gFxT"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=4MwHHovA27OdTDcNdNygqR",
+      "id": "4MwHHovA27OdTDcNdNygqR"
+    },
+    {
+      "artistName": "Calimeros",
+      "positioning": {
+        "top": 107,
+        "left": 724
+      },
+      "style": {
+        "color": "#d28601",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e4b4475a303a2b05b01afc205ab31383d3e8a325",
+        "title": "e.g. Calimeros \"Monja\"",
+        "trackId": "3Vih8jQggV2b6TjCuUwm8Z"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=1VW1tDj8L2Zd5NCdUtEfCh",
+      "id": "1VW1tDj8L2Zd5NCdUtEfCh"
+    },
+    {
+      "artistName": "Stefan Waggershausen",
+      "positioning": {
+        "top": 553,
+        "left": 575
+      },
+      "style": {
+        "color": "#868c05",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/037c9823519e3e292884bc4cc29843763b5460ca",
+        "title": "e.g. Stefan Waggershausen \"Das erste Mal tat's noch weh (Les histoires d'amour)\"",
+        "trackId": "6ZknmWa9VVSFDjGudcrktZ"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=06ZF1lqCgr9QPVsVJkkmXC",
+      "id": "06ZF1lqCgr9QPVsVJkkmXC"
+    },
+    {
+      "artistName": "Mara Kayser",
+      "positioning": {
+        "top": 540,
+        "left": 592
+      },
+      "style": {
+        "color": "#ab8f00",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fdf3251d3006c7f64eab0bb067431e6ab82b46fc",
+        "title": "e.g. Mara Kayser \"Ich wünsch Dir alles Gute\"",
+        "trackId": "7sL3Qy5TQJJgceD6Bt614B"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=7qgadeCE0haVGeku4uAf1c",
+      "id": "7qgadeCE0haVGeku4uAf1c"
+    },
+    {
+      "artistName": "Wencke Myhre",
+      "positioning": {
+        "top": 520,
+        "left": 903
+      },
+      "style": {
+        "color": "#a28001",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1c33a2ebced88887153d379ba012437feba949f",
+        "title": "e.g. Wencke Myhre \"Er hat ein knallrotes Gummiboot\"",
+        "trackId": "5YqoQFeMjvFsdeLdp3F3JV"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=6W5ilMykftL18jlBb7CHuo",
+      "id": "6W5ilMykftL18jlBb7CHuo"
+    },
+    {
+      "artistName": "Fernando Express",
+      "positioning": {
+        "top": 174,
+        "left": 686
+      },
+      "style": {
+        "color": "#cf820a",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/25f79410a1605d270460670b4e53d5bb8bd43076",
+        "title": "e.g. Fernando Express \"Capitano\"",
+        "trackId": "63ucks9Bv8I6iSkTDwsXkA"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=3lmI2SqWBGUla1vXSbseUF",
+      "id": "3lmI2SqWBGUla1vXSbseUF"
+    },
+    {
+      "artistName": "Hoffmann & Hoffmann",
+      "positioning": {
+        "top": 579,
+        "left": 716
+      },
+      "style": {
+        "color": "#928600",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd0ae9c619b39cfc7cca3d43553929a18aa9a2ff",
+        "title": "e.g. Hoffmann & Hoffmann \"Himbeereis zum Frühstück\"",
+        "trackId": "5KNVzjEhGMYToCv4TBHhip"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=6UalpaQ2PXwWXfVYd8kTBP",
+      "id": "6UalpaQ2PXwWXfVYd8kTBP"
+    },
+    {
+      "artistName": "Gus Backus",
+      "positioning": {
+        "top": 658,
+        "left": 852
+      },
+      "style": {
+        "color": "#9c7b01",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47e24d90280e619bb4b71c8f420a276240c1305c",
+        "title": "e.g. Gus Backus \"Da sprach der alte Häuptling\"",
+        "trackId": "1C0tAkrpNoV86SO7M1KsDZ"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=5kcPRzYuORwT3cJCv5mkZx",
+      "id": "5kcPRzYuORwT3cJCv5mkZx"
+    },
+    {
+      "artistName": "Peter Kraus",
+      "positioning": {
+        "top": 645,
+        "left": 971
+      },
+      "style": {
+        "color": "#9e8201",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/93489b5b7394bd1415eeb8c156ddf4581403ea35",
+        "title": "e.g. Peter Kraus \"Manchmal\"",
+        "trackId": "6AjZZSFeaWZn1Klf07dtMu"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=1P6eLNP95N3LE6InCy2lAs",
+      "id": "1P6eLNP95N3LE6InCy2lAs"
+    },
+    {
+      "artistName": "Ricky King",
+      "positioning": {
+        "top": 401,
+        "left": 149
+      },
+      "style": {
+        "color": "#a291aa",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e37c51a57d104db5495f91825bf39481618eb47",
+        "title": "e.g. Ricky King \"California Blue\"",
+        "trackId": "6yaxFQu2X1vUk6xLrsBln0"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=3bTR80pOQ7fRPD6zzOhWcW",
+      "id": "3bTR80pOQ7fRPD6zzOhWcW"
+    },
+    {
+      "artistName": "Mary Roos",
+      "positioning": {
+        "top": 406,
+        "left": 865
+      },
+      "style": {
+        "color": "#988e03",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f6f1e89ef8791846085763270f0d53744bad51db",
+        "title": "e.g. Mary Roos \"Aufrecht geh'n\"",
+        "trackId": "6ozjeu8wUDx3GYjvgnW2gt"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=2MmejQB7k07GW7ooY66Umn",
+      "id": "2MmejQB7k07GW7ooY66Umn"
+    },
+    {
+      "artistName": "Jonny Hill",
+      "positioning": {
+        "top": 721,
+        "left": 605
+      },
+      "style": {
+        "color": "#8f8903",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7af883229b70bddd28202d3a5d20af44b97cff89",
+        "title": "e.g. Jonny Hill \"Ruf Teddybär eins-vier\"",
+        "trackId": "0vz4iYU4gfkTIUkOU1RcoF"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=2vVLzxG5XjklI2jcNHZm3K",
+      "id": "2vVLzxG5XjklI2jcNHZm3K"
+    },
+    {
+      "artistName": "Roberto Blanco",
+      "positioning": {
+        "top": 424,
+        "left": 758
+      },
+      "style": {
+        "color": "#c26e02",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40d4785f8cc850a3797b6ad2cc6a63cb44f0e681",
+        "title": "e.g. Roberto Blanco \"Ein bisschen Spaß muss sein\"",
+        "trackId": "5bYpoFFTImibvRIf54KdKq"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=3O2YBgemxUSnZVWCNjpyYR",
+      "id": "3O2YBgemxUSnZVWCNjpyYR"
+    },
+    {
+      "artistName": "Bill Ramsey",
+      "positioning": {
+        "top": 640,
+        "left": 1095
+      },
+      "style": {
+        "color": "#a97501",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89f4489513f6e2e52b1f3eb7cf6e3b28963c2bb0",
+        "title": "e.g. Bill Ramsey \"Zuckerpuppe (Aus der Bauchtanzgruppe)\"",
+        "trackId": "3F0QT3kVdCQfDUgXrfYOUX"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=5R8T1Sb49NySRp0JKa4ebZ",
+      "id": "5R8T1Sb49NySRp0JKa4ebZ"
+    },
+    {
+      "artistName": "Gunter Gabriel",
+      "positioning": {
+        "top": 462,
+        "left": 1116
+      },
+      "style": {
+        "color": "#807705",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/03a1fb44c0bd993f261dc6a233e5c71e45b2b4df",
+        "title": "e.g. Gunter Gabriel \"Hey Boss, ich brauch mehr Geld\"",
+        "trackId": "3MgG3Qzt0vBtQPuNqj51D5"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=5eQ3kp6zLSueOxDs2TdPa9",
+      "id": "5eQ3kp6zLSueOxDs2TdPa9"
+    },
+    {
+      "artistName": "Uta Bresan",
+      "positioning": {
+        "top": 216,
+        "left": 1039
+      },
+      "style": {
+        "color": "#cd8500",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37d9d73a5ecb3f930adab56f3679f580e22dae00",
+        "title": "e.g. Uta Bresan \"Dass du liebst\"",
+        "trackId": "0gibb8Tsw3B7lCmHT1z6h3"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=5gIKBiNDDDdxDkzXAxQxe0",
+      "id": "5gIKBiNDDDdxDkzXAxQxe0"
+    },
+    {
+      "artistName": "Petra Frey",
+      "positioning": {
+        "top": 217,
+        "left": 601
+      },
+      "style": {
+        "color": "#d08000",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ccefe51d3751b994d1770481a4becc0c5adbee6",
+        "title": "e.g. Petra Frey \"Liebst Du mich\"",
+        "trackId": "68eeM4oqqFCQa8Nzl8Kmss"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=0AmbzfGCDtWQUlwDD7mH3F",
+      "id": "0AmbzfGCDtWQUlwDD7mH3F"
+    },
+    {
+      "artistName": "Patrick Lindner",
+      "positioning": {
+        "top": 300,
+        "left": 473
+      },
+      "style": {
+        "color": "#bb8400",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e73aa6ef05bd9f40729ef8b83b54612e505e8e3",
+        "title": "e.g. Patrick Lindner \"Baby voulez vous\"",
+        "trackId": "4ff9bI1L7xW8iluSIdxbAA"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=5Wk0orD1CXV28CWKWWVqSa",
+      "id": "5Wk0orD1CXV28CWKWWVqSa"
+    },
+    {
+      "artistName": "Peter Kent",
+      "positioning": {
+        "top": 473,
+        "left": 511
+      },
+      "style": {
+        "color": "#9d8d13",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9cf2a5529ffeb9311b2d212613c280bd0077112a",
+        "title": "e.g. Peter Kent \"It's A Real Good Feeling\"",
+        "trackId": "76uu2vMmSkwaHOouvC91QO"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=617bVGwrvCdXDx5qnX9o70",
+      "id": "617bVGwrvCdXDx5qnX9o70"
+    },
+    {
+      "artistName": "Lale Andersen",
+      "positioning": {
+        "top": 820,
+        "left": 400
+      },
+      "style": {
+        "color": "#4d9c04",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ce9c54210dc199182ea18742deb5e7a305d20302",
+        "title": "e.g. Lale Andersen \"Ein Schiff wird kommen\"",
+        "trackId": "4jllSZTfLEJDqvwYv6Crrk"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=0y5xsfoyu9qTFlOpopzHn8",
+      "id": "0y5xsfoyu9qTFlOpopzHn8"
+    },
+    {
+      "artistName": "Die Wildecker Herzbuben",
+      "positioning": {
+        "top": 494,
+        "left": 515
+      },
+      "style": {
+        "color": "#b27e01",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/945ce443e3e0397b2ba7761f47d3c3f9437092c8",
+        "title": "e.g. Die Wildecker Herzbuben \"Herzilein\"",
+        "trackId": "7GrhTbGEjXbXKoiEwYeEWW"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=3f4Fuw00yvsXPZ7BGLKxPh",
+      "id": "3f4Fuw00yvsXPZ7BGLKxPh"
+    },
+    {
+      "artistName": "Freddy Breck",
+      "positioning": {
+        "top": 498,
+        "left": 277
+      },
+      "style": {
+        "color": "#9b8000",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1efcfededb2f3350e22be7061c9bf2bd95ce1cba",
+        "title": "e.g. Freddy Breck \"Rote Rosen\"",
+        "trackId": "6JgrTw5Ai42k2NHjrsfxow"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=1Y7JqAubXCTYEkLKKQEmMl",
+      "id": "1Y7JqAubXCTYEkLKKQEmMl"
+    },
+    {
+      "artistName": "Oswald Sattler",
+      "positioning": {
+        "top": 539,
+        "left": 345
+      },
+      "style": {
+        "color": "#8b9501",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0108093230d97fa43c6a0b10168a4386805d0fe3",
+        "title": "e.g. Oswald Sattler \"Ich zeig' Dir die Berge\"",
+        "trackId": "0GH0UZkS1WYbBEc5CXxgAR"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=3a4TfwplE4EXZlwlf6hlL7",
+      "id": "3a4TfwplE4EXZlwlf6hlL7"
+    },
+    {
+      "artistName": "Hans Albers",
+      "positioning": {
+        "top": 900,
+        "left": 992
+      },
+      "style": {
+        "color": "#558818",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7afb55828bef1097c6df119eeb7607729a8f256c",
+        "title": "e.g. Hans Albers \"Auf Der Reeperbahn Nachts Um 1/2 Eins\"",
+        "trackId": "1FJVDTQQ45yLTfyqQVuCVc"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=66wJy7S34HLP7zed2DfuCO",
+      "id": "66wJy7S34HLP7zed2DfuCO"
+    },
+    {
+      "artistName": "Heinz Rühmann",
+      "positioning": {
+        "top": 830,
+        "left": 1365
+      },
+      "style": {
+        "color": "#5f842b",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57b196ecc3a08ec99dbb737a5a30dd2b67c8d250",
+        "title": "e.g. Heinz Rühmann \"La Le Lu (Unser Lied)\"",
+        "trackId": "4vkGASubit8kbjrjLkdplW"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=1D237uAcQnsDWMFVGXoROy",
+      "id": "1D237uAcQnsDWMFVGXoROy"
+    },
+    {
+      "artistName": "Frank Schöbel",
+      "positioning": {
+        "top": 485,
+        "left": 383
+      },
+      "style": {
+        "color": "#9f860a",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a23e415c692e5169e987d5bf6d71ce4b3349151",
+        "title": "e.g. Frank Schöbel \"Schreib es mir in den Sand\"",
+        "trackId": "7B5dFv7cnOy443OC3tCrds"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=5bfb6c3U3eR0jozi2mBE3T",
+      "id": "5bfb6c3U3eR0jozi2mBE3T"
+    },
+    {
+      "artistName": "Manuela",
+      "positioning": {
+        "top": 494,
+        "left": 703
+      },
+      "style": {
+        "color": "#928b09",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/459ac3309e8c7e8878f6fe12e75a3b1b604afd7e",
+        "title": "e.g. Manuela \"Schuld war nur der Bossa Nova\"",
+        "trackId": "1CvxZLhcpg33Wk892MJRUC"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=0wQ3qnelwmhDojEeslurnk",
+      "id": "0wQ3qnelwmhDojEeslurnk"
+    },
+    {
+      "artistName": "Rudi Carrell",
+      "positioning": {
+        "top": 682,
+        "left": 1321
+      },
+      "style": {
+        "color": "#818001",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41782ccd192bcc9ba26454026c2a04a8620c4e7c",
+        "title": "e.g. Rudi Carrell \"Wann wird's mal wieder richtig Sommer\"",
+        "trackId": "2JHRPXa7cVtsRjMb30a9KE"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=52OEAGQwJplUGohcbmtAG5",
+      "id": "52OEAGQwJplUGohcbmtAG5"
+    },
+    {
+      "artistName": "De Randfichten",
+      "positioning": {
+        "top": 248,
+        "left": 1316
+      },
+      "style": {
+        "color": "#b47e03",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae703aa4909cd7cf7f54dac3bf2891536c56d165",
+        "title": "e.g. De Randfichten \"Lebt denn dr alte Holzmichl noch?\"",
+        "trackId": "3jUdAELIWYWCIWU6rGlCXL"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=2Wd6aLOwYmJKXvlxG6VoIo",
+      "id": "2Wd6aLOwYmJKXvlxG6VoIo"
+    },
+    {
+      "artistName": "Alexandra",
+      "positioning": {
+        "top": 709,
+        "left": 456
+      },
+      "style": {
+        "color": "#769905",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f451d8766ed4237800bae34f4be30f7acae7c133",
+        "title": "e.g. Alexandra \"Zigeunerjunge\"",
+        "trackId": "0pOgiSa8cTczv6shpUqfpG"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=5chFd3WPxdTlKsUhEPmArx",
+      "id": "5chFd3WPxdTlKsUhEPmArx"
+    },
+    {
+      "artistName": "Vico Torriani",
+      "positioning": {
+        "top": 815,
+        "left": 511
+      },
+      "style": {
+        "color": "#749104",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d73fbdf60a57297a28c798cbeb1e9d5c509ec84e",
+        "title": "e.g. Vico Torriani \"La Pastorella\"",
+        "trackId": "6VneQ63T0by35I1JnWeMXO"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=6rJwTq155e9QEDpJb9Xfkp",
+      "id": "6rJwTq155e9QEDpJb9Xfkp"
+    },
+    {
+      "artistName": "Lena Valaitis",
+      "positioning": {
+        "top": 629,
+        "left": 349
+      },
+      "style": {
+        "color": "#978d00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e3e7632438b73a8b49b3a983794b2fba2cccf803",
+        "title": "e.g. Lena Valaitis \"Johnny Blue\"",
+        "trackId": "5e6KfjLDK12b19zGnHaDf4"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=5Gwxu9R8Tb6mDgevuf6YaN",
+      "id": "5Gwxu9R8Tb6mDgevuf6YaN"
+    },
+    {
+      "artistName": "Audrey Landers",
+      "positioning": {
+        "top": 409,
+        "left": 426
+      },
+      "style": {
+        "color": "#a88900",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71f71ee54b038266200ccd40a45406605987e947",
+        "title": "e.g. Audrey Landers \"Manuel Goodbye\"",
+        "trackId": "3j2B5cNT9aQnvaCioOrnYq"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=3zwOQEz7tRniwOKwyvHIBK",
+      "id": "3zwOQEz7tRniwOKwyvHIBK"
+    },
+    {
+      "artistName": "Olaf",
+      "positioning": {
+        "top": 76,
+        "left": 801
+      },
+      "style": {
+        "color": "#dc7c10",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f895b7806c0036187b8d9ab7ebb0ac68fe62b7e",
+        "title": "e.g. Olaf \"Du gibst mir dieses Herzgefühl\"",
+        "trackId": "4RNDVLq0rLfmFHhHWM02UM"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=3QFPOHOocb7Bwg7BL4F7eu",
+      "id": "3QFPOHOocb7Bwg7BL4F7eu"
+    },
+    {
+      "artistName": "Hanne Haller",
+      "positioning": {
+        "top": 349,
+        "left": 839
+      },
+      "style": {
+        "color": "#a68b03",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6edf11be90bbc0418b5f2ab57351e72c58c2288e",
+        "title": "e.g. Hanne Haller \"Mein lieber Mann\"",
+        "trackId": "07gDofsPhMYgXz6zNbCuaI"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=4RBT3UnlnKVa4pChsEsHh7",
+      "id": "4RBT3UnlnKVa4pChsEsHh7"
+    },
+    {
+      "artistName": "Nico Haak",
+      "positioning": {
+        "top": 384,
+        "left": 1133
+      },
+      "style": {
+        "color": "#a97300",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2092673adfbec7cd26267e081a155fd544d64fa",
+        "title": "e.g. Nico Haak \"Schmidtchen Schleicher\"",
+        "trackId": "1EaV2NKrunY5JHksK9Vt1d"
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=6y7iZKt5iCrGh1DvfPUoEJ",
+      "id": "6y7iZKt5iCrGh1DvfPUoEJ"
+    },
+    {
+      "artistName": "Wind",
+      "positioning": {
+        "top": 161,
+        "left": 784
+      },
+      "style": {
+        "color": "#d07c00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d757c04af9c2a4875ccb9b4e360fdb1dd03476b5",
+        "title": "e.g. Wind \"Lass die Sonne in dein Herz\"",
+        "trackId": "7sMd8AmgwoHgw674d2oQgB"
+      },
+      "elementId": "item129",
+      "href": "https://everynoise.com/artistprofile.html?id=2MLUcp8h4D38BrRYvryXgX",
+      "id": "2MLUcp8h4D38BrRYvryXgX"
+    },
+    {
+      "artistName": "Uwe Busse",
+      "positioning": {
+        "top": 154,
+        "left": 260
+      },
+      "style": {
+        "color": "#d47b00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d9493dea5e645ce78c5ca2b84b1743d047113ba2",
+        "title": "e.g. Uwe Busse \"Zärtlicher Tyrann - Remastered\"",
+        "trackId": "712rOCpM7JuUWO2B75YypS"
+      },
+      "elementId": "item130",
+      "href": "https://everynoise.com/artistprofile.html?id=2g5z3oC7ppB9qfFnz9icds",
+      "id": "2g5z3oC7ppB9qfFnz9icds"
+    },
+    {
+      "artistName": "Linda Feller",
+      "positioning": {
+        "top": 410,
+        "left": 618
+      },
+      "style": {
+        "color": "#aa8d01",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc0d363d26d3a89f526b48aa6f4154abaff8d217",
+        "title": "e.g. Linda Feller \"Ich halte Dich fest\"",
+        "trackId": "5Zcgj96ygolp57Rj5GFvla"
+      },
+      "elementId": "item131",
+      "href": "https://everynoise.com/artistprofile.html?id=35InT2jDlot83QKaGF811S",
+      "id": "35InT2jDlot83QKaGF811S"
+    },
+    {
+      "artistName": "Stefanie Hertel",
+      "positioning": {
+        "top": 410,
+        "left": 733
+      },
+      "style": {
+        "color": "#a48d00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddf156edfe9960e4785a8a0c72f13a27021b98be",
+        "title": "e.g. Stefanie Hertel \"Über jedes Bacherl geht a Brückerl - Remix\"",
+        "trackId": "4XUF0DH7KfltXFM0TM803j"
+      },
+      "elementId": "item132",
+      "href": "https://everynoise.com/artistprofile.html?id=2vUBGcnDBOJ73PGjPZEY1F",
+      "id": "2vUBGcnDBOJ73PGjPZEY1F"
+    },
+    {
+      "artistName": "Original Naabtal Duo",
+      "positioning": {
+        "top": 566,
+        "left": 362
+      },
+      "style": {
+        "color": "#818e05",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/69d4ee3c55c5c24007507471cbbb4d4f48b158dc",
+        "title": "e.g. Original Naabtal Duo \"Patrona Bavariae - Version 2003\"",
+        "trackId": "1FcLmNlbPyMrhjMf89fazf"
+      },
+      "elementId": "item133",
+      "href": "https://everynoise.com/artistprofile.html?id=3OTsLMjfx5Gf4xoST0ndhe",
+      "id": "3OTsLMjfx5Gf4xoST0ndhe"
+    },
+    {
+      "artistName": "Olaf Berger",
+      "positioning": {
+        "top": 100,
+        "left": 635
+      },
+      "style": {
+        "color": "#d77900",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c42b7e3b6abcdfc2ff777ea1de1c9dcf8707e77",
+        "title": "e.g. Olaf Berger \"Die schwarze Lady\"",
+        "trackId": "5HGv9jmmrFf9U5t2p9MwXa"
+      },
+      "elementId": "item134",
+      "href": "https://everynoise.com/artistprofile.html?id=5Uujd3s48hqzWPgG162NF1",
+      "id": "5Uujd3s48hqzWPgG162NF1"
+    },
+    {
+      "artistName": "Alpentrio Tirol",
+      "positioning": {
+        "top": 324,
+        "left": 251
+      },
+      "style": {
+        "color": "#a58800",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f6bec2f925893652492041082f48a030d4301e6",
+        "title": "e.g. Alpentrio Tirol \"Rot sind die Rosen\"",
+        "trackId": "60h6S5vXboPU7iXj49u4Yi"
+      },
+      "elementId": "item135",
+      "href": "https://everynoise.com/artistprofile.html?id=6FBTjVOiDsYI2yK9aUTzsO",
+      "id": "6FBTjVOiDsYI2yK9aUTzsO"
+    },
+    {
+      "artistName": "Wolfram",
+      "positioning": {
+        "top": 65,
+        "left": 1286
+      },
+      "style": {
+        "color": "#b7927c",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c83df179fd0c7097e8297817e7e5afecaf2c8673",
+        "title": "e.g. Wolfram \"YoYo Disco\"",
+        "trackId": "52ERV577Njz36jATlJlx2u"
+      },
+      "elementId": "item136",
+      "href": "https://everynoise.com/artistprofile.html?id=1oBQPdm35NiPSEWIx8Yl24",
+      "id": "1oBQPdm35NiPSEWIx8Yl24"
+    },
+    {
+      "artistName": "Gerhard Wendland",
+      "positioning": {
+        "top": 780,
+        "left": 285
+      },
+      "style": {
+        "color": "#599403",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cab4916e05e5ad4d7a26f32c80dbbc70a8e59aa7",
+        "title": "e.g. Gerhard Wendland \"Tanze mit mir in den Morgen - Schlager Party Mix\"",
+        "trackId": "4TFOBUQ9Vfm1nCfG07eedq"
+      },
+      "elementId": "item137",
+      "href": "https://everynoise.com/artistprofile.html?id=29G1qFgICdJzevyGqoG8iD",
+      "id": "29G1qFgICdJzevyGqoG8iD"
+    },
+    {
+      "artistName": "Paola",
+      "positioning": {
+        "top": 608,
+        "left": 281
+      },
+      "style": {
+        "color": "#839000",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e964cdee4a50a39b4850c2bf09c2c1fb97ade39",
+        "title": "e.g. Paola \"Der Teufel und der junge Mann\"",
+        "trackId": "0X7YFhhdhLMQLrTLbbWdeQ"
+      },
+      "elementId": "item138",
+      "href": "https://everynoise.com/artistprofile.html?id=1KkxhkAxElEQEkMofX1qb3",
+      "id": "1KkxhkAxElEQEkMofX1qb3"
+    },
+    {
+      "artistName": "Gaby Baginsky",
+      "positioning": {
+        "top": 113,
+        "left": 920
+      },
+      "style": {
+        "color": "#cd8300",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/335153d12e6f5797f7057048a959d52e7b295ff3",
+        "title": "e.g. Gaby Baginsky \"Wer hat dir das Küssen beigebracht\"",
+        "trackId": "4uqr9DDzQxGNxs2RzhE21I"
+      },
+      "elementId": "item139",
+      "href": "https://everynoise.com/artistprofile.html?id=7giigWM7Yrryf53cOHqaEo",
+      "id": "7giigWM7Yrryf53cOHqaEo"
+    },
+    {
+      "artistName": "Peter Orloff",
+      "positioning": {
+        "top": 485,
+        "left": 281
+      },
+      "style": {
+        "color": "#a37b03",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a2d581fe0da3a3aa878ca975536ae5a4274349b",
+        "title": "e.g. Peter Orloff \"Ein Mädchen Für Immer\"",
+        "trackId": "0EwzmQmkRnZXgIVAhK9IGp"
+      },
+      "elementId": "item140",
+      "href": "https://everynoise.com/artistprofile.html?id=5kqaMgJfF7UxU4Uqqc4jhE",
+      "id": "5kqaMgJfF7UxU4Uqqc4jhE"
+    },
+    {
+      "artistName": "Wolfgang Ziegler",
+      "positioning": {
+        "top": 327,
+        "left": 503
+      },
+      "style": {
+        "color": "#ad8405",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86ce51f32da6ca3976e7d02969f68ad378b3eb07",
+        "title": "e.g. Wolfgang Ziegler \"Verdammt (Und dann stehst du im Regen) - Long Version\"",
+        "trackId": "3KQJPx0vCVHvzlgDUdka5r"
+      },
+      "elementId": "item141",
+      "href": "https://everynoise.com/artistprofile.html?id=1vwspSxrH0mGQjfYmiawPf",
+      "id": "1vwspSxrH0mGQjfYmiawPf"
+    },
+    {
+      "artistName": "Imca Marina",
+      "positioning": {
+        "top": 722,
+        "left": 481
+      },
+      "style": {
+        "color": "#8c8601",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2966265d0362a7e9da31f1133bd741a178ce4ba5",
+        "title": "e.g. Imca Marina \"Viva España\"",
+        "trackId": "5ydkaKdKcvcVIzGvOd1KG1"
+      },
+      "elementId": "item142",
+      "href": "https://everynoise.com/artistprofile.html?id=43xjJMxn9QG0jEiBO3Hxe5",
+      "id": "43xjJMxn9QG0jEiBO3Hxe5"
+    },
+    {
+      "artistName": "Judith & Mel",
+      "positioning": {
+        "top": 398,
+        "left": 733
+      },
+      "style": {
+        "color": "#9d8901",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/050c90666e9d135dab2c5e64294a8cf184afde25",
+        "title": "e.g. Judith & Mel \"Wenn Dein Herz mein Herz verführt\"",
+        "trackId": "24JlxWahrsduXsbAoKR77N"
+      },
+      "elementId": "item143",
+      "href": "https://everynoise.com/artistprofile.html?id=1kid9EllKBsacQLohmcaoy",
+      "id": "1kid9EllKBsacQLohmcaoy"
+    },
+    {
+      "artistName": "Rudi Schuricke",
+      "positioning": {
+        "top": 841,
+        "left": 579
+      },
+      "style": {
+        "color": "#56901a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9bd3de465e8f6e6d8d25bb67bc80c4ccdcced510",
+        "title": "e.g. Rudi Schuricke \"Capri-Fischer\"",
+        "trackId": "2hBFb1lYRA6pCXoWvjXlCL"
+      },
+      "elementId": "item144",
+      "href": "https://everynoise.com/artistprofile.html?id=1sr2X76F51lgfIhO4XOGm0",
+      "id": "1sr2X76F51lgfIhO4XOGm0"
+    },
+    {
+      "artistName": "Nick Mackenzie",
+      "positioning": {
+        "top": 455,
+        "left": 601
+      },
+      "style": {
+        "color": "#928d06",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/60debd846aa33ef18b6b60567c275dbe3bf9932f",
+        "title": "e.g. Nick Mackenzie \"Juanita\"",
+        "trackId": "7mnJu8AeuiDaJWeMaxQh1V"
+      },
+      "elementId": "item145",
+      "href": "https://everynoise.com/artistprofile.html?id=1cBtogE3rULrcGMZYUGA0s",
+      "id": "1cBtogE3rULrcGMZYUGA0s"
+    },
+    {
+      "artistName": "Bruce Low",
+      "positioning": {
+        "top": 828,
+        "left": 605
+      },
+      "style": {
+        "color": "#758a09",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c2d98a5caa55c9730a7b6edaaddc01f9e350eef0",
+        "title": "e.g. Bruce Low \"Noah\"",
+        "trackId": "2JyXGVTGdFKemRCL4Dr4vq"
+      },
+      "elementId": "item146",
+      "href": "https://everynoise.com/artistprofile.html?id=1h9ZylG2yIJdeWN6VMHTHv",
+      "id": "1h9ZylG2yIJdeWN6VMHTHv"
+    },
+    {
+      "artistName": "Gaby Albrecht",
+      "positioning": {
+        "top": 550,
+        "left": 196
+      },
+      "style": {
+        "color": "#859d00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/911b7240140c530ceb8fd4eabc19d11c71bf424e",
+        "title": "e.g. Gaby Albrecht \"Ich hab mich so in Dich verliebt\"",
+        "trackId": "2af25pGNSSYXzUG5osI1Ee"
+      },
+      "elementId": "item147",
+      "href": "https://everynoise.com/artistprofile.html?id=7e5ANSkecFZWC7PNHgyikY",
+      "id": "7e5ANSkecFZWC7PNHgyikY"
+    },
+    {
+      "artistName": "Frank Farian",
+      "positioning": {
+        "top": 362,
+        "left": 801
+      },
+      "style": {
+        "color": "#9f8621",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89ffb85b7dc99bb9c07708823ef1790a582c101c",
+        "title": "e.g. Frank Farian \"Rocky\"",
+        "trackId": "1KvOQr08NPFBQF9THBCgE8"
+      },
+      "elementId": "item148",
+      "href": "https://everynoise.com/artistprofile.html?id=4BtZNsjcdvBQ1BECwKhltw",
+      "id": "4BtZNsjcdvBQ1BECwKhltw"
+    },
+    {
+      "artistName": "Dorthe",
+      "positioning": {
+        "top": 483,
+        "left": 788
+      },
+      "style": {
+        "color": "#9d8201",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/43414baf323bb56f8457544e406d05d28a328abe",
+        "title": "e.g. Dorthe \"Wärst du doch in Düsseldorf geblieben\"",
+        "trackId": "4Im22oLBjv4o0EnYkZ32jS"
+      },
+      "elementId": "item149",
+      "href": "https://everynoise.com/artistprofile.html?id=2qsSb4i5AZzLbktfcVkO1w",
+      "id": "2qsSb4i5AZzLbktfcVkO1w"
+    },
+    {
+      "artistName": "Anita & Alexandra Hofmann",
+      "positioning": {
+        "top": 147,
+        "left": 869
+      },
+      "style": {
+        "color": "#d97b01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e98b485ed96e828adff0ff63b89c11f84e270f7e",
+        "title": "e.g. Anita & Alexandra Hofmann \"Sünden der Nacht\"",
+        "trackId": "6rb2HgoCZV0p1GZSEw8P38"
+      },
+      "elementId": "item150",
+      "href": "https://everynoise.com/artistprofile.html?id=48y1YyxOsZwBJLexUJWlS3",
+      "id": "48y1YyxOsZwBJLexUJWlS3"
+    },
+    {
+      "artistName": "Die Schäfer",
+      "positioning": {
+        "top": 269,
+        "left": 230
+      },
+      "style": {
+        "color": "#b78400",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/000f57021c753409bfe78a4fc8ec3232a87f6f77",
+        "title": "e.g. Die Schäfer \"Ein Zigeunerkind\"",
+        "trackId": "5U1K9ooE644mHFD6UFRmmj"
+      },
+      "elementId": "item151",
+      "href": "https://everynoise.com/artistprofile.html?id=1yfL0QviQmJPphAgzuocQ1",
+      "id": "1yfL0QviQmJPphAgzuocQ1"
+    },
+    {
+      "artistName": "René Carol",
+      "positioning": {
+        "top": 765,
+        "left": 383
+      },
+      "style": {
+        "color": "#609102",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6bf3ff81ad82ded665aea3ca7563d201eca6ff90",
+        "title": "e.g. René Carol \"Rote Rosen, rote Lippen, roter Wein\"",
+        "trackId": "1aIBBAIWIBwjYEg6jLcM2Z"
+      },
+      "elementId": "item152",
+      "href": "https://everynoise.com/artistprofile.html?id=44t8lZqBW9bsb9dV1JBytd",
+      "id": "44t8lZqBW9bsb9dV1JBytd"
+    },
+    {
+      "artistName": "Cindy & Bert",
+      "positioning": {
+        "top": 467,
+        "left": 664
+      },
+      "style": {
+        "color": "#878600",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/61196dc69ce955ef1ef98076bb1f98dd561a3a64",
+        "title": "e.g. Cindy & Bert \"Immer wieder sonntags\"",
+        "trackId": "3SEZbYOX07FO5lXzC99Rb6"
+      },
+      "elementId": "item153",
+      "href": "https://everynoise.com/artistprofile.html?id=1Ml6WeEpivZ29CKjSwIAIO",
+      "id": "1Ml6WeEpivZ29CKjSwIAIO"
+    },
+    {
+      "artistName": "Ingrid Peters",
+      "positioning": {
+        "top": 626,
+        "left": 541
+      },
+      "style": {
+        "color": "#ae8b04",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8adc92f7582a226f61287f8657f524e77c70102a",
+        "title": "e.g. Ingrid Peters \"Afrika\"",
+        "trackId": "62rzd5qPYY1SfLIp88UBTu"
+      },
+      "elementId": "item154",
+      "href": "https://everynoise.com/artistprofile.html?id=0hj68CqaIHnWkCXEwx0BFU",
+      "id": "0hj68CqaIHnWkCXEwx0BFU"
+    },
+    {
+      "artistName": "Ted Herold",
+      "positioning": {
+        "top": 632,
+        "left": 779
+      },
+      "style": {
+        "color": "#9c7e01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5d7a9a58ac0e86aac1d596e8f873696b4d5353c",
+        "title": "e.g. Ted Herold \"Moonlight\"",
+        "trackId": "2AC6dz3qZ8U5H9PklHZdia"
+      },
+      "elementId": "item155",
+      "href": "https://everynoise.com/artistprofile.html?id=6Vgqtfn2TbVchYWlQmlYPR",
+      "id": "6Vgqtfn2TbVchYWlQmlYPR"
+    },
+    {
+      "artistName": "Gottlieb Wendehals",
+      "positioning": {
+        "top": 256,
+        "left": 860
+      },
+      "style": {
+        "color": "#cc6203",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06ee0efa97c867433fdb6cded3e92d6adf16f3b5",
+        "title": "e.g. Gottlieb Wendehals \"Polonäse Blankenese\"",
+        "trackId": "68XLpAcKb8FFrQZluAqZrj"
+      },
+      "elementId": "item156",
+      "href": "https://everynoise.com/artistprofile.html?id=3qO6qjyrBbPFCtHC1NAtnL",
+      "id": "3qO6qjyrBbPFCtHC1NAtnL"
+    },
+    {
+      "artistName": "Ivo Robic",
+      "positioning": {
+        "top": 720,
+        "left": 217
+      },
+      "style": {
+        "color": "#699406",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2395772035faf303ade5398e82da61dfc79e4e30",
+        "title": "e.g. Ivo Robic \"Mit 17 fängt das Leben erst an (Save The Last Dance For Me)\"",
+        "trackId": "65tomV0eb9z1PYs44zvtLq"
+      },
+      "elementId": "item157",
+      "href": "https://everynoise.com/artistprofile.html?id=6ouLM9uXt774BmPfmTzgX8",
+      "id": "6ouLM9uXt774BmPfmTzgX8"
+    },
+    {
+      "artistName": "Gebrüder Blattschuss",
+      "positioning": {
+        "top": 269,
+        "left": 1014
+      },
+      "style": {
+        "color": "#dd6c01",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05a2ee3615eb8ffe315ddbf2afe5222412b93728",
+        "title": "e.g. Gebrüder Blattschuss \"Kreuzberger Nächte\"",
+        "trackId": "5zOTYihDHgLl1K2o2w1S9O"
+      },
+      "elementId": "item158",
+      "href": "https://everynoise.com/artistprofile.html?id=47foweSEwrp2vBdGrTHbmM",
+      "id": "47foweSEwrp2vBdGrTHbmM"
+    },
+    {
+      "artistName": "Ralf Bendix",
+      "positioning": {
+        "top": 683,
+        "left": 826
+      },
+      "style": {
+        "color": "#908300",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a59ea729c11385e973d00ea62a305ea216552469",
+        "title": "e.g. Ralf Bendix \"Babysitter Boogie - Remastered 2005\"",
+        "trackId": "01ZjW579VoBnwGIpSYQRse"
+      },
+      "elementId": "item159",
+      "href": "https://everynoise.com/artistprofile.html?id=4fW1uloIAdN45rVwGUfWt8",
+      "id": "4fW1uloIAdN45rVwGUfWt8"
+    },
+    {
+      "artistName": "Geschwister Hofmann",
+      "positioning": {
+        "top": 696,
+        "left": 515
+      },
+      "style": {
+        "color": "#9e9101",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/910dba93ee17128d98a9dc6e2d51c5c92db86f7b",
+        "title": "e.g. Geschwister Hofmann \"Wenn der Kondor seine Kreise zieht\"",
+        "trackId": "7D16ZpMzvWg2vOmJnWtxj5"
+      },
+      "elementId": "item160",
+      "href": "https://everynoise.com/artistprofile.html?id=0tjGCSrruGqnHhdVd4DuJ5",
+      "id": "0tjGCSrruGqnHhdVd4DuJ5"
+    },
+    {
+      "artistName": "Nina & Mike",
+      "positioning": {
+        "top": 298,
+        "left": 294
+      },
+      "style": {
+        "color": "#b87700",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa37e18fb4e02f6e6c6a6f1c221937dfef63f8cb",
+        "title": "e.g. Nina & Mike \"Paloma Blanca\"",
+        "trackId": "4C7ICdh1SpNUefR48W76nP"
+      },
+      "elementId": "item161",
+      "href": "https://everynoise.com/artistprofile.html?id=233iTxLhMUrWgtH7rWN0jl",
+      "id": "233iTxLhMUrWgtH7rWN0jl"
+    },
+    {
+      "artistName": "Volker Lechtenbrink",
+      "positioning": {
+        "top": 711,
+        "left": 1367
+      },
+      "style": {
+        "color": "#856606",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/002c1c063086cd47a11ed6ed22a95c7c796d5461",
+        "title": "e.g. Volker Lechtenbrink \"Ich mag\"",
+        "trackId": "5NM2ZsfAs9jjNuFQ6lf20w"
+      },
+      "elementId": "item162",
+      "href": "https://everynoise.com/artistprofile.html?id=5gv6aDgkux4gRJfU9RngAw",
+      "id": "5gv6aDgkux4gRJfU9RngAw"
+    },
+    {
+      "artistName": "Harald Juhnke",
+      "positioning": {
+        "top": 592,
+        "left": 788
+      },
+      "style": {
+        "color": "#868100",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a259a241b695eec748edca7e43f2c9ba4eaa7562",
+        "title": "e.g. Harald Juhnke \"My Way\"",
+        "trackId": "2RUnEMQgRRHrOGCGcp4Vou"
+      },
+      "elementId": "item163",
+      "href": "https://everynoise.com/artistprofile.html?id=7bny6ijof5zpSXItB4GOJa",
+      "id": "7bny6ijof5zpSXItB4GOJa"
+    },
+    {
+      "artistName": "Heike Schäfer",
+      "positioning": {
+        "top": 327,
+        "left": 733
+      },
+      "style": {
+        "color": "#b3880e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d00dc25482f6a1a693772b1fe6800365eaf6499c",
+        "title": "e.g. Heike Schäfer \"Die Glocken von Rom\"",
+        "trackId": "1xo5BacAwZxabMLfBZ9SMZ"
+      },
+      "elementId": "item164",
+      "href": "https://everynoise.com/artistprofile.html?id=2gv9cOf18WEVVMtyYOtlkU",
+      "id": "2gv9cOf18WEVVMtyYOtlkU"
+    },
+    {
+      "artistName": "Ulli Martin",
+      "positioning": {
+        "top": 339,
+        "left": 68
+      },
+      "style": {
+        "color": "#848903",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/29c7e6939fb77dd2392989be6ec714121995a09d",
+        "title": "e.g. Ulli Martin \"Ich träume mit offenen Augen von dir\"",
+        "trackId": "29DrX9UgVN4LGXWZb9I5jz"
+      },
+      "elementId": "item165",
+      "href": "https://everynoise.com/artistprofile.html?id=7zt10eOXdsTWepOBq8U7qO",
+      "id": "7zt10eOXdsTWepOBq8U7qO"
+    },
+    {
+      "artistName": "Monica Morell",
+      "positioning": {
+        "top": 645,
+        "left": 865
+      },
+      "style": {
+        "color": "#928900",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a8a8e0d6a9bbf2d7fdc60569566874bcc2ae532",
+        "title": "e.g. Monica Morell \"Ich fange nie mehr was an einem Sonntag an\"",
+        "trackId": "5EYQNGAS56TPXxNdgjsBek"
+      },
+      "elementId": "item166",
+      "href": "https://everynoise.com/artistprofile.html?id=16mYhQS15go7k53birpUGA",
+      "id": "16mYhQS15go7k53birpUGA"
+    },
+    {
+      "artistName": "Geraldine Olivier",
+      "positioning": {
+        "top": 446,
+        "left": 354
+      },
+      "style": {
+        "color": "#b88700",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e2dc2bdda7feb198543e5690afd8c5af8d470ad2",
+        "title": "e.g. Geraldine Olivier \"Nimm dir wieder einmal Zeit\"",
+        "trackId": "7pw4q3m3wkKfDrBrbdRvAs"
+      },
+      "elementId": "item167",
+      "href": "https://everynoise.com/artistprofile.html?id=1elqx9YTFOcD6A4gPMRFSA",
+      "id": "1elqx9YTFOcD6A4gPMRFSA"
+    },
+    {
+      "artistName": "Margot Eskens",
+      "positioning": {
+        "top": 747,
+        "left": 716
+      },
+      "style": {
+        "color": "#759600",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bb947d76d4c3d0e8dbcf8895a0731e55aabb8a1",
+        "title": "e.g. Margot Eskens \"Cindy, oh Cindy\"",
+        "trackId": "4GJ1S89mVQSJD0I0G1EdEh"
+      },
+      "elementId": "item168",
+      "href": "https://everynoise.com/artistprofile.html?id=48Jtu0Q4phNbfKuuMo64gR",
+      "id": "48Jtu0Q4phNbfKuuMo64gR"
+    },
+    {
+      "artistName": "Chris Wolff",
+      "positioning": {
+        "top": 25,
+        "left": 1061
+      },
+      "style": {
+        "color": "#e36900",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72ecaa3daacfd671821579cfff51e3ac852fc076",
+        "title": "e.g. Chris Wolff \"Palma De Mallorca\"",
+        "trackId": "2hwuBzRDwq9dUF5vN7JKkX"
+      },
+      "elementId": "item169",
+      "href": "https://everynoise.com/artistprofile.html?id=10UGFK9qhm9ZgUuajpjF8b",
+      "id": "10UGFK9qhm9ZgUuajpjF8b"
+    },
+    {
+      "artistName": "Marianne & Michael",
+      "positioning": {
+        "top": 734,
+        "left": 609
+      },
+      "style": {
+        "color": "#958401",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/108384f44a1a99617df414c7b582ab9d54ced286",
+        "title": "e.g. Marianne & Michael \"Es ist so schön ein Musikant zu sein\"",
+        "trackId": "7McN80tnv3DU5utgqXj2a9"
+      },
+      "elementId": "item170",
+      "href": "https://everynoise.com/artistprofile.html?id=4Qv4eqBw578jGLMDCDx144",
+      "id": "4Qv4eqBw578jGLMDCDx144"
+    },
+    {
+      "artistName": "Benny",
+      "positioning": {
+        "top": 327,
+        "left": 656
+      },
+      "style": {
+        "color": "#cd6b05",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/faf005180262b6cd35e047479e2ded77947b6fce",
+        "title": "e.g. Benny \"Amigo Charly Brown\"",
+        "trackId": "1HVJNRZmv3N1YZjNpubnIc"
+      },
+      "elementId": "item171",
+      "href": "https://everynoise.com/artistprofile.html?id=65lpNWR6bcv9dXtyFK6Ok1",
+      "id": "65lpNWR6bcv9dXtyFK6Ok1"
+    },
+    {
+      "artistName": "Heidi Brühl",
+      "positioning": {
+        "top": 735,
+        "left": 413
+      },
+      "style": {
+        "color": "#809100",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0eb41374b509c827599a827e102f4a0a39d913ab",
+        "title": "e.g. Heidi Brühl \"Wir wollen niemals auseinandergehn\"",
+        "trackId": "7I58rchFLrSOjSslgQTIKz"
+      },
+      "elementId": "item172",
+      "href": "https://everynoise.com/artistprofile.html?id=7rctdm3Mx6mTUuoQukPzHM",
+      "id": "7rctdm3Mx6mTUuoQukPzHM"
+    },
+    {
+      "artistName": "Fred Bertelmann",
+      "positioning": {
+        "top": 776,
+        "left": 566
+      },
+      "style": {
+        "color": "#808d03",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57be93c063a3461ab3086d9a82e4d681b1d3bf52",
+        "title": "e.g. Fred Bertelmann \"Der lachende Vagabund (Gambler's Guitar)\"",
+        "trackId": "0Zm9PlNHa6ELF8X32IvoIZ"
+      },
+      "elementId": "item173",
+      "href": "https://everynoise.com/artistprofile.html?id=2D3fGI8emaY32b4fF1fW8R",
+      "id": "2D3fGI8emaY32b4fF1fW8R"
+    },
+    {
+      "artistName": "Manuel & Pony",
+      "positioning": {
+        "top": 337,
+        "left": 856
+      },
+      "style": {
+        "color": "#8a9406",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/65af56e000150790c309ed5df11d4bdfef8396d5",
+        "title": "e.g. Manuel & Pony \"Das Lied von Manuel\"",
+        "trackId": "63smv7iIzlW3sUHSiGtqWs"
+      },
+      "elementId": "item174",
+      "href": "https://everynoise.com/artistprofile.html?id=6o2AK4mkY9mzeVKXkkrSDE",
+      "id": "6o2AK4mkY9mzeVKXkkrSDE"
+    },
+    {
+      "artistName": "Jürgen Renfordt",
+      "positioning": {
+        "top": 189,
+        "left": 963
+      },
+      "style": {
+        "color": "#ac8708",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/21a34cd9eca3a9c166f1f5745b518c403151e5fc",
+        "title": "e.g. Jürgen Renfordt \"Zu verkaufen: Ein schneeweisses Brautkleid\"",
+        "trackId": "3aI7DfMk2XeFwDumeAEFmR"
+      },
+      "elementId": "item175",
+      "href": "https://everynoise.com/artistprofile.html?id=0yTekZrPR5z9r6mWONuEtY",
+      "id": "0yTekZrPR5z9r6mWONuEtY"
+    },
+    {
+      "artistName": "Hazy Osterwald Sextett",
+      "positioning": {
+        "top": 612,
+        "left": 1312
+      },
+      "style": {
+        "color": "#a67914",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5be7a939c8e9a7913cf39a7663e35798fa2c983d",
+        "title": "e.g. Hazy Osterwald Sextett \"Kriminal-Tango\"",
+        "trackId": "58JjfaUxynCsoKv01pzbci"
+      },
+      "elementId": "item176",
+      "href": "https://everynoise.com/artistprofile.html?id=0YD37nAgMITIM6w1aEFD5H",
+      "id": "0YD37nAgMITIM6w1aEFD5H"
+    },
+    {
+      "artistName": "Pepe Lienhard Band",
+      "positioning": {
+        "top": 356,
+        "left": 1061
+      },
+      "style": {
+        "color": "#ab7b2e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f9d31ef5aebc68cfaeb9b2e79f228328fbfcd54",
+        "title": "e.g. Pepe Lienhard Band \"Swiss Lady\"",
+        "trackId": "0832pCssQRETuqoNPLOtpO"
+      },
+      "elementId": "item177",
+      "href": "https://everynoise.com/artistprofile.html?id=5eCPVMIgv86yjbfmCp4faz",
+      "id": "5eCPVMIgv86yjbfmCp4faz"
+    },
+    {
+      "artistName": "Ricky Shayne",
+      "positioning": {
+        "top": 522,
+        "left": 690
+      },
+      "style": {
+        "color": "#ab7b02",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/61b4911164603fd8419b2449e2f0d481a1b525b1",
+        "title": "e.g. Ricky Shayne \"Mamy Blues - Re-Recording\"",
+        "trackId": "0oim9cN4Ab6liNGe7g0TBr"
+      },
+      "elementId": "item178",
+      "href": "https://everynoise.com/artistprofile.html?id=2snCcoNsuCH21MYJNjSqFr",
+      "id": "2snCcoNsuCH21MYJNjSqFr"
+    },
+    {
+      "artistName": "Gerd Böttcher",
+      "positioning": {
+        "top": 668,
+        "left": 422
+      },
+      "style": {
+        "color": "#917f03",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f472fcdaedaf42910e9786b612a664e82d380ca",
+        "title": "e.g. Gerd Böttcher \"Für Gaby tu' ich alles\"",
+        "trackId": "1Gf5aOpHSF5qSx8dRvInx6"
+      },
+      "elementId": "item179",
+      "href": "https://everynoise.com/artistprofile.html?id=6i8r2MkffweG2UeYOJhv52",
+      "id": "6i8r2MkffweG2UeYOJhv52"
+    },
+    {
+      "artistName": "Angela Wiedl",
+      "positioning": {
+        "top": 577,
+        "left": 0
+      },
+      "style": {
+        "color": "#8e9600",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/451af4ad7dbdddbc78e70f335a317c677a833ec6",
+        "title": "e.g. Angela Wiedl \"Doch des Herzklopfen... des verdank i dir\"",
+        "trackId": "3fb94OTZOaAMq6VbMvSZw6"
+      },
+      "elementId": "item180",
+      "href": "https://everynoise.com/artistprofile.html?id=4TxVXJODA3PaOIorzGLdql",
+      "id": "4TxVXJODA3PaOIorzGLdql"
+    },
+    {
+      "artistName": "Phil & John",
+      "positioning": {
+        "top": 437,
+        "left": 852
+      },
+      "style": {
+        "color": "#b57007",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/663669c48b5d885d0d6d5edd93637c3938f0c879",
+        "title": "e.g. Phil & John \"Hello, Mary Lou\"",
+        "trackId": "39JQ3QhKUYuvAtrVVXEJ1f"
+      },
+      "elementId": "item181",
+      "href": "https://everynoise.com/artistprofile.html?id=10DqoX6GrrASircYFjR71o",
+      "id": "10DqoX6GrrASircYFjR71o"
+    },
+    {
+      "artistName": "Graham Bonney",
+      "positioning": {
+        "top": 314,
+        "left": 686
+      },
+      "style": {
+        "color": "#b27f01",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa72aca4803b87bd38a7af543b7db370453c2b20",
+        "title": "e.g. Graham Bonney \"Wähle 3 3 3\"",
+        "trackId": "5wXIsodXIXCUbbVRgDInIS"
+      },
+      "elementId": "item182",
+      "href": "https://everynoise.com/artistprofile.html?id=7jDPL29ZjITPFKtmq2s5jk",
+      "id": "7jDPL29ZjITPFKtmq2s5jk"
+    },
+    {
+      "artistName": "Peter Rubin",
+      "positioning": {
+        "top": 566,
+        "left": 711
+      },
+      "style": {
+        "color": "#a47d09",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89b4f3944f7f9ec2574485d1e15a4d7e3df15ee3",
+        "title": "e.g. Peter Rubin \"Wir zwei fahren irgendwo hin\"",
+        "trackId": "56ZCcqOZPNDLloRXT1Y3Ys"
+      },
+      "elementId": "item183",
+      "href": "https://everynoise.com/artistprofile.html?id=0FSgrOd3qzCzpQXdW88NXl",
+      "id": "0FSgrOd3qzCzpQXdW88NXl"
+    },
+    {
+      "artistName": "Cindy Berger",
+      "positioning": {
+        "top": 251,
+        "left": 430
+      },
+      "style": {
+        "color": "#c28700",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0722612d353db4e4c8108a23510296f7192dc4ef",
+        "title": "e.g. Cindy Berger \"Immer wieder Sonntags\"",
+        "trackId": "3lyp8n1lL8LluBIIhg3qIe"
+      },
+      "elementId": "item184",
+      "href": "https://everynoise.com/artistprofile.html?id=1IZukI53t3hECjbFb9W7Dt",
+      "id": "1IZukI53t3hECjbFb9W7Dt"
+    },
+    {
+      "artistName": "Renate Kern",
+      "positioning": {
+        "top": 604,
+        "left": 728
+      },
+      "style": {
+        "color": "#848a02",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/035cfefe8a26e2968a0eba3332306381f497fe33",
+        "title": "e.g. Renate Kern \"Lieber mal weinen im Glück\"",
+        "trackId": "1nEpXYb5aYemYrXOmdixkP"
+      },
+      "elementId": "item185",
+      "href": "https://everynoise.com/artistprofile.html?id=5nklTApSwf8B6hsgRclwd0",
+      "id": "5nklTApSwf8B6hsgRclwd0"
+    },
+    {
+      "artistName": "Erik Silvester",
+      "positioning": {
+        "top": 434,
+        "left": 379
+      },
+      "style": {
+        "color": "#a9800e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4edacb1d9b0e44b0da7e5c73df7ec9b0adbcf1f4",
+        "title": "e.g. Erik Silvester \"Zucker im Kaffee\"",
+        "trackId": "4b2hgOx2jX9NSOuwXPGaq9"
+      },
+      "elementId": "item186",
+      "href": "https://everynoise.com/artistprofile.html?id=2X4OiisST6R236S7do5BYa",
+      "id": "2X4OiisST6R236S7do5BYa"
+    },
+    {
+      "artistName": "Jan & Kjeld",
+      "positioning": {
+        "top": 671,
+        "left": 873
+      },
+      "style": {
+        "color": "#968d00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4ddd506d2730675a30acc053ad909b296204e9c",
+        "title": "e.g. Jan & Kjeld \"Banjo Boy\"",
+        "trackId": "160FzRVybGTYTwFFOuPOzM"
+      },
+      "elementId": "item187",
+      "href": "https://everynoise.com/artistprofile.html?id=4ifQYRMWDrsp8V5WyJreSQ",
+      "id": "4ifQYRMWDrsp8V5WyJreSQ"
+    },
+    {
+      "artistName": "Elfi Graf",
+      "positioning": {
+        "top": 654,
+        "left": 681
+      },
+      "style": {
+        "color": "#7d9905",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a84d0f5dbaedbac0222071072c0889d27364dc45",
+        "title": "e.g. Elfi Graf \"Mozartgasse 10\"",
+        "trackId": "14y7gyhhcFgZ9l7XCmz6A2"
+      },
+      "elementId": "item188",
+      "href": "https://everynoise.com/artistprofile.html?id=2ZUUoHjxUNAz1ih3aLOj3E",
+      "id": "2ZUUoHjxUNAz1ih3aLOj3E"
+    },
+    {
+      "artistName": "Renate und Werner Leismann",
+      "positioning": {
+        "top": 764,
+        "left": 498
+      },
+      "style": {
+        "color": "#988200",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a60744ffbd0b3c5e936dc04170479b71e05f659e",
+        "title": "e.g. Renate und Werner Leismann \"Ein Schlafsack und eine Gitarre\"",
+        "trackId": "3BRqUmIzM8nKBW7OZVuon4"
+      },
+      "elementId": "item189",
+      "href": "https://everynoise.com/artistprofile.html?id=6OEFXAudr4XQ1mP9vuTsfU",
+      "id": "6OEFXAudr4XQ1mP9vuTsfU"
+    },
+    {
+      "artistName": "Marion Maerz",
+      "positioning": {
+        "top": 527,
+        "left": 366
+      },
+      "style": {
+        "color": "#889100",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/469084782d612d30a8fba93984bbfd8125678f54",
+        "title": "e.g. Marion Maerz \"Schau mal herein - Remastered 2023\"",
+        "trackId": "0vGpmfoZj6QRjLYmdfP1Kc"
+      },
+      "elementId": "item190",
+      "href": "https://everynoise.com/artistprofile.html?id=6NFqaFaM5aQDqOYpaAjBSS",
+      "id": "6NFqaFaM5aQDqOYpaAjBSS"
+    },
+    {
+      "artistName": "Windows",
+      "positioning": {
+        "top": 419,
+        "left": 877
+      },
+      "style": {
+        "color": "#918133",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78a8678ff50beee583d3ab9e6e93bd3a4fc39793",
+        "title": "e.g. Windows \"How Do You Do\"",
+        "trackId": "7qe71NzglC4anMNuKcWh5j"
+      },
+      "elementId": "item191",
+      "href": "https://everynoise.com/artistprofile.html?id=3MMMnRjQSc8xvXE72CDoGc",
+      "id": "3MMMnRjQSc8xvXE72CDoGc"
+    },
+    {
+      "artistName": "Isabel Varell",
+      "positioning": {
+        "top": 287,
+        "left": 562
+      },
+      "style": {
+        "color": "#c38800",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b99587123ab71f50febce77fcb6e53cf72466845",
+        "title": "e.g. Isabel Varell \"Als wär' ich wieder 14\"",
+        "trackId": "6mvzQsAiOVpYfg8ngVnRZP"
+      },
+      "elementId": "item192",
+      "href": "https://everynoise.com/artistprofile.html?id=7x7KzRIrx3os6s2zHGFuEL",
+      "id": "7x7KzRIrx3os6s2zHGFuEL"
+    },
+    {
+      "artistName": "Tina York",
+      "positioning": {
+        "top": 260,
+        "left": 784
+      },
+      "style": {
+        "color": "#c77b02",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd973895e1a634832f5159702945f10e7a9dfa10",
+        "title": "e.g. Tina York \"Das Haus am Meer - Remastered\"",
+        "trackId": "3fT6E24dWfD8ZS6ErpZruL"
+      },
+      "elementId": "item193",
+      "href": "https://everynoise.com/artistprofile.html?id=643YOLhgaIrvv8C6dQAu1D",
+      "id": "643YOLhgaIrvv8C6dQAu1D"
+    },
+    {
+      "artistName": "Peter Hinnen",
+      "positioning": {
+        "top": 668,
+        "left": 690
+      },
+      "style": {
+        "color": "#9b8e01",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d59648c1e3cefee6106d444370c0b06dc99983d4",
+        "title": "e.g. Peter Hinnen \"Siebentausend Rinder\"",
+        "trackId": "2UjzxSDyQZ09CFexcKMNIE"
+      },
+      "elementId": "item194",
+      "href": "https://everynoise.com/artistprofile.html?id=5wGi6JhyRwbY1OEQmfxwzx",
+      "id": "5wGi6JhyRwbY1OEQmfxwzx"
+    },
+    {
+      "artistName": "Michael Schanze",
+      "positioning": {
+        "top": 464,
+        "left": 890
+      },
+      "style": {
+        "color": "#937d00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57e03a1f9b9baf0b716e2d5f584d3e8abbb0735e",
+        "title": "e.g. Michael Schanze \"Olé Espana\"",
+        "trackId": "3LIIZpBfkjhLaS19HgkAEm"
+      },
+      "elementId": "item195",
+      "href": "https://everynoise.com/artistprofile.html?id=3qZlcxiBZnekq0NeAnPLy4",
+      "id": "3qZlcxiBZnekq0NeAnPLy4"
+    },
+    {
+      "artistName": "Jacqueline Boyer",
+      "positioning": {
+        "top": 803,
+        "left": 592
+      },
+      "style": {
+        "color": "#4d9f00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1abd2fb1f47040337081f68f45d152601eb99ae3",
+        "title": "e.g. Jacqueline Boyer \"Tom Pillibi - Remastered\"",
+        "trackId": "5XBYyFF6OCjsNslkf4LLeC"
+      },
+      "elementId": "item196",
+      "href": "https://everynoise.com/artistprofile.html?id=39CXnW4H5Zc2567MY5UaeH",
+      "id": "39CXnW4H5Zc2567MY5UaeH"
+    },
+    {
+      "artistName": "Waterloo & Robinson",
+      "positioning": {
+        "top": 473,
+        "left": 281
+      },
+      "style": {
+        "color": "#9e7c04",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b6cd366fbc101b22e0aa3db9c9bb669b199c47c1",
+        "title": "e.g. Waterloo & Robinson \"Meine kleine Welt\"",
+        "trackId": "7L0lLpV2hdAyGnfMd9EdSt"
+      },
+      "elementId": "item197",
+      "href": "https://everynoise.com/artistprofile.html?id=21iz65AVxVZEcHct9TnE0j",
+      "id": "21iz65AVxVZEcHct9TnE0j"
+    },
+    {
+      "artistName": "Siw Inger",
+      "positioning": {
+        "top": 483,
+        "left": 869
+      },
+      "style": {
+        "color": "#908b00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24ed68062081933f41b32bd5392b29486c4aaf89",
+        "title": "e.g. Siw Inger \"Komm und spiel mit mir\"",
+        "trackId": "6UGuuPl2mkA7biSeB2cFuZ"
+      },
+      "elementId": "item198",
+      "href": "https://everynoise.com/artistprofile.html?id=1Qg2NOAyCMbG9mDgHrNEzq",
+      "id": "1Qg2NOAyCMbG9mDgHrNEzq"
+    },
+    {
+      "artistName": "Eberhard Hertel",
+      "positioning": {
+        "top": 554,
+        "left": 405
+      },
+      "style": {
+        "color": "#a18a01",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/97613d0242bda2f96923b2bb184fa0fcb5d4b981",
+        "title": "e.g. Eberhard Hertel \"Kleine Fische werden groß\"",
+        "trackId": "5YAdE3HMPuMhP7OCFYMEBu"
+      },
+      "elementId": "item199",
+      "href": "https://everynoise.com/artistprofile.html?id=5MSHOJagZi1n4yMpADEZA7",
+      "id": "5MSHOJagZi1n4yMpADEZA7"
+    },
+    {
+      "artistName": "Medium-Terzett",
+      "positioning": {
+        "top": 382,
+        "left": 971
+      },
+      "style": {
+        "color": "#8e8401",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0379a36c519f4e698cb9ea4a3000c2b13eb9ff7a",
+        "title": "e.g. Medium-Terzett \"Das alte Kanapee\"",
+        "trackId": "41Hdo1Sc0j9bN3qsWJ6wkt"
+      },
+      "elementId": "item200",
+      "href": "https://everynoise.com/artistprofile.html?id=1bv7qTIuAD8YBtxvnGbX2N",
+      "id": "1bv7qTIuAD8YBtxvnGbX2N"
+    },
+    {
+      "artistName": "Peter Beil",
+      "positioning": {
+        "top": 619,
+        "left": 153
+      },
+      "style": {
+        "color": "#7a910e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/293af37fd838eb577fd1dc0608c85b969f19e41d",
+        "title": "e.g. Peter Beil \"Corinna, Corinna\"",
+        "trackId": "6Zjh3XRsndoiTBISlKW9Rp"
+      },
+      "elementId": "item201",
+      "href": "https://everynoise.com/artistprofile.html?id=5r2WtgzNx4xWc695UU6ugX",
+      "id": "5r2WtgzNx4xWc695UU6ugX"
+    },
+    {
+      "artistName": "Wum's Gesang",
+      "positioning": {
+        "top": 453,
+        "left": 1400
+      },
+      "style": {
+        "color": "#73a100",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item202",
+      "href": "https://everynoise.com/artistprofile.html?id=3iTdp2SwLnir7UHHrMFefZ",
+      "id": "3iTdp2SwLnir7UHHrMFefZ"
+    },
+    {
+      "artistName": "Tina Rainford",
+      "positioning": {
+        "top": 216,
+        "left": 724
+      },
+      "style": {
+        "color": "#c57903",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44dc9de87b16f54cb8bf18f9dd9c0dc1369f0330",
+        "title": "e.g. Tina Rainford \"Silverbird - Re-Recording\"",
+        "trackId": "6NIHgosWxpE0bxbJRyLayh"
+      },
+      "elementId": "item203",
+      "href": "https://everynoise.com/artistprofile.html?id=2O5MDAerJkD9pGkK7NDJqE",
+      "id": "2O5MDAerJkD9pGkK7NDJqE"
+    },
+    {
+      "artistName": "Billy Mo",
+      "positioning": {
+        "top": 600,
+        "left": 1039
+      },
+      "style": {
+        "color": "#8c831d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd1ed4e1fe5833cf5b2b676f952eae4d4a0b432c",
+        "title": "e.g. Billy Mo \"Ich kauf' mir lieber einen Tirolerhut\"",
+        "trackId": "1v207ZF2NQmkp1bp6ehphg"
+      },
+      "elementId": "item204",
+      "href": "https://everynoise.com/artistprofile.html?id=0KIn3zxJFHCv7D1JmdnOqn",
+      "id": "0KIn3zxJFHCv7D1JmdnOqn"
+    },
+    {
+      "artistName": "Ulla Norden",
+      "positioning": {
+        "top": 274,
+        "left": 669
+      },
+      "style": {
+        "color": "#c07c00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dfa4d790a34e518c32844bedb47d70f7b2a497b8",
+        "title": "e.g. Ulla Norden \"Ich Bin Verliebt In Den Eigenen Mann\"",
+        "trackId": "62loa0DSNrmowb7rNGJRhX"
+      },
+      "elementId": "item205",
+      "href": "https://everynoise.com/artistprofile.html?id=7xcHx0aVSUNuaD3yMvepTp",
+      "id": "7xcHx0aVSUNuaD3yMvepTp"
+    },
+    {
+      "artistName": "Ralf Paulsen",
+      "positioning": {
+        "top": 709,
+        "left": 558
+      },
+      "style": {
+        "color": "#9f7e0b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf607889c48f9ad8504fc293fd1d3b394dc52847",
+        "title": "e.g. Ralf Paulsen \"Bonanza\"",
+        "trackId": "2AnyvDrsZxKfTKBNtPHz8I"
+      },
+      "elementId": "item206",
+      "href": "https://everynoise.com/artistprofile.html?id=281pH6ah3rI2aLfqcRmrr3",
+      "id": "281pH6ah3rI2aLfqcRmrr3"
+    },
+    {
+      "artistName": "Peter Petrel",
+      "positioning": {
+        "top": 438,
+        "left": 681
+      },
+      "style": {
+        "color": "#9f8606",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6018842a62a3c50917100d4a5532a0146df179cb",
+        "title": "e.g. Peter Petrel \"Hamburger Deern\"",
+        "trackId": "6IT8VgFxqb2Q0ZBzV2alBM"
+      },
+      "elementId": "item207",
+      "href": "https://everynoise.com/artistprofile.html?id=7umulFw0J3L4nqMCh3fyMn",
+      "id": "7umulFw0J3L4nqMCh3fyMn"
+    },
+    {
+      "artistName": "Martin Mann",
+      "positioning": {
+        "top": 101,
+        "left": 1327
+      },
+      "style": {
+        "color": "#aa866f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20cf494e0edef0a6a4bca9b02f5eb470d491a983",
+        "title": "e.g. Martin Mann \"Meilenweit\"",
+        "trackId": "2tue2ii55YMEwGcI7Gf6Y9"
+      },
+      "elementId": "item208",
+      "href": "https://everynoise.com/artistprofile.html?id=6iTYcVa2I1YrcSqlfnE3n3",
+      "id": "6iTYcVa2I1YrcSqlfnE3n3"
+    },
+    {
+      "artistName": "Gitte",
+      "positioning": {
+        "top": 696,
+        "left": 856
+      },
+      "style": {
+        "color": "#7d8600",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4effde78b8207a2db6a2a9e1e0e22ada37cc2342",
+        "title": "e.g. Gitte \"Manchmal wein' ich heimlich\"",
+        "trackId": "3VP4Bsbi7yZkBgGbKGrJ6i"
+      },
+      "elementId": "item209",
+      "href": "https://everynoise.com/artistprofile.html?id=3kg8Y0LT1HZjvDAIfJtZIm",
+      "id": "3kg8Y0LT1HZjvDAIfJtZIm"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=classic%20schlager"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4bMTSiI4AC7Mp0TCOMis7A"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5yhxXwWGQEF7saPpvcteXW"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4bvmJrGZKc9GGJcF3UhbYw"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7AJapgF28om0i1lQp8VxKl"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=classic%20schlager"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "volksmusik",
+      "positioning": {
+        "top": 107,
+        "left": 20
+      },
+      "style": {
+        "color": "#a9870a",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f6bec2f925893652492041082f48a030d4301e6",
+        "title": "e.g. Alpentrio Tirol \"Rot sind die Rosen\"",
+        "trackId": "60h6S5vXboPU7iXj49u4Yi"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-volksmusik.html#tunnel"
+    },
+    {
+      "genreName": "schlager",
+      "positioning": {
+        "top": 37,
+        "left": 157
+      },
+      "style": {
+        "color": "#c77f05",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c79767545c5c468e55286a7eadd971786f7acd45",
+        "title": "e.g. Christin Stark \"Kein Plan\"",
+        "trackId": "3bybbFCvK77t8FqXOPrTd0"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-schlager.html#tunnel"
+    },
+    {
+      "genreName": "ostrock",
+      "positioning": {
+        "top": 131,
+        "left": 119
+      },
+      "style": {
+        "color": "#9a820b",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a43938bc79e7b115776226299e6c77d779436d3",
+        "title": "e.g. Electra \"Nie zuvor\"",
+        "trackId": "2klV9w6SNOCY47hDeTqWqs"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-ostrock.html#tunnel"
+    },
+    {
+      "genreName": "german country",
+      "positioning": {
+        "top": 135,
+        "left": 232
+      },
+      "style": {
+        "color": "#9d821b",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c58e1ec083288ff4f0a1f7a28b72896dc22c6f27",
+        "title": "e.g. Truck Stop \"Take It Easy, altes Haus\"",
+        "trackId": "2e2slZgDbTQOTQfv86s5r5"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-germancountry.html#tunnel"
+    },
+    {
+      "genreName": "discofox",
+      "positioning": {
+        "top": 0,
+        "left": 276
+      },
+      "style": {
+        "color": "#e56b04",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d04f1a18153fab4075d33dfd950930eb65fdb3f3",
+        "title": "e.g. Mike Bauhaus \"Nun sag schon Adieu\"",
+        "trackId": "1o11TKaZxsMTYvwb0aUsrn"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-discofox.html#tunnel"
+    },
+    {
+      "genreName": "vintage schlager",
+      "positioning": {
+        "top": 300,
+        "left": 167
+      },
+      "style": {
+        "color": "#53920d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9ccd1e04ae451af3a9f58e7e61424d392df2c316",
+        "title": "e.g. Marika Rökk \"In der Nacht ist der Mensch nicht gern alleine\"",
+        "trackId": "1ZxojRsmB4FY3WiCOK85YW"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-vintageschlager.html#tunnel"
+    },
+    {
+      "genreName": "neue deutsche welle",
+      "positioning": {
+        "top": 95,
+        "left": 300
+      },
+      "style": {
+        "color": "#ad7523",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84a9dcaf11a31b02a329b42542377706302c9538",
+        "title": "e.g. Fehlfarben \"Ein Jahr (Es geht voran)\"",
+        "trackId": "6mMUoEgOl1yuGMJ6dfHzh6"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-neuedeutschewelle.html#tunnel"
+    },
+    {
+      "genreName": "khaliji",
+      "positioning": {
+        "top": 199,
+        "left": 147
+      },
+      "style": {
+        "color": "#a78203",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/debd917f64a9fc2de9ab096f4b03aa0705a92dca",
+        "title": "e.g. Majid Almohandis \"جننت قلبي\"",
+        "trackId": "6PnSITYfgUE5vTCLRy3Y8S"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-khaliji.html#tunnel"
+    },
+    {
+      "genreName": "lebanese pop",
+      "positioning": {
+        "top": 223,
+        "left": 123
+      },
+      "style": {
+        "color": "#a1810a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2f3b204d7b547b64481b7a1f10b664bca590472",
+        "title": "e.g. Assi El Hallani \"لبنانى\"",
+        "trackId": "3NN8CnCJkKX1efxvfEvaZi"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-lebanesepop.html#tunnel"
+    },
+    {
+      "genreName": "german rock",
+      "positioning": {
+        "top": 123,
+        "left": 14
+      },
+      "style": {
+        "color": "#ad730b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/02aa55629a354795469a22482175e388449acb92",
+        "title": "e.g. BAP \"Verdamp lang her\"",
+        "trackId": "12Gf7Ffl7pxj7mQF1ehRBy"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-germanrock.html#tunnel"
+    },
+    {
+      "genreName": "arab pop",
+      "positioning": {
+        "top": 145,
+        "left": 157
+      },
+      "style": {
+        "color": "#a48108",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3dc6f08b070c42fb3bc6a769fbbd324452c0cc62",
+        "title": "e.g. Ramy Ayach \"قصة حب - نسخة شرقي\"",
+        "trackId": "6ojYumgu8f7i15xshyg6Bj"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-arabpop.html#tunnel"
+    },
+    {
+      "genreName": "swahili gospel",
+      "positioning": {
+        "top": 157,
+        "left": 157
+      },
+      "style": {
+        "color": "#a38803",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9853a1c823ace07614931e882e3b10d61abae1be",
+        "title": "e.g. Evelyn Wanjiru \"Tulia\"",
+        "trackId": "79yJ1Y0bUyuxHaURFxmHFw"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-swahiligospel.html#tunnel"
+    },
+    {
+      "genreName": "musique acadienne",
+      "positioning": {
+        "top": 211,
+        "left": 72
+      },
+      "style": {
+        "color": "#9f8d0b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ab38045a5907c7f6e2ed50c37eed226c7c80a53",
+        "title": "e.g. Acajun \"Le frolic\"",
+        "trackId": "4dxYJM1pmcJ3IZO3jHWitR"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-musiqueacadienne.html#tunnel"
+    },
+    {
+      "genreName": "jalsat",
+      "positioning": {
+        "top": 157,
+        "left": 89
+      },
+      "style": {
+        "color": "#a37f01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa7d2136e74f23a959662d11aa867783d6d75099",
+        "title": "e.g. Rashed Al-Majed \"وحشتيني\"",
+        "trackId": "43RAsvZjJ0Ugau59NJqoTL"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-jalsat.html#tunnel"
+    },
+    {
+      "genreName": "zim gospel",
+      "positioning": {
+        "top": 145,
+        "left": 65
+      },
+      "style": {
+        "color": "#a38804",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8515e756bbe1308f22f9df329efa140acba4d266",
+        "title": "e.g. Rev T T Chivaviro \"Kana Wakayambuka\"",
+        "trackId": "1NoDkRu53HeHP9fWz4K8Cx"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-zimgospel.html#tunnel"
+    },
+    {
+      "genreName": "classic belgian pop",
+      "positioning": {
+        "top": 119,
+        "left": 126
+      },
+      "style": {
+        "color": "#9d8707",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1426ae05f5fec7b7078ed026f7e6211e99b2e016",
+        "title": "e.g. Bart Van Den Bossche \"Ga Met Me Mee (Jij Bent De Zon)\"",
+        "trackId": "2x6dUEbXJQK4juw7mt3Pmi"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-classicbelgianpop.html#tunnel"
+    },
+    {
+      "genreName": "classic french pop",
+      "positioning": {
+        "top": 236,
+        "left": 150
+      },
+      "style": {
+        "color": "#968508",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ab9025b2120658847166562dd7442f60a3df626",
+        "title": "e.g. Thierry Pastor \"Le coup de folie\"",
+        "trackId": "7nWMVmzfodNQ5Ezj29yJ3S"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-classicfrenchpop.html#tunnel"
+    },
+    {
+      "genreName": "ostschlager",
+      "positioning": {
+        "top": 223,
+        "left": 0
+      },
+      "style": {
+        "color": "#818d04",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b97a834ddb781251623c5c11cb058afc28c98b3a",
+        "title": "e.g. Andreas Holm \"Morgenrot - Abendrot\"",
+        "trackId": "62DntWgXDbB1fFBOqnSJg1"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-ostschlager.html#tunnel"
+    },
+    {
+      "genreName": "khaleeji iraqi",
+      "positioning": {
+        "top": 248,
+        "left": 164
+      },
+      "style": {
+        "color": "#a2820b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/82eff2699c1ade8b4dd0ed17b64a99bb56375ceb",
+        "title": "e.g. Hatem Al Iraqi \"شعلومة\"",
+        "trackId": "68NWuSE1HDpxawRVPmR1Np"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-khaleejiiraqi.html#tunnel"
+    },
+    {
+      "genreName": "musica aragonesa",
+      "positioning": {
+        "top": 260,
+        "left": 99
+      },
+      "style": {
+        "color": "#a0810c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e37b3589a2d8e2b2406c32e8503322af6248ffcd",
+        "title": "e.g. Ixo Rai \"15 d'Agosto\"",
+        "trackId": "5UPc70ORCKKHvvMNsrZCoe"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-musicaaragonesa.html#tunnel"
+    }
+  ]
+}

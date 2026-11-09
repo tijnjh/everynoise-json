@@ -1,0 +1,2830 @@
+{
+  "schemaVersion": 3,
+  "genreName": "rai",
+  "artists": [
+    {
+      "artistName": "Khaled",
+      "positioning": {
+        "top": 349,
+        "left": 388
+      },
+      "style": {
+        "color": "#ba790c",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d36acd95a4e9dc0b16069fc5f9b9795bcea3278f",
+        "title": "e.g. Khaled \"C’est la vie\"",
+        "trackId": "6KGHsN5QI0qunsADx3e51i"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=28ztjHIXceRRntmTUfnmUX",
+      "id": "28ztjHIXceRRntmTUfnmUX"
+    },
+    {
+      "artistName": "Cheb Hasni",
+      "positioning": {
+        "top": 232,
+        "left": 982
+      },
+      "style": {
+        "color": "#aa8407",
+        "fontSize": "138%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f171a617cd843eea80a7713df797952c5418430",
+        "title": "e.g. Cheb Hasni \"Sbaart Ou Tal Adabi\"",
+        "trackId": "7HhieX1dqISjpteFs5w7Xb"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=6AqjzYRx9TeJDzKhkSSHFx",
+      "id": "6AqjzYRx9TeJDzKhkSSHFx"
+    },
+    {
+      "artistName": "Cheba Warda",
+      "positioning": {
+        "top": 489,
+        "left": 708
+      },
+      "style": {
+        "color": "#cc6800",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c338613f96bb53db4e41a479432742a0715f330",
+        "title": "e.g. Cheba Warda \"Galbi Khasah Molah\"",
+        "trackId": "1sKCCDynLxGhHesdlLGT7s"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=0c3dDCJfxcT4lYNugbKvJt",
+      "id": "0c3dDCJfxcT4lYNugbKvJt"
+    },
+    {
+      "artistName": "Cheb Bilal",
+      "positioning": {
+        "top": 233,
+        "left": 858
+      },
+      "style": {
+        "color": "#c27b04",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/19f77abd55080f13fa636f7c8b0c0409f1351f7b",
+        "title": "e.g. Cheb Bilal \"Di Ayza Kalem\"",
+        "trackId": "4KuO9X4amlOVQwsU2DRONy"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=59N7N5tX53jyPhAmsRi4or",
+      "id": "59N7N5tX53jyPhAmsRi4or"
+    },
+    {
+      "artistName": "Cheb Bello",
+      "positioning": {
+        "top": 371,
+        "left": 868
+      },
+      "style": {
+        "color": "#e06403",
+        "fontSize": "131%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a200f19c7bd891c74d28d8379473d03546e886df",
+        "title": "e.g. Cheb Bello \"Nabghi Nhawas\"",
+        "trackId": "2u8hovFZoxDdTAMmgHsiMi"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=11E9GHIAzJRKuECEUSEuqh",
+      "id": "11E9GHIAzJRKuECEUSEuqh"
+    },
+    {
+      "artistName": "Tiiwtiiw",
+      "positioning": {
+        "top": 204,
+        "left": 910
+      },
+      "style": {
+        "color": "#c37e02",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/33568387be179b6c3c4bafbe98bbc2baafe1a302",
+        "title": "e.g. Tiiwtiiw \"Hasta Luego (feat. Zouhair Bahaoui & Chk)\"",
+        "trackId": "71uzz1PBGeGGQi9yoFj1I6"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=6OcVa1v58BotEENN2biu1M",
+      "id": "6OcVa1v58BotEENN2biu1M"
+    },
+    {
+      "artistName": "Djalil Palermo",
+      "positioning": {
+        "top": 406,
+        "left": 631
+      },
+      "style": {
+        "color": "#ce7700",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/157fe95f87bd69e868a50d1dc044623d5f9af575",
+        "title": "e.g. Djalil Palermo \"Mazalni\"",
+        "trackId": "4Mi1B4Sc3u5zkLaEB7PETp"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=3SKKJMPgklOHgYeatf2YhX",
+      "id": "3SKKJMPgklOHgYeatf2YhX"
+    },
+    {
+      "artistName": "Mouh Milano",
+      "positioning": {
+        "top": 188,
+        "left": 961
+      },
+      "style": {
+        "color": "#c47c00",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f1d7f4040109225aa3dec53e9802cad45382540",
+        "title": "e.g. Mouh Milano \"Mazalni Kima Bakri\"",
+        "trackId": "4qnmWklH3MwTy41kDCbex9"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=1a4431ATLSQ5Rgq8Rr6sFj",
+      "id": "1a4431ATLSQ5Rgq8Rr6sFj"
+    },
+    {
+      "artistName": "Cheb Mami",
+      "positioning": {
+        "top": 474,
+        "left": 631
+      },
+      "style": {
+        "color": "#ba8103",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/46b0ea6e4ca1273da7b69e7461ec4cdd393ce4e5",
+        "title": "e.g. Cheb Mami \"Ma vie 2 fois\"",
+        "trackId": "52XknVywsSWwVXwcxl6WAP"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=6vZXamchcIOKzC1c3Elp4J",
+      "id": "6vZXamchcIOKzC1c3Elp4J"
+    },
+    {
+      "artistName": "Rachid Taha",
+      "positioning": {
+        "top": 7,
+        "left": 848
+      },
+      "style": {
+        "color": "#d2771f",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41eabf07140cc5a7034d09e1c11f0e0bdcfe9da5",
+        "title": "e.g. Rachid Taha \"Ya Rayah\"",
+        "trackId": "1wJNH6cko8Whrp2zMnpKML"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=2URqJkDiySO0FRiAUq75FV",
+      "id": "2URqJkDiySO0FRiAUq75FV"
+    },
+    {
+      "artistName": "Bilel Tacchini",
+      "positioning": {
+        "top": 541,
+        "left": 662
+      },
+      "style": {
+        "color": "#dc7000",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10bef8968423c2fe71b6a26415f8c59f09ef3215",
+        "title": "e.g. Bilel Tacchini \"Nebghiha Fort\"",
+        "trackId": "2wo2GyiPDb0cL9UdQN6DzD"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=2QtIVRuCdO2a4RWyoF4ayb",
+      "id": "2QtIVRuCdO2a4RWyoF4ayb"
+    },
+    {
+      "artistName": "Cheb Akil",
+      "positioning": {
+        "top": 357,
+        "left": 863
+      },
+      "style": {
+        "color": "#c57901",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7a2b6df7c82d2ae68bffad988341ebed756600d",
+        "title": "e.g. Cheb Akil \"Aachk El Memnou3\"",
+        "trackId": "5eqd75kv4vAPQdvZ7RJTJb"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=5zhdzKcrjPbWWcFIwfhSqw",
+      "id": "5zhdzKcrjPbWWcFIwfhSqw"
+    },
+    {
+      "artistName": "Kader Japonais",
+      "positioning": {
+        "top": 431,
+        "left": 264
+      },
+      "style": {
+        "color": "#cf7202",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ed8c1ab4cd1500c2bd19e02e2f398df249878074",
+        "title": "e.g. Kader Japonais \"Nti Sbabi\"",
+        "trackId": "469RutojU2gIHm1bZvPKdp"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=3e3cKwH1kUr02bvIm7VaIe",
+      "id": "3e3cKwH1kUr02bvIm7VaIe"
+    },
+    {
+      "artistName": "Reda Taliani",
+      "positioning": {
+        "top": 118,
+        "left": 719
+      },
+      "style": {
+        "color": "#d77401",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d1337799afdba72b6a43ea882092b361441b8cea",
+        "title": "e.g. Reda Taliani \"Denia keratni - Va bene\"",
+        "trackId": "4QpthEgd5SYqlYGPLoCPgU"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=2VTYaHMlKvQxlVW3k07NVt",
+      "id": "2VTYaHMlKvQxlVW3k07NVt"
+    },
+    {
+      "artistName": "Babylone",
+      "positioning": {
+        "top": 414,
+        "left": 868
+      },
+      "style": {
+        "color": "#77990e",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eae88c0468514261585ad7c8d1c858abb74a4685",
+        "title": "e.g. Babylone \"Zina\"",
+        "trackId": "575HcGSWIDCThpdUgtSCzK"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4sP2g2ixZhad5ZlxPirn8i",
+      "id": "4sP2g2ixZhad5ZlxPirn8i"
+    },
+    {
+      "artistName": "Mok Saib",
+      "positioning": {
+        "top": 319,
+        "left": 672
+      },
+      "style": {
+        "color": "#a09a00",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/227d2df9d447b7ecb9dccacff0bd5f0003fd66d9",
+        "title": "e.g. Mok Saib \"Toi & moi\"",
+        "trackId": "4C9bUSwqwVZ8eu2jsnctm6"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=6jcvupTBm6vk5SMEEVpvSW",
+      "id": "6jcvupTBm6vk5SMEEVpvSW"
+    },
+    {
+      "artistName": "Faudel",
+      "positioning": {
+        "top": 99,
+        "left": 527
+      },
+      "style": {
+        "color": "#cb8201",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/208410f5a437177ed21b380430f7c2f30946b21f",
+        "title": "e.g. Faudel \"Mon pays\"",
+        "trackId": "5kOqtnFQUu1GefBicHSHLS"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3z7JrEEE9McrDXpYigPncZ",
+      "id": "3z7JrEEE9McrDXpYigPncZ"
+    },
+    {
+      "artistName": "Douzi",
+      "positioning": {
+        "top": 0,
+        "left": 992
+      },
+      "style": {
+        "color": "#d07a03",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aca792d0ad17f13996be472585535ee7bf2ef6b3",
+        "title": "e.g. Douzi \"Myriama\"",
+        "trackId": "5rVub4P4V8YP1lZxWjBOZ0"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=2elOTj4JyFOFPiZOcn4RNG",
+      "id": "2elOTj4JyFOFPiZOcn4RNG"
+    },
+    {
+      "artistName": "DJ Moulay",
+      "positioning": {
+        "top": 307,
+        "left": 946
+      },
+      "style": {
+        "color": "#d17201",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eb1cc60e1452e566ce3f11066adf40d0ac10ad31",
+        "title": "e.g. DJ Moulay \"Jamais Ntih\"",
+        "trackId": "3Q52GHmJJcC1M4hoQWgUAV"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=3RHFZVCcl94jZRgIT51Yig",
+      "id": "3RHFZVCcl94jZRgIT51Yig"
+    },
+    {
+      "artistName": "Cheb Hichem TGV",
+      "positioning": {
+        "top": 594,
+        "left": 403
+      },
+      "style": {
+        "color": "#d56b01",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dee47f5f320b7530ffa85893d0e543adc9e6f267",
+        "title": "e.g. Cheb Hichem TGV \"ماتفكروهاش خلوها ناسيا\"",
+        "trackId": "5Ax3wWbzNHGH4nyV3fEu95"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3EJQjKomRx3gpoYmP1bEIl",
+      "id": "3EJQjKomRx3gpoYmP1bEIl"
+    },
+    {
+      "artistName": "Cheb Houssem",
+      "positioning": {
+        "top": 378,
+        "left": 476
+      },
+      "style": {
+        "color": "#d56d00",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6abfa3fecf0d1d9b11991af6bdcc21897610f800",
+        "title": "e.g. Cheb Houssem \"Khatira Khatira\"",
+        "trackId": "1ANh0Pyrr6axtL5PhoRqPh"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=4l3uOQQa1NaZz7OVNAjbC2",
+      "id": "4l3uOQQa1NaZz7OVNAjbC2"
+    },
+    {
+      "artistName": "Cheb Adjel",
+      "positioning": {
+        "top": 440,
+        "left": 806
+      },
+      "style": {
+        "color": "#ca6901",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37374ecbbf12f1c03b16b9ce4e976d0f28f61d73",
+        "title": "e.g. Cheb Adjel \"Tabghi moul el habette\"",
+        "trackId": "7rlmRwJXG0WyUDCi3BUlwY"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=04y2dXmzmwLWaw87IcfMrJ",
+      "id": "04y2dXmzmwLWaw87IcfMrJ"
+    },
+    {
+      "artistName": "Daoudi",
+      "positioning": {
+        "top": 522,
+        "left": 434
+      },
+      "style": {
+        "color": "#cf7405",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6b94eaaa99cc783c7105cc292d443e0b70b3a568",
+        "title": "e.g. Daoudi \"Youm Maychbah Youm\"",
+        "trackId": "0OGhW9HAM9ZNLd6fH9V120"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1gt3FXZs5qEkfF9mFxpYe2",
+      "id": "1gt3FXZs5qEkfF9mFxpYe2"
+    },
+    {
+      "artistName": "Foufa Torino",
+      "positioning": {
+        "top": 253,
+        "left": 801
+      },
+      "style": {
+        "color": "#cc7601",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98cfed8e878a276adee6ed1dda617e15117a45a5",
+        "title": "e.g. Foufa Torino \"El Walida\"",
+        "trackId": "0OMWSq7rLnzzZk8xto8BR8"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=5DAc1d8izRCmkzEP23NJGh",
+      "id": "5DAc1d8izRCmkzEP23NJGh"
+    },
+    {
+      "artistName": "Mohamed Lamine",
+      "positioning": {
+        "top": 156,
+        "left": 905
+      },
+      "style": {
+        "color": "#bc7801",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8ab9cf5fccc821a7e5aeb27ba89af001d4ff69d0",
+        "title": "e.g. Mohamed Lamine \"Wana Wana\"",
+        "trackId": "6vcM9GVd60VOFmEtegH8nS"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=4YCfcWBdBH742iCKGHpsoI",
+      "id": "4YCfcWBdBH742iCKGHpsoI"
+    },
+    {
+      "artistName": "Cheb Djalil",
+      "positioning": {
+        "top": 487,
+        "left": 393
+      },
+      "style": {
+        "color": "#d36702",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b07f7e9ee078cc7b4ab1fb7cd4a6ccc35650222",
+        "title": "e.g. Cheb Djalil \"Khada3a Spécialiste\"",
+        "trackId": "2jD3erMPrQVxnVXRRGLutg"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=4ZzMtjQsjtaAOm3GPqmjeQ",
+      "id": "4ZzMtjQsjtaAOm3GPqmjeQ"
+    },
+    {
+      "artistName": "Aymane Serhani",
+      "positioning": {
+        "top": 281,
+        "left": 755
+      },
+      "style": {
+        "color": "#cf8100",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dede4aadd7ea0f6af854b9c8a98e35689ad9b2d5",
+        "title": "e.g. Aymane Serhani \"Nebghi Djini Bsurvet\"",
+        "trackId": "2GYzQxyRCUTVkH7pkbY7l7"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=2EAzv92ciNtTm5DkGSYXH2",
+      "id": "2EAzv92ciNtTm5DkGSYXH2"
+    },
+    {
+      "artistName": "Cheb Azzedine",
+      "positioning": {
+        "top": 375,
+        "left": 729
+      },
+      "style": {
+        "color": "#cc6703",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd1f8bb756df452ccdd04164c1f0195322b44b14",
+        "title": "e.g. Cheb Azzedine \"El ghalba date el aarbi lel ghorba\"",
+        "trackId": "6i8MT01wUlUAXLoTZUPnca"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=0kIV7Dsbx0yOB5p1ZxWJNd",
+      "id": "0kIV7Dsbx0yOB5p1ZxWJNd"
+    },
+    {
+      "artistName": "Zahouania",
+      "positioning": {
+        "top": 179,
+        "left": 863
+      },
+      "style": {
+        "color": "#c07b0b",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e04aa9a0e58670e9f2b1b42316761d148a2b9e63",
+        "title": "e.g. Zahouania \"Dana dana daïni\"",
+        "trackId": "0R5neBzkC8z6hBbeW0yfxp"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=13sLlXcYUQJPSPMYIqa6wv",
+      "id": "13sLlXcYUQJPSPMYIqa6wv"
+    },
+    {
+      "artistName": "Hichem Smati",
+      "positioning": {
+        "top": 411,
+        "left": 0
+      },
+      "style": {
+        "color": "#e36901",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fbf6ef927631decd04475ff2fa9b0042811a9e8f",
+        "title": "e.g. Hichem Smati \"Rani Maghboun\"",
+        "trackId": "4XYuaMdBaaMhjJRLnLT4UL"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=4NqyeNqz4XfIeEWrXPknYJ",
+      "id": "4NqyeNqz4XfIeEWrXPknYJ"
+    },
+    {
+      "artistName": "Faycel Sghir",
+      "positioning": {
+        "top": 541,
+        "left": 538
+      },
+      "style": {
+        "color": "#ba7e00",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94580603e14859a061f10d61f737db8f1922d066",
+        "title": "e.g. Faycel Sghir \"Twahachtek ana\"",
+        "trackId": "2kfxJQaJsGpe0eYjM8pIxE"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6nWoudLNCfWwFYW0h2HTb1",
+      "id": "6nWoudLNCfWwFYW0h2HTb1"
+    },
+    {
+      "artistName": "Fouzi Torino",
+      "positioning": {
+        "top": 211,
+        "left": 806
+      },
+      "style": {
+        "color": "#b88200",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c282f729767fd88a897ab0aa4aaf21908f0f751e",
+        "title": "e.g. Fouzi Torino \"Wech qui se passe\"",
+        "trackId": "4sN1KKWdOzjnF5ioxYIioP"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=6Q2qtUONsXPfBKMhpOesiv",
+      "id": "6Q2qtUONsXPfBKMhpOesiv"
+    },
+    {
+      "artistName": "Cheb Mourad",
+      "positioning": {
+        "top": 448,
+        "left": 543
+      },
+      "style": {
+        "color": "#d76b03",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/831a6373d026a8d2fa11147d8182e4c48ff5a6c8",
+        "title": "e.g. Cheb Mourad \"Chira cheba - Remix\"",
+        "trackId": "4x4nIfl6lDMhMD4RKdmBB8"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=2zjXHi6RZyaS2t0P1BrxBs",
+      "id": "2zjXHi6RZyaS2t0P1BrxBs"
+    },
+    {
+      "artistName": "Cheb Nasro",
+      "positioning": {
+        "top": 293,
+        "left": 879
+      },
+      "style": {
+        "color": "#ac8604",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3227032f8dbbf12ef1381159bf34fdf5555943f5",
+        "title": "e.g. Cheb Nasro \"N'Direk Amour\"",
+        "trackId": "7MKLtQiD18XDNzZFdGgnx3"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=1qYpnd9rnstqqrGNYfwYNP",
+      "id": "1qYpnd9rnstqqrGNYfwYNP"
+    },
+    {
+      "artistName": "Nass El Ghiwane",
+      "positioning": {
+        "top": 833,
+        "left": 930
+      },
+      "style": {
+        "color": "#9c7a45",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/62ebeeea73799d2c1f457dfcefdabaeae86c4063",
+        "title": "e.g. Nass El Ghiwane \"Allah ya moulana - Dieu ô notre Seigneur\"",
+        "trackId": "5aRPd2JbKCnTNNFXaSTy0Z"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=040hze5aLmq4IDXPDQfUDL",
+      "id": "040hze5aLmq4IDXPDQfUDL"
+    },
+    {
+      "artistName": "Wassila",
+      "positioning": {
+        "top": 416,
+        "left": 1400
+      },
+      "style": {
+        "color": "#a0a108",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/288b5e35813bd4be686749f0334acad99de54c4b",
+        "title": "e.g. Wassila \"Ma sœur\"",
+        "trackId": "3iMnnHHY9CeFBsBTpEJ8eB"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=7a6TPrZH6MH6NFR0mlZLOg",
+      "id": "7a6TPrZH6MH6NFR0mlZLOg"
+    },
+    {
+      "artistName": "Dahmane El Harrachi",
+      "positioning": {
+        "top": 774,
+        "left": 512
+      },
+      "style": {
+        "color": "#908d19",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01980ae5f636c96cf572398dac443246acdd58dd",
+        "title": "e.g. Dahmane El Harrachi \"Bahdja beida\"",
+        "trackId": "4GB1jiCyUr6Yk0SYiBkSMW"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=0WtlXlCzfp2mJyINCsf1tb",
+      "id": "0WtlXlCzfp2mJyINCsf1tb"
+    },
+    {
+      "artistName": "Mimoun el oujdi",
+      "positioning": {
+        "top": 361,
+        "left": 729
+      },
+      "style": {
+        "color": "#af800d",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/773b4f33ee02915af432ad05d4a8f6788f984b2a",
+        "title": "e.g. Mimoun el oujdi \"Sadma kbira\"",
+        "trackId": "4ZNHRSteZDHONTwrGPy8gV"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=71h06Hw5mmJEal33SJCOLa",
+      "id": "71h06Hw5mmJEal33SJCOLa"
+    },
+    {
+      "artistName": "Cheb Wahid",
+      "positioning": {
+        "top": 347,
+        "left": 682
+      },
+      "style": {
+        "color": "#d86700",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8d9d7c976664c820f41355b2a1c6869f999e8a1f",
+        "title": "e.g. Cheb Wahid \"Zidini 3ich9ane\"",
+        "trackId": "78xAW5L8hxmBHnZtIqjyZf"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=41pjPOVGlvetRYm4xx7bYw",
+      "id": "41pjPOVGlvetRYm4xx7bYw"
+    },
+    {
+      "artistName": "Saïd Senhaji",
+      "positioning": {
+        "top": 555,
+        "left": 460
+      },
+      "style": {
+        "color": "#c57002",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe213a67783c38ff84032e9e146b3ef45b843bf8",
+        "title": "e.g. Saïd Senhaji \"Sidi alal\"",
+        "trackId": "4Utne2U91yUbH42OrEDmey"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=0B5LEqRZp3vG38J25CYPca",
+      "id": "0B5LEqRZp3vG38J25CYPca"
+    },
+    {
+      "artistName": "Mohamed Benchenet",
+      "positioning": {
+        "top": 582,
+        "left": 672
+      },
+      "style": {
+        "color": "#c57201",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ede3de43f99380d761f71e5508ad6ad16c5ae458",
+        "title": "e.g. Mohamed Benchenet \"Jarima Iliktrouniya\"",
+        "trackId": "20tf9xOw4V0y0wHgoLfTE7"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1SXvU32qAqhAniQTUhJJdS",
+      "id": "1SXvU32qAqhAniQTUhJJdS"
+    },
+    {
+      "artistName": "Ouled El Bahdja",
+      "positioning": {
+        "top": 418,
+        "left": 383
+      },
+      "style": {
+        "color": "#bd6a00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3afeda70ec2dde66e355933ca3f0a0dd3b9072f",
+        "title": "e.g. Ouled El Bahdja \"Wqate 3ssiba\"",
+        "trackId": "6UsOdcZDm9ZleSW4UjfpfC"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=0oQ7sjQFCdDEqTvSUCNYai",
+      "id": "0oQ7sjQFCdDEqTvSUCNYai"
+    },
+    {
+      "artistName": "Cheb Rayan",
+      "positioning": {
+        "top": 60,
+        "left": 729
+      },
+      "style": {
+        "color": "#d37b01",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd24bf89e6a8a41af23f5e5e708dad62ea9ebdeb",
+        "title": "e.g. Cheb Rayan \"Golou l'mama (feat. Jalal el Hamdaoui)\"",
+        "trackId": "19CIvlNsbdDEFQ2qnpXDjo"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=2vHzXwfwVDsP4iKN8SezRR",
+      "id": "2vHzXwfwVDsP4iKN8SezRR"
+    },
+    {
+      "artistName": "Cheb Faycal",
+      "positioning": {
+        "top": 434,
+        "left": 620
+      },
+      "style": {
+        "color": "#cd7003",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10c69578d3600864462c35b4b931eaa526cb533a",
+        "title": "e.g. Cheb Faycal \"Yama - Live\"",
+        "trackId": "187gR9UxLlHhq2FxiC6fR9"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=47gfytQSeoeL85ObS9eNmk",
+      "id": "47gfytQSeoeL85ObS9eNmk"
+    },
+    {
+      "artistName": "Akram Mag",
+      "positioning": {
+        "top": 249,
+        "left": 951
+      },
+      "style": {
+        "color": "#9d9200",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1b31aabe8271fe07e1586b33490fd423c6f66a1a",
+        "title": "e.g. Akram Mag \"Nawara\"",
+        "trackId": "67l9ewTdvR35pGrRxCWy22"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=2RN3sars5oJnOWYJYLFzU1",
+      "id": "2RN3sars5oJnOWYJYLFzU1"
+    },
+    {
+      "artistName": "Dj Souhil",
+      "positioning": {
+        "top": 204,
+        "left": 1034
+      },
+      "style": {
+        "color": "#c47914",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3022fcea51efbb96f4c0f910dc50d3b5dde780df",
+        "title": "e.g. Dj Souhil \"Kteltini\"",
+        "trackId": "4unOkbvQvDCp3zn48HHDR7"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=4HDgzUl8tuNZsn3WcH2Z39",
+      "id": "4HDgzUl8tuNZsn3WcH2Z39"
+    },
+    {
+      "artistName": "Hamid Bouchnak",
+      "positioning": {
+        "top": 22,
+        "left": 744
+      },
+      "style": {
+        "color": "#d58210",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85420e5bd17b91b2b7f01e21682d03669b8950e9",
+        "title": "e.g. Hamid Bouchnak \"Omri\"",
+        "trackId": "7717ZZOpgL3sowddGJmqI7"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=5ZVSJTyYo7IeR12fItMX4Y",
+      "id": "5ZVSJTyYo7IeR12fItMX4Y"
+    },
+    {
+      "artistName": "Weld Aicha",
+      "positioning": {
+        "top": 334,
+        "left": 688
+      },
+      "style": {
+        "color": "#d76b00",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06ad5baa2cba3c8187a0c6eaace9ae4295609b3c",
+        "title": "e.g. Weld Aicha \"COCKTAIL CHAABI RAI\"",
+        "trackId": "1UJKIwv87AVYgQNHCNO0UM"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6o4Kv80MDs7vc1Sl3FyDKI",
+      "id": "6o4Kv80MDs7vc1Sl3FyDKI"
+    },
+    {
+      "artistName": "Fethi Manar",
+      "positioning": {
+        "top": 528,
+        "left": 595
+      },
+      "style": {
+        "color": "#ce6903",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6fc520cd83600ba2a6e6cac377d48336da05e846",
+        "title": "e.g. Fethi Manar \"L'ghorba l'ghorba\"",
+        "trackId": "6Pu6LC7fSEiWv8jqvNOmJA"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=6g9hpEimVF4dYzs32kT94m",
+      "id": "6g9hpEimVF4dYzs32kT94m"
+    },
+    {
+      "artistName": "Raïna Raï",
+      "positioning": {
+        "top": 529,
+        "left": 827
+      },
+      "style": {
+        "color": "#ac781e",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/18ded172382a1c916f07bb4b3574c5a39a1b8bba",
+        "title": "e.g. Raïna Raï \"Zina\"",
+        "trackId": "7x55X0JW8JHz7alDVUG5FH"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=10EPr7TNgCwIWDgk9xvqzH",
+      "id": "10EPr7TNgCwIWDgk9xvqzH"
+    },
+    {
+      "artistName": "Adil El Miloudi",
+      "positioning": {
+        "top": 315,
+        "left": 1127
+      },
+      "style": {
+        "color": "#d76201",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6dcca0050a4c2c2afaf8f4e857fbf178fda22d33",
+        "title": "e.g. Adil El Miloudi \"Hbeltou\"",
+        "trackId": "4sCwXbNdqmYB115IjuF6KM"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=2hMbS1YCsDcmNNrTEm4euZ",
+      "id": "2hMbS1YCsDcmNNrTEm4euZ"
+    },
+    {
+      "artistName": "El Hachemi Guerouabi",
+      "positioning": {
+        "top": 900,
+        "left": 403
+      },
+      "style": {
+        "color": "#89892b",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/31ad74f19dda6ce17907d32ad96e75a1a1517d4b",
+        "title": "e.g. El Hachemi Guerouabi \"Sahrane ghir wahdi\"",
+        "trackId": "1knqWdzH35xgnyrcMn0uA4"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=4sgdpsrVemff9aGDauF4J4",
+      "id": "4sgdpsrVemff9aGDauF4J4"
+    },
+    {
+      "artistName": "Cheb Nadir 22",
+      "positioning": {
+        "top": 446,
+        "left": 388
+      },
+      "style": {
+        "color": "#dc6500",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/361587aaf93c24c8a440f5c5e73f08050071eac2",
+        "title": "e.g. Cheb Nadir 22 \"Sayselah Sayeslah-L’anglais\"",
+        "trackId": "4hbo1w1ESRaHSKYi5u7Frl"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3eXk15TVlyGMQiajw6ra1l",
+      "id": "3eXk15TVlyGMQiajw6ra1l"
+    },
+    {
+      "artistName": "Bilal Babilo",
+      "positioning": {
+        "top": 461,
+        "left": 460
+      },
+      "style": {
+        "color": "#cd6900",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad61b1595c66a3ef26ecd20df2f941f353434288",
+        "title": "e.g. Bilal Babilo \"Des Fois Tneseni liyam\"",
+        "trackId": "6xYjYl5kidgYBxDWAjolX2"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=0rSh9k5OFbZGYklQNS8luG",
+      "id": "0rSh9k5OFbZGYklQNS8luG"
+    },
+    {
+      "artistName": "Gnawa Diffusion",
+      "positioning": {
+        "top": 278,
+        "left": 1132
+      },
+      "style": {
+        "color": "#b88a09",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/38bcdb11dedcc7a2bed38cf2237174bd0724bc2f",
+        "title": "e.g. Gnawa Diffusion \"Ombre elle\"",
+        "trackId": "6kpza6eOZfJAEwQ4xw6C6G"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=4s0srRj9YXjM8J0TK2QVzP",
+      "id": "4s0srRj9YXjM8J0TK2QVzP"
+    },
+    {
+      "artistName": "Amine Titi",
+      "positioning": {
+        "top": 280,
+        "left": 884
+      },
+      "style": {
+        "color": "#ce7501",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/66c0710f14bfe6fa1039ce097b59b65f432ce3dd",
+        "title": "e.g. Amine Titi \"Chedi Aliya Talbek\"",
+        "trackId": "3jCGjbrYfUxAcHKQEf32xq"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=0PHPs0Tc7tk7qllJga9UOo",
+      "id": "0PHPs0Tc7tk7qllJga9UOo"
+    },
+    {
+      "artistName": "Amine 31",
+      "positioning": {
+        "top": 473,
+        "left": 367
+      },
+      "style": {
+        "color": "#cc7201",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/476c7fbc490915208327282cd8997283822d7b7b",
+        "title": "e.g. Amine 31 \"Nakareen El Khir\"",
+        "trackId": "73dNejNw458nkrl9ZxZq36"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=1FAQqzHTQMSqyDsYCzN6o9",
+      "id": "1FAQqzHTQMSqyDsYCzN6o9"
+    },
+    {
+      "artistName": "Bilal Sghir",
+      "positioning": {
+        "top": 515,
+        "left": 626
+      },
+      "style": {
+        "color": "#d36b00",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b98fbca18b174a65d17f6d40201687f0fe087f0f",
+        "title": "e.g. Bilal Sghir \"Nti Galb\"",
+        "trackId": "7m4QCz115EDdiOPbzGroIb"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=22XZtro8Hm67fM2XENt6Yg",
+      "id": "22XZtro8Hm67fM2XENt6Yg"
+    },
+    {
+      "artistName": "Cheba Maria",
+      "positioning": {
+        "top": 132,
+        "left": 698
+      },
+      "style": {
+        "color": "#d27705",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1bf4d3b4b4ba62b021090708b1be063830f8105e",
+        "title": "e.g. Cheba Maria \"Célibataire\"",
+        "trackId": "7s47CVAxYfjlkRF5wU8bUk"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=1xmzJAhHsz4x3PKWQbc1Ax",
+      "id": "1xmzJAhHsz4x3PKWQbc1Ax"
+    },
+    {
+      "artistName": "Bilal Sghir",
+      "positioning": {
+        "top": 448,
+        "left": 672
+      },
+      "style": {
+        "color": "#ce6b00",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e9428d20deb2c95f1a3a331078c48d6a90696c1",
+        "title": "e.g. Bilal Sghir \"عمي صالح\"",
+        "trackId": "2WS40EKnfgsLAO7iTtDkCi"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=4iCrZzxACYPYcoS71DgjWW",
+      "id": "4iCrZzxACYPYcoS71DgjWW"
+    },
+    {
+      "artistName": "Cheba Sabah",
+      "positioning": {
+        "top": 569,
+        "left": 574
+      },
+      "style": {
+        "color": "#d66901",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1ae5c26c49f6646d1ac8460eaebc0bf33822035",
+        "title": "e.g. Cheba Sabah \"Hassi Massi\"",
+        "trackId": "0cnaUC4dnMHIM5wi2Pos8W"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=7KcOUlKzS6pXPTXZVqyJA2",
+      "id": "7KcOUlKzS6pXPTXZVqyJA2"
+    },
+    {
+      "artistName": "Cheb Rami",
+      "positioning": {
+        "top": 392,
+        "left": 486
+      },
+      "style": {
+        "color": "#d86b06",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/26f4c2aee223f99c136b7cb9eefafb497e2dd0a6",
+        "title": "e.g. Cheb Rami \"Masdakli Walou\"",
+        "trackId": "3JFLIgFTltWIDM8AyzWIt5"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=1dZoWLZL2YLvRqqiS7L05E",
+      "id": "1dZoWLZL2YLvRqqiS7L05E"
+    },
+    {
+      "artistName": "Amine Babylone",
+      "positioning": {
+        "top": 556,
+        "left": 574
+      },
+      "style": {
+        "color": "#969609",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e59c4e0149f063868144d26ce9b80ac051cc996e",
+        "title": "e.g. Amine Babylone \"Choufou l'amour madar fya\"",
+        "trackId": "0UzDBlCsYA8gfMBdfNAHyP"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=2Dxc5IVSmvyXjR6sidLPT3",
+      "id": "2Dxc5IVSmvyXjR6sidLPT3"
+    },
+    {
+      "artistName": "Cameleon",
+      "positioning": {
+        "top": 218,
+        "left": 682
+      },
+      "style": {
+        "color": "#b68321",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/120aa66c9db8f7dbd61f208a42fc1289a07da4f6",
+        "title": "e.g. Cameleon \"Rechani\"",
+        "trackId": "15Zpub3CqIjHhcLptUDu3z"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=6S2OpU5mNabEiTOEcTJ8Y9",
+      "id": "6S2OpU5mNabEiTOEcTJ8Y9"
+    },
+    {
+      "artistName": "Cheb Abbes",
+      "positioning": {
+        "top": 268,
+        "left": 708
+      },
+      "style": {
+        "color": "#c47700",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1785882954e5b6b67c3126e89e6ba5e02e074499",
+        "title": "e.g. Cheb Abbes \"Nqalech Omri\"",
+        "trackId": "6FhT0I2QOkKWL3KY8qPQmY"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=4ItLTIz60SzR31tzOu5LjO",
+      "id": "4ItLTIz60SzR31tzOu5LjO"
+    },
+    {
+      "artistName": "Cheb Boulboul",
+      "positioning": {
+        "top": 195,
+        "left": 279
+      },
+      "style": {
+        "color": "#e76000",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cea0fcf6b3135f4cfcf488e8096a242c5d9c420e",
+        "title": "e.g. Cheb Boulboul \"Messagek fi warka\"",
+        "trackId": "30ugSsYNMALxMQ3HsIo55A"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=7bKqtCcZWpR4Kqy0V8AhYk",
+      "id": "7bKqtCcZWpR4Kqy0V8AhYk"
+    },
+    {
+      "artistName": "DJ Kim",
+      "positioning": {
+        "top": 175,
+        "left": 1008
+      },
+      "style": {
+        "color": "#d27a09",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e53042ce08e34231f12485d80d5ae07d818b1c1b",
+        "title": "e.g. DJ Kim \"Soufrite Ana\"",
+        "trackId": "67YDBs3J0vK5gsJtLKv7eX"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=20zGEPo7cb9oYkujsordIx",
+      "id": "20zGEPo7cb9oYkujsordIx"
+    },
+    {
+      "artistName": "Chemsou Freeklane",
+      "positioning": {
+        "top": 340,
+        "left": 512
+      },
+      "style": {
+        "color": "#979400",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10b31eaf37fa8c35d07adb4940bc2ae85a232dee",
+        "title": "e.g. Chemsou Freeklane \"Goulili Alache\"",
+        "trackId": "0o7Yu3cvPSquEgnNqUJRqE"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=3wggOQ992VWtMCrs7ro14h",
+      "id": "3wggOQ992VWtMCrs7ro14h"
+    },
+    {
+      "artistName": "Houari Manar",
+      "positioning": {
+        "top": 362,
+        "left": 274
+      },
+      "style": {
+        "color": "#d36a00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bfaa7a7448603db13872731d06a9a3438184b379",
+        "title": "e.g. Houari Manar \"Min Nchouf Adyani\"",
+        "trackId": "2Pes6Pyj8hQOCaREEWvdBu"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=3ra4NNbJbfJjY1gMculBXc",
+      "id": "3ra4NNbJbfJjY1gMculBXc"
+    },
+    {
+      "artistName": "Cheikha Rimitti",
+      "positioning": {
+        "top": 655,
+        "left": 440
+      },
+      "style": {
+        "color": "#b97303",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d5827541e220ee13381fd5f43d92ab5b9b671639",
+        "title": "e.g. Cheikha Rimitti \"NOUAR\"",
+        "trackId": "69r64jfxYq5CrtVZL46D5r"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=364dHqe2BwXqmOhgdBXpw8",
+      "id": "364dHqe2BwXqmOhgdBXpw8"
+    },
+    {
+      "artistName": "Cheb Midou",
+      "positioning": {
+        "top": 489,
+        "left": 615
+      },
+      "style": {
+        "color": "#d17100",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/537c1939201e3d431608dfcebe3b2ba271bccd24",
+        "title": "e.g. Cheb Midou \"Khalini Khalini - Remix\"",
+        "trackId": "0iUkqgXwK50tprCzFwsrKL"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=79rdsoSMXU2asEnE50Qtol",
+      "id": "79rdsoSMXU2asEnE50Qtol"
+    },
+    {
+      "artistName": "Houari Dauphin",
+      "positioning": {
+        "top": 307,
+        "left": 693
+      },
+      "style": {
+        "color": "#c57208",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a753c8105b1983ce44edd0d2708dbc8d06ebf802",
+        "title": "e.g. Houari Dauphin \"Je T'ecris D'un Coeur Brise\"",
+        "trackId": "3Qh69o1w7KFIRQE3JHxLiu"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=74QFyYabll2IbzAmHD6cX3",
+      "id": "74QFyYabll2IbzAmHD6cX3"
+    },
+    {
+      "artistName": "Cheb Amrou",
+      "positioning": {
+        "top": 164,
+        "left": 801
+      },
+      "style": {
+        "color": "#ca7e00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1bc042dece522e77cb6a152d3b102bb678c65eb6",
+        "title": "e.g. Cheb Amrou \"Qui aurait pu prédire notre rencontre\"",
+        "trackId": "6TSEbxQJVFj5WJzu6ApvQd"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=2xLlmh6C4dyeIXme4r8qrd",
+      "id": "2xLlmh6C4dyeIXme4r8qrd"
+    },
+    {
+      "artistName": "Cheba Dalila",
+      "positioning": {
+        "top": 569,
+        "left": 677
+      },
+      "style": {
+        "color": "#cf6b01",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be0d638749a1aaca982f1150b6fc783664d7b198",
+        "title": "e.g. Cheba Dalila \"Je te quitte\"",
+        "trackId": "0whzgqpiCbi1IM4l7Gzpof"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=5CZ5sGdn0X47HhndSYKqdz",
+      "id": "5CZ5sGdn0X47HhndSYKqdz"
+    },
+    {
+      "artistName": "Moulay Ahmed El Hassani",
+      "positioning": {
+        "top": 332,
+        "left": 1364
+      },
+      "style": {
+        "color": "#b18b11",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e1fbd011deb2d9cbf8ad2be86b783011accd0958",
+        "title": "e.g. Moulay Ahmed El Hassani \"Yami matbkich\"",
+        "trackId": "70ER9A7RqhPleQYI9nwo8H"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=54GaqVAdW984eymwsJq1qE",
+      "id": "54GaqVAdW984eymwsJq1qE"
+    },
+    {
+      "artistName": "Mazouzi",
+      "positioning": {
+        "top": 173,
+        "left": 708
+      },
+      "style": {
+        "color": "#bf7707",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/04345d381a1b91f5fc2dc8230e90028799190cdd",
+        "title": "e.g. Mazouzi \"Darou sehour darou\"",
+        "trackId": "0H6eOMZhkrbUljVyzMvTz5"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=3M9vhZnFy5hjE3fBoiRp8l",
+      "id": "3M9vhZnFy5hjE3fBoiRp8l"
+    },
+    {
+      "artistName": "Mohamed Khassani",
+      "positioning": {
+        "top": 553,
+        "left": 946
+      },
+      "style": {
+        "color": "#b48900",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d259999d2aad00522d1f390e935145a651c7b4c",
+        "title": "e.g. Mohamed Khassani \"Dbayli Ana - Fransa Daretha Biya\"",
+        "trackId": "311Jnoa5h8dGNb1MphFeBu"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=32d1Iok2R1iGEbsj4zXgOC",
+      "id": "32d1Iok2R1iGEbsj4zXgOC"
+    },
+    {
+      "artistName": "Khalass",
+      "positioning": {
+        "top": 201,
+        "left": 595
+      },
+      "style": {
+        "color": "#ca6702",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb71c380e801b6cf1463a8ac151c04da518e04ff",
+        "title": "e.g. Khalass \"Daouar Daouar\"",
+        "trackId": "3MnCZFsSSJPbWXE3aaA0pe"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=3R0NBDuerJhe38UjWpO2NA",
+      "id": "3R0NBDuerJhe38UjWpO2NA"
+    },
+    {
+      "artistName": "Cheikh Nani",
+      "positioning": {
+        "top": 461,
+        "left": 667
+      },
+      "style": {
+        "color": "#d67701",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a9e15eb6291ffcd52eb784975ab6a63a2aa7c95",
+        "title": "e.g. Cheikh Nani \"Goulili\"",
+        "trackId": "4osR2iKIzXBkJuiIQHVCEC"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=4PdjUVdpnR6SdzJKfdOjOU",
+      "id": "4PdjUVdpnR6SdzJKfdOjOU"
+    },
+    {
+      "artistName": "Cheb Nadir",
+      "positioning": {
+        "top": 327,
+        "left": 553
+      },
+      "style": {
+        "color": "#cf6b00",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a8cc7812d420c7a3f6b9d3b071bdb97b3388d129",
+        "title": "e.g. Cheb Nadir \"راها لاسقا\"",
+        "trackId": "63iduEB9LF31LN2h7oTiWW"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=03OX3nJrK7FTGCn3qpZ89x",
+      "id": "03OX3nJrK7FTGCn3qpZ89x"
+    },
+    {
+      "artistName": "Cheba Ibtissem",
+      "positioning": {
+        "top": 302,
+        "left": 455
+      },
+      "style": {
+        "color": "#dd6c00",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ff3348f4dfd0e4bd280119eeae62e62ca475d90",
+        "title": "e.g. Cheba Ibtissem \"Ntiya Omri\"",
+        "trackId": "6s7EjLyJcXtoreMawGACBV"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=0EaTwB98NGTrrcFhbzdxEa",
+      "id": "0EaTwB98NGTrrcFhbzdxEa"
+    },
+    {
+      "artistName": "Azzedine",
+      "positioning": {
+        "top": 302,
+        "left": 589
+      },
+      "style": {
+        "color": "#d26700",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/748df1a602508b69391c610edb860ed3d5d18857",
+        "title": "e.g. Azzedine \"Touahachtek ya loumima\"",
+        "trackId": "1ZSzprsUTG6W5fTgNYASXR"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=6NisrmRY0HboV9Zp1xfvLd",
+      "id": "6NisrmRY0HboV9Zp1xfvLd"
+    },
+    {
+      "artistName": "Mohamed Ray",
+      "positioning": {
+        "top": 159,
+        "left": 1132
+      },
+      "style": {
+        "color": "#af8003",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/47058e7112cab8a4219af3fb751ef41585c5a1f8",
+        "title": "e.g. Mohamed Ray \"Je t'aime à la folie\"",
+        "trackId": "6m6vUaRlYubGR66nSv2JsE"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=3UsTGPrSeX6JJB1mZ7s2Tp",
+      "id": "3UsTGPrSeX6JJB1mZ7s2Tp"
+    },
+    {
+      "artistName": "Akil Sghir",
+      "positioning": {
+        "top": 502,
+        "left": 610
+      },
+      "style": {
+        "color": "#bb7700",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/53f74d37c48ba726d89b7c3d1b298d3e8fd48069",
+        "title": "e.g. Akil Sghir \"Zo3ama\"",
+        "trackId": "0PvFlTvKArUY6WHIyQs9fj"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=0yY561ap6MKDzXlCf07O4p",
+      "id": "0yY561ap6MKDzXlCf07O4p"
+    },
+    {
+      "artistName": "Cheba Kheira",
+      "positioning": {
+        "top": 353,
+        "left": 574
+      },
+      "style": {
+        "color": "#c67108",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/88e863336664c76b2f950b1a0356026fcbfbab06",
+        "title": "e.g. Cheba Kheira \"Ya loukan\"",
+        "trackId": "4jfDDNhp50Xkf47P0f57pW"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=4g8ITOYN5XvLuw6UCqhs9W",
+      "id": "4g8ITOYN5XvLuw6UCqhs9W"
+    },
+    {
+      "artistName": "Cheb Rachid",
+      "positioning": {
+        "top": 144,
+        "left": 1142
+      },
+      "style": {
+        "color": "#b27901",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30b3323f84e638be6daf5f0c5202c19ea90ff75b",
+        "title": "e.g. Cheb Rachid \"Reht Aando Lghorba\"",
+        "trackId": "4Nq1iAwCDPPKoiYr0ZpKsn"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=2Dn1mzVeWSEL2UnvvCMXmx",
+      "id": "2Dn1mzVeWSEL2UnvvCMXmx"
+    },
+    {
+      "artistName": "Fayçal Mignon",
+      "positioning": {
+        "top": 388,
+        "left": 708
+      },
+      "style": {
+        "color": "#c77700",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0856070737b4744e1a458cc0a7266d3fdab5774",
+        "title": "e.g. Fayçal Mignon \"Nahmak Aliha Ana\"",
+        "trackId": "3VgfI2E3RHjg3JQg69v5FQ"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=0MhuOPrlNbDMhkRYuqGQsm",
+      "id": "0MhuOPrlNbDMhkRYuqGQsm"
+    },
+    {
+      "artistName": "Cheb Kader",
+      "positioning": {
+        "top": 245,
+        "left": 471
+      },
+      "style": {
+        "color": "#c96f04",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24194b15e2ef750022ad7f22c1d3f8d7682a6e9d",
+        "title": "e.g. Cheb Kader \"Sid El Houari\"",
+        "trackId": "7mTBXvwad1sexl1Ha9w3ip"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=6EB4XzIj8t9JSMy5zyEJi3",
+      "id": "6EB4XzIj8t9JSMy5zyEJi3"
+    },
+    {
+      "artistName": "Cheb Aissa",
+      "positioning": {
+        "top": 185,
+        "left": 677
+      },
+      "style": {
+        "color": "#d67700",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aad43de6d76875bbb37d007a77210f32841eb7b3",
+        "title": "e.g. Cheb Aissa \"Nouara\"",
+        "trackId": "2xL4RyXCcG8OR2ExavzCJ0"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=0hDmmxtDPAEMHD03kD8NiW",
+      "id": "0hDmmxtDPAEMHD03kD8NiW"
+    },
+    {
+      "artistName": "Cheb Khalass",
+      "positioning": {
+        "top": 277,
+        "left": 574
+      },
+      "style": {
+        "color": "#cf6502",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3c63b3ea9f9d506f2c9c12a7738fb35cd783d87a",
+        "title": "e.g. Cheb Khalass \"Wahda Mata3jebni Ghir Hya\"",
+        "trackId": "4rGMhB74AGMFlvCVjApwol"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=6xE8JX5E9nwciRH15e3jG4",
+      "id": "6xE8JX5E9nwciRH15e3jG4"
+    },
+    {
+      "artistName": "Nasro",
+      "positioning": {
+        "top": 256,
+        "left": 698
+      },
+      "style": {
+        "color": "#b68204",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54202e6efbed79fa83a27a41d8a43d5c84bb3670",
+        "title": "e.g. Nasro \"Bahr Tofane\"",
+        "trackId": "6RCq64aPKLj4H62HZvi8qb"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=31lySC9onR6bmRszAzhngk",
+      "id": "31lySC9onR6bmRszAzhngk"
+    },
+    {
+      "artistName": "Najat Aatabou",
+      "positioning": {
+        "top": 405,
+        "left": 967
+      },
+      "style": {
+        "color": "#b1720d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f547f099d04e0fe25567f63dff725db83c70634",
+        "title": "e.g. Najat Aatabou \"J'en ai marre\"",
+        "trackId": "7jYtAIzHLA5u0EmXkadHmN"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=4h1tf0vDDluO5QypKVym97",
+      "id": "4h1tf0vDDluO5QypKVym97"
+    },
+    {
+      "artistName": "Cheb Zahouani",
+      "positioning": {
+        "top": 268,
+        "left": 998
+      },
+      "style": {
+        "color": "#b97906",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e40ff9206166e6fe0659002a0e5d9cf8bfc9eabe",
+        "title": "e.g. Cheb Zahouani \"Zid serbi\"",
+        "trackId": "7qAQj324JoVhTnLzvWsBL4"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=2V9MU5gvDR0ktsZ4FGoOQa",
+      "id": "2V9MU5gvDR0ktsZ4FGoOQa"
+    },
+    {
+      "artistName": "Chaba Sabah",
+      "positioning": {
+        "top": 510,
+        "left": 434
+      },
+      "style": {
+        "color": "#d66400",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b98612406b58e40cabc6f1eb26e2fb55454010f8",
+        "title": "e.g. Chaba Sabah \"Malek Mtalabni\"",
+        "trackId": "2sxA0JkeR3d4Yv9rgAdUhn"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=2dNncEJsf4sQHdy7BRSnhG",
+      "id": "2dNncEJsf4sQHdy7BRSnhG"
+    },
+    {
+      "artistName": "Cheb Reda",
+      "positioning": {
+        "top": 434,
+        "left": 533
+      },
+      "style": {
+        "color": "#ce6d01",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/325227c80a047fb039b06da41f5e375c9e3c43ef",
+        "title": "e.g. Cheb Reda \"Chawi\"",
+        "trackId": "2Y5LO94GU8MX0kqhpsmv6P"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=4Dv4xd6O64eglhzxOCQDcb",
+      "id": "4Dv4xd6O64eglhzxOCQDcb"
+    },
+    {
+      "artistName": "Cheb Redouane",
+      "positioning": {
+        "top": 344,
+        "left": 868
+      },
+      "style": {
+        "color": "#cc7203",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e65d44e3e52461c364b2b5b69b82bed8344debb",
+        "title": "e.g. Cheb Redouane \"El wald oualdi / Nebki aliha - Live\"",
+        "trackId": "4GyXaGIntbrRfFmJA3O3c1"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=28uCX5uAYeOgaMChnSBXQ7",
+      "id": "28uCX5uAYeOgaMChnSBXQ7"
+    },
+    {
+      "artistName": "Cheb Hichem",
+      "positioning": {
+        "top": 290,
+        "left": 548
+      },
+      "style": {
+        "color": "#d96a00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/194ebce33fc4e7152a77de4bf26e2f295c8f4d5f",
+        "title": "e.g. Cheb Hichem \"Y'ghidoni bnet enasse\"",
+        "trackId": "1rMx4XBglM8PK6zjxnHfmA"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=0RhxyVblM20b1VQp7gtFHi",
+      "id": "0RhxyVblM20b1VQp7gtFHi"
+    },
+    {
+      "artistName": "Cheba Djenet",
+      "positioning": {
+        "top": 265,
+        "left": 589
+      },
+      "style": {
+        "color": "#c87205",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f63724b01f78af5f9739b1ccc7a3f0a62a30b11c",
+        "title": "e.g. Cheba Djenet \"Ndirleh Tayha\"",
+        "trackId": "74HWZZmabJLMfyBYSEGmti"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=1ASWRVuWAg6nNhGvaWVKeH",
+      "id": "1ASWRVuWAg6nNhGvaWVKeH"
+    },
+    {
+      "artistName": "Saida Fikri",
+      "positioning": {
+        "top": 146,
+        "left": 739
+      },
+      "style": {
+        "color": "#7a9603",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd3a36b6f196d5151485d6abbb4c364447438f22",
+        "title": "e.g. Saida Fikri \"يا جبال الريف\"",
+        "trackId": "1IoB7SKGtDmdbW7t5WC5MQ"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=2DCvnLlbvFhiJ4VMgNtvqY",
+      "id": "2DCvnLlbvFhiJ4VMgNtvqY"
+    },
+    {
+      "artistName": "Cheba Zahouania",
+      "positioning": {
+        "top": 220,
+        "left": 936
+      },
+      "style": {
+        "color": "#c47d0c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b64f1e87b5374e253ca181932f04024bcbc0b70",
+        "title": "e.g. Cheba Zahouania \"Ouine rak tergoud\"",
+        "trackId": "5IObZmYMuJucWvF1tzXK1Z"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=4Wgtd686yIVzteHHXryywZ",
+      "id": "4Wgtd686yIVzteHHXryywZ"
+    },
+    {
+      "artistName": "Hasni Sghir",
+      "positioning": {
+        "top": 366,
+        "left": 605
+      },
+      "style": {
+        "color": "#c97200",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7414e3f7ec813146469393ba951c61062eb36e8b",
+        "title": "e.g. Hasni Sghir \"Semona Wlad Hlal\"",
+        "trackId": "0fUs2kgMb0Iz5DYkhz7Itn"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=2D8GxQFnAjRGh4k4Jji4LY",
+      "id": "2D8GxQFnAjRGh4k4Jji4LY"
+    },
+    {
+      "artistName": "Abbes",
+      "positioning": {
+        "top": 252,
+        "left": 636
+      },
+      "style": {
+        "color": "#c67200",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0adb9beba1a9954a35e264bc3a3f29e191620ee3",
+        "title": "e.g. Abbes \"Partiya\"",
+        "trackId": "3vAQEsMD3E5wgyUhprsbQA"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=2dJ2feu9rUvQHuilMkwggr",
+      "id": "2dJ2feu9rUvQHuilMkwggr"
+    },
+    {
+      "artistName": "Rai Jdid",
+      "positioning": {
+        "top": 475,
+        "left": 450
+      },
+      "style": {
+        "color": "#db6800",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0799ca08f4ad6bf65d1845ae9bfa56c173a17943",
+        "title": "e.g. Rai Jdid \"Cheba Chinou 3omri F Tiktok Chaya3\"",
+        "trackId": "6i9676ekbAtgZ2y5Lt8Z96"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=2raorsCu1aBsy9IZesSWmf",
+      "id": "2raorsCu1aBsy9IZesSWmf"
+    },
+    {
+      "artistName": "Cheb Amine",
+      "positioning": {
+        "top": 405,
+        "left": 455
+      },
+      "style": {
+        "color": "#d66e00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bcbc2ea8eb83f0a69edb25b14317e51aebd1ecd4",
+        "title": "e.g. Cheb Amine \"Hiya tzawjet wana datni la corniche\"",
+        "trackId": "04650fPeOG3SCzGzQ4GqTp"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=4tuSsgmc12EEcpGHtLB6Fp",
+      "id": "4tuSsgmc12EEcpGHtLB6Fp"
+    },
+    {
+      "artistName": "Cheb Anouar",
+      "positioning": {
+        "top": 325,
+        "left": 388
+      },
+      "style": {
+        "color": "#a17c05",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3f8a1586bc718c5b0089b84ba140a1ffb468394c",
+        "title": "e.g. Cheb Anouar \"Ya Ritte\"",
+        "trackId": "26NXlLgN3B7hSu6BBZgvuK"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=4BRiSVnNpdQpIemgLOaTx5",
+      "id": "4BRiSVnNpdQpIemgLOaTx5"
+    },
+    {
+      "artistName": "Cheb Hassen",
+      "positioning": {
+        "top": 401,
+        "left": 786
+      },
+      "style": {
+        "color": "#bd7201",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8e2aa6af91232e5c5c2d0e20c82242ec7098d225",
+        "title": "e.g. Cheb Hassen \"Makach la difference\"",
+        "trackId": "5eZlSDSQzBeLMpv0Yfk1yj"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=1R3zU7V3bl0BBh57e6BUJi",
+      "id": "1R3zU7V3bl0BBh57e6BUJi"
+    },
+    {
+      "artistName": "Houari Benchenet",
+      "positioning": {
+        "top": 422,
+        "left": 558
+      },
+      "style": {
+        "color": "#bd7908",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/edbf840be4c5e19630e573da8d2261aff2c179e6",
+        "title": "e.g. Houari Benchenet \"Rani m'damar\"",
+        "trackId": "3wvhWXksQMz8WI5pQ4OyQz"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=0htN0rl2pOgCUL8JoORMDv",
+      "id": "0htN0rl2pOgCUL8JoORMDv"
+    },
+    {
+      "artistName": "El Hindi",
+      "positioning": {
+        "top": 231,
+        "left": 693
+      },
+      "style": {
+        "color": "#b18000",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ffff7311ba1dc980fbd29c89f2aa956005edd00f",
+        "title": "e.g. El Hindi \"Hasni\"",
+        "trackId": "0s1iCjDdYKtrpPNIJMbMN4"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=7tP7nWgUVkug8YxrDjkk17",
+      "id": "7tP7nWgUVkug8YxrDjkk17"
+    },
+    {
+      "artistName": "Cheb Adil El Miloudi",
+      "positioning": {
+        "top": 319,
+        "left": 786
+      },
+      "style": {
+        "color": "#dd6500",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/91c8ff58d92a6072d7f19ece8ad514249ff2281e",
+        "title": "e.g. Cheb Adil El Miloudi \"Bslama Ya Yama\"",
+        "trackId": "6haB5ZLQ5CpOLMB1vXf7JX"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=5F2emnRTttgscniGnf9z3h",
+      "id": "5F2emnRTttgscniGnf9z3h"
+    },
+    {
+      "artistName": "Sahraoui",
+      "positioning": {
+        "top": 243,
+        "left": 693
+      },
+      "style": {
+        "color": "#d07606",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd1bfd4446b5e790a0e2ad30cb677829293ce701",
+        "title": "e.g. Sahraoui \"Rani rani\"",
+        "trackId": "5f6JEwXodADCI4V9vIBLQb"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=1gJfzQ9ddfUGkMhznVLQe6",
+      "id": "1gJfzQ9ddfUGkMhznVLQe6"
+    },
+    {
+      "artistName": "Cheb Tarik",
+      "positioning": {
+        "top": 130,
+        "left": 956
+      },
+      "style": {
+        "color": "#bf7e02",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f196e439450981a8ebf0d61938a9f349f7bf4a4",
+        "title": "e.g. Cheb Tarik \"Chebka ya l'Algérie\"",
+        "trackId": "15ufNUf8W3hpqynDyAmTwI"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=5P3WRbEbFnkjJ3U4CE1NSE",
+      "id": "5P3WRbEbFnkjJ3U4CE1NSE"
+    },
+    {
+      "artistName": "Cheb Abdou",
+      "positioning": {
+        "top": 394,
+        "left": 600
+      },
+      "style": {
+        "color": "#c96907",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad6642e4c8cadbb10bcaa66f8b17339827e27a8d",
+        "title": "e.g. Cheb Abdou \"Appel masqué\"",
+        "trackId": "1KGIRTVENBVZlpYaOit2Jl"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=6JqZLYK0wbSKy5G3q6evXp",
+      "id": "6JqZLYK0wbSKy5G3q6evXp"
+    },
+    {
+      "artistName": "Cheb Abdelhak",
+      "positioning": {
+        "top": 387,
+        "left": 874
+      },
+      "style": {
+        "color": "#ba7b05",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc6a6cbb975248bad02c42a8c57d25a7cf7a852e",
+        "title": "e.g. Cheb Abdelhak \"Hada maktoubi maak\"",
+        "trackId": "6vG2jzWWxvK1XNDBUicw0c"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=3ZIQh31KZmUnExHBqjFPsd",
+      "id": "3ZIQh31KZmUnExHBqjFPsd"
+    },
+    {
+      "artistName": "Cheb Rizki",
+      "positioning": {
+        "top": 307,
+        "left": 817
+      },
+      "style": {
+        "color": "#b86f01",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/753021545f991e60363d983be636ef242855d2a7",
+        "title": "e.g. Cheb Rizki \"Oulou Lamma Rani Gha\"",
+        "trackId": "6eo6hZLIrwfZCKTOa9bPEg"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=3ugM52f3CxyrwuGhiRtyO5",
+      "id": "3ugM52f3CxyrwuGhiRtyO5"
+    },
+    {
+      "artistName": "Hamid Baroudi",
+      "positioning": {
+        "top": 55,
+        "left": 1220
+      },
+      "style": {
+        "color": "#c67f2c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b292658a55fa1e822dbf142f6a4e3fe2afddebb",
+        "title": "e.g. Hamid Baroudi \"Caravan II Bagdad\"",
+        "trackId": "5cebegSM9bJ0LQNhJfKQMC"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=2KUvztaZ23NwLaNMD2qElz",
+      "id": "2KUvztaZ23NwLaNMD2qElz"
+    },
+    {
+      "artistName": "SOLAZUR CLUB",
+      "positioning": {
+        "top": 337,
+        "left": 403
+      },
+      "style": {
+        "color": "#dd6702",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1dff19d860f709c3fb1b72aa182600d88ae6c2f4",
+        "title": "e.g. SOLAZUR CLUB \"Cheb Rami Ki Jiti L barah Fi Bali\"",
+        "trackId": "1ERDIEa00sBDhlbM6Z9IzE"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=6w48MPdN0fKmecyHahXE8g",
+      "id": "6w48MPdN0fKmecyHahXE8g"
+    },
+    {
+      "artistName": "Anouar",
+      "positioning": {
+        "top": 422,
+        "left": 682
+      },
+      "style": {
+        "color": "#a48003",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7d22f8b53b2cfdc4c13d43ccac2abb75d9fbb466",
+        "title": "e.g. Anouar \"Laghzal diali\"",
+        "trackId": "4uGeGIPpIhO0dz3R9SsWTa"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=20Jk9H8ZInC0u9S4jEcBZW",
+      "id": "20Jk9H8ZInC0u9S4jEcBZW"
+    },
+    {
+      "artistName": "Sahraoui & Fadela",
+      "positioning": {
+        "top": 268,
+        "left": 812
+      },
+      "style": {
+        "color": "#ae7e0e",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7fdf14107e1828f969085e579675741e29b4f1c7",
+        "title": "e.g. Sahraoui & Fadela \"N'selfik\"",
+        "trackId": "6ga0vUV1Bht9KQqNBJ8NTy"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=3Ac9f5RvW2kGB8zr8OCvRi",
+      "id": "3Ac9f5RvW2kGB8zr8OCvRi"
+    },
+    {
+      "artistName": "Cheb Sahraoui",
+      "positioning": {
+        "top": 315,
+        "left": 486
+      },
+      "style": {
+        "color": "#bf7116",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe6acd643b4e2e248be1c94c7268c52f7b2406f2",
+        "title": "e.g. Cheb Sahraoui \"Nsel Fik\"",
+        "trackId": "6BYDVg6GFj982JiE2oCS9g"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=53gSqToWb6Tj4XGXYwESK9",
+      "id": "53gSqToWb6Tj4XGXYwESK9"
+    },
+    {
+      "artistName": "Cheikh Fethi",
+      "positioning": {
+        "top": 366,
+        "left": 491
+      },
+      "style": {
+        "color": "#bf770b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c4387d12a0577eb1f89e8e86347a19ef7bd661a8",
+        "title": "e.g. Cheikh Fethi \"Li bini ou binek mate\"",
+        "trackId": "3bA0vspElTtRDKxAn62idR"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=4jxVgFiySr2hPRxfuVh364",
+      "id": "4jxVgFiySr2hPRxfuVh364"
+    },
+    {
+      "artistName": "Chaba Fadela",
+      "positioning": {
+        "top": 528,
+        "left": 688
+      },
+      "style": {
+        "color": "#c3702c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7685c52933b6cad58e78a91e755fa09d46d21a93",
+        "title": "e.g. Chaba Fadela \"N'sel fik\"",
+        "trackId": "7xe2Ze5JH4Jus0YTeuhcja"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=5vCmujrF66Cuq1TjOoehWE",
+      "id": "5vCmujrF66Cuq1TjOoehWE"
+    },
+    {
+      "artistName": "Chaba Zohra",
+      "positioning": {
+        "top": 428,
+        "left": 786
+      },
+      "style": {
+        "color": "#b27525",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54366015e6c107e20f94d9e0c51add3c6efd0f59",
+        "title": "e.g. Chaba Zohra \"Seknet Marseille\"",
+        "trackId": "1cmnD6qNk1jnzNV7HfYR5f"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=6EoWtiHRxkvmxJmCyhS35N",
+      "id": "6EoWtiHRxkvmxJmCyhS35N"
+    },
+    {
+      "artistName": "Cheb Hamid",
+      "positioning": {
+        "top": 369,
+        "left": 393
+      },
+      "style": {
+        "color": "#ad7f12",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/67c3fdf4d1b2bf0a93602dd5c674fcfa4022ddaf",
+        "title": "e.g. Cheb Hamid \"Moulat 18 ans\"",
+        "trackId": "1UQOpR5zmGP6oWmwgnfuAe"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=3L0bc5TW8a7olsa2fk6Xnu",
+      "id": "3L0bc5TW8a7olsa2fk6Xnu"
+    },
+    {
+      "artistName": "Cheba Nouria",
+      "positioning": {
+        "top": 340,
+        "left": 977
+      },
+      "style": {
+        "color": "#c77306",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c324290c6e675ac1ad6b34d7a3a963a6477f4e36",
+        "title": "e.g. Cheba Nouria \"N'zor nebra\"",
+        "trackId": "1FTzO3hv3gukg3nibftVWu"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=3AJD7ohoMSbivLcSHuvznO",
+      "id": "3AJD7ohoMSbivLcSHuvznO"
+    },
+    {
+      "artistName": "Cheba Fadela",
+      "positioning": {
+        "top": 294,
+        "left": 662
+      },
+      "style": {
+        "color": "#bb7713",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/70fab134f7211e9c0473bc0a7ec3e87a1eaa886a",
+        "title": "e.g. Cheba Fadela \"Zine kouani\"",
+        "trackId": "26q8yMybSosLFWAAxS7JF6"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=0YbAy3OiIOvCg3Il8WbAUn",
+      "id": "0YbAy3OiIOvCg3Il8WbAUn"
+    },
+    {
+      "artistName": "Bellemou Messaoud",
+      "positioning": {
+        "top": 582,
+        "left": 517
+      },
+      "style": {
+        "color": "#a28033",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0a0937cbca7c29d694adf020979dab79926d77b5",
+        "title": "e.g. Bellemou Messaoud \"Rire zarga ouana\"",
+        "trackId": "5R4QRz7WsArcmcfjP4iHs5"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=3Gj5FK08qz58Uv19mHYxsN",
+      "id": "3Gj5FK08qz58Uv19mHYxsN"
+    },
+    {
+      "artistName": "Cheb Youcef",
+      "positioning": {
+        "top": 332,
+        "left": 817
+      },
+      "style": {
+        "color": "#dc6b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5361424945c7581250949734cd5683240737be50",
+        "title": "e.g. Cheb Youcef \"Rah M'aouel (Arabic Version)\"",
+        "trackId": "6EZjU78FCUNqn35rLCiunE"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=639JWxW2uEqbQQpgsb4TGz",
+      "id": "639JWxW2uEqbQQpgsb4TGz"
+    },
+    {
+      "artistName": "Bellemou",
+      "positioning": {
+        "top": 490,
+        "left": 967
+      },
+      "style": {
+        "color": "#ac703d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a58c8d08404d6d69f21ecf2e11efc4ee21518e2d",
+        "title": "e.g. Bellemou \"Nediha Gaouria\"",
+        "trackId": "7Fehw9ABjpYfVC69jz3Y8V"
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=10afhmbDoutJBkmsPZBT0l",
+      "id": "10afhmbDoutJBkmsPZBT0l"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=rai"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/36qabOc2JEaHmVvSTPmTx6"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/23QVJdKz4AXg0pAhA0hn9a"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0orKbrxxLaukZSMTkrXeMz"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5BnMq3eoGyalXOYi83XV1Q"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=rai"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "deep rai",
+      "positioning": {
+        "top": 0,
+        "left": 187
+      },
+      "style": {
+        "color": "#cd7107",
+        "fontSize": "128%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ed8c1ab4cd1500c2bd19e02e2f398df249878074",
+        "title": "e.g. Kader Japonais \"Nti Sbabi\"",
+        "trackId": "469RutojU2gIHm1bZvPKdp"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-deeprai.html#tunnel"
+    },
+    {
+      "genreName": "moroccan pop",
+      "positioning": {
+        "top": 250,
+        "left": 168
+      },
+      "style": {
+        "color": "#ba7d0b",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/883f3b339b7353d9918c379babcaba11f044ee50",
+        "title": "e.g. Ihab Amir \"Mallina\"",
+        "trackId": "1hAwxGDmy4cSkI6qOTsRfA"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-moroccanpop.html#tunnel"
+    },
+    {
+      "genreName": "rif",
+      "positioning": {
+        "top": 16,
+        "left": 201
+      },
+      "style": {
+        "color": "#c07707",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/22f9d4cf56ca21f27fc3576b2667828b5eb3bd0f",
+        "title": "e.g. Hamid Oussama \"Jit Jit Ayamas\"",
+        "trackId": "5X0RVEZhD14KhBvnvs0LNZ"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-rif.html#tunnel"
+    },
+    {
+      "genreName": "rai algerien",
+      "positioning": {
+        "top": 297,
+        "left": 73
+      },
+      "style": {
+        "color": "#d26b03",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/64cf30ae93c381ac89c40aed9bb66f474214b1ee",
+        "title": "e.g. Yacine Tigre \"Lokan jiti mra msagma\"",
+        "trackId": "3bNYR1sMmvQ9X7qAb1o6zi"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-raialgerien.html#tunnel"
+    },
+    {
+      "genreName": "himachali pop",
+      "positioning": {
+        "top": 213,
+        "left": 176
+      },
+      "style": {
+        "color": "#be7404",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e4621eb5e350fbaf1833ee58ceda8328d0bd7bac",
+        "title": "e.g. Inder Jeet \"Pakhli Mannu\"",
+        "trackId": "2c9rlOHoovdkmOlMmtWLKL"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-himachalipop.html#tunnel"
+    },
+    {
+      "genreName": "tallava",
+      "positioning": {
+        "top": 159,
+        "left": 154
+      },
+      "style": {
+        "color": "#b67d03",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/39a8233fd7fb3a50424b427689d8f05dbb0972f1",
+        "title": "e.g. Sefe Duraj \"Kafe E Dynja\"",
+        "trackId": "7xNiEIhnvLb9PcKq4iAzyT"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-tallava.html#tunnel"
+    },
+    {
+      "genreName": "kabyle",
+      "positioning": {
+        "top": 265,
+        "left": 139
+      },
+      "style": {
+        "color": "#b17e0f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/65799ac2345b351e8b946216f83ae3555a1565af",
+        "title": "e.g. Ali Irsane \"Avehri idhurar\"",
+        "trackId": "4PRs99lzWBfGgGJTIyNR7v"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-kabyle.html#tunnel"
+    },
+    {
+      "genreName": "kabyle moderne",
+      "positioning": {
+        "top": 18,
+        "left": 91
+      },
+      "style": {
+        "color": "#c67307",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8bc6d9f9ac5a275f2477bdac934aa24b41f9a86",
+        "title": "e.g. Bilal Mohri \"Etsghenigh Si Mohand Oumhand\"",
+        "trackId": "1FxtNdGsalvTVjMYy4e8Mo"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-kabylemoderne.html#tunnel"
+    },
+    {
+      "genreName": "nagpuri pop",
+      "positioning": {
+        "top": 93,
+        "left": 220
+      },
+      "style": {
+        "color": "#c57705",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4717b4ff8ced988bcf0b017148392c2832669bde",
+        "title": "e.g. Staffen Production \"Nagpuri Song Sundar Goriya\"",
+        "trackId": "0LUx2tzxHbUBCvQiknOb7E"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-nagpuripop.html#tunnel"
+    },
+    {
+      "genreName": "carnaval limburg",
+      "positioning": {
+        "top": 226,
+        "left": 179
+      },
+      "style": {
+        "color": "#ad7e03",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a0dda66d949b5857d7aab9609cfd1d71f55c40fb",
+        "title": "e.g. Kartoesj \"Dat zit bie òs in de femilie\"",
+        "trackId": "1bSLiaD2VdACMRDTH3xq77"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-carnavallimburg.html#tunnel"
+    },
+    {
+      "genreName": "axe",
+      "positioning": {
+        "top": 265,
+        "left": 278
+      },
+      "style": {
+        "color": "#bf7c04",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/60597bdc2abc6906d735e91882f5924c3ac82186",
+        "title": "e.g. Cheiro de Amor \"Vai Sacudir, Vai Abalar\"",
+        "trackId": "2J0nljHgO5EfqN4tW7rftk"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-axe.html#tunnel"
+    },
+    {
+      "genreName": "carimbo",
+      "positioning": {
+        "top": 171,
+        "left": 205
+      },
+      "style": {
+        "color": "#ba840c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/efe3fcb99f8d317795583dc9d0143bd9b7050780",
+        "title": "e.g. Pinduca \"Carimbó do Macaco\"",
+        "trackId": "0pU9KMEInr06KgVLTcsRRv"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-carimbo.html#tunnel"
+    },
+    {
+      "genreName": "danspunk",
+      "positioning": {
+        "top": 166,
+        "left": 51
+      },
+      "style": {
+        "color": "#b47406",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bcb062593c8d3c2b73b3de1d1912334a92f1606a",
+        "title": "e.g. Rövballebandet \"Raggen Går Mellan Pattar Och Lår\"",
+        "trackId": "1ou0N3fNBdYgVdPXLsax0z"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-danspunk.html#tunnel"
+    },
+    {
+      "genreName": "dogri pop",
+      "positioning": {
+        "top": 265,
+        "left": 198
+      },
+      "style": {
+        "color": "#b57e01",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/497217df6f329d2eecfba253efe09caa2ce26fb2",
+        "title": "e.g. Chaman Lehri \"MERE FOJIYA SIPAHIA\"",
+        "trackId": "4cUjNeC6VzBu5CHkU0aR2g"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-dogripop.html#tunnel"
+    },
+    {
+      "genreName": "libyan pop",
+      "positioning": {
+        "top": 312,
+        "left": 51
+      },
+      "style": {
+        "color": "#ba700e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6d2f8f02769a2e80523656490765b4dc351260d6",
+        "title": "e.g. وليد التلاوي \"اه من جرح الغلاء\"",
+        "trackId": "6TkKNpFrJQeKXNtt9h0ofD"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-libyanpop.html#tunnel"
+    },
+    {
+      "genreName": "shaabi",
+      "positioning": {
+        "top": 238,
+        "left": 183
+      },
+      "style": {
+        "color": "#b17b05",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f7835e541099820305907875c5df4ddf23c1d9b",
+        "title": "e.g. Mahmoud El Leithy \"سيبك من اللي خلع - من فيلم حمص وحلاوة\"",
+        "trackId": "7ME2ZENU0G5H7IlnPbWvOv"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-shaabi.html#tunnel"
+    },
+    {
+      "genreName": "alpine yodeling",
+      "positioning": {
+        "top": 237,
+        "left": 0
+      },
+      "style": {
+        "color": "#ac7a0b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c039e6ee878fcbe65f14dd12d181b2d167df7f18",
+        "title": "e.g. Zillertaler Gipfelwind \"Mit A Tiroler Musig Aus Den Bergen\"",
+        "trackId": "5H96Q3abzF8o0YEORpCYMw"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-alpineyodeling.html#tunnel"
+    },
+    {
+      "genreName": "samba reggae",
+      "positioning": {
+        "top": 166,
+        "left": 300
+      },
+      "style": {
+        "color": "#bd7406",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f2c8b3fd75b3265e47c3f6343c3cf466dbab0aa",
+        "title": "e.g. Timbalada \"Beija-Flor\"",
+        "trackId": "2qzvVh6WD7pP0DUkSyANNf"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-sambareggae.html#tunnel"
+    },
+    {
+      "genreName": "montenegrin pop",
+      "positioning": {
+        "top": 48,
+        "left": 117
+      },
+      "style": {
+        "color": "#b77c09",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee788cc39caf1cffa785cf75a266e6a8f9a35506",
+        "title": "e.g. Goga Sekulić \"Tvoje Oci\"",
+        "trackId": "4XN2SootqwgC9WbtZeLczn"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-montenegrinpop.html#tunnel"
+    },
+    {
+      "genreName": "turbo folk",
+      "positioning": {
+        "top": 53,
+        "left": 29
+      },
+      "style": {
+        "color": "#bb7d02",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86949af4e9d5b2b9118a487eb576b3bbcd66db90",
+        "title": "e.g. Mia Borisavljevic \"Lepota Balkanska\"",
+        "trackId": "6kkoCrUlNYqDcHzHiHUR1w"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-turbofolk.html#tunnel"
+    }
+  ]
+}
