@@ -1,0 +1,2364 @@
+{
+  "schemaVersion": 3,
+  "genreName": "powwow",
+  "artists": [
+    {
+      "artistName": "Young Spirit",
+      "positioning": {
+        "top": 430,
+        "left": 565
+      },
+      "style": {
+        "color": "#a35a31",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8c80884c8aac100031bf071cc0fc582199fe6ca",
+        "title": "e.g. Young Spirit \"Red Rock Woman\"",
+        "trackId": "0WV1ymweEVHOTkjz6rGhCj"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=5KkD8xu03OtqjuUJXKBPBl",
+      "id": "5KkD8xu03OtqjuUJXKBPBl"
+    },
+    {
+      "artistName": "Northern Cree",
+      "positioning": {
+        "top": 411,
+        "left": 556
+      },
+      "style": {
+        "color": "#8f634c",
+        "fontSize": "151%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d9ffb10ed5554467c36b7899c10fd3372028a5c8",
+        "title": "e.g. Northern Cree \"Facebook Drama\"",
+        "trackId": "3vu21930oxxeGE4BT5biWM"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=5n4JXEQjauDsFSHTjhHkDq",
+      "id": "5n4JXEQjauDsFSHTjhHkDq"
+    },
+    {
+      "artistName": "Fawn Wood",
+      "positioning": {
+        "top": 784,
+        "left": 91
+      },
+      "style": {
+        "color": "#459a06",
+        "fontSize": "146%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e3080270569bdfd92b6f3f962681cf90f953ed6",
+        "title": "e.g. Fawn Wood \"Remember Me\"",
+        "trackId": "5c7PrrCdA1shBD3uD3YhN2"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=7HrK2HP1tJfnMW2HFDw4kb",
+      "id": "7HrK2HP1tJfnMW2HFDw4kb"
+    },
+    {
+      "artistName": "Black Lodge Singers",
+      "positioning": {
+        "top": 515,
+        "left": 716
+      },
+      "style": {
+        "color": "#765958",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fa78786b68dd524f90c29c9df61f5db8f3139c2",
+        "title": "e.g. Black Lodge Singers \"Hunya\"",
+        "trackId": "4h9UFkjbMX4686kWvKIpHg"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=2NuGNEVgXfcVDRGF8jtAS4",
+      "id": "2NuGNEVgXfcVDRGF8jtAS4"
+    },
+    {
+      "artistName": "The Red Shadow Singers",
+      "positioning": {
+        "top": 264,
+        "left": 690
+      },
+      "style": {
+        "color": "#8d6023",
+        "fontSize": "124%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9ba93549746f4ae2bdc2e538997296b8f426be24",
+        "title": "e.g. The Red Shadow Singers \"Ghost Dance Song\"",
+        "trackId": "3eThHilo3HLqHMW3DfPyME"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=2s6STVqBDbvRoVrHNJIQMy",
+      "id": "2s6STVqBDbvRoVrHNJIQMy"
+    },
+    {
+      "artistName": "Big River Cree",
+      "positioning": {
+        "top": 466,
+        "left": 749
+      },
+      "style": {
+        "color": "#85474d",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/56ac72c17f2c9f02e36b67d59808bdbea3f7f0c7",
+        "title": "e.g. Big River Cree \"Jingle Dress Side Step\"",
+        "trackId": "2Mri7A5HDFN9Gwhuoh8GYG"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=063nmxpLEF5xKSaorSUlbF",
+      "id": "063nmxpLEF5xKSaorSUlbF"
+    },
+    {
+      "artistName": "Cree Confederation",
+      "positioning": {
+        "top": 285,
+        "left": 623
+      },
+      "style": {
+        "color": "#ae6f8a",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/84559ba970613daeecd4f9ff89f5d0bdb7c69714",
+        "title": "e.g. Cree Confederation \"Missing You\"",
+        "trackId": "30nMW5Bc6QfJ6AIdzWEI9U"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=2jWQYLHF10QePnwBAhcfN9",
+      "id": "2jWQYLHF10QePnwBAhcfN9"
+    },
+    {
+      "artistName": "Midnite Express",
+      "positioning": {
+        "top": 486,
+        "left": 661
+      },
+      "style": {
+        "color": "#71617b",
+        "fontSize": "119%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7bc5c903adee7f7dd3d7eaf7fbf775c09d8f0266",
+        "title": "e.g. Midnite Express \"Ojibwe Style Side Step\"",
+        "trackId": "4Z0F0Orag0Vj5RR4uggwEP"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=2T8pCKKxgSM7yjLqTfoq0N",
+      "id": "2T8pCKKxgSM7yjLqTfoq0N"
+    },
+    {
+      "artistName": "Bear Creek",
+      "positioning": {
+        "top": 220,
+        "left": 850
+      },
+      "style": {
+        "color": "#af6959",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/77bfba1a3ed52e8bf800a3540218ff1d59c5f082",
+        "title": "e.g. Bear Creek \"Nokimisnaanig (Side-Step)\"",
+        "trackId": "2cvyoguVqM1gwMhvrmti5b"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=2Fk57tryPnOyuaUG7RwV18",
+      "id": "2Fk57tryPnOyuaUG7RwV18"
+    },
+    {
+      "artistName": "Northern Wind",
+      "positioning": {
+        "top": 449,
+        "left": 1164
+      },
+      "style": {
+        "color": "#5a6986",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff4c8b3e18d1fcf7091b59c3f8969875805eec66",
+        "title": "e.g. Northern Wind \"Lovin' Feelin\"",
+        "trackId": "1B2FJYn8ownfp76ZEJG7hb"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=0Ygkex704K6hhGBzs83esJ",
+      "id": "0Ygkex704K6hhGBzs83esJ"
+    },
+    {
+      "artistName": "Gathering of Nations Pow Wow",
+      "positioning": {
+        "top": 579,
+        "left": 862
+      },
+      "style": {
+        "color": "#a75c6d",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acfc3e1a0dd8774ae430cfeba6a6499d25def0bc",
+        "title": "e.g. Gathering of Nations Pow Wow \"Womens Fancy Shawl (Feat. Young Spirit)\"",
+        "trackId": "4A1e2XbKyVuDxrPdCeoRoc"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=0VZTVVWxTYnuC90abMZ74Y",
+      "id": "0VZTVVWxTYnuC90abMZ74Y"
+    },
+    {
+      "artistName": "Tha Tribe",
+      "positioning": {
+        "top": 544,
+        "left": 804
+      },
+      "style": {
+        "color": "#6d7754",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9738f75f19484c4d199986ea357d30755a631cb1",
+        "title": "e.g. Tha Tribe \"When She Dances (crow hop) - 'Girl dancers, when we watch you dance you make it look really good.'\"",
+        "trackId": "5EpNss0VgN2VDFFqVvZ3vQ"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=7nyjxIPfnbEjxJU3Pq27yQ",
+      "id": "7nyjxIPfnbEjxJU3Pq27yQ"
+    },
+    {
+      "artistName": "Gathering of Nations",
+      "positioning": {
+        "top": 530,
+        "left": 745
+      },
+      "style": {
+        "color": "#b95d70",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3aca8e2dca8cc52246cb19bcc28569ee814fd7f1",
+        "title": "e.g. Gathering of Nations \"Women's Southern Buckskin\"",
+        "trackId": "52Do1h3keLTdTdCFCS128m"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6b3aRGjLy8F8ME9aGkJqyJ",
+      "id": "6b3aRGjLy8F8ME9aGkJqyJ"
+    },
+    {
+      "artistName": "Blackstone",
+      "positioning": {
+        "top": 270,
+        "left": 351
+      },
+      "style": {
+        "color": "#9b6866",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc4259292f1c57f5626244ab9635f2ccf59986a5",
+        "title": "e.g. Blackstone \"Straight Song\"",
+        "trackId": "3bSiI3jOTUqmTJY0bkm9e3"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=1i2o3ZuFm50TzRnUIf6FJx",
+      "id": "1i2o3ZuFm50TzRnUIf6FJx"
+    },
+    {
+      "artistName": "Black Lodge",
+      "positioning": {
+        "top": 501,
+        "left": 665
+      },
+      "style": {
+        "color": "#73607c",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8e8ef9506ba21cd07ac938124860e0916801edc",
+        "title": "e.g. Black Lodge \"Crow Hop - 'Watching the Indian people dance.'\"",
+        "trackId": "4GyWUrFozxbaCDbMK3Sf4B"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=0BDXVCqEZvEduDm8Z4OSVR",
+      "id": "0BDXVCqEZvEduDm8Z4OSVR"
+    },
+    {
+      "artistName": "Northern Cree Singers",
+      "positioning": {
+        "top": 483,
+        "left": 841
+      },
+      "style": {
+        "color": "#726236",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41a4ca2a0dfbb01c615836ef7642be8e81789ae4",
+        "title": "e.g. Northern Cree Singers \"Fancy Dance Trick Song - 'Honoring the eagle feather.'\"",
+        "trackId": "7CNRoqOQOIsAfWv1oyH3HC"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=7cKRgZFFib4BKtbEykBxQs",
+      "id": "7cKRgZFFib4BKtbEykBxQs"
+    },
+    {
+      "artistName": "Bearhead Sisters",
+      "positioning": {
+        "top": 659,
+        "left": 23
+      },
+      "style": {
+        "color": "#52893c",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3541aaa121811f29b27eaf967e6ffc0ff0d6325d",
+        "title": "e.g. Bearhead Sisters \"Stand By Me\"",
+        "trackId": "3azS2MvwBQ1ekjIXCzVXEr"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3lM0lK4jIbgoZTOfxisYcH",
+      "id": "3lM0lK4jIbgoZTOfxisYcH"
+    },
+    {
+      "artistName": "Eyabay",
+      "positioning": {
+        "top": 571,
+        "left": 804
+      },
+      "style": {
+        "color": "#9f3c18",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/44dee48bbc356a421938b305f017f48d4d8a2209",
+        "title": "e.g. Eyabay \"Her and I\"",
+        "trackId": "3e32Ui8bFbzmb6nUzK0quv"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=6AVIATEz9rF9Mu65xiPJEQ",
+      "id": "6AVIATEz9rF9Mu65xiPJEQ"
+    },
+    {
+      "artistName": "Butch & Tone",
+      "positioning": {
+        "top": 729,
+        "left": 78
+      },
+      "style": {
+        "color": "#3ea400",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7b885de90377d3e9d384bef792ce6ef39744a582",
+        "title": "e.g. Butch & Tone \"Pretty Lady\"",
+        "trackId": "4TKTNE80JVXIaKTHZsnFvs"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=7uiwdlcWyW4uYgveAH9RVE",
+      "id": "7uiwdlcWyW4uYgveAH9RVE"
+    },
+    {
+      "artistName": "Red Bull",
+      "positioning": {
+        "top": 308,
+        "left": 791
+      },
+      "style": {
+        "color": "#85595d",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3914fe312f09fe90ee978977b0484780e69a6b37",
+        "title": "e.g. Red Bull \"Crow Hop “Looking Beautiful”\"",
+        "trackId": "2Ayc770lbdAFajSsnIDHVG"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3TvTKkstFvAp3rEz5BjznS",
+      "id": "3TvTKkstFvAp3rEz5BjznS"
+    },
+    {
+      "artistName": "Pipestone",
+      "positioning": {
+        "top": 426,
+        "left": 720
+      },
+      "style": {
+        "color": "#845a31",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/211ef25404fb275806c91c8a6aacaf8077b19d86",
+        "title": "e.g. Pipestone \"Teepee Creepin'\"",
+        "trackId": "1CjuuRt3UzkIMQI7cHg3vK"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=65hzC8l60T75k1ry2FBFDl",
+      "id": "65hzC8l60T75k1ry2FBFDl"
+    },
+    {
+      "artistName": "BullHorn",
+      "positioning": {
+        "top": 566,
+        "left": 1059
+      },
+      "style": {
+        "color": "#9359a7",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98c7084ad5b2760042ad9ac739ef719ec216c41a",
+        "title": "e.g. BullHorn \"Crow Hop\"",
+        "trackId": "69y5ODclX5w8rDMVcWAibb"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=5deIF28BqYuXRvbNKC96eE",
+      "id": "5deIF28BqYuXRvbNKC96eE"
+    },
+    {
+      "artistName": "Lakota Thunder",
+      "positioning": {
+        "top": 583,
+        "left": 175
+      },
+      "style": {
+        "color": "#5b596c",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3bb3a18bbe82465457c4752c81c490343d38c7ba",
+        "title": "e.g. Lakota Thunder \"Way of Life\"",
+        "trackId": "1XkGR61Cz52no3OLRoxjk2"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=7pDiHtkfDll6BdgTIlaUSL",
+      "id": "7pDiHtkfDll6BdgTIlaUSL"
+    },
+    {
+      "artistName": "Olivia Tailfeathers",
+      "positioning": {
+        "top": 462,
+        "left": 34
+      },
+      "style": {
+        "color": "#669305",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ca0f3181e5b7af62c1bc508b8dd47487b2b06764",
+        "title": "e.g. Olivia Tailfeathers \"Buffalo Song\"",
+        "trackId": "2ypQOsv3QY5FuWdrKpTpCA"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=63J1jO1ENn8lvJDTbN59E6",
+      "id": "63J1jO1ENn8lvJDTbN59E6"
+    },
+    {
+      "artistName": "Blackfoot Confederacy",
+      "positioning": {
+        "top": 515,
+        "left": 519
+      },
+      "style": {
+        "color": "#83748d",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/04d3fa84e54be138b3eeac1b6e740831712ba3a2",
+        "title": "e.g. Blackfoot Confederacy \"Exhibition Song\"",
+        "trackId": "4QJGisaZlOyczc9M692QZt"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=0ryOzOE6mXztEJ3FfF5m49",
+      "id": "0ryOzOE6mXztEJ3FfF5m49"
+    },
+    {
+      "artistName": "Thunder Mountain Singers",
+      "positioning": {
+        "top": 399,
+        "left": 1298
+      },
+      "style": {
+        "color": "#a33579",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/499c4c1b9d7b6f6e24708ae5b2c5b3656e974975",
+        "title": "e.g. Thunder Mountain Singers \"Side Stepper\"",
+        "trackId": "5oTVjbbxIXxI7byKo4GoFr"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=6wvjQ4dryvb4HvUjeGst7p",
+      "id": "6wvjQ4dryvb4HvUjeGst7p"
+    },
+    {
+      "artistName": "Indian Hill",
+      "positioning": {
+        "top": 353,
+        "left": 271
+      },
+      "style": {
+        "color": "#a36e01",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f0841a075c929744f2438b9c2729f669e1f8cdd9",
+        "title": "e.g. Indian Hill \"#Thahill\"",
+        "trackId": "6fruu8hhqqaRwof5QX6WXx"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=2qqjzXq8F8d9X7Dhlerw5y",
+      "id": "2qqjzXq8F8d9X7Dhlerw5y"
+    },
+    {
+      "artistName": "Thunder Hill",
+      "positioning": {
+        "top": 547,
+        "left": 125
+      },
+      "style": {
+        "color": "#876729",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96e9abc77628a8a65916be32488a1b1b70d1dc31",
+        "title": "e.g. Thunder Hill \"Pawnee Song\"",
+        "trackId": "4HgaAw2y16nHVPehXyuahs"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=05h8TqOt5704Y5qp2PqaYq",
+      "id": "05h8TqOt5704Y5qp2PqaYq"
+    },
+    {
+      "artistName": "North Bear",
+      "positioning": {
+        "top": 425,
+        "left": 1122
+      },
+      "style": {
+        "color": "#767264",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/17244905828ac2a46821d260e5f3409e070448b7",
+        "title": "e.g. North Bear \"Hop 2 That\"",
+        "trackId": "6a8Mivhtl50z5kEGAC7QPg"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=3qiJl2JGaYyzag2ZTgpJ3B",
+      "id": "3qiJl2JGaYyzag2ZTgpJ3B"
+    },
+    {
+      "artistName": "Whitefish Bay Singers",
+      "positioning": {
+        "top": 508,
+        "left": 1210
+      },
+      "style": {
+        "color": "#7d4a7a",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9319108bef889798f37902dc033fb218ecb2b45",
+        "title": "e.g. Whitefish Bay Singers \"Way 2 Expensive\"",
+        "trackId": "3J1XvdOiI6omwwAi7GiIxc"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=7x7TsDVZ3DDiIXw95loedn",
+      "id": "7x7TsDVZ3DDiIXw95loedn"
+    },
+    {
+      "artistName": "Young Bear",
+      "positioning": {
+        "top": 428,
+        "left": 854
+      },
+      "style": {
+        "color": "#ba50ad",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20157648cd9ab47af16dec6623eea79637bfa912",
+        "title": "e.g. Young Bear \"Fancy Shawl, Pt. 2\"",
+        "trackId": "3CEMkJ9RyvsUA3YvXmR1X3"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=0hbVbCEG2qDBOWSO1LpLi4",
+      "id": "0hbVbCEG2qDBOWSO1LpLi4"
+    },
+    {
+      "artistName": "Young Bird",
+      "positioning": {
+        "top": 486,
+        "left": 544
+      },
+      "style": {
+        "color": "#54745e",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f1161b853dcaa9cba7fc3f2534a7ef9e4f87139c",
+        "title": "e.g. Young Bird \"Fancy Dance\"",
+        "trackId": "4bGILhs6UHQvWJlEwkmv1J"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=3WyqxxNAeddxlwjd31bXaZ",
+      "id": "3WyqxxNAeddxlwjd31bXaZ"
+    },
+    {
+      "artistName": "Southern Style",
+      "positioning": {
+        "top": 718,
+        "left": 690
+      },
+      "style": {
+        "color": "#74590b",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/88c23189d99b093a74b1e42fb6ff7e68b6d96629",
+        "title": "e.g. Southern Style \"Creestyle\"",
+        "trackId": "5rTD4efbXUG2JkEkRZqi9W"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=1IuIYBjhzdZrmOvApCGXYl",
+      "id": "1IuIYBjhzdZrmOvApCGXYl"
+    },
+    {
+      "artistName": "Warscout",
+      "positioning": {
+        "top": 449,
+        "left": 519
+      },
+      "style": {
+        "color": "#7b7233",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6354b8ecb9eded48e1226df764bfad52ed1e8827",
+        "title": "e.g. Warscout \"Hero\"",
+        "trackId": "60voMIRTcmFeMzmDVLO4JY"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=3Rb001AQFWPD5vnH03r0Es",
+      "id": "3Rb001AQFWPD5vnH03r0Es"
+    },
+    {
+      "artistName": "Whitefish Jr.'s",
+      "positioning": {
+        "top": 425,
+        "left": 431
+      },
+      "style": {
+        "color": "#bc2f48",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11e39fe268869f2c2b7704d98fe6ac2e64c56237",
+        "title": "e.g. Whitefish Jr.'s \"Lonely Nights\"",
+        "trackId": "4VU05msJosvbFZqTjzl9p0"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=06pSLaI9Yl2vShUTwgHzhv",
+      "id": "06pSLaI9Yl2vShUTwgHzhv"
+    },
+    {
+      "artistName": "Battle River",
+      "positioning": {
+        "top": 496,
+        "left": 1021
+      },
+      "style": {
+        "color": "#726aad",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6293e6451a92133123fb73207a7dca9bf77ad164",
+        "title": "e.g. Battle River \"Men's Fancy Dance\"",
+        "trackId": "4C7LGnKxWMDyNGjDaUf2iD"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=1LRbLNSxwl6ys2RuefEsDv",
+      "id": "1LRbLNSxwl6ys2RuefEsDv"
+    },
+    {
+      "artistName": "Eyabay Singers",
+      "positioning": {
+        "top": 405,
+        "left": 1013
+      },
+      "style": {
+        "color": "#b24863",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bdbe5b28ba532f80a8dd1c1cf6b3864c6f026e9c",
+        "title": "e.g. Eyabay Singers \"Intertribal\"",
+        "trackId": "7HVARiH6OyQ2oDUNYwszYs"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=50zAQGH9CSTRONgecQ2Ra0",
+      "id": "50zAQGH9CSTRONgecQ2Ra0"
+    },
+    {
+      "artistName": "Southern Cree",
+      "positioning": {
+        "top": 392,
+        "left": 1034
+      },
+      "style": {
+        "color": "#6c7e86",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1851e82e255086dcba643559aaf30ab216ecdc51",
+        "title": "e.g. Southern Cree \"Thunder and Lightning\"",
+        "trackId": "0XK7oqMHepbLRBPclxtivA"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=5qcJqrjhsd8iw37EW6v9Dy",
+      "id": "5qcJqrjhsd8iw37EW6v9Dy"
+    },
+    {
+      "artistName": "Stoney Park",
+      "positioning": {
+        "top": 256,
+        "left": 912
+      },
+      "style": {
+        "color": "#5e5309",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e12a71c3a0be852334b99c53c4a50193d82ef4e",
+        "title": "e.g. Stoney Park \"Men's Traditional\"",
+        "trackId": "2oQAXJehUhZv1QUCSLxQK1"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=5J1PVfE37YzErS7rqNXLvc",
+      "id": "5J1PVfE37YzErS7rqNXLvc"
+    },
+    {
+      "artistName": "Little Island Cree",
+      "positioning": {
+        "top": 335,
+        "left": 1009
+      },
+      "style": {
+        "color": "#83485a",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d31059716e00dbb43dd7ddbb49e1f06d94844f10",
+        "title": "e.g. Little Island Cree \"Remember Me, I'm The One\"",
+        "trackId": "0Qpx56QYz5nAMK8Ams1DbK"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=6TVMQAlgfJjxQvN0ybZGh2",
+      "id": "6TVMQAlgfJjxQvN0ybZGh2"
+    },
+    {
+      "artistName": "Blacklodge Singers",
+      "positioning": {
+        "top": 415,
+        "left": 816
+      },
+      "style": {
+        "color": "#77575f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f060e37a5eab431cc251d2b1622ca95ad8f66a33",
+        "title": "e.g. Blacklodge Singers \"Jingle (Live)\"",
+        "trackId": "1EP8rubKK8FdnjfDWc5Yo6"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=1hk18FWf6e8YY8hoZR935b",
+      "id": "1hk18FWf6e8YY8hoZR935b"
+    },
+    {
+      "artistName": "Yellow Hammer",
+      "positioning": {
+        "top": 446,
+        "left": 363
+      },
+      "style": {
+        "color": "#557773",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e519be7dc583df1941df727a5f59d416a8318686",
+        "title": "e.g. Yellow Hammer \"Fancy Dance Song\"",
+        "trackId": "56iWWCeOge3IbJSPkz1egn"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1iVwd6JtzRfTd2gusULJ9n",
+      "id": "1iVwd6JtzRfTd2gusULJ9n"
+    },
+    {
+      "artistName": "Eastern Eagle Singers",
+      "positioning": {
+        "top": 470,
+        "left": 904
+      },
+      "style": {
+        "color": "#4d7d31",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8144fb173b8d85ac8121f9a8cbe347c2ef10d587",
+        "title": "e.g. Eastern Eagle Singers \"Jerrich's Jingle\"",
+        "trackId": "6wNNNeJP7EQpCv3FDAVXEn"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=3uNNPQfu5aZUmfSq41onsz",
+      "id": "3uNNPQfu5aZUmfSq41onsz"
+    },
+    {
+      "artistName": "Mandaree Singers",
+      "positioning": {
+        "top": 366,
+        "left": 1382
+      },
+      "style": {
+        "color": "#7071c3",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/38da72f741de9482d240f360c079007186edcd29",
+        "title": "e.g. Mandaree Singers \"Ol’ Rocky Boy Classic\"",
+        "trackId": "3nwNQ0ckq7NCwNlPAY9y16"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=3z2pejkUzueBPQkfwlsEcz",
+      "id": "3z2pejkUzueBPQkfwlsEcz"
+    },
+    {
+      "artistName": "Iron Boy",
+      "positioning": {
+        "top": 457,
+        "left": 971
+      },
+      "style": {
+        "color": "#c44c85",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c1591580620a444ba129e64a90b580ee90d668c",
+        "title": "e.g. Iron Boy \"Dubble Beet\"",
+        "trackId": "28HWHD2DltaGEfSfKuWj38"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=7KfO9QvaiMCvmULFT6M8Rz",
+      "id": "7KfO9QvaiMCvmULFT6M8Rz"
+    },
+    {
+      "artistName": "Elk Whistle",
+      "positioning": {
+        "top": 441,
+        "left": 858
+      },
+      "style": {
+        "color": "#556d7d",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9570205c17a343f952e21b6793b024ef8719e0ea",
+        "title": "e.g. Elk Whistle \"Jingle Dress Contest\"",
+        "trackId": "7EYbeZsulSu3E34DEbanlE"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=38pgCEIS4EKp9pWAVwZJqD",
+      "id": "38pgCEIS4EKp9pWAVwZJqD"
+    },
+    {
+      "artistName": "Eastern Eagle",
+      "positioning": {
+        "top": 528,
+        "left": 577
+      },
+      "style": {
+        "color": "#5e876f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0949e4f3d963196be192abb791498443187c5df8",
+        "title": "e.g. Eastern Eagle \"The Mi'kmaq Honour Song\"",
+        "trackId": "29fyAPnj38vR2BPwTdj2zg"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=2OU3WYEu1l3s9T5llBmC22",
+      "id": "2OU3WYEu1l3s9T5llBmC22"
+    },
+    {
+      "artistName": "Grey Buffalo",
+      "positioning": {
+        "top": 361,
+        "left": 577
+      },
+      "style": {
+        "color": "#a64519",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cceac81d5b0ebf8308998fe2217cf4eb67de37bf",
+        "title": "e.g. Grey Buffalo \"Happy Eagle\"",
+        "trackId": "12pOAWhaWYyFnt1HxE16P2"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=1N985CJVJVTeMOcVWKpaD9",
+      "id": "1N985CJVJVTeMOcVWKpaD9"
+    },
+    {
+      "artistName": "Young Grey Horse",
+      "positioning": {
+        "top": 390,
+        "left": 799
+      },
+      "style": {
+        "color": "#707f6d",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c03ddcf7db476c25832cc7ab4fcb316c24142d0",
+        "title": "e.g. Young Grey Horse \"Rebel Red\"",
+        "trackId": "08cwny6majbTbqw0w1lwQQ"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=2ZTKCeWzZ4lSGf0iBgTygm",
+      "id": "2ZTKCeWzZ4lSGf0iBgTygm"
+    },
+    {
+      "artistName": "Walking Buffalo",
+      "positioning": {
+        "top": 319,
+        "left": 925
+      },
+      "style": {
+        "color": "#8b672f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ca62cc0a1d766b378e30309d859dbd7c537f105",
+        "title": "e.g. Walking Buffalo \"Where Is That Dancer?\"",
+        "trackId": "3JFj2p7JYdY1QiHKP6FrL5"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=168ar161aEMyzR8EZOs29Y",
+      "id": "168ar161aEMyzR8EZOs29Y"
+    },
+    {
+      "artistName": "Buc Wild",
+      "positioning": {
+        "top": 544,
+        "left": 711
+      },
+      "style": {
+        "color": "#7c7942",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72a31e733dce6ba916b9c68d6e3efe6ba08fb9e2",
+        "title": "e.g. Buc Wild \"Women's Southern Cloth\"",
+        "trackId": "1yKo0YpFZ1P1gEwBuIQKWK"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=5UEkng5zwlwc2Y2pnlr4w8",
+      "id": "5UEkng5zwlwc2Y2pnlr4w8"
+    },
+    {
+      "artistName": "Gordon Mcgilvery",
+      "positioning": {
+        "top": 254,
+        "left": 418
+      },
+      "style": {
+        "color": "#5388d7",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/48de82841f6dbde202077f965736adf631c794b7",
+        "title": "e.g. Gordon Mcgilvery \"Grab Your Bags\"",
+        "trackId": "1W16VrqjsjsfZGrMp9qyaY"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=11w8hCYfA0ce5WqmHVNptA",
+      "id": "11w8hCYfA0ce5WqmHVNptA"
+    },
+    {
+      "artistName": "Southern Boys",
+      "positioning": {
+        "top": 499,
+        "left": 485
+      },
+      "style": {
+        "color": "#7c7333",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/676d680e4afabf28f5f2ea5f458d3ebbafddf3fb",
+        "title": "e.g. Southern Boys \"Intertribal\"",
+        "trackId": "4lPAZKRVJKtLddtylPgtVE"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=1ZCl7Q5vsMG5oqk2a3xGNc",
+      "id": "1ZCl7Q5vsMG5oqk2a3xGNc"
+    },
+    {
+      "artistName": "Pipestone Creek",
+      "positioning": {
+        "top": 474,
+        "left": 548
+      },
+      "style": {
+        "color": "#92454a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/93e50d498efcc1641faa9bbc8bea62e8658e4747",
+        "title": "e.g. Pipestone Creek \"Redstar Sidestep\"",
+        "trackId": "5q7KvfyEjBP0JHd2E9baMB"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=4SQPWv4t87zzbGK3Fkn4gB",
+      "id": "4SQPWv4t87zzbGK3Fkn4gB"
+    },
+    {
+      "artistName": "Wild Band of Comanches",
+      "positioning": {
+        "top": 476,
+        "left": 78
+      },
+      "style": {
+        "color": "#797b0e",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/386b7f7e237d4a3b84fd27f7e118a6249ecca5f2",
+        "title": "e.g. Wild Band of Comanches \"Intertribal 1\"",
+        "trackId": "7H8u5cmUyYyKbRSNfwZypQ"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=29c2fFBa0Cq0CTixP5MKcR",
+      "id": "29c2fFBa0Cq0CTixP5MKcR"
+    },
+    {
+      "artistName": "Kenneth Cozad & Group",
+      "positioning": {
+        "top": 534,
+        "left": 0
+      },
+      "style": {
+        "color": "#6d6e00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/23ff2246aa4ef2619b7b06e1ea758aab5c9adcf3",
+        "title": "e.g. Kenneth Cozad & Group \"Learned from the Late Leonard Cozad, Sr. - 1\"",
+        "trackId": "4pz0IruPrpnDWApTAoXJoH"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=0MtqTzzthPRZScxAs3zPBZ",
+      "id": "0MtqTzzthPRZScxAs3zPBZ"
+    },
+    {
+      "artistName": "Jingle Dress",
+      "positioning": {
+        "top": 483,
+        "left": 1034
+      },
+      "style": {
+        "color": "#ac41a5",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b5ebe28268242b0587f89192c24be3b01ff96c7",
+        "title": "e.g. Jingle Dress \"Grassy Narrows Singers\"",
+        "trackId": "2XvKF0YLht2689YDqt9oOQ"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=0eBfWHvZN6Uz02oeTbdLFi",
+      "id": "0eBfWHvZN6Uz02oeTbdLFi"
+    },
+    {
+      "artistName": "Tia Wood",
+      "positioning": {
+        "top": 348,
+        "left": 112
+      },
+      "style": {
+        "color": "#5a89db",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/02ebcda8a62f5aa37aa84f01c6370c1466e6aecc",
+        "title": "e.g. Tia Wood \"Cree Hand Drum Solo (Live)\"",
+        "trackId": "6dfDJWDd5QE5rAKzLDacgB"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=5ZWVTbNDpUGCM87FBIg2Xk",
+      "id": "5ZWVTbNDpUGCM87FBIg2Xk"
+    },
+    {
+      "artistName": "Meskwaki Nation",
+      "positioning": {
+        "top": 418,
+        "left": 1387
+      },
+      "style": {
+        "color": "#b2585d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0d94db03ef27b43e138b8e94b363862d6a09018",
+        "title": "e.g. Meskwaki Nation \"The Spectator\"",
+        "trackId": "6mxJpCVsSHuFXJwvBT8ROU"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=0W595ynN3VSt5Gkx5ZtyAy",
+      "id": "0W595ynN3VSt5Gkx5ZtyAy"
+    },
+    {
+      "artistName": "Sizzortail",
+      "positioning": {
+        "top": 560,
+        "left": 112
+      },
+      "style": {
+        "color": "#636012",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51302a9daff6960e0ce202969b2d644f957b0cbd",
+        "title": "e.g. Sizzortail \"When World's Collide\"",
+        "trackId": "2GqszJwv2hNlRI4Utj52mm"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=6zRG16BtqNX33drUpo78DI",
+      "id": "6zRG16BtqNX33drUpo78DI"
+    },
+    {
+      "artistName": "Bad Nation",
+      "positioning": {
+        "top": 436,
+        "left": 1218
+      },
+      "style": {
+        "color": "#8c658d",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3067e3547fdffdfaa3b7e8114d36c6b6cd437014",
+        "title": "e.g. Bad Nation \"Old Grass\"",
+        "trackId": "0iLJLGkLRXUUW5OtQf24W6"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=4vnsVQE9hL06YS8Ho1fSc6",
+      "id": "4vnsVQE9hL06YS8Ho1fSc6"
+    },
+    {
+      "artistName": "Red Bull Singers",
+      "positioning": {
+        "top": 559,
+        "left": 745
+      },
+      "style": {
+        "color": "#770f7b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e592c64717dd7f036cd93ac7ae66902a4aa0d5f4",
+        "title": "e.g. Red Bull Singers \"Men's Fancy Dance (Southern Style) - 'Look at these fancy, fast dancers.'\"",
+        "trackId": "42fPhF7UtjZtKluB1wB8dX"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=0GzWUoyTPFdyBzw4LSq6ec",
+      "id": "0GzWUoyTPFdyBzw4LSq6ec"
+    },
+    {
+      "artistName": "Little Otter",
+      "positioning": {
+        "top": 382,
+        "left": 1387
+      },
+      "style": {
+        "color": "#bb3bb7",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ffdb97f05d13d917420679229e7e012d3a8c280",
+        "title": "e.g. Little Otter \"Side Step Song\"",
+        "trackId": "62uZfxJzxrtzFS6iTbaaip"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=3wDRwF44U4sFZ0haooNeZ9",
+      "id": "3wDRwF44U4sFZ0haooNeZ9"
+    },
+    {
+      "artistName": "Crazy Spirit",
+      "positioning": {
+        "top": 249,
+        "left": 627
+      },
+      "style": {
+        "color": "#86744a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/67ee203d45b2544fc95c0346b943987c4dfd0449",
+        "title": "e.g. Crazy Spirit \"Teen Boys' Fancy Dance, Pt. 2 (Intro) [Live]\"",
+        "trackId": "0BhtNyOUQM6b7I1YdpqOyq"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=3tOUFAFWSD1y69MZ8w3aev",
+      "id": "3tOUFAFWSD1y69MZ8w3aev"
+    },
+    {
+      "artistName": "Wayne Silas Jr.",
+      "positioning": {
+        "top": 672,
+        "left": 334
+      },
+      "style": {
+        "color": "#539400",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c794d1af592b8e6fe422f966d4c81c4e9dd3e5c1",
+        "title": "e.g. Wayne Silas Jr. \"Love Medicine\"",
+        "trackId": "7w2NBMQqPUih4Pbbkomqi8"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=3jaYCOryim26gSEQ9Tns8f",
+      "id": "3jaYCOryim26gSEQ9Tns8f"
+    },
+    {
+      "artistName": "Logan Alexis Singers",
+      "positioning": {
+        "top": 539,
+        "left": 1357
+      },
+      "style": {
+        "color": "#91356e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f3603e37612157dea69651b2d7cab341b05ac4c7",
+        "title": "e.g. Logan Alexis Singers \"The Creator\"",
+        "trackId": "7aDNB6HaX1VnlmeOK9wdDh"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=4Yeyepv21gGsxcKlQjcWWW",
+      "id": "4Yeyepv21gGsxcKlQjcWWW"
+    },
+    {
+      "artistName": "Elk Soldier",
+      "positioning": {
+        "top": 399,
+        "left": 560
+      },
+      "style": {
+        "color": "#7f820f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff7659c1c6d9c072a42819c59b04c133de697d9e",
+        "title": "e.g. Elk Soldier \"Mike One Star\"",
+        "trackId": "42VVaN6j4u9V6CxkpeW2FY"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=0FocsO0YwuLv5PXQ8WE5hI",
+      "id": "0FocsO0YwuLv5PXQ8WE5hI"
+    },
+    {
+      "artistName": "Mandaree",
+      "positioning": {
+        "top": 551,
+        "left": 1315
+      },
+      "style": {
+        "color": "#c241d8",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94394648ff57a02eaf0b69b776cc92920dbb41ba",
+        "title": "e.g. Mandaree \"Mens Fancy\"",
+        "trackId": "0PDdkJvIDSVo06Ij5zfJHN"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=3VYdw2ZGzHDg78AlxPOH1I",
+      "id": "3VYdw2ZGzHDg78AlxPOH1I"
+    },
+    {
+      "artistName": "Whitetail",
+      "positioning": {
+        "top": 745,
+        "left": 665
+      },
+      "style": {
+        "color": "#795428",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fe3bb4087ceb12fec6dccca5554702feb6674b0d",
+        "title": "e.g. Whitetail \"Bill Morris Sr's Song\"",
+        "trackId": "2k7YQFB8jMifIpM3LtrSyd"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=08SubIdATNxSWJxT2rpBvU",
+      "id": "08SubIdATNxSWJxT2rpBvU"
+    },
+    {
+      "artistName": "Tiana Spotted Thunder",
+      "positioning": {
+        "top": 900,
+        "left": 11
+      },
+      "style": {
+        "color": "#2dac01",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9658dcf101ffff60706cbed67829bba65ecc6824",
+        "title": "e.g. Tiana Spotted Thunder \"Prayer\"",
+        "trackId": "4C8HYbdFvQBCXVumSfhekl"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=4UWjXTJz7uwPFKxpMPlLBF",
+      "id": "4UWjXTJz7uwPFKxpMPlLBF"
+    },
+    {
+      "artistName": "Rainey Brothers",
+      "positioning": {
+        "top": 644,
+        "left": 322
+      },
+      "style": {
+        "color": "#7e6842",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/edf5c1dccbdeda9ffadf32ddd6aa9f4cb009eec1",
+        "title": "e.g. Rainey Brothers \"Beautiful Ndn Girl\"",
+        "trackId": "0TjsvQDet0DkFsnmOLs2jr"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=2MVoIqq6D8Xg4LF1WC2f4r",
+      "id": "2MVoIqq6D8Xg4LF1WC2f4r"
+    },
+    {
+      "artistName": "Sweetgrass",
+      "positioning": {
+        "top": 591,
+        "left": 669
+      },
+      "style": {
+        "color": "#6c6e67",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad33d372b65eaf8c849809cb9f708014e75c0ec1",
+        "title": "e.g. Sweetgrass \"Jingledress Side Step\"",
+        "trackId": "4stDZvyHwLE1A7oSHR66pq"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=6vcQ6mm1EvXD56fMilS7tp",
+      "id": "6vcQ6mm1EvXD56fMilS7tp"
+    },
+    {
+      "artistName": "Stoney Creek",
+      "positioning": {
+        "top": 454,
+        "left": 862
+      },
+      "style": {
+        "color": "#b23f2d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4cd04facc21424de7d0f2d8d85d417c24cce18de",
+        "title": "e.g. Stoney Creek \"It's Tricky\"",
+        "trackId": "2M1vOXNEOCtw5crwhTgauo"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=02yOj240XQs7qPhC9O7aVJ",
+      "id": "02yOj240XQs7qPhC9O7aVJ"
+    },
+    {
+      "artistName": "Black Otter",
+      "positioning": {
+        "top": 369,
+        "left": 1248
+      },
+      "style": {
+        "color": "#7e5c85",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41156d29407e5122fe8b970ef97bb0884bcaef3d",
+        "title": "e.g. Black Otter \"Mens Chicken\"",
+        "trackId": "0idE20S98niZAU6ee8IVrm"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=4vnQQGQwxX8vk3uCLNxvDu",
+      "id": "4vnQQGQwxX8vk3uCLNxvDu"
+    },
+    {
+      "artistName": "Kicking Woman Singers",
+      "positioning": {
+        "top": 412,
+        "left": 397
+      },
+      "style": {
+        "color": "#886a8e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dbe8d3484b97f47949b275af8d3be22dfb6a3a7a",
+        "title": "e.g. Kicking Woman Singers \"Grass Dance\"",
+        "trackId": "0yRkE0hTucCGkfzhhqWjV5"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=05gwKXjncXPyWDtjdbYZHN",
+      "id": "05gwKXjncXPyWDtjdbYZHN"
+    },
+    {
+      "artistName": "Wild Horse",
+      "positioning": {
+        "top": 0,
+        "left": 929
+      },
+      "style": {
+        "color": "#9a6e86",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c7bf04f4b53161fba656d86c03c2f883b386a1d2",
+        "title": "e.g. Wild Horse \"Straight Song\"",
+        "trackId": "5CjyQWKFRwRO7DGKMM323W"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=6hz5TDbM8O80bqSegJDcpR",
+      "id": "6hz5TDbM8O80bqSegJDcpR"
+    },
+    {
+      "artistName": "Cree Spirit",
+      "positioning": {
+        "top": 431,
+        "left": 1400
+      },
+      "style": {
+        "color": "#564563",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83bd4a733739417732a9655f9574eff9f792523e",
+        "title": "e.g. Cree Spirit \"If Ya Wanna Be With Me\"",
+        "trackId": "4UQtAJQuDdzdNBl7QCArlu"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=3Jhac5xo4pf3x7g6e9K4PS",
+      "id": "3Jhac5xo4pf3x7g6e9K4PS"
+    },
+    {
+      "artistName": "Fly In Eagle",
+      "positioning": {
+        "top": 403,
+        "left": 833
+      },
+      "style": {
+        "color": "#8b6674",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7a60c9537c54e3af95cb7ff5b2580176c12e53e",
+        "title": "e.g. Fly In Eagle \"Side Step\"",
+        "trackId": "3uon9u5uWT3IE0OcivNvfB"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=09UkzBR8lwEJ4N7Taz09pW",
+      "id": "09UkzBR8lwEJ4N7Taz09pW"
+    },
+    {
+      "artistName": "Tha Boyz",
+      "positioning": {
+        "top": 461,
+        "left": 615
+      },
+      "style": {
+        "color": "#9e536c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a1e8deb42e3d83d89fb63679364de8e90ee88e4",
+        "title": "e.g. Tha Boyz \"The Mystery (whistled) - 'Singers, when you wish to sing…'\"",
+        "trackId": "31D3P98ndbsYA89cgX5dXY"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=4p2UMA3QdXDH0V3Bq1ZmJu",
+      "id": "4p2UMA3QdXDH0V3Bq1ZmJu"
+    },
+    {
+      "artistName": "Jack Bull",
+      "positioning": {
+        "top": 374,
+        "left": 548
+      },
+      "style": {
+        "color": "#c4251e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/48e5684f35e0ad7c0cb5d796c8f37f2de3d0f350",
+        "title": "e.g. Jack Bull \"Tyrpique\"",
+        "trackId": "6js9HKki8ult2aUJRnzSu4"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=7mTjaxhhODp8Jdrm88jFEY",
+      "id": "7mTjaxhhODp8Jdrm88jFEY"
+    },
+    {
+      "artistName": "Painted Horse",
+      "positioning": {
+        "top": 509,
+        "left": 1038
+      },
+      "style": {
+        "color": "#9435c9",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20f241abf22ebad231999edbc7651321899f8b1f",
+        "title": "e.g. Painted Horse \"Straight\"",
+        "trackId": "7xJymkdIvCnl6R5SGyK5cU"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=3GdcmU3KFofSAEadUJ4xBE",
+      "id": "3GdcmU3KFofSAEadUJ4xBE"
+    },
+    {
+      "artistName": "Iron Horse Singers",
+      "positioning": {
+        "top": 412,
+        "left": 25
+      },
+      "style": {
+        "color": "#c1449f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2824f474af40507304263d040d5e73b21fe046b0",
+        "title": "e.g. Iron Horse Singers \"SNL\"",
+        "trackId": "4epllGmezGlHQUS1LIJPhA"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=3QQ8cCQWvMV6IobLr0XVm0",
+      "id": "3QQ8cCQWvMV6IobLr0XVm0"
+    },
+    {
+      "artistName": "Art Moosomin and Mosquito Singers",
+      "positioning": {
+        "top": 207,
+        "left": 640
+      },
+      "style": {
+        "color": "#cc278f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09a84caa02da08fcfaad73da52304c0a43443d6e",
+        "title": "e.g. Art Moosomin and Mosquito Singers \"Straight\"",
+        "trackId": "4LB7qUgNxmaCivYcfx3n4G"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=0opUO7HrwhCvYNCTAJKZ57",
+      "id": "0opUO7HrwhCvYNCTAJKZ57"
+    },
+    {
+      "artistName": "Quinton Tootoosis",
+      "positioning": {
+        "top": 606,
+        "left": 862
+      },
+      "style": {
+        "color": "#778052",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d1b9fc33bd109d06973577c909d52da6e0fedbf",
+        "title": "e.g. Quinton Tootoosis \"Romance\"",
+        "trackId": "1uunQccXgRN71od2jT0c8J"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=3DaWJdcJv0chRLNXiLINeD",
+      "id": "3DaWJdcJv0chRLNXiLINeD"
+    },
+    {
+      "artistName": "Southern Boyz",
+      "positioning": {
+        "top": 635,
+        "left": 1021
+      },
+      "style": {
+        "color": "#60658f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/16ac2479adf856a0ac8acf2cdcfd8363ceb7a634",
+        "title": "e.g. Southern Boyz \"Intertribal Southern Boyz\"",
+        "trackId": "2AA3LucKml2oiGsqSELbWC"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=6RWZWGaf4iUAt3ONoCLHrc",
+      "id": "6RWZWGaf4iUAt3ONoCLHrc"
+    },
+    {
+      "artistName": "Schemitzun World Championship 2000",
+      "positioning": {
+        "top": 512,
+        "left": 242
+      },
+      "style": {
+        "color": "#d02a30",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f37cc3612086488a0701437e418838140fc0158f",
+        "title": "e.g. Schemitzun World Championship 2000 \"Northern Cree\"",
+        "trackId": "3Q6HqFQeZCA2TQsGxmnUyH"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=2dSjEZXMqXTSu3beHIvfMF",
+      "id": "2dSjEZXMqXTSu3beHIvfMF"
+    },
+    {
+      "artistName": "Young Kingbird",
+      "positioning": {
+        "top": 687,
+        "left": 1319
+      },
+      "style": {
+        "color": "#8b59d9",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a198505d110babf9d2e7b0049657be1333d0f489",
+        "title": "e.g. Young Kingbird \"Crow Hop\"",
+        "trackId": "0YmXu6Tr8Oqx6Ldh3SEzYn"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=51NzINnKaDcpkIBoDDY5N6",
+      "id": "51NzINnKaDcpkIBoDDY5N6"
+    },
+    {
+      "artistName": "Spirit Sands Singers",
+      "positioning": {
+        "top": 386,
+        "left": 456
+      },
+      "style": {
+        "color": "#4c8655",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee088623b81d1f413e795ce5ed8d778a6e2ee2a6",
+        "title": "e.g. Spirit Sands Singers \"Cruisin'\"",
+        "trackId": "0IdeMyH18zWIK6Gln0J1Pw"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=2egUbmaJ0tx0Y46Mw2yagO",
+      "id": "2egUbmaJ0tx0Y46Mw2yagO"
+    },
+    {
+      "artistName": "Ken Pooyak",
+      "positioning": {
+        "top": 327,
+        "left": 682
+      },
+      "style": {
+        "color": "#6b8848",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f016ba42e61ef55fdd22302bc2b04b47fb41cf2f",
+        "title": "e.g. Ken Pooyak \"Straight Song\"",
+        "trackId": "2ZFbbStuPOudcLSXCtOvfn"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=6GunOpGu9CCTz2OGCy447H",
+      "id": "6GunOpGu9CCTz2OGCy447H"
+    },
+    {
+      "artistName": "Arnold Pete",
+      "positioning": {
+        "top": 321,
+        "left": 535
+      },
+      "style": {
+        "color": "#d02405",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc1845b4f3ce896e8eab65356f81cdd45ac83df3",
+        "title": "e.g. Arnold Pete \"Straight Song\"",
+        "trackId": "40Err9czsfdJGd90pXr4MN"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=26SX9AKh0WrUPeWpqoldz8",
+      "id": "26SX9AKh0WrUPeWpqoldz8"
+    },
+    {
+      "artistName": "Black Bear Creek",
+      "positioning": {
+        "top": 482,
+        "left": 1139
+      },
+      "style": {
+        "color": "#468203",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e8912d6df5ba039cf71824984a6109350e954e46",
+        "title": "e.g. Black Bear Creek \"War Dance\"",
+        "trackId": "2lHiWyBB1VIA5sqdWthjVZ"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=6y7Eg42PVZc9paigu0SZAv",
+      "id": "6y7Eg42PVZc9paigu0SZAv"
+    },
+    {
+      "artistName": "Young Grey Horse Society",
+      "positioning": {
+        "top": 225,
+        "left": 347
+      },
+      "style": {
+        "color": "#6b4ea4",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c62e430b90fff0b265b7beb5c860859e4d629bd",
+        "title": "e.g. Young Grey Horse Society \"Original Grey Horse Society Song\"",
+        "trackId": "0UiEmup9aV2JUHiRTW1uDy"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=2Vo14jKBtDj83Y2SMPsRZX",
+      "id": "2Vo14jKBtDj83Y2SMPsRZX"
+    },
+    {
+      "artistName": "Algin Scabby Robe",
+      "positioning": {
+        "top": 648,
+        "left": 1397
+      },
+      "style": {
+        "color": "#409f29",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e6647c325c0dba5ad2af109d6a0bd285c2f49de",
+        "title": "e.g. Algin Scabby Robe \"Wishes\"",
+        "trackId": "3vKlddTdKTai8nrKk3XCsS"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=2iIwCEi1jyPRo7KFtWjdWh",
+      "id": "2iIwCEi1jyPRo7KFtWjdWh"
+    },
+    {
+      "artistName": "Lake Vermilion Singers",
+      "positioning": {
+        "top": 724,
+        "left": 988
+      },
+      "style": {
+        "color": "#a147b0",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72caf1dad8511664d4aec6c82264d9a1650e57f7",
+        "title": "e.g. Lake Vermilion Singers \"Fancy Shawl\"",
+        "trackId": "12fiOz6ItnPLJZvvyRRkFl"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=6DkKMtUrsoYpZWlaqEp8xE",
+      "id": "6DkKMtUrsoYpZWlaqEp8xE"
+    },
+    {
+      "artistName": "Sidrick Baker",
+      "positioning": {
+        "top": 347,
+        "left": 447
+      },
+      "style": {
+        "color": "#eb1e54",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e65d1c039c85bb980e58ff79d105f95900f029b4",
+        "title": "e.g. Sidrick Baker \"Chewey\"",
+        "trackId": "2Khtwrgo8vbuliGDEZGG30"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=2wVZSRccitiBVCdpxKEdRZ",
+      "id": "2wVZSRccitiBVCdpxKEdRZ"
+    },
+    {
+      "artistName": "The Red House",
+      "positioning": {
+        "top": 125,
+        "left": 1097
+      },
+      "style": {
+        "color": "#a17889",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5a103a848142d0066eb9911f974f89c84c59559",
+        "title": "e.g. The Red House \"Jingle Dress (Made for Dikki Shade)\"",
+        "trackId": "5yN5LrJLdwK3lyg9CLykQh"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=6XgjF2VEBaChP1XsoXhDXt",
+      "id": "6XgjF2VEBaChP1XsoXhDXt"
+    },
+    {
+      "artistName": "Common Man Singers",
+      "positioning": {
+        "top": 553,
+        "left": 489
+      },
+      "style": {
+        "color": "#4d3f74",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98d9df1708f23b8e3f9dbf944721ee8c68a40b52",
+        "title": "e.g. Common Man Singers \"Tawapaha Olowan Wan-S.D.\"",
+        "trackId": "6fq55DkvAis4SiKsUhpHj5"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=2aCSLwUJ4fI2DX1fgHpyt4",
+      "id": "2aCSLwUJ4fI2DX1fgHpyt4"
+    },
+    {
+      "artistName": "Kingbird Singers",
+      "positioning": {
+        "top": 744,
+        "left": 1017
+      },
+      "style": {
+        "color": "#c328eb",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e4ec035e33401bf4bf6c60562e31f24a4850b6d9",
+        "title": "e.g. Kingbird Singers \"Song 1\"",
+        "trackId": "0ygRaCIbGT1XRnP9bAwvSS"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=5otE5H428U81CS0uifVwiU",
+      "id": "5otE5H428U81CS0uifVwiU"
+    },
+    {
+      "artistName": "Glen Ahhaitty",
+      "positioning": {
+        "top": 825,
+        "left": 988
+      },
+      "style": {
+        "color": "#3c9400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1eacf24688ac5c9b9041010e03f4d78dc8fc7540",
+        "title": "e.g. Glen Ahhaitty \"Pretty Indian Girl\"",
+        "trackId": "4qLDWvgnn6whbtqlvK5dOQ"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=5MlyNstsXlfyutDiTKHayt",
+      "id": "5MlyNstsXlfyutDiTKHayt"
+    },
+    {
+      "artistName": "Rock Hill",
+      "positioning": {
+        "top": 339,
+        "left": 372
+      },
+      "style": {
+        "color": "#8f6b81",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7782fc7777a1cbf1ad16edac18ecfb79aa29951b",
+        "title": "e.g. Rock Hill \"Rock Hill\"",
+        "trackId": "76tWMTsChwSIHsTFqPCYin"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=5P4Elr13BDLMirQbjM46Bn",
+      "id": "5P4Elr13BDLMirQbjM46Bn"
+    },
+    {
+      "artistName": "North Buffalo",
+      "positioning": {
+        "top": 368,
+        "left": 1013
+      },
+      "style": {
+        "color": "#7d427e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/22fac3500886c4f99ec194a7a1ef0018bb91fdf5",
+        "title": "e.g. North Buffalo \"Intertribal\"",
+        "trackId": "4kGH3RKLbnmDJzdHR8zi1F"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=5jko4ByvJ9pqaXxsdOxqBZ",
+      "id": "5jko4ByvJ9pqaXxsdOxqBZ"
+    },
+    {
+      "artistName": "Crowe Singers",
+      "positioning": {
+        "top": 594,
+        "left": 841
+      },
+      "style": {
+        "color": "#3e6bda",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/712adceb333322ff88ee9007647fdc282735b2ce",
+        "title": "e.g. Crowe Singers \"Big Sky\"",
+        "trackId": "7jeTJzTy3hpVLoBY85VPxQ"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=7H8d2vzHdJzMCDlEhc21Qg",
+      "id": "7H8d2vzHdJzMCDlEhc21Qg"
+    },
+    {
+      "artistName": "Thunder Horse",
+      "positioning": {
+        "top": 476,
+        "left": 1361
+      },
+      "style": {
+        "color": "#985fdb",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1e8d720cf981caff6638454dc45fbcc65228266d",
+        "title": "e.g. Thunder Horse \"Tip'Bi'Wa (Waaa!)\"",
+        "trackId": "4YVJ43pLJGXa39s2b0XlMM"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=6fZshHQHHQkMAh29igHQi9",
+      "id": "6fZshHQHHQkMAh29igHQi9"
+    },
+    {
+      "artistName": "Eagle Tail",
+      "positioning": {
+        "top": 464,
+        "left": 1378
+      },
+      "style": {
+        "color": "#807388",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b2aaafdc9edb0bd9440f747db75893775cdb3e5",
+        "title": "e.g. Eagle Tail \"It's Just a Hopper (Crowhop)\"",
+        "trackId": "4UJ91OfHXIDflkswm7PCLJ"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=7o3a7RS5fOBWbyiZ0k6c19",
+      "id": "7o3a7RS5fOBWbyiZ0k6c19"
+    },
+    {
+      "artistName": "Buffalo Horse",
+      "positioning": {
+        "top": 272,
+        "left": 1381
+      },
+      "style": {
+        "color": "#ab5513",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4a51798e2e22315f29d3e4991f395fb4eb556088",
+        "title": "e.g. Buffalo Horse \"Wisdom\"",
+        "trackId": "5EkcIyoeTznr69gCHs40SS"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=1x5Sc0EqV9J2UQMUfpMcfD",
+      "id": "1x5Sc0EqV9J2UQMUfpMcfD"
+    },
+    {
+      "artistName": "Walkin Bull",
+      "positioning": {
+        "top": 378,
+        "left": 862
+      },
+      "style": {
+        "color": "#a53c17",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/46e5659a8313a43d58f33bb4d168693fadc2ef32",
+        "title": "e.g. Walkin Bull \"Ruff Ryder\"",
+        "trackId": "111ARhZpUS76uZzFx4J772"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=096moCzxx7BHGsnWSOpD34",
+      "id": "096moCzxx7BHGsnWSOpD34"
+    },
+    {
+      "artistName": "Lone Creek",
+      "positioning": {
+        "top": 449,
+        "left": 674
+      },
+      "style": {
+        "color": "#974bd6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/73f6460525225374b505ff6c23bc83eb4dfef2ed",
+        "title": "e.g. Lone Creek \"Highway Blues\"",
+        "trackId": "4SDzT12YbqbS0zIXvxCAXx"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=7uf5aBZVGaxwn7PPQqwz2Y",
+      "id": "7uf5aBZVGaxwn7PPQqwz2Y"
+    },
+    {
+      "artistName": "Cedar Dale Singers",
+      "positioning": {
+        "top": 672,
+        "left": 950
+      },
+      "style": {
+        "color": "#2084a4",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cf00036acf1b9fde641d2274c486270afcb7b574",
+        "title": "e.g. Cedar Dale Singers \"Oklahoma Intertribal Club\"",
+        "trackId": "0jolCFn7kD2X8Nw9VdmUdR"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=0wZCv8z5RIrOq4mcgX1LGP",
+      "id": "0wZCv8z5RIrOq4mcgX1LGP"
+    },
+    {
+      "artistName": "Bear Spirit",
+      "positioning": {
+        "top": 380,
+        "left": 1021
+      },
+      "style": {
+        "color": "#5e5870",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c60bdbba521d47f631a12fbcdd8b72c47999919",
+        "title": "e.g. Bear Spirit \"Grand Entry\"",
+        "trackId": "3E6iGZhVF172d4jZ00woLv"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=1jyMWOKa6rsWXwA5AOGxD0",
+      "id": "1jyMWOKa6rsWXwA5AOGxD0"
+    },
+    {
+      "artistName": "The Second Generation Mandaree Singers",
+      "positioning": {
+        "top": 541,
+        "left": 414
+      },
+      "style": {
+        "color": "#746d6f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=1P120t83U1TJCSUw94Cdxt",
+      "id": "1P120t83U1TJCSUw94Cdxt"
+    },
+    {
+      "artistName": "Nine Forty",
+      "positioning": {
+        "top": 130,
+        "left": 284
+      },
+      "style": {
+        "color": "#e9732b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1201892e4980c2696147bc06e5b2e06352c20dac",
+        "title": "e.g. Nine Forty \"Men's Northern Fancy\"",
+        "trackId": "1gmtlN4c715GNOYAbf8TBU"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=4K5nsoX9rPtlq1RRNgqeSk",
+      "id": "4K5nsoX9rPtlq1RRNgqeSk"
+    },
+    {
+      "artistName": "Smokey Valley",
+      "positioning": {
+        "top": 332,
+        "left": 62
+      },
+      "style": {
+        "color": "#945917",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fce1d22b594117a492630a72d5a2f6585a6e9a28",
+        "title": "e.g. Smokey Valley \"Woman's Fancy #4\"",
+        "trackId": "4rgyNP50xoEy4iRCZwxqrw"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=0svaftt9Lyv8C2XdLFKKYW",
+      "id": "0svaftt9Lyv8C2XdLFKKYW"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=powwow"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/5lbGsHhaPmrtQ05JdPPVR2"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4RQcRTAeHlKeWgIfAIpBsQ"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/1cvGEH65fSl2twWrH8zXYa"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0aZIgHFnvm1ckpryuYZ1Xk"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=powwow"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "blues rock",
+      "positioning": {
+        "top": 300,
+        "left": 244
+      },
+      "style": {
+        "color": "#957723",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8563d016ae70ed290ba446194adbe39f0cbf3cdb",
+        "title": "e.g. Derek & The Dominos \"Layla\"",
+        "trackId": "2kkvB3RNRzwjFdGhaUA0tz"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-bluesrock.html#tunnel"
+    },
+    {
+      "genreName": "jam band",
+      "positioning": {
+        "top": 188,
+        "left": 122
+      },
+      "style": {
+        "color": "#9c7d3a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/200e9d6f400bb3bbd51f880d78a7705b38ffbac6",
+        "title": "e.g. moe. \"In A Big Country\"",
+        "trackId": "11WtZDdbNlLxLyMo9xozCb"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-jamband.html#tunnel"
+    },
+    {
+      "genreName": "mexican classic rock",
+      "positioning": {
+        "top": 145,
+        "left": 68
+      },
+      "style": {
+        "color": "#a97252",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/21887954e00ac09f28f06e048a3dc9ab3805e49c",
+        "title": "e.g. Nahuatl \"El Hongo\"",
+        "trackId": "11nP4a0rGP0UWyFWUpI70r"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-mexicanclassicrock.html#tunnel"
+    },
+    {
+      "genreName": "musiikkia lapista",
+      "positioning": {
+        "top": 89,
+        "left": 187
+      },
+      "style": {
+        "color": "#98761d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1d5ae46dd464ec806b27b0c6420da7836eab9916",
+        "title": "e.g. Puhelinseksi \"Haista Helena vittu (mä ryyppään taas)\"",
+        "trackId": "0x7LqJDkN5AbUldqMo5BVm"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-musiikkialapista.html#tunnel"
+    },
+    {
+      "genreName": "no wave",
+      "positioning": {
+        "top": 0,
+        "left": 6
+      },
+      "style": {
+        "color": "#a56e5d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/616d7ac49c34ca4ed8b09b38151acdce2fe4f1cc",
+        "title": "e.g. Bush Tetras \"You Can't Be Funky\"",
+        "trackId": "43v9KODObXQjxm0ADkEuU6"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-nowave.html#tunnel"
+    },
+    {
+      "genreName": "olympia wa indie",
+      "positioning": {
+        "top": 114,
+        "left": 0
+      },
+      "style": {
+        "color": "#a07750",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/116c996eb0c3fbc4a9b2a0fa71f63adfadcef660",
+        "title": "e.g. Bikini Kill \"Rebel Girl\"",
+        "trackId": "0XyjtybwqSdqMAFfBEkmZf"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-olympiawaindie.html#tunnel"
+    },
+    {
+      "genreName": "plunderphonics",
+      "positioning": {
+        "top": 2,
+        "left": 208
+      },
+      "style": {
+        "color": "#9e6e5d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ee97dd03722b16a56f03c742c8d8daca762c17fb",
+        "title": "e.g. Negativland \"Nesbitt's Lime Soda Song\"",
+        "trackId": "32oNRjdzWOUnqzNbHcdJS8"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-plunderphonics.html#tunnel"
+    },
+    {
+      "genreName": "psicodelia brasileira",
+      "positioning": {
+        "top": 200,
+        "left": 163
+      },
+      "style": {
+        "color": "#998036",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f81912113efb61a5014f65008e321a6f5570fbbc",
+        "title": "e.g. Som Imaginario \"Mar Azul\"",
+        "trackId": "6kvy0ok0wGY0kI9hJ61c8E"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-psicodeliabrasileira.html#tunnel"
+    },
+    {
+      "genreName": "sacred steel",
+      "positioning": {
+        "top": 230,
+        "left": 71
+      },
+      "style": {
+        "color": "#987a62",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/04ca9d754b4873d64b138ac818b6d3da3d38b8b6",
+        "title": "e.g. Robert Randolph & The Family Band \"Simple Man\"",
+        "trackId": "3bNM6obnxsPd9hbJlsrQhL"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-sacredsteel.html#tunnel"
+    },
+    {
+      "genreName": "souldies",
+      "positioning": {
+        "top": 212,
+        "left": 128
+      },
+      "style": {
+        "color": "#96793c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/21ddb574bb09ef69adb6b3b28468938ad74dcf7f",
+        "title": "e.g. Joey Quinones \"It Was Only a Dream\"",
+        "trackId": "6rICwAoIjzdTjvm7OvW6qJ"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-souldies.html#tunnel"
+    },
+    {
+      "genreName": "zolo",
+      "positioning": {
+        "top": 4,
+        "left": 80
+      },
+      "style": {
+        "color": "#9e7537",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e03d4b45dfe606c1092b9377902c2e82a4ec67f",
+        "title": "e.g. Henry Cow \"Industry\"",
+        "trackId": "4d3BHp3dgUJa9JgLFzO32V"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-zolo.html#tunnel"
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 3,
+  "genreName": "bachchon ke geet",
+  "artists": [
+    {
+      "artistName": "Palak Gujela",
+      "positioning": {
+        "top": 0,
+        "left": 573
+      },
+      "style": {
+        "color": "#b49004",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9fe8f0b747770e79b132dce2866ab6717b7348b1",
+        "title": "e.g. Palak Gujela \"Nani Teri Morni Ko Mor Le Gaye\"",
+        "trackId": "1raBMvAibnVgo6VcDIL9w7"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=5Uf6aCJXFOj7zaShjFm7eg",
+      "id": "5Uf6aCJXFOj7zaShjFm7eg"
+    },
+    {
+      "artistName": "Jayalakshmi K",
+      "positioning": {
+        "top": 255,
+        "left": 1400
+      },
+      "style": {
+        "color": "#978000",
+        "fontSize": "153%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=3mgcDoDEJkL3FFRGQOyjXP",
+      "id": "3mgcDoDEJkL3FFRGQOyjXP"
+    },
+    {
+      "artistName": "Sreejoni Nag",
+      "positioning": {
+        "top": 345,
+        "left": 510
+      },
+      "style": {
+        "color": "#669e02",
+        "fontSize": "153%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9cebb4cde5c6576de928c73a29178011740e242e",
+        "title": "e.g. Sreejoni Nag \"ABC Song\"",
+        "trackId": "663dttozdbAKA8F7ASVMid"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=7M7zPTIf5p9YOYFiIF0vDr",
+      "id": "7M7zPTIf5p9YOYFiIF0vDr"
+    },
+    {
+      "artistName": "Videogyan Nursery Rhymes",
+      "positioning": {
+        "top": 54,
+        "left": 1045
+      },
+      "style": {
+        "color": "#8d960d",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e387ea03255155e3cf2fbb26b995737befd8d8fa",
+        "title": "e.g. Videogyan Nursery Rhymes \"Veeri Veeri Gummadi Pandu\"",
+        "trackId": "3vJTRMA6jdPzPUPZuc6lD4"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=2F984ux0W9LO6tfzTMuztf",
+      "id": "2F984ux0W9LO6tfzTMuztf"
+    },
+    {
+      "artistName": "Sims Kaur",
+      "positioning": {
+        "top": 203,
+        "left": 805
+      },
+      "style": {
+        "color": "#7e9b09",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/20f8e5834c96dae94ccf70a60b098c1e2ea60cf2",
+        "title": "e.g. Sims Kaur \"Ek Mota Hathi Jhoom Ke Chala\"",
+        "trackId": "1xvwkEuT98ZDDVEXPV1BYh"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=6QNFNnYLXWbMt2YUquhDEx",
+      "id": "6QNFNnYLXWbMt2YUquhDEx"
+    },
+    {
+      "artistName": "Mimi Teddy",
+      "positioning": {
+        "top": 457,
+        "left": 1067
+      },
+      "style": {
+        "color": "#7e931f",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01bccda8737829ebb8d155208da072b013b808a9",
+        "title": "e.g. Mimi Teddy \"Happy Birthday to You Ji\"",
+        "trackId": "4qwCVto4sxJ9Wz8OiDteZ8"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=1OhW1EabzFgdjp7gEaWlPH",
+      "id": "1OhW1EabzFgdjp7gEaWlPH"
+    },
+    {
+      "artistName": "Pari Kids",
+      "positioning": {
+        "top": 187,
+        "left": 831
+      },
+      "style": {
+        "color": "#908200",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b380c02b1731cdecde9bf5c2748f6e2ceddff10",
+        "title": "e.g. Pari Kids \"Aaloo Kachalu Beta\"",
+        "trackId": "5cztiuClfIkwieI8IKiOV1"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=3AeoAMxTmv0QbsekBpifHm",
+      "id": "3AeoAMxTmv0QbsekBpifHm"
+    },
+    {
+      "artistName": "Aadwitaa Saikiya",
+      "positioning": {
+        "top": 400,
+        "left": 1119
+      },
+      "style": {
+        "color": "#57a60a",
+        "fontSize": "129%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d0ed404fc62ab3b73617ad5b77f6fa0c46539205",
+        "title": "e.g. Aadwitaa Saikiya \"Lakdi Ki Kathi - Nursery Rhymes\"",
+        "trackId": "27HIS4Ig9T0MZSfwrLDQlV"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=231LD1IMUeEFTuvjMP0fyb",
+      "id": "231LD1IMUeEFTuvjMP0fyb"
+    },
+    {
+      "artistName": "Arnav Chaphekar",
+      "positioning": {
+        "top": 286,
+        "left": 1108
+      },
+      "style": {
+        "color": "#6ca102",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=47U3mYdCnPxHNaOPhppHga",
+      "id": "47U3mYdCnPxHNaOPhppHga"
+    },
+    {
+      "artistName": "SALONI DESAI",
+      "positioning": {
+        "top": 391,
+        "left": 502
+      },
+      "style": {
+        "color": "#4daf0c",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/044e8809c895dc118cf1a2dda52487387dd6c60c",
+        "title": "e.g. SALONI DESAI \"ABCD Alphabet Nursery Rhyme - Kids Songs\"",
+        "trackId": "7J6PfYtKH8e9jR3tG788CB"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=0Nbbk8vtTUejmnrlxwjWik",
+      "id": "0Nbbk8vtTUejmnrlxwjWik"
+    },
+    {
+      "artistName": "Riddhi Adhvaryu",
+      "positioning": {
+        "top": 172,
+        "left": 749
+      },
+      "style": {
+        "color": "#869d00",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb4354ec787aed0975ea91555f20e8024b49bc33",
+        "title": "e.g. Riddhi Adhvaryu \"Hathi Raja\"",
+        "trackId": "2bD665bsUHuS0MRD0WlhCw"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=0lvjRwiqb8DAOtS9dUZO9Z",
+      "id": "0lvjRwiqb8DAOtS9dUZO9Z"
+    },
+    {
+      "artistName": "Roshni Saha",
+      "positioning": {
+        "top": 109,
+        "left": 453
+      },
+      "style": {
+        "color": "#b19200",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e065bae94cc90e3ffea4e98d9ec4e7ae032d556d",
+        "title": "e.g. Roshni Saha \"Machli Jal Ki Rani Hai\"",
+        "trackId": "0uKI5cIz2ktnHJEST4xy7i"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=2558Wq5px55rZxcW7xW0m5",
+      "id": "2558Wq5px55rZxcW7xW0m5"
+    },
+    {
+      "artistName": "Bojo Teddy",
+      "positioning": {
+        "top": 423,
+        "left": 1239
+      },
+      "style": {
+        "color": "#908c02",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dfe88c2619603805d840ba93ca4440bd5bc9407d",
+        "title": "e.g. Bojo Teddy \"Kya Banogi Meri Gf - Male Version\"",
+        "trackId": "4jL0jnO4YrsWlsANHmvaKx"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=1VQ1jMqQcAW1EFQLkBDTKw",
+      "id": "1VQ1jMqQcAW1EFQLkBDTKw"
+    },
+    {
+      "artistName": "Jamure Kids",
+      "positioning": {
+        "top": 219,
+        "left": 764
+      },
+      "style": {
+        "color": "#789a00",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/22eb66299b9a583b302f813bfc2d3c53f76d5cfd",
+        "title": "e.g. Jamure Kids \"Aloo Kachaloo Beta Kahan Gaye They | आलू कचालू बेटा कहाँ गए थे I Hindi Nursery Rhymes\"",
+        "trackId": "6ZZdiZMi4eW5oDucSeQlYm"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=1QuZNWef6bIQWOJPCZCCCn",
+      "id": "1QuZNWef6bIQWOJPCZCCCn"
+    },
+    {
+      "artistName": "Gaurika Rai",
+      "positioning": {
+        "top": 297,
+        "left": 367
+      },
+      "style": {
+        "color": "#9a8800",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa55438693b5829818c897f6ea6e34cae1bfba61",
+        "title": "e.g. Gaurika Rai \"Bandar\"",
+        "trackId": "1wu0XIjSEnYohCDN0N9Q1n"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=2fi2fR8Y1QnpL2YJ7vdMQY",
+      "id": "2fi2fR8Y1QnpL2YJ7vdMQY"
+    },
+    {
+      "artistName": "Bindi's Music & Rhymes",
+      "positioning": {
+        "top": 146,
+        "left": 805
+      },
+      "style": {
+        "color": "#71a200",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8b1b038ca2d4910a0a1ef159ab83c41928dd50c3",
+        "title": "e.g. Bindi's Music & Rhymes \"Teacher's Day Song\"",
+        "trackId": "1tR1flpOXuo8fkpZQzAYPy"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=24wve3pJeiEpOAwaXwQW32",
+      "id": "24wve3pJeiEpOAwaXwQW32"
+    },
+    {
+      "artistName": "Keshav Rai",
+      "positioning": {
+        "top": 283,
+        "left": 311
+      },
+      "style": {
+        "color": "#9b8800",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5fa51d3404df1e6a77a3e913c03bc516c2e6a77",
+        "title": "e.g. Keshav Rai \"Barsau Bityo Bichhod Bhai\"",
+        "trackId": "2tBbeqyz07H3zFKQHGrRZc"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=1WxaBTHIOC0eTLk21sUjh0",
+      "id": "1WxaBTHIOC0eTLk21sUjh0"
+    },
+    {
+      "artistName": "Abanty Maity",
+      "positioning": {
+        "top": 659,
+        "left": 49
+      },
+      "style": {
+        "color": "#51a400",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec613426f4f43601f87e2ae0348295bc168a7c02",
+        "title": "e.g. Abanty Maity \"Aguner Parashmani\"",
+        "trackId": "7dsTjlZCBplsiZyDVgcaor"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=3XlZx7HwUUeR4fTDnhNJ0Q",
+      "id": "3XlZx7HwUUeR4fTDnhNJ0Q"
+    },
+    {
+      "artistName": "बच्चों की लोरियाँ",
+      "positioning": {
+        "top": 900,
+        "left": 0
+      },
+      "style": {
+        "color": "#16a1cb",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/88c3376a7afc6202d4b0dd96e2b000ae355af1e0",
+        "title": "e.g. बच्चों की लोरियाँ \"आराम देने वाला प्रकृति की आवाजें\"",
+        "trackId": "5P7hYQw6u6YMqAvak6alEw"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=0j1kUrUsKUPUAI0wNQf6rW",
+      "id": "0j1kUrUsKUPUAI0wNQf6rW"
+    },
+    {
+      "artistName": "Tania Tobaccowala",
+      "positioning": {
+        "top": 311,
+        "left": 345
+      },
+      "style": {
+        "color": "#9e8600",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b2128fc3accb7d084fa98c588cce545c23337f0",
+        "title": "e.g. Tania Tobaccowala \"Saver\"",
+        "trackId": "05OWFhrVDOu3D8JAHCxlig"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3KG7OxeiLfjdiA2vo2tdPO",
+      "id": "3KG7OxeiLfjdiA2vo2tdPO"
+    },
+    {
+      "artistName": "Lisha Reddy",
+      "positioning": {
+        "top": 514,
+        "left": 944
+      },
+      "style": {
+        "color": "#46a800",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=7w5EVhkVZbanUwmQ1jMtM6",
+      "id": "7w5EVhkVZbanUwmQ1jMtM6"
+    },
+    {
+      "artistName": "Ek Chota Kent",
+      "positioning": {
+        "top": 160,
+        "left": 805
+      },
+      "style": {
+        "color": "#5ea100",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83099487b9be49fbbb58e685a08306355edc65ee",
+        "title": "e.g. Ek Chota Kent \"Bandar Mama\"",
+        "trackId": "2CYvhetO8CJxHeotimrxj2"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=56xT0myujVkQ5X11q2GJkj",
+      "id": "56xT0myujVkQ5X11q2GJkj"
+    },
+    {
+      "artistName": "Sayantan Bhattacharya",
+      "positioning": {
+        "top": 211,
+        "left": 495
+      },
+      "style": {
+        "color": "#a9800d",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a95a1da1173d10e406dc123011f91db1547ffe69",
+        "title": "e.g. Sayantan Bhattacharya \"Tu Mere Saath Hai\"",
+        "trackId": "790Zpe6F37X862RArpCFwX"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=0bv7D7l65IRhBDYTqO1ro2",
+      "id": "0bv7D7l65IRhBDYTqO1ro2"
+    },
+    {
+      "artistName": "Acche Bache Channel",
+      "positioning": {
+        "top": 234,
+        "left": 813
+      },
+      "style": {
+        "color": "#7d9606",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2369421a66f986f114d4638b22f9ddd8bd064d45",
+        "title": "e.g. Acche Bache Channel \"Aaj Mangalwar Hai\"",
+        "trackId": "2oSxIJCPRJDePidSGEtett"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=5FcYxVMRfl9D1dolcgwrPt",
+      "id": "5FcYxVMRfl9D1dolcgwrPt"
+    },
+    {
+      "artistName": "माया और मरियम - बच्चों के गाने",
+      "positioning": {
+        "top": 340,
+        "left": 872
+      },
+      "style": {
+        "color": "#a99c07",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c246a2d7e4a68b71e88b93253eed925fc812bce8",
+        "title": "e.g. माया और मरियम - बच्चों के गाने \"कीचड़ के साथ खेल रहा है\"",
+        "trackId": "3FhN06qKEKPjw9nxb7qjgT"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2FkjvAiGyjlBVm4hXTxYFI",
+      "id": "2FkjvAiGyjlBVm4hXTxYFI"
+    },
+    {
+      "artistName": "Gautam Keswani",
+      "positioning": {
+        "top": 386,
+        "left": 887
+      },
+      "style": {
+        "color": "#699800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=2NnGS1CDuapouEawQUXTES",
+      "id": "2NnGS1CDuapouEawQUXTES"
+    },
+    {
+      "artistName": "Harshul Gautam",
+      "positioning": {
+        "top": 398,
+        "left": 887
+      },
+      "style": {
+        "color": "#699800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d2759c8f86a5be420fb1823e8defa0909a5efb8b",
+        "title": "e.g. Harshul Gautam \"Sunehra\"",
+        "trackId": "5UL6vQuGz3yQGKd3wRIHMn"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=19sOne0jSnMLU6MjVXQYfo",
+      "id": "19sOne0jSnMLU6MjVXQYfo"
+    },
+    {
+      "artistName": "Ratandeep",
+      "positioning": {
+        "top": 716,
+        "left": 1161
+      },
+      "style": {
+        "color": "#7e7200",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=47XnT581vYU6ecvTE8EIIi",
+      "id": "47XnT581vYU6ecvTE8EIIi"
+    },
+    {
+      "artistName": "Hindi Kids Ryhmes",
+      "positioning": {
+        "top": 594,
+        "left": 1149
+      },
+      "style": {
+        "color": "#888b00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=2STXL1t5TphWN0kjguHQBF",
+      "id": "2STXL1t5TphWN0kjguHQBF"
+    },
+    {
+      "artistName": "Nutan Rathore",
+      "positioning": {
+        "top": 246,
+        "left": 723
+      },
+      "style": {
+        "color": "#b09000",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb3b6aa448e0c5967c137fef04c01b9a5f8052e4",
+        "title": "e.g. Nutan Rathore \"O Meri Gudiya\"",
+        "trackId": "4JYlNGcCwoshbYflRPwGrX"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=7bNTb4xYEZU43fAqKdAanp",
+      "id": "7bNTb4xYEZU43fAqKdAanp"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=bachchon%20ke%20geet"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4oOHs2OLSeyda5vL75yylW"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2mGCBqrCPzqvo4SrUesWZH"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7fLxvJ12BXzLn7saFonT0D"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=bachchon%20ke%20geet"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "preschool children's music",
+      "positioning": {
+        "top": 100,
+        "left": 188
+      },
+      "style": {
+        "color": "#749613",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0579a90f91589dcda133c5c793823ebebd4f7bc7",
+        "title": "e.g. Little Treehouse \"Halloween Night\"",
+        "trackId": "5fSlG9kCmFTSjGH6CYRyHE"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-preschoolchildrensmusic.html#tunnel"
+    },
+    {
+      "genreName": "aghani lil-atfal",
+      "positioning": {
+        "top": 186,
+        "left": 50
+      },
+      "style": {
+        "color": "#898b21",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/29aca2ba0e55b3a6a97875c079029f9650817d46",
+        "title": "e.g. Hind Hamed \"These Little Chicks (Hal Seesan) هالصيصان\"",
+        "trackId": "0DqDpj03SI38qAhhrmHPGt"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-aghanililatfal.html#tunnel"
+    },
+    {
+      "genreName": "australian children's music",
+      "positioning": {
+        "top": 223,
+        "left": 93
+      },
+      "style": {
+        "color": "#778e0d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f3ddcdae27b4b38474bae0b21986596c9ac3a20",
+        "title": "e.g. Jay Laga'aia \"Lion Sleeps Tonight\"",
+        "trackId": "2zIAp1pRPyFfeamM1CQeay"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-australianchildrensmusic.html#tunnel"
+    },
+    {
+      "genreName": "bases de freestyle",
+      "positioning": {
+        "top": 113,
+        "left": 259
+      },
+      "style": {
+        "color": "#9e894c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a3c49bab2fa395dba257c0a1e9a611c61d1b32b8",
+        "title": "e.g. Eznar Beats \"Mozzafiato\"",
+        "trackId": "231p3phtA8BG0ejgCfGiEc"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-basesdefreestyle.html#tunnel"
+    },
+    {
+      "genreName": "bornesange",
+      "positioning": {
+        "top": 125,
+        "left": 138
+      },
+      "style": {
+        "color": "#7b8f09",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7963f3f4393dd08a8d0f23aed7795094c0d40f8b",
+        "title": "e.g. Ole Steens Børn \"Du Skal Klappe\"",
+        "trackId": "13DpSXR8Gkl9DUwcTuSgJ8"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-bornesange.html#tunnel"
+    },
+    {
+      "genreName": "british children's music",
+      "positioning": {
+        "top": 137,
+        "left": 93
+      },
+      "style": {
+        "color": "#7e8b0f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e74972d417bfbdf873259d680dc1050b1ace38a",
+        "title": "e.g. Zingzillas \"Do You Didgeridoo?\"",
+        "trackId": "0TNg5scZKjYO1rqnAiPGbE"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-britishchildrensmusic.html#tunnel"
+    },
+    {
+      "genreName": "cartoon",
+      "positioning": {
+        "top": 235,
+        "left": 259
+      },
+      "style": {
+        "color": "#7d8006",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/435ddf6013e10fc525cbc99f5ae74d3657a778b7",
+        "title": "e.g. Secunda Wood \"Spa Science (From Gabby's Dollhouse)\"",
+        "trackId": "7MSOKqfPJr8jrCC9CV1RJJ"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-cartoon.html#tunnel"
+    },
+    {
+      "genreName": "children's music",
+      "positioning": {
+        "top": 149,
+        "left": 95
+      },
+      "style": {
+        "color": "#78920f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e164782566f1fc73e8b9bf658ad0ae83b2a4a4ea",
+        "title": "e.g. Grover \"Old MacDonald Had a Farm\"",
+        "trackId": "6w9nu3LpQlk1l55WTW4jRh"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-childrensmusic.html#tunnel"
+    },
+    {
+      "genreName": "comptine africaine",
+      "positioning": {
+        "top": 300,
+        "left": 214
+      },
+      "style": {
+        "color": "#84941e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9c6ee0ba74d5566b7cfdd6506dcc2be648f9323",
+        "title": "e.g. Issa Dakuyo \"Véyénilé Véhiéni (La princesse Véhiéni)\"",
+        "trackId": "4EkmF7tc1rKYxLDEf5Mmwy"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-comptineafricaine.html#tunnel"
+    },
+    {
+      "genreName": "detske pesnicky",
+      "positioning": {
+        "top": 173,
+        "left": 67
+      },
+      "style": {
+        "color": "#7d950d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/026b758a369def241733b091d1c2cf2c8d6ae16a",
+        "title": "e.g. Paci Pac \"Ťapy ťap\"",
+        "trackId": "1kPaBQY4qNPRsCchIV2HEN"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-detskepesnicky.html#tunnel"
+    },
+    {
+      "genreName": "detski pesnichki",
+      "positioning": {
+        "top": 161,
+        "left": 0
+      },
+      "style": {
+        "color": "#7c9a1d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d3e33394b8f70426357455fdd6f449100c4ece8",
+        "title": "e.g. Детско Шлагерно Студио Да \"Ало, ало слънчице!\"",
+        "trackId": "5GuIndx12AsiNmJswFkiEe"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-detskipesnichki.html#tunnel"
+    },
+    {
+      "genreName": "detskie pesni",
+      "positioning": {
+        "top": 198,
+        "left": 108
+      },
+      "style": {
+        "color": "#748e16",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57ec8c26777cfd93393a48a476860cbd840f7cbd",
+        "title": "e.g. Alexander Kalyagin \"Если добрый ты\"",
+        "trackId": "3CusE2TEOXwlDibDC5V1SY"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-detskiepesni.html#tunnel"
+    },
+    {
+      "genreName": "dong-yo",
+      "positioning": {
+        "top": 97,
+        "left": 78
+      },
+      "style": {
+        "color": "#8f9116",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/457787153065d966391e97875bcaa2dabe5fd2a9",
+        "title": "e.g. 팡팡동요 \"개구리 왕눈이\"",
+        "trackId": "4855M6EqzcnyWp9bc4gSxZ"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-dongyo.html#tunnel"
+    },
+    {
+      "genreName": "dub poetry",
+      "positioning": {
+        "top": 88,
+        "left": 300
+      },
+      "style": {
+        "color": "#858327",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/808eecccf265d147650d93dd4b37bf346aeaddf3",
+        "title": "e.g. Linton Kwesi Johnson \"Inglan Is A Bitch\"",
+        "trackId": "3GCMoKi9KDq7UXmsClqfIQ"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-dubpoetry.html#tunnel"
+    },
+    {
+      "genreName": "early reggae",
+      "positioning": {
+        "top": 125,
+        "left": 255
+      },
+      "style": {
+        "color": "#848f3d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7774f00f6549d76abe39f70c39c9c05c2f529f82",
+        "title": "e.g. Lloyd Charmers \"Lost Without You\"",
+        "trackId": "7eK4dCRo8c2lVfMM6gdauz"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-earlyreggae.html#tunnel"
+    },
+    {
+      "genreName": "er ge",
+      "positioning": {
+        "top": 230,
+        "left": 9
+      },
+      "style": {
+        "color": "#67942d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01ff2b6d53d69c51c625165197b61f0a4bced360",
+        "title": "e.g. 高维那 \"好宝宝\"",
+        "trackId": "04tkDi8IMvKowb1P6pn1RE"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-erge.html#tunnel"
+    },
+    {
+      "genreName": "german viral rap",
+      "positioning": {
+        "top": 76,
+        "left": 203
+      },
+      "style": {
+        "color": "#8d8f0d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c67a2cf6226adee394b9a892ab53e1eca84dbdd",
+        "title": "e.g. Standart Skill \"Skybase\"",
+        "trackId": "2Ypfj9qQ0fRclISUH6LPqH"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-germanviralrap.html#tunnel"
+    },
+    {
+      "genreName": "guyanese pop",
+      "positioning": {
+        "top": 0,
+        "left": 155
+      },
+      "style": {
+        "color": "#87923c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/628795c07b39558e2737328878e6fcaf9b7986c5",
+        "title": "e.g. Azariel \"Gyal Check\"",
+        "trackId": "3EIIUr7vHhWwsmgb29sHYU"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-guyanesepop.html#tunnel"
+    },
+    {
+      "genreName": "jamaican ska",
+      "positioning": {
+        "top": 210,
+        "left": 175
+      },
+      "style": {
+        "color": "#848a30",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95ac45ebf50d2b1ba8caa23824a05ab4a7bd7048",
+        "title": "e.g. Baba Brooks \"Boat Ride\"",
+        "trackId": "72tomsIvsykp0ZkHQS0BR8"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-jamaicanska.html#tunnel"
+    },
+    {
+      "genreName": "kinderliedjies",
+      "positioning": {
+        "top": 210,
+        "left": 11
+      },
+      "style": {
+        "color": "#6e8f0c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a4057bbad5520ed2d1813e68d5a6bc432521264",
+        "title": "e.g. Oom Karoolus & Lente en B-A-I-E KINDERS \"Keurspel: 1) Die Liefde Van Jesus 2) Borrelliedjie\"",
+        "trackId": "6jM8AwoAH4C6nzqDqB8fas"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-kinderliedjies.html#tunnel"
+    }
+  ]
+}

@@ -1,0 +1,1591 @@
+{
+  "schemaVersion": 3,
+  "genreName": "epic doom",
+  "artists": [
+    {
+      "artistName": "Candlemass",
+      "positioning": {
+        "top": 747,
+        "left": 493
+      },
+      "style": {
+        "color": "#c26f32",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bdcd9fff485e92695412131edd097c8dc8d321c",
+        "title": "e.g. Candlemass \"Solitude\"",
+        "trackId": "0v3WyEt2g04WFpfVwcnfXm"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=7zDtfSB0AOZWhpuAHZIOw5",
+      "id": "7zDtfSB0AOZWhpuAHZIOw5"
+    },
+    {
+      "artistName": "Pallbearer",
+      "positioning": {
+        "top": 767,
+        "left": 438
+      },
+      "style": {
+        "color": "#c5633d",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a556657339c2ed3e4e71eed08c084d34422a2e29",
+        "title": "e.g. Pallbearer \"I Saw the End\"",
+        "trackId": "2SV69wiCCKzoFLDs6NWM5N"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=2yeEmsTQMNHBlS5dhWtuD1",
+      "id": "2yeEmsTQMNHBlS5dhWtuD1"
+    },
+    {
+      "artistName": "Sorcerer",
+      "positioning": {
+        "top": 415,
+        "left": 851
+      },
+      "style": {
+        "color": "#b87d2d",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/41c309b4a80020a494fc59b78a82d54dbaad7887",
+        "title": "e.g. Sorcerer \"Reign of the Reaper\"",
+        "trackId": "4E2hmdibGA23VgsFJ4QiWi"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=2O1JmZHgbLq9ttqx0AqjVm",
+      "id": "2O1JmZHgbLq9ttqx0AqjVm"
+    },
+    {
+      "artistName": "Spirit Adrift",
+      "positioning": {
+        "top": 345,
+        "left": 715
+      },
+      "style": {
+        "color": "#da6950",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa2e893e0509fab80abb6ad256ed41bf77a2df10",
+        "title": "e.g. Spirit Adrift \"Ride into the Light\"",
+        "trackId": "46wMCxSguASbKzxmcgPZB7"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=5sW5eR9g4kNibasfrlw4EN",
+      "id": "5sW5eR9g4kNibasfrlw4EN"
+    },
+    {
+      "artistName": "Solitude Aeturnus",
+      "positioning": {
+        "top": 673,
+        "left": 783
+      },
+      "style": {
+        "color": "#b66931",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54109f38d5480992cff875f8a5486b71baf41c45",
+        "title": "e.g. Solitude Aeturnus \"Scent of Death\"",
+        "trackId": "6gC5qqgdCVkvJEhwNY2H12"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=5V90fvD7DirEM3gF2bs9Gw",
+      "id": "5V90fvD7DirEM3gF2bs9Gw"
+    },
+    {
+      "artistName": "Ereb Altor",
+      "positioning": {
+        "top": 433,
+        "left": 265
+      },
+      "style": {
+        "color": "#bb722a",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/827df6da2b8830214852a0b3a46d80d9096a4e93",
+        "title": "e.g. Ereb Altor \"Fenrisulven\"",
+        "trackId": "0lX88U7WDVsMRGLGycgrHv"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=11sL6ZJmmfutSoWopcXbFm",
+      "id": "11sL6ZJmmfutSoWopcXbFm"
+    },
+    {
+      "artistName": "Atlantean Kodex",
+      "positioning": {
+        "top": 678,
+        "left": 426
+      },
+      "style": {
+        "color": "#ab653f",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3287b84b4e83cfdcc650e112d8eb89ac52060fed",
+        "title": "e.g. Atlantean Kodex \"People of the Moon - Dawn of Creation\"",
+        "trackId": "0utRhjK7yVVNrsogqOXMMb"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=151tTWDhir2XguTqwE5pR1",
+      "id": "151tTWDhir2XguTqwE5pR1"
+    },
+    {
+      "artistName": "Count Raven",
+      "positioning": {
+        "top": 635,
+        "left": 759
+      },
+      "style": {
+        "color": "#aa7827",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd8bc69fc47995499c7e4f3765b09f565ada98c3",
+        "title": "e.g. Count Raven \"The Poltergeist\"",
+        "trackId": "2Niv1Lbq69wpGTd0OG4Bsu"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=4R215PsoI6Mtxt6BYL9ob6",
+      "id": "4R215PsoI6Mtxt6BYL9ob6"
+    },
+    {
+      "artistName": "Crypt Sermon",
+      "positioning": {
+        "top": 505,
+        "left": 247
+      },
+      "style": {
+        "color": "#e0521c",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c44a0cb8a1edc7b42cfeb0c0edc87237719e3c69",
+        "title": "e.g. Crypt Sermon \"Key of Solomon\"",
+        "trackId": "79UmAmAsebSrMePH3VEvpt"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=363ih5wuNGWBFcjeKFG8cc",
+      "id": "363ih5wuNGWBFcjeKFG8cc"
+    },
+    {
+      "artistName": "Smoulder",
+      "positioning": {
+        "top": 321,
+        "left": 450
+      },
+      "style": {
+        "color": "#dc6b50",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/416ae5dadbf6fd3648ac93700a1caffd48cc2ac0",
+        "title": "e.g. Smoulder \"The Talisman and the Blade\"",
+        "trackId": "2YU3HbbSdi5WGGigpGxHZi"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=6GWdc3jDrFijmHoe7hgxx6",
+      "id": "6GWdc3jDrFijmHoe7hgxx6"
+    },
+    {
+      "artistName": "Isole",
+      "positioning": {
+        "top": 379,
+        "left": 598
+      },
+      "style": {
+        "color": "#9e8d13",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07a26fe8226ec5fb918d4154890e082f9ee29133",
+        "title": "e.g. Isole \"Nothingness\"",
+        "trackId": "1XZKdtlpapVqxmxocvviwg"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=20iCHO60oXbQAwEh65EGJm",
+      "id": "20iCHO60oXbQAwEh65EGJm"
+    },
+    {
+      "artistName": "Memento Mori",
+      "positioning": {
+        "top": 471,
+        "left": 974
+      },
+      "style": {
+        "color": "#b6653e",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5dc03173df309bf798f916e927ee4e8076a23a5",
+        "title": "e.g. Memento Mori \"The Seeds of Hatred\"",
+        "trackId": "2zMQwwQQsByr7f4JznAcmO"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=5Y09aSfPfTJ08ztiYQheU4",
+      "id": "5Y09aSfPfTJ08ztiYQheU4"
+    },
+    {
+      "artistName": "Spiritus Mortis",
+      "positioning": {
+        "top": 519,
+        "left": 851
+      },
+      "style": {
+        "color": "#a78118",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/93587058202c98e1906b6a2fd14fcab58d5eca4b",
+        "title": "e.g. Spiritus Mortis \"Sunrise\"",
+        "trackId": "66TFmAnUSLkzkw8StlQWh6"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=57NLYzc5hLTElrZhNKkhBA",
+      "id": "57NLYzc5hLTElrZhNKkhBA"
+    },
+    {
+      "artistName": "KYPCK",
+      "positioning": {
+        "top": 332,
+        "left": 740
+      },
+      "style": {
+        "color": "#c16018",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/239927f8efd372ee245f8b644e26b205190ee18c",
+        "title": "e.g. KYPCK \"Krasnye pyatna\"",
+        "trackId": "5FUgRTkXTEvaOX4t3R3aiC"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=5QdhTBDhLZGC4nOUZQryMg",
+      "id": "5QdhTBDhLZGC4nOUZQryMg"
+    },
+    {
+      "artistName": "Doomsword",
+      "positioning": {
+        "top": 256,
+        "left": 1079
+      },
+      "style": {
+        "color": "#e55653",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/54bb218ce22db9d7a99a12a660e17896eb290d88",
+        "title": "e.g. Doomsword \"Heathen Assault\"",
+        "trackId": "6SQkokqQTvPcm9d9IvJTOO"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=31R0Xxb1rS7j4d0jmNIBdl",
+      "id": "31R0Xxb1rS7j4d0jmNIBdl"
+    },
+    {
+      "artistName": "While Heaven Wept",
+      "positioning": {
+        "top": 810,
+        "left": 1351
+      },
+      "style": {
+        "color": "#896e2c",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aebbadeb59d91ff399b1a6880d14c33db3c0c6e8",
+        "title": "e.g. While Heaven Wept \"The Furthest Shore\"",
+        "trackId": "5FyEXtHaNzSOg7g4Pvvl2m"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=6VXKzxrOgSxJeeTaxCMEiP",
+      "id": "6VXKzxrOgSxJeeTaxCMEiP"
+    },
+    {
+      "artistName": "Fvneral Fvkk",
+      "positioning": {
+        "top": 404,
+        "left": 487
+      },
+      "style": {
+        "color": "#bc7727",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fa1c3575ec7edc15e75d42cb56a181cea6b1412",
+        "title": "e.g. Fvneral Fvkk \"Chapel of Abuse\"",
+        "trackId": "4yAOaKiFw10SzsNN1uv47B"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=5HCmYx7K5dk5s2iPBVqsov",
+      "id": "5HCmYx7K5dk5s2iPBVqsov"
+    },
+    {
+      "artistName": "The Gates Of Slumber",
+      "positioning": {
+        "top": 846,
+        "left": 907
+      },
+      "style": {
+        "color": "#a9772a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8022ee8d1b0332be41da4c0a5c5700c7b72e61d5",
+        "title": "e.g. The Gates Of Slumber \"The Awakening (Interpolating the Wrath of the Undead)\"",
+        "trackId": "6jDXX8XAwdTxYqeb7SFGBa"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=30ZFCxaQeisDgihIZyjOlj",
+      "id": "30ZFCxaQeisDgihIZyjOlj"
+    },
+    {
+      "artistName": "Ecocide",
+      "positioning": {
+        "top": 478,
+        "left": 709
+      },
+      "style": {
+        "color": "#ea2490",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a019c16238fe3fe2bb32475cf83ce856dde7e1c4",
+        "title": "e.g. Ecocide \"The Flayed\"",
+        "trackId": "1iQvep6s9nLluVWOzsHExh"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=3hvm8t0tGXG4W6ftgFThqS",
+      "id": "3hvm8t0tGXG4W6ftgFThqS"
+    },
+    {
+      "artistName": "Altar Of Oblivion",
+      "positioning": {
+        "top": 599,
+        "left": 925
+      },
+      "style": {
+        "color": "#a87646",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb346acbd1d7e8560c4f7b983c6c70a5d0550e46",
+        "title": "e.g. Altar Of Oblivion \"The Graveyard of Broken Dreams\"",
+        "trackId": "428vJQzWS6zkeAjPiKZ4PO"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=3UFcowMC0upZB50t80h8Z5",
+      "id": "3UFcowMC0upZB50t80h8Z5"
+    },
+    {
+      "artistName": "Summoner's Circle",
+      "positioning": {
+        "top": 123,
+        "left": 919
+      },
+      "style": {
+        "color": "#c97085",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0ec7c1fd4e4ce5484eb026deec9413a108679ffc",
+        "title": "e.g. Summoner's Circle \"Chaos Vector\"",
+        "trackId": "5YEdeGUblycTDViS7Pg1Qk"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=2BpJrW0RgXSQgDwv9VbU4J",
+      "id": "2BpJrW0RgXSQgDwv9VbU4J"
+    },
+    {
+      "artistName": "Vanha",
+      "positioning": {
+        "top": 471,
+        "left": 370
+      },
+      "style": {
+        "color": "#5d90b4",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/27b164a0bbb9d2747a8d2b44f29baafea6978c71",
+        "title": "e.g. Vanha \"Dark Heart\"",
+        "trackId": "2hEnbYgKRX82FxTQsGuYDd"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=1WSqwbnQgsxRpUONZbWwcI",
+      "id": "1WSqwbnQgsxRpUONZbWwcI"
+    },
+    {
+      "artistName": "Procession",
+      "positioning": {
+        "top": 649,
+        "left": 789
+      },
+      "style": {
+        "color": "#b17429",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f42b768cc12bd59d7cf749ee92def6d12bcfd0d",
+        "title": "e.g. Procession \"To Reap Heavens Apart\"",
+        "trackId": "0x0R9WAAToB5qLqZDScwwf"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=7u0VZPl9VSHc9PZDuI4RGJ",
+      "id": "7u0VZPl9VSHc9PZDuI4RGJ"
+    },
+    {
+      "artistName": "Below",
+      "positioning": {
+        "top": 222,
+        "left": 1203
+      },
+      "style": {
+        "color": "#b37f30",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5d558b772cb6c833c729b5643df120b1547d4fa8",
+        "title": "e.g. Below \"Disappearing into Nothing\"",
+        "trackId": "1LVAcDTFCgTdBgOGXviehU"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=4y3POplfcq7iobjxWp5IMr",
+      "id": "4y3POplfcq7iobjxWp5IMr"
+    },
+    {
+      "artistName": "Flesh of the Stars",
+      "positioning": {
+        "top": 859,
+        "left": 962
+      },
+      "style": {
+        "color": "#5897cd",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9dbd5fa9bccbbb67b9b597f4c156ada0e3f73b9e",
+        "title": "e.g. Flesh of the Stars \"Terraforms\"",
+        "trackId": "5wi4XzsjSU80VNeux0046g"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=6R776rOUH781SRGVvvtC5D",
+      "id": "6R776rOUH781SRGVvvtC5D"
+    },
+    {
+      "artistName": "Dark Quarterer",
+      "positioning": {
+        "top": 796,
+        "left": 863
+      },
+      "style": {
+        "color": "#cc673a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/49d24a34ffce515d86a9decb59be3c25e063b483",
+        "title": "e.g. Dark Quarterer \"Colossus of Argil\"",
+        "trackId": "3AWW5cUjejn6sYcdHAitfB"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=3rVunNPZYdAk8CAptkKmHy",
+      "id": "3rVunNPZYdAk8CAptkKmHy"
+    },
+    {
+      "artistName": "Scald",
+      "positioning": {
+        "top": 678,
+        "left": 376
+      },
+      "style": {
+        "color": "#c75d4f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/695e6febeeddd668db3933d469a21eb70e98ada3",
+        "title": "e.g. Scald \"Night Sky\"",
+        "trackId": "49lByGkjVGVx1aaCZrHWuB"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=1ZnM4jqMF4MiBNGjE5NgAc",
+      "id": "1ZnM4jqMF4MiBNGjE5NgAc"
+    },
+    {
+      "artistName": "Lord Vigo",
+      "positioning": {
+        "top": 509,
+        "left": 549
+      },
+      "style": {
+        "color": "#cf6232",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/81e7234806d41465479450db9cb358506b75c17c",
+        "title": "e.g. Lord Vigo \"Shoulder of Orion\"",
+        "trackId": "6obaxCSGCgA94RKvOc8b4y"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=7mBnHtxfHk3Ny05VDci82p",
+      "id": "7mBnHtxfHk3Ny05VDci82p"
+    },
+    {
+      "artistName": "Doomocracy",
+      "positioning": {
+        "top": 348,
+        "left": 1085
+      },
+      "style": {
+        "color": "#c76e0c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d9e4624abf126b9d3f6d77d6f016ad2abff7f7b6",
+        "title": "e.g. Doomocracy \"Eternally Lost\"",
+        "trackId": "3Wu0Mm8Rkg3kO2HBXGoHbt"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=36YXY7XljXsKAcfpLTmAt1",
+      "id": "36YXY7XljXsKAcfpLTmAt1"
+    },
+    {
+      "artistName": "Dantesco",
+      "positioning": {
+        "top": 489,
+        "left": 894
+      },
+      "style": {
+        "color": "#da610e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b1928c66d3ae537871a2be3f025a989fb66dc0fc",
+        "title": "e.g. Dantesco \"Santa Croce Titulus\"",
+        "trackId": "0pdgBQJDE0eOcaXqWg6Eei"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1Wl2s6rmDJqG6LmQ8JMhYA",
+      "id": "1Wl2s6rmDJqG6LmQ8JMhYA"
+    },
+    {
+      "artistName": "Iron Void",
+      "positioning": {
+        "top": 649,
+        "left": 974
+      },
+      "style": {
+        "color": "#b08251",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89575bd5044de15ea9c66dd9b77e58bb1a64b8d6",
+        "title": "e.g. Iron Void \"Grave Dance\"",
+        "trackId": "3xjz4cZDFCGUKkjxlP348b"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=4labmlt4AoYbP55B6aOA6v",
+      "id": "4labmlt4AoYbP55B6aOA6v"
+    },
+    {
+      "artistName": "Lord Vicar",
+      "positioning": {
+        "top": 707,
+        "left": 746
+      },
+      "style": {
+        "color": "#b08f19",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e5b4b1c921511cccc5c551ebe325bbd96f6ebe4f",
+        "title": "e.g. Lord Vicar \"Birth of Wine\"",
+        "trackId": "6pj8g8hEaQQ29NqNQXMEWa"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=1wWxscpcux50FKanp8CadH",
+      "id": "1wWxscpcux50FKanp8CadH"
+    },
+    {
+      "artistName": "Mythological Cold Towers",
+      "positioning": {
+        "top": 588,
+        "left": 0
+      },
+      "style": {
+        "color": "#d25379",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/775e9446385e0f49c2bc7e3eac2a760c4a78ccc2",
+        "title": "e.g. Mythological Cold Towers \"The Lost Path to Ma-Noa\"",
+        "trackId": "2wIu30L13dhaJPrhPkNMnm"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=52Zn8IzDQudHfdrYzL7OzO",
+      "id": "52Zn8IzDQudHfdrYzL7OzO"
+    },
+    {
+      "artistName": "Minotauri",
+      "positioning": {
+        "top": 756,
+        "left": 241
+      },
+      "style": {
+        "color": "#b77779",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/401b07a5624d7a64aa0ac43f6581f58120597947",
+        "title": "e.g. Minotauri \"Hammer Of Doom\"",
+        "trackId": "33CWxnaXz9i0xga6EGjC2M"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=1TRPGvFReOPMd955ZDPZwx",
+      "id": "1TRPGvFReOPMd955ZDPZwx"
+    },
+    {
+      "artistName": "Evangelist",
+      "positioning": {
+        "top": 441,
+        "left": 604
+      },
+      "style": {
+        "color": "#be7000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff4a9547667c81f3124fe9c33b53cf7b56978cd0",
+        "title": "e.g. Evangelist \"Militis Fidelis Deus\"",
+        "trackId": "3APYpdCPY7pXytffWibvUr"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=2pJO5DcCDlEmER9dJnRfX1",
+      "id": "2pJO5DcCDlEmER9dJnRfX1"
+    },
+    {
+      "artistName": "Dautha",
+      "positioning": {
+        "top": 566,
+        "left": 432
+      },
+      "style": {
+        "color": "#938222",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a44ea009308945905f9b1095ad715f10d74d2ebc",
+        "title": "e.g. Dautha \"Hodie Mihi, Cras Tibi\"",
+        "trackId": "2Ib902dsZKin3xkxj97lxt"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=1IvquqfvMgRsRrw6boqUTW",
+      "id": "1IvquqfvMgRsRrw6boqUTW"
+    },
+    {
+      "artistName": "Monasterium",
+      "positioning": {
+        "top": 157,
+        "left": 1018
+      },
+      "style": {
+        "color": "#cb7903",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6d3ed2ee49cc88c1b8df34494a8149bc50120d5b",
+        "title": "e.g. Monasterium \"The Stigmatic\"",
+        "trackId": "72HBZFcpicRI8U0BDZB8aN"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=1oyLsVuXp0MSHGU6U8pa6f",
+      "id": "1oyLsVuXp0MSHGU6U8pa6f"
+    },
+    {
+      "artistName": "Old Mother Hell",
+      "positioning": {
+        "top": 359,
+        "left": 913
+      },
+      "style": {
+        "color": "#e3621a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ee4f73eb3b15ef0f2b7fed5b62e09f5ce6e6565",
+        "title": "e.g. Old Mother Hell \"Betrayal at the Sea\"",
+        "trackId": "5L2uI2cfNWLK9dn79ho1Bb"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=60f3lU1zXOWLybFKAvKZTm",
+      "id": "60f3lU1zXOWLybFKAvKZTm"
+    },
+    {
+      "artistName": "Crimson Dawn",
+      "positioning": {
+        "top": 198,
+        "left": 876
+      },
+      "style": {
+        "color": "#c17610",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d35bbfc8ff3277c2d54c970ea417d649ef4e0981",
+        "title": "e.g. Crimson Dawn \"The Masque of Red Death\"",
+        "trackId": "26uD7BGo355eHRJkLJAU8v"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=59qCpIHzZy6wMIEgRPBi6m",
+      "id": "59qCpIHzZy6wMIEgRPBi6m"
+    },
+    {
+      "artistName": "Doomshine",
+      "positioning": {
+        "top": 193,
+        "left": 469
+      },
+      "style": {
+        "color": "#a0800a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/642a760fc2acccc4aad82cabaa26d288b933d5d3",
+        "title": "e.g. Doomshine \"Sanctuary Demon\"",
+        "trackId": "5bD6CW3bkQr1JIMN83CjZk"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=1gRFwfn0jwIRH6ySFOLZvK",
+      "id": "1gRFwfn0jwIRH6ySFOLZvK"
+    },
+    {
+      "artistName": "Lazarus Complex",
+      "positioning": {
+        "top": 238,
+        "left": 987
+      },
+      "style": {
+        "color": "#b25872",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c172dd801cde76c81324bcfdbe6f295f2c0892fd",
+        "title": "e.g. Lazarus Complex \"Warfare\"",
+        "trackId": "08vh0LpX3cshsBjsdXaXcD"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=7tPWGuq9qwI0u9oegesK2V",
+      "id": "7tPWGuq9qwI0u9oegesK2V"
+    },
+    {
+      "artistName": "Albert Bell's Sacro Sanctus",
+      "positioning": {
+        "top": 429,
+        "left": 506
+      },
+      "style": {
+        "color": "#e85b0b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05c2817de2c5f23b79652af96a5ba9ac4da231c8",
+        "title": "e.g. Albert Bell's Sacro Sanctus \"The Widow's Sons\"",
+        "trackId": "5byhd5pJ5EJfXSpivwohDc"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1cJkwQOdSaWKjnVeQbecSI",
+      "id": "1cJkwQOdSaWKjnVeQbecSI"
+    },
+    {
+      "artistName": "Horrified",
+      "positioning": {
+        "top": 590,
+        "left": 765
+      },
+      "style": {
+        "color": "#dd33cf",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7c37f3d213c00263b81f39cc61857d70eb9cf638",
+        "title": "e.g. Horrified \"The Pessimist\"",
+        "trackId": "3m7GVyLHsPL6IlAVxvWcje"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=6SBY9mSP2e4NC81noiStG1",
+      "id": "6SBY9mSP2e4NC81noiStG1"
+    },
+    {
+      "artistName": "Northern Crown",
+      "positioning": {
+        "top": 507,
+        "left": 833
+      },
+      "style": {
+        "color": "#c56729",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ae60b9078769c6ddef8619ce88e80e22266caba",
+        "title": "e.g. Northern Crown \"Leprosarium\"",
+        "trackId": "1IeDWPAezPbgjnjcVv7qlU"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=5H35kH7f9jrKEdxoEqdJqS",
+      "id": "5H35kH7f9jrKEdxoEqdJqS"
+    },
+    {
+      "artistName": "Realmbuilder",
+      "positioning": {
+        "top": 180,
+        "left": 1227
+      },
+      "style": {
+        "color": "#a57b14",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bfc17d51ea474e5d5779adb30a3470bf13725114",
+        "title": "e.g. Realmbuilder \"Highwayman\"",
+        "trackId": "0dsDy3v4nbg3ZR76u9lk56"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=3bc6iwGABAmFHfs8cN3bvu",
+      "id": "3bc6iwGABAmFHfs8cN3bvu"
+    },
+    {
+      "artistName": "Raven Black Night",
+      "positioning": {
+        "top": 812,
+        "left": 586
+      },
+      "style": {
+        "color": "#b86b1b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3709348461bbe5b32005abf4648a9b22895a3531",
+        "title": "e.g. Raven Black Night \"Fire in Your Eyes\"",
+        "trackId": "1z9j5tD2zoIa0E9DFGXcLN"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=2ByZdlmJvFHfhXSZ6pObqT",
+      "id": "2ByZdlmJvFHfhXSZ6pObqT"
+    },
+    {
+      "artistName": "In Aevum Agere",
+      "positioning": {
+        "top": 447,
+        "left": 833
+      },
+      "style": {
+        "color": "#ce6936",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e23fee73418cc73cbaa4dee9df9d42429487aee",
+        "title": "e.g. In Aevum Agere \"The Shadow Tower\"",
+        "trackId": "3HsrbnQovYxEXMXX3mQQ80"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=7yHBlWXGQBsGO4IsteJK8n",
+      "id": "7yHBlWXGQBsGO4IsteJK8n"
+    },
+    {
+      "artistName": "Concilium",
+      "positioning": {
+        "top": 809,
+        "left": 851
+      },
+      "style": {
+        "color": "#7299a6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2b16e96942790c33aa86c905904345a4d069acd2",
+        "title": "e.g. Concilium \"No Sanctuary\"",
+        "trackId": "4ZgvofGEq4yegUVVGovsVL"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6SNS3wEwVdpM3zI3pp7Z7z",
+      "id": "6SNS3wEwVdpM3zI3pp7Z7z"
+    },
+    {
+      "artistName": "King Heavy",
+      "positioning": {
+        "top": 808,
+        "left": 715
+      },
+      "style": {
+        "color": "#da6819",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5cd96e37a01dc3ebaa5268c8611de6e315bd294b",
+        "title": "e.g. King Heavy \"Doom Shall Rise\"",
+        "trackId": "4zbA9G6lAR9ACf5FqneoJI"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=5fasD3kZuTm50Zcrep4YgS",
+      "id": "5fasD3kZuTm50Zcrep4YgS"
+    },
+    {
+      "artistName": "Dark Covenant",
+      "positioning": {
+        "top": 429,
+        "left": 56
+      },
+      "style": {
+        "color": "#967a4f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a7b4f1a5aa5d442112616a2e14e950bba8577641",
+        "title": "e.g. Dark Covenant \"Forever Amongst the Ruins\"",
+        "trackId": "6bNy6QEMQ80R2KcG4yAM7K"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=2T3HtJ6dOIpSFrnJE9kDb8",
+      "id": "2T3HtJ6dOIpSFrnJE9kDb8"
+    },
+    {
+      "artistName": "Mangog",
+      "positioning": {
+        "top": 604,
+        "left": 1400
+      },
+      "style": {
+        "color": "#ab8051",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bbe9d222e989ca377a1af833fb0152b836788368",
+        "title": "e.g. Mangog \"Suicide Donkey\"",
+        "trackId": "04TPiuTX9BjQC6XMnlQbdu"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=3jRI2sdlApA1oN1vBVgpW9",
+      "id": "3jRI2sdlApA1oN1vBVgpW9"
+    },
+    {
+      "artistName": "Archityrants",
+      "positioning": {
+        "top": 691,
+        "left": 463
+      },
+      "style": {
+        "color": "#af7b6b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24070e473cfe5fe55c894c14ddd4d42d602a174e",
+        "title": "e.g. Archityrants \"Gruesome Symphony\"",
+        "trackId": "6ahu2ruQvZKOnYAg7Maqqi"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=67Xq67CI8XRCZUE2wtkhF4",
+      "id": "67Xq67CI8XRCZUE2wtkhF4"
+    },
+    {
+      "artistName": "Stone Magnum",
+      "positioning": {
+        "top": 788,
+        "left": 660
+      },
+      "style": {
+        "color": "#d96500",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/12ac0181bb4f8433f5545a47da411c627a3d35fc",
+        "title": "e.g. Stone Magnum \"As I Burn Your World to Ash\"",
+        "trackId": "0ySfX0qlpeODqaGfi7sUns"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3Lb6eWzyxhiqh2gCNs2WI6",
+      "id": "3Lb6eWzyxhiqh2gCNs2WI6"
+    },
+    {
+      "artistName": "Pillars",
+      "positioning": {
+        "top": 729,
+        "left": 321
+      },
+      "style": {
+        "color": "#cb685f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d2f4d15a8681bdaaae3c754ac6e006d5b2dc9a6c",
+        "title": "e.g. Pillars \"Vultures\"",
+        "trackId": "1XvcozRLgpECevE5Kkg4nT"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=4tzaXbBGfsVLv8a83Nnn6G",
+      "id": "4tzaXbBGfsVLv8a83Nnn6G"
+    },
+    {
+      "artistName": "SPIRIT DESCENT",
+      "positioning": {
+        "top": 579,
+        "left": 395
+      },
+      "style": {
+        "color": "#b36931",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bc0c2a4df576f221e42a466898d1b9e9ec683217",
+        "title": "e.g. SPIRIT DESCENT \"Greed\"",
+        "trackId": "7rYxoTKfhcnoovNcSIdkSC"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=4GcDiEKOh2CGw4VaQ7BOya",
+      "id": "4GcDiEKOh2CGw4VaQ7BOya"
+    },
+    {
+      "artistName": "Professor Emeritus",
+      "positioning": {
+        "top": 0,
+        "left": 1085
+      },
+      "style": {
+        "color": "#c4852b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c739d16359adbc55d6e743b0246830e4425f4744",
+        "title": "e.g. Professor Emeritus \"Burning Grave\"",
+        "trackId": "43GZhtN6FCi0p9tsiQkaQU"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=1W0DcqaHi9nA417BgCrqAm",
+      "id": "1W0DcqaHi9nA417BgCrqAm"
+    },
+    {
+      "artistName": "Othuum",
+      "positioning": {
+        "top": 900,
+        "left": 333
+      },
+      "style": {
+        "color": "#9088d2",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ce4d580c511e17d9c622997c923cff1ba18f180",
+        "title": "e.g. Othuum \"Infernal Tentacle Wars\"",
+        "trackId": "0FqylkVkFiTPrFgKnAS7PR"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=1QK665238CkXiIUPf3P4UK",
+      "id": "1QK665238CkXiIUPf3P4UK"
+    },
+    {
+      "artistName": "100000 TONNEN KRUPPSTAHL",
+      "positioning": {
+        "top": 784,
+        "left": 814
+      },
+      "style": {
+        "color": "#c18080",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7cdbda0c75950bde46edd409cd17b96045b10b5e",
+        "title": "e.g. 100000 TONNEN KRUPPSTAHL \"Teeth Fletcher (Part 3)\"",
+        "trackId": "28ST8YCSIit3XD7Pto72Ub"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=2eDnbCj4ozrWJswrocK6ZA",
+      "id": "2eDnbCj4ozrWJswrocK6ZA"
+    },
+    {
+      "artistName": "Cosmic Eve",
+      "positioning": {
+        "top": 364,
+        "left": 1375
+      },
+      "style": {
+        "color": "#9e9138",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/52ed59eb82caa0d6e86439e2f852a96a2ecdb5e4",
+        "title": "e.g. Cosmic Eve \"The Ice Mistress\"",
+        "trackId": "2w23ieqmIVIsLynz9fPmCM"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=6otzvS43puk9u4Dpu4xTMZ",
+      "id": "6otzvS43puk9u4Dpu4xTMZ"
+    },
+    {
+      "artistName": "The Living Fields",
+      "positioning": {
+        "top": 772,
+        "left": 789
+      },
+      "style": {
+        "color": "#996e1c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/feda1003c8dfeab29690c30c386a58ffda535c5a",
+        "title": "e.g. The Living Fields \"Remnant\"",
+        "trackId": "7KowbYVNBdSgMGkcG4Si8G"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=6S3ONBgN7oWVai0F8MlbDh",
+      "id": "6S3ONBgN7oWVai0F8MlbDh"
+    },
+    {
+      "artistName": "Desolate Pathway",
+      "positioning": {
+        "top": 426,
+        "left": 956
+      },
+      "style": {
+        "color": "#ba6e21",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9f025f518843cee8ab5d6bdcb329e8f70c516082",
+        "title": "e.g. Desolate Pathway \"Medusa Liar\"",
+        "trackId": "5iuhjjcA5HAP0oqjNy4Kta"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=5lHUwdfH9MYzOigckNYkiE",
+      "id": "5lHUwdfH9MYzOigckNYkiE"
+    },
+    {
+      "artistName": "Wishdoom",
+      "positioning": {
+        "top": 554,
+        "left": 469
+      },
+      "style": {
+        "color": "#c67225",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/59468c9916af415c69fcf6723730effe02b90ac9",
+        "title": "e.g. Wishdoom \"The Battle of Plataea\"",
+        "trackId": "0ek9BNPW18msZMGCRaftAr"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=07CeyjVOHYtsksLAHTbjnr",
+      "id": "07CeyjVOHYtsksLAHTbjnr"
+    },
+    {
+      "artistName": "Concept Of God",
+      "positioning": {
+        "top": 391,
+        "left": 1221
+      },
+      "style": {
+        "color": "#d17003",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=1xuBVFjiEvK48N07q6iPxY",
+      "id": "1xuBVFjiEvK48N07q6iPxY"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=epic%20doom"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/2THvXynGgYNp2AfoUmqcZ4"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0a1lsfWWFAJoc4mTsD78lB"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/2HtkTUJNyYDUefOjORFNEb"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=epic%20doom"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "doom metal",
+      "positioning": {
+        "top": 219,
+        "left": 92
+      },
+      "style": {
+        "color": "#b57160",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ec66692fc92606d6f29ed6d679022accddc713b",
+        "title": "e.g. Cathedral \"Hopkins (Witchfinder General)\"",
+        "trackId": "77cgeHw3mJPfKjivt1HRk1"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-doommetal.html#tunnel"
+    },
+    {
+      "genreName": "neo-trad doom metal",
+      "positioning": {
+        "top": 198,
+        "left": 300
+      },
+      "style": {
+        "color": "#b57443",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89575bd5044de15ea9c66dd9b77e58bb1a64b8d6",
+        "title": "e.g. Iron Void \"Grave Dance\"",
+        "trackId": "3xjz4cZDFCGUKkjxlP348b"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-neotraddoommetal.html#tunnel"
+    },
+    {
+      "genreName": "swedish doom metal",
+      "positioning": {
+        "top": 73,
+        "left": 135
+      },
+      "style": {
+        "color": "#b57750",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bdcd9fff485e92695412131edd097c8dc8d321c",
+        "title": "e.g. Candlemass \"Solitude\"",
+        "trackId": "0v3WyEt2g04WFpfVwcnfXm"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-swedishdoommetal.html#tunnel"
+    },
+    {
+      "genreName": "italian doom metal",
+      "positioning": {
+        "top": 156,
+        "left": 46
+      },
+      "style": {
+        "color": "#b57077",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad584ebdf76c4a4365dbdb8e766d41dbebadadd6",
+        "title": "e.g. Abysmal Grief \"Funeral Cult\"",
+        "trackId": "1cqCgIGJ7x49SWQycsMwIk"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-italiandoommetal.html#tunnel"
+    },
+    {
+      "genreName": "uk doom metal",
+      "positioning": {
+        "top": 278,
+        "left": 142
+      },
+      "style": {
+        "color": "#b26d65",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e6c349684540bd20f9b9812a32542f7218ea904",
+        "title": "e.g. Slomatics \"Seven Echoes\"",
+        "trackId": "3wgxqqklJjngKStA5K3nls"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-ukdoommetal.html#tunnel"
+    },
+    {
+      "genreName": "norwegian doom metal",
+      "positioning": {
+        "top": 144,
+        "left": 185
+      },
+      "style": {
+        "color": "#b2745b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/492691eaccc7d44f4c737c279c4a321e8c4f69a3",
+        "title": "e.g. Dunbarrow \"The Wanderer\"",
+        "trackId": "3WcICqDYH1yrsOg8lMJAc7"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-norwegiandoommetal.html#tunnel"
+    },
+    {
+      "genreName": "progressive doom",
+      "positioning": {
+        "top": 95,
+        "left": 112
+      },
+      "style": {
+        "color": "#b27558",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ffa3e027e2278b725671296393dd189be8acb511",
+        "title": "e.g. Anathema \"One Last Goodbye - Remastered\"",
+        "trackId": "0jQxDAN0CBuIdAqbR4OnzV"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-progressivedoom.html#tunnel"
+    },
+    {
+      "genreName": "gaian doom",
+      "positioning": {
+        "top": 300,
+        "left": 123
+      },
+      "style": {
+        "color": "#a47768",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5de22cdecf333d4678e4d3e713d62ba80c0e0514",
+        "title": "e.g. SubRosa \"Borrowed Time, Borrowed Eyes\"",
+        "trackId": "0L0oz4yFk5hMmo52qAUQRF"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-gaiandoom.html#tunnel"
+    },
+    {
+      "genreName": "brazilian doom metal",
+      "positioning": {
+        "top": 263,
+        "left": 46
+      },
+      "style": {
+        "color": "#b07371",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/775e9446385e0f49c2bc7e3eac2a760c4a78ccc2",
+        "title": "e.g. Mythological Cold Towers \"The Lost Path to Ma-Noa\"",
+        "trackId": "2wIu30L13dhaJPrhPkNMnm"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-braziliandoommetal.html#tunnel"
+    },
+    {
+      "genreName": "uk stoner rock",
+      "positioning": {
+        "top": 263,
+        "left": 215
+      },
+      "style": {
+        "color": "#bf6f54",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0bfd1a2117810c9f3aefe8fabc7823ff2b79c2da",
+        "title": "e.g. Elephant Tree \"Echoes\"",
+        "trackId": "1GfHQDtIduaP66nrjb2leG"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-ukstonerrock.html#tunnel"
+    },
+    {
+      "genreName": "swedish emo",
+      "positioning": {
+        "top": 132,
+        "left": 169
+      },
+      "style": {
+        "color": "#bc6f3d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a7b4862a1ffcf1c622be0368846b1a9710945f5",
+        "title": "e.g. Shirokuma \"Black Lungs\"",
+        "trackId": "2GV5VLs3apPKmPlpVNbkWt"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-swedishemo.html#tunnel"
+    },
+    {
+      "genreName": "finnish doom metal",
+      "positioning": {
+        "top": 120,
+        "left": 38
+      },
+      "style": {
+        "color": "#b17470",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c965339fc81b314fa8ab983cbf3e7516300f3442",
+        "title": "e.g. Red Moon Architect \"Dethrone the darkness\"",
+        "trackId": "2WDWSa9NosWxgZaFsys4m5"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-finnishdoommetal.html#tunnel"
+    },
+    {
+      "genreName": "french emo",
+      "positioning": {
+        "top": 180,
+        "left": 146
+      },
+      "style": {
+        "color": "#cf5f5e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/771b7497a0f29581e517337840509826a79b118e",
+        "title": "e.g. Sed Non Satiata \"Les hommes sans visage\"",
+        "trackId": "6GeyPP2uOEx2jnqo7YyoSI"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-frenchemo.html#tunnel"
+    },
+    {
+      "genreName": "christian doom metal",
+      "positioning": {
+        "top": 156,
+        "left": 277
+      },
+      "style": {
+        "color": "#b86e4e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a15c754cd6d2844e933eb7076f0b9fe2f97002ef",
+        "title": "e.g. Anaemia \"The Second Incarnation\"",
+        "trackId": "3v58be0jzIz69AulUj1i0f"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-christiandoommetal.html#tunnel"
+    },
+    {
+      "genreName": "arkansas metal",
+      "positioning": {
+        "top": 108,
+        "left": 192
+      },
+      "style": {
+        "color": "#cc5b56",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a556657339c2ed3e4e71eed08c084d34422a2e29",
+        "title": "e.g. Pallbearer \"I Saw the End\"",
+        "trackId": "2SV69wiCCKzoFLDs6NWM5N"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-arkansasmetal.html#tunnel"
+    },
+    {
+      "genreName": "atmospheric doom",
+      "positioning": {
+        "top": 207,
+        "left": 69
+      },
+      "style": {
+        "color": "#a2777e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0abf2f5eee36ee100c75098070c12cf84aedd564",
+        "title": "e.g. Trees of Eternity \"My Requiem\"",
+        "trackId": "0HOzDQkixIbysuYXxonLTE"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-atmosphericdoom.html#tunnel"
+    },
+    {
+      "genreName": "avant-garde black metal",
+      "positioning": {
+        "top": 137,
+        "left": 0
+      },
+      "style": {
+        "color": "#c6507b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b66c75f1fb67cc09bba98ac763deab93d6864be4",
+        "title": "e.g. Ved Buens Ende \"I Sang for the Swans\"",
+        "trackId": "0hi38sQ6FM69mepBRJEpmq"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-avantgardeblackmetal.html#tunnel"
+    },
+    {
+      "genreName": "avant-garde metal",
+      "positioning": {
+        "top": 169,
+        "left": 242
+      },
+      "style": {
+        "color": "#c05e6d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/81b909158a2f83dabbcd6cfb96fd6bddd07be3a1",
+        "title": "e.g. Thy Catafalque \"Sirály\"",
+        "trackId": "4gwuy8dyF1WQYJlUoItxug"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-avantgardemetal.html#tunnel"
+    },
+    {
+      "genreName": "belfast metal",
+      "positioning": {
+        "top": 0,
+        "left": 127
+      },
+      "style": {
+        "color": "#d65d44",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc8e484f9d092467322eab4f842f8095511bfaeb",
+        "title": "e.g. The Crawling \"March of the Worm\"",
+        "trackId": "732QLUxaqT2ZoxdKvL5okh"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-belfastmetal.html#tunnel"
+    },
+    {
+      "genreName": "belgian stoner rock",
+      "positioning": {
+        "top": 12,
+        "left": 188
+      },
+      "style": {
+        "color": "#c6675a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4dcb08fcbb4cf492cdf6900475188bb7f859bf9c",
+        "title": "e.g. Fire Down Below \"Airwolf\"",
+        "trackId": "5MyJLEciAhwONHzmTLy0yg"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-belgianstonerrock.html#tunnel"
+    }
+  ]
+}

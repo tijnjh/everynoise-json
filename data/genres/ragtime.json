@@ -1,0 +1,1576 @@
+{
+  "schemaVersion": 3,
+  "genreName": "ragtime",
+  "artists": [
+    {
+      "artistName": "Scott Joplin",
+      "positioning": {
+        "top": 797,
+        "left": 667
+      },
+      "style": {
+        "color": "#56aad7",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db9a69cf3d0b26609daa773563be5e81be76876b",
+        "title": "e.g. Scott Joplin \"The Entertainer\"",
+        "trackId": "6DWIm1TfM9WiCNQeLbbAsd"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=5FgkTUuCNKDlilidPvZqOq",
+      "id": "5FgkTUuCNKDlilidPvZqOq"
+    },
+    {
+      "artistName": "James P. Johnson",
+      "positioning": {
+        "top": 851,
+        "left": 877
+      },
+      "style": {
+        "color": "#4992b7",
+        "fontSize": "139%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a36b283bf0d0653c9b1ce50b11c0d65f39d0a3b0",
+        "title": "e.g. James P. Johnson \"If I Could Be With You\"",
+        "trackId": "2ok60XQkeCE7EuEJB8OJNU"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=0BMlIte9CqjItQ6mh2GoGi",
+      "id": "0BMlIte9CqjItQ6mh2GoGi"
+    },
+    {
+      "artistName": "Jelly Roll Morton",
+      "positioning": {
+        "top": 797,
+        "left": 914
+      },
+      "style": {
+        "color": "#4b89ac",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2af38431fd1b8bb7f9378baabf90d09c801e0574",
+        "title": "e.g. Jelly Roll Morton \"Georgia Swing\"",
+        "trackId": "0Rzyvv42sbqe71mVUjZv2S"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=4XepUkisa56DUeA3gbjDQD",
+      "id": "4XepUkisa56DUeA3gbjDQD"
+    },
+    {
+      "artistName": "Morten Gunnar Larsen",
+      "positioning": {
+        "top": 867,
+        "left": 447
+      },
+      "style": {
+        "color": "#36a6c7",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8245807408618912ac67c9a0c8f7d8e9205c7bdb",
+        "title": "e.g. Morten Gunnar Larsen \"Poor Katie Redd\"",
+        "trackId": "79IT7Ux5GPCYQ8HoAV02FH"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=0abhXJIOH1NqbsXLaZD2DI",
+      "id": "0abhXJIOH1NqbsXLaZD2DI"
+    },
+    {
+      "artistName": "Fletcher Henderson",
+      "positioning": {
+        "top": 744,
+        "left": 1022
+      },
+      "style": {
+        "color": "#6780ac",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0555a70ff2395c53d2e77771a4b673fb7982462",
+        "title": "e.g. Fletcher Henderson \"Sing You Sinners\"",
+        "trackId": "6LQUyKvytl0BhLbA5RY2XU"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=2ovJLSejirvJybNers2YG6",
+      "id": "2ovJLSejirvJybNers2YG6"
+    },
+    {
+      "artistName": "Joshua Rifkin",
+      "positioning": {
+        "top": 746,
+        "left": 3
+      },
+      "style": {
+        "color": "#1ea56f",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa70317ccce20e20158fc282bb2aad5ab4487d9d",
+        "title": "e.g. Joshua Rifkin \"Stoptime Rag\"",
+        "trackId": "6LTXLjhsNInjj6DvxdCRSO"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=3GFsxlO8P0FZ3kZNgNCBww",
+      "id": "3GFsxlO8P0FZ3kZNgNCBww"
+    },
+    {
+      "artistName": "Paul Whiteman",
+      "positioning": {
+        "top": 768,
+        "left": 279
+      },
+      "style": {
+        "color": "#568c8d",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5756afd2f77bfae67978b22ba859894f2c4289b1",
+        "title": "e.g. Paul Whiteman \"The Darktown Strutters' Ball\"",
+        "trackId": "5jrn0iXYEhkXQbaFMkSsv9"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=1mZm40boQmdGKicfbNkd0r",
+      "id": "1mZm40boQmdGKicfbNkd0r"
+    },
+    {
+      "artistName": "William Bolcom",
+      "positioning": {
+        "top": 867,
+        "left": 54
+      },
+      "style": {
+        "color": "#1c9865",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f15185009486fbe7870e11bffcee01b275cf4f32",
+        "title": "e.g. William Bolcom \"3 Ghost Rags: No. 1. The Graceful Ghost\"",
+        "trackId": "6wLuJFRBcnlEeJdnjKqco4"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=0Uj2XBKJsuZZsf5xSEPfmS",
+      "id": "0Uj2XBKJsuZZsf5xSEPfmS"
+    },
+    {
+      "artistName": "Blind Blake",
+      "positioning": {
+        "top": 720,
+        "left": 970
+      },
+      "style": {
+        "color": "#569144",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bcb526c5a5ff47e526128c1215c1081eb009c1ed",
+        "title": "e.g. Blind Blake \"Police Dog Blues\"",
+        "trackId": "5QAc5ZmpXEKga522ecahI6"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=49KZvkEWchga5D1uhNo1yd",
+      "id": "49KZvkEWchga5D1uhNo1yd"
+    },
+    {
+      "artistName": "W.C. Handy",
+      "positioning": {
+        "top": 711,
+        "left": 139
+      },
+      "style": {
+        "color": "#578487",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/de123373dfb97c76f49a974ce227ac1ef82d831c",
+        "title": "e.g. W.C. Handy \"St. Louis Blues\"",
+        "trackId": "0p6NOOOm3SiEzgzO09z0lh"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=7mDbAZV24eEmw5VJpKlCi9",
+      "id": "7mDbAZV24eEmw5VJpKlCi9"
+    },
+    {
+      "artistName": "The Charleston Chasers",
+      "positioning": {
+        "top": 729,
+        "left": 1199
+      },
+      "style": {
+        "color": "#498a71",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fa23f6d2b3fe04c21a00667d21fc3347f695a43e",
+        "title": "e.g. The Charleston Chasers \"After You've Gone\"",
+        "trackId": "0uh6lXwNZT3bmeUgrTo7C0"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=6dpBuQU6XAlph0tVtZ85th",
+      "id": "6dpBuQU6XAlph0tVtZ85th"
+    },
+    {
+      "artistName": "Willie \"The Lion\" Smith",
+      "positioning": {
+        "top": 817,
+        "left": 587
+      },
+      "style": {
+        "color": "#538ca4",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f3090ebf5df4957b0fa988f776759010ce29075",
+        "title": "e.g. Willie \"The Lion\" Smith \"Moonlight Cocktail\"",
+        "trackId": "74fB9H24ayi7RTqI0VQeOv"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=037Qf6TiWsliaE0UuQB07S",
+      "id": "037Qf6TiWsliaE0UuQB07S"
+    },
+    {
+      "artistName": "Andy Kirk",
+      "positioning": {
+        "top": 707,
+        "left": 793
+      },
+      "style": {
+        "color": "#4d804c",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/840ca41f32abcc79b9c9f0dbb5d67fb2224afc9d",
+        "title": "e.g. Andy Kirk \"Bearcat Shuffle\"",
+        "trackId": "1TwR8Xv0z2F2T2u90Ou9HW"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6lDzuLTyt5ewY3FLfX1smg",
+      "id": "6lDzuLTyt5ewY3FLfX1smg"
+    },
+    {
+      "artistName": "Benjamin Loeb",
+      "positioning": {
+        "top": 901,
+        "left": 53
+      },
+      "style": {
+        "color": "#1caa6c",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc011a607d2b1e5846723d34bd23d33f8584d37f",
+        "title": "e.g. Benjamin Loeb \"4 Bagatelles, Op. 28: No. 3. Wiener Tanzweise (Viennese Dance Tune)\"",
+        "trackId": "0HYF1g00dFtWSoK2it2WE1"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=67UL1dFPdXgJCBSRRyRGgi",
+      "id": "67UL1dFPdXgJCBSRRyRGgi"
+    },
+    {
+      "artistName": "Jo Ann Castle",
+      "positioning": {
+        "top": 343,
+        "left": 830
+      },
+      "style": {
+        "color": "#8e8d92",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1391ea5a0afa82a8f925b97a93783f925c1a8ab0",
+        "title": "e.g. Jo Ann Castle \"12th Street Rag\"",
+        "trackId": "6OfdgURWuaWVqQSZwaRqal"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=7DnmaGtgTJlrbfkIMzeNel",
+      "id": "7DnmaGtgTJlrbfkIMzeNel"
+    },
+    {
+      "artistName": "Tom Brier",
+      "positioning": {
+        "top": 794,
+        "left": 106
+      },
+      "style": {
+        "color": "#53abe2",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d49d324ed2fdfe47796042d078e89bc7d395114c",
+        "title": "e.g. Tom Brier \"That American Rag\"",
+        "trackId": "1PayBvFJAeaQl6PcHRu7H0"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=1MS1jbrxtz1iQg1Gl0z7kL",
+      "id": "1MS1jbrxtz1iQg1Gl0z7kL"
+    },
+    {
+      "artistName": "Manhattan Ragtime Orchestra",
+      "positioning": {
+        "top": 566,
+        "left": 910
+      },
+      "style": {
+        "color": "#6f8ea8",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c233f5599afdd91e9da328f8b9068e385497a502",
+        "title": "e.g. Manhattan Ragtime Orchestra \"The Junk Man Rag\"",
+        "trackId": "2y34TyAsFRLW1iKJ2dr7HR"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3n8Iak6w2cUTzwD0y8IIHz",
+      "id": "3n8Iak6w2cUTzwD0y8IIHz"
+    },
+    {
+      "artistName": "Donald Beavers",
+      "positioning": {
+        "top": 511,
+        "left": 326
+      },
+      "style": {
+        "color": "#38b0f0",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e40a894869dd1f163665ae4ff566539ac1db27b",
+        "title": "e.g. Donald Beavers \"The Chrysanthemum\"",
+        "trackId": "3SsMdc2Q5aA2HlzD4qUyUn"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=5Ecn8b9b3epJp9etNNZSg5",
+      "id": "5Ecn8b9b3epJp9etNNZSg5"
+    },
+    {
+      "artistName": "Jimmy Blythe",
+      "positioning": {
+        "top": 826,
+        "left": 938
+      },
+      "style": {
+        "color": "#4f98c1",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4dd8b3d4ae9b38a02640c6dbcbd8931c3eb9f332",
+        "title": "e.g. Jimmy Blythe \"Weary Way Blues\"",
+        "trackId": "4t7BXJKhvXrTESMUURalIe"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=4JpiyXXxkMVaLebTRD2T7C",
+      "id": "4JpiyXXxkMVaLebTRD2T7C"
+    },
+    {
+      "artistName": "Paragon Ragtime Orchestra",
+      "positioning": {
+        "top": 698,
+        "left": 35
+      },
+      "style": {
+        "color": "#399b98",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ff2e1c443463831bb1b74a19c3d2872e8f0b600",
+        "title": "e.g. Paragon Ragtime Orchestra \"Palm Leaf Rag (feat. Rick Benjamin)\"",
+        "trackId": "1xMt5dwwegSn4M3FVMrFGG"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=4yF9RZa80FC7Er6QjA6RvH",
+      "id": "4yF9RZa80FC7Er6QjA6RvH"
+    },
+    {
+      "artistName": "River Raisin Ragtime Revue",
+      "positioning": {
+        "top": 677,
+        "left": 737
+      },
+      "style": {
+        "color": "#418894",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af830c1e14cf0a522327ad81c61c32d144ebe0ef",
+        "title": "e.g. River Raisin Ragtime Revue \"Grizzly Bear Rag\"",
+        "trackId": "3d4LXQP1vRL5WCZJYG6Ssf"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=0DSVPVMh7UcAiY2isyIO9I",
+      "id": "0DSVPVMh7UcAiY2isyIO9I"
+    },
+    {
+      "artistName": "Eubie Blake",
+      "positioning": {
+        "top": 848,
+        "left": 746
+      },
+      "style": {
+        "color": "#439d9a",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e027622055cef60d1300a2f78368f32c249b78d1",
+        "title": "e.g. Eubie Blake \"Raggin the Rag\"",
+        "trackId": "2sDfPeMVRIAWV7siEUzYAy"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=35Y7WdrKm5TItu5yHOJ69U",
+      "id": "35Y7WdrKm5TItu5yHOJ69U"
+    },
+    {
+      "artistName": "Ragtime Jazz Band",
+      "positioning": {
+        "top": 542,
+        "left": 961
+      },
+      "style": {
+        "color": "#7596a8",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4dba4b640c2ac32cbedef4c53dad7d5765c22be4",
+        "title": "e.g. Ragtime Jazz Band \"Frog Legs Rag\"",
+        "trackId": "5Zjj6zLi2xw7YDPciQ246r"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=1M38esruudowLhSBqhyBcD",
+      "id": "1M38esruudowLhSBqhyBcD"
+    },
+    {
+      "artistName": "Felix Arndt",
+      "positioning": {
+        "top": 787,
+        "left": 284
+      },
+      "style": {
+        "color": "#43a2cb",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7cf76ddf5b4da2ef983d6f563efbc1d1ce848ccf",
+        "title": "e.g. Felix Arndt \"Quand L'amour Meurt - Due-Art 55018\"",
+        "trackId": "0MssJcjQQpdavAyJzZAIfp"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=5RTXGfmr1WUW8iJ3g3B7Er",
+      "id": "5RTXGfmr1WUW8iJ3g3B7Er"
+    },
+    {
+      "artistName": "Martin Spitznagel",
+      "positioning": {
+        "top": 748,
+        "left": 503
+      },
+      "style": {
+        "color": "#4599dc",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/533b5e2cac8de7933f146e6f4c23d838573b8acb",
+        "title": "e.g. Martin Spitznagel \"The Easy Winners\"",
+        "trackId": "2JG7qkeDRvk7QA8CKZBXsJ"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2FANFYc7uOUVwemb0jm9vX",
+      "id": "2FANFYc7uOUVwemb0jm9vX"
+    },
+    {
+      "artistName": "The New Orleans Ragtime Orchestra",
+      "positioning": {
+        "top": 531,
+        "left": 293
+      },
+      "style": {
+        "color": "#52947f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c463c51ad33671c73d226bdf9fcf539b9f89cd10",
+        "title": "e.g. The New Orleans Ragtime Orchestra \"War Cloud\"",
+        "trackId": "69I4ssIATSX9bBFMB276BK"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=43MjGDXOHQIeCUa9DwIIyQ",
+      "id": "43MjGDXOHQIeCUa9DwIIyQ"
+    },
+    {
+      "artistName": "Max Morath",
+      "positioning": {
+        "top": 772,
+        "left": 783
+      },
+      "style": {
+        "color": "#49a090",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/10c7decada2d9649383db84bf370f5fe78f26f57",
+        "title": "e.g. Max Morath \"St. Louis Rag\"",
+        "trackId": "58NvSG4gwrmAfoXedtU7YK"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=34Mreq5fPf8HWbVhNFTJIF",
+      "id": "34Mreq5fPf8HWbVhNFTJIF"
+    },
+    {
+      "artistName": "Ragtime Classics",
+      "positioning": {
+        "top": 486,
+        "left": 377
+      },
+      "style": {
+        "color": "#5cb2e5",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/180b98e51f3f92823b3982ce72265a6ed6fb78e0",
+        "title": "e.g. Ragtime Classics \"The Nonpareil (Classic Ragtime Piano Version)\"",
+        "trackId": "27buiVY9MQYStLsqjROMzn"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=5Su8yvYowlFd00CYgq2a2C",
+      "id": "5Su8yvYowlFd00CYgq2a2C"
+    },
+    {
+      "artistName": "Waldham Ragtime Pianos",
+      "positioning": {
+        "top": 434,
+        "left": 1082
+      },
+      "style": {
+        "color": "#6da8dd",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63aad9e8d7d165f2c43ed8b8888c39cc3af61f19",
+        "title": "e.g. Waldham Ragtime Pianos \"Turkish Towel Rag\"",
+        "trackId": "19BfM4HVj4G3QMva9DRwd2"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=0494lwWXTnzzYxlGM8czb5",
+      "id": "0494lwWXTnzzYxlGM8czb5"
+    },
+    {
+      "artistName": "Guido Nielsen",
+      "positioning": {
+        "top": 822,
+        "left": 793
+      },
+      "style": {
+        "color": "#3eacde",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8a1d52ea889bcbffbc4d8d8616cf8c257847ba0",
+        "title": "e.g. Guido Nielsen \"Frog Legs Rag\"",
+        "trackId": "0IoqpZ55F042xPuYCbP7NG"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=2hk0CLU0IghkuxFs4jx8ZU",
+      "id": "2hk0CLU0IghkuxFs4jx8ZU"
+    },
+    {
+      "artistName": "Richard Zimmerman",
+      "positioning": {
+        "top": 759,
+        "left": 1031
+      },
+      "style": {
+        "color": "#58a8cb",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cb5157da305e9dc9ae2ad3a438cb91b66c3fad3a",
+        "title": "e.g. Richard Zimmerman \"The Entertainer\"",
+        "trackId": "3Pld2ZhqL15kYBoR5Mc6ZO"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=68njI4DLjgI4Zx7Qhc1duP",
+      "id": "68njI4DLjgI4Zx7Qhc1duP"
+    },
+    {
+      "artistName": "Sue Keller",
+      "positioning": {
+        "top": 868,
+        "left": 816
+      },
+      "style": {
+        "color": "#41a381",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9cc244e6b23c7dd9cd4f3c47006777b9df7ec22d",
+        "title": "e.g. Sue Keller \"Castle House Rag (James Reese Europe, 1914)\"",
+        "trackId": "07ZKL0jVrjxD1DqxizHXSL"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=1LjB5pWtBa02kIACdPb6tx",
+      "id": "1LjB5pWtBa02kIACdPb6tx"
+    },
+    {
+      "artistName": "Ralph Sutton",
+      "positioning": {
+        "top": 700,
+        "left": 578
+      },
+      "style": {
+        "color": "#4f93b6",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f379fe84833ec252b7676a684bb492c09973844b",
+        "title": "e.g. Ralph Sutton \"Cataract Rag\"",
+        "trackId": "0DIwS1czdks5yDr8WiDvOx"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=78vaS34w6HBZi3epzpfTz9",
+      "id": "78vaS34w6HBZi3epzpfTz9"
+    },
+    {
+      "artistName": "Adam Swanson",
+      "positioning": {
+        "top": 809,
+        "left": 816
+      },
+      "style": {
+        "color": "#4f9dcf",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5673b7aa36905213dcaa47be8f73719b99987c43",
+        "title": "e.g. Adam Swanson \"Friday Night Stomp\"",
+        "trackId": "0fwLzhXKvgf9gplHGvmitZ"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=0ndX9U2SpkmvQeJmwKJn2b",
+      "id": "0ndX9U2SpkmvQeJmwKJn2b"
+    },
+    {
+      "artistName": "Ragtime Allstars",
+      "positioning": {
+        "top": 499,
+        "left": 410
+      },
+      "style": {
+        "color": "#54b0e7",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a295f94184d03feab1865fc25996cd491e35bf28",
+        "title": "e.g. Ragtime Allstars \"Sugarcane Rag\"",
+        "trackId": "47BNH77XEOjVql5Hi6nvDv"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=5bw7l9VIDDT6yvnDT7loiX",
+      "id": "5bw7l9VIDDT6yvnDT7loiX"
+    },
+    {
+      "artistName": "James Scott",
+      "positioning": {
+        "top": 375,
+        "left": 713
+      },
+      "style": {
+        "color": "#669cc6",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7aad966c1523a98b15fdbfc49fb1b8fc49a9d43e",
+        "title": "e.g. James Scott \"Ragtime Oriole\"",
+        "trackId": "39kLuW5iB3d3PEdRgmagnc"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=4Dzdlxs6xusMPwxmED3CCJ",
+      "id": "4Dzdlxs6xusMPwxmED3CCJ"
+    },
+    {
+      "artistName": "Don Redman",
+      "positioning": {
+        "top": 761,
+        "left": 886
+      },
+      "style": {
+        "color": "#647f47",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0f7daacd650118243148883d35ec13d34b70770c",
+        "title": "e.g. Don Redman \"Swingin' With The Fat man (05-28-37)\"",
+        "trackId": "0UvL5i92LwNBNmL6Vx8SGk"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=4xgDy82aqLHAG2Is3ELRWv",
+      "id": "4xgDy82aqLHAG2Is3ELRWv"
+    },
+    {
+      "artistName": "Zez Confrey",
+      "positioning": {
+        "top": 828,
+        "left": 232
+      },
+      "style": {
+        "color": "#309ed8",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/da957938f10ba2699fe9ba3f4ac313f3bd93f599",
+        "title": "e.g. Zez Confrey \"Kitten on the Keys\"",
+        "trackId": "1SH49GqeyitOd9C4kk9dTM"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=3t84SvLyeJ5dBZRAdHvcXB",
+      "id": "3t84SvLyeJ5dBZRAdHvcXB"
+    },
+    {
+      "artistName": "The Roaring Twenties",
+      "positioning": {
+        "top": 473,
+        "left": 499
+      },
+      "style": {
+        "color": "#59b1e7",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c3e3caf8ac9379d339b1a49f72776ac1501b783",
+        "title": "e.g. The Roaring Twenties \"Grace and Beauty Rag\"",
+        "trackId": "4VKxYVVltXZsSfX7F5nR5f"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=2ssISnC4UBgHneCaveeSwK",
+      "id": "2ssISnC4UBgHneCaveeSwK"
+    },
+    {
+      "artistName": "The New Century Ragtime Orchestra",
+      "positioning": {
+        "top": 785,
+        "left": 671
+      },
+      "style": {
+        "color": "#439862",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8753e25eb327333883020409f6ac69688d016237",
+        "title": "e.g. The New Century Ragtime Orchestra \"Sun Flower Slow Drag\"",
+        "trackId": "1Epb8sOxA5qEze6P4GFw03"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=0NHEAgQrbHeHEanOcgD26C",
+      "id": "0NHEAgQrbHeHEanOcgD26C"
+    },
+    {
+      "artistName": "New England Conservatory Ragtime Ensemble",
+      "positioning": {
+        "top": 601,
+        "left": 760
+      },
+      "style": {
+        "color": "#659ac9",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7f006c68de2ee535bd490afd068cccc6bb6b595f",
+        "title": "e.g. New England Conservatory Ragtime Ensemble \"Joplin: Maple Leaf Rag\"",
+        "trackId": "5V79qvtdTXmFxozWHGAVtG"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=5zrzAU5z7BhvHwPo0PUN4H",
+      "id": "5zrzAU5z7BhvHwPo0PUN4H"
+    },
+    {
+      "artistName": "Peacherine Ragtime Society Orchestra",
+      "positioning": {
+        "top": 657,
+        "left": 438
+      },
+      "style": {
+        "color": "#647981",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9424c0dad095cf4c65dba544a95623f92b70ae38",
+        "title": "e.g. Peacherine Ragtime Society Orchestra \"At a Georgia Camp Meeting\"",
+        "trackId": "0JyViMcktMrOOaPNjiPz8C"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=51xdb6UyT7RMLyqsJDrBAs",
+      "id": "51xdb6UyT7RMLyqsJDrBAs"
+    },
+    {
+      "artistName": "Larisa Migachyov",
+      "positioning": {
+        "top": 895,
+        "left": 690
+      },
+      "style": {
+        "color": "#2aaee3",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8fbdbd6e29dd126ef6c5a62bd0c4e93d04bf40ca",
+        "title": "e.g. Larisa Migachyov \"Arugula Leaf Rag (feat. Tom Brier)\"",
+        "trackId": "6niwNmhKueV4unqfFRtKRh"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=7I6L2jPfOOtMEAcYaWYTBz",
+      "id": "7I6L2jPfOOtMEAcYaWYTBz"
+    },
+    {
+      "artistName": "Wilbur Sweatman",
+      "positioning": {
+        "top": 819,
+        "left": 30
+      },
+      "style": {
+        "color": "#7186d0",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a88f12caef5d90fc84bf9f86fa447136ac5d5d09",
+        "title": "e.g. Wilbur Sweatman \"Down Home Rag\"",
+        "trackId": "4Z7SokWbid2GfFqmtw8ZLL"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=7bLFjsezclIt1pqV4V3GjF",
+      "id": "7bLFjsezclIt1pqV4V3GjF"
+    },
+    {
+      "artistName": "Joseph Lamb",
+      "positioning": {
+        "top": 776,
+        "left": 966
+      },
+      "style": {
+        "color": "#3aa6b8",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2009f0394fda52759dec30b8ee1414d877af26d9",
+        "title": "e.g. Joseph Lamb \"The Ragtime Nightingale\"",
+        "trackId": "1AW9jBOE0CxbF1pz8UkMOn"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=4Ixy8zpU0z9hc8CYYdjdzj",
+      "id": "4Ixy8zpU0z9hc8CYYdjdzj"
+    },
+    {
+      "artistName": "Max Keenlyside",
+      "positioning": {
+        "top": 883,
+        "left": 634
+      },
+      "style": {
+        "color": "#38a7da",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/347755846ca855a7025200587f73022f1aa6c422",
+        "title": "e.g. Max Keenlyside \"Charleston Rag\"",
+        "trackId": "0ZAeW8NGcL0BUv6yWsVatI"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=3apMO1Ms4v4EP8ts6pquS6",
+      "id": "3apMO1Ms4v4EP8ts6pquS6"
+    },
+    {
+      "artistName": "Frederick Hodges",
+      "positioning": {
+        "top": 672,
+        "left": 1120
+      },
+      "style": {
+        "color": "#45a2e0",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7fe9b6a1a16846e100b0cdee5a6f5da4b4dde261",
+        "title": "e.g. Frederick Hodges \"Manhattan Serenade\"",
+        "trackId": "3DbSNIEtxlR44EVlwCVWd6"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=7Ag8IpdEfkvkjbKhytoiFv",
+      "id": "7Ag8IpdEfkvkjbKhytoiFv"
+    },
+    {
+      "artistName": "Wally Rose",
+      "positioning": {
+        "top": 814,
+        "left": 994
+      },
+      "style": {
+        "color": "#519ddb",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c394d7b440c7f6dbe3f71d744cdec0cbee7501d8",
+        "title": "e.g. Wally Rose \"New Era Rag\"",
+        "trackId": "6mBC9LUBJmWkJjiFUk82Se"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=29ja2bTYI7u1VtxBTFkhyB",
+      "id": "29ja2bTYI7u1VtxBTFkhyB"
+    },
+    {
+      "artistName": "Janet Klein",
+      "positioning": {
+        "top": 721,
+        "left": 858
+      },
+      "style": {
+        "color": "#4da105",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c6ba7c413d9366427f4aebec5ee37534e5a4cba",
+        "title": "e.g. Janet Klein \"What A Night For Spooning\"",
+        "trackId": "1YM9W4wKd6gVM3F9mChz5z"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=2b2aO1cUNH6KuaToknNsi7",
+      "id": "2b2aO1cUNH6KuaToknNsi7"
+    },
+    {
+      "artistName": "Ophelia Ragtime Orchestra",
+      "positioning": {
+        "top": 725,
+        "left": 139
+      },
+      "style": {
+        "color": "#49965a",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4da4aece59b4dd6dfff7212754149440ee0e858b",
+        "title": "e.g. Ophelia Ragtime Orchestra \"The Easy Winners-A Rag Time Two Step\"",
+        "trackId": "2VaE7kCHIoLxqZgoZWRb7E"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=0KAJsy9J4yDPcaqdhRTkjH",
+      "id": "0KAJsy9J4yDPcaqdhRTkjH"
+    },
+    {
+      "artistName": "Lew & Mary Green's Ragtime Evolution Quartet",
+      "positioning": {
+        "top": 698,
+        "left": 1344
+      },
+      "style": {
+        "color": "#2fa4d7",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ecfc42f3022206ce97955b989e6d132c45cb40c6",
+        "title": "e.g. Lew & Mary Green's Ragtime Evolution Quartet \"Pineapple Rag\"",
+        "trackId": "2r4k1QRRZ5g4sWSBGCtXDN"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=1v8m7fAnX6K3VVp3lpMqmm",
+      "id": "1v8m7fAnX6K3VVp3lpMqmm"
+    },
+    {
+      "artistName": "James Reese Europe",
+      "positioning": {
+        "top": 744,
+        "left": 260
+      },
+      "style": {
+        "color": "#608a8c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ebf17b4e6db8bef422d97e2232fb2cd630d2d711",
+        "title": "e.g. James Reese Europe \"Memphis Blues\"",
+        "trackId": "1ovv2yiV7hA1pSxjIksHu0"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=1iSzpYFWquQjjeTFQPLjMp",
+      "id": "1iSzpYFWquQjjeTFQPLjMp"
+    },
+    {
+      "artistName": "Luckey Roberts",
+      "positioning": {
+        "top": 800,
+        "left": 363
+      },
+      "style": {
+        "color": "#4c95ce",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28f9df7ff8d519601619ac8a75f44be313186367",
+        "title": "e.g. Luckey Roberts \"Pork & Beans\"",
+        "trackId": "1BOAuu1bM9i2uSikcg9Wpd"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=1qnq7ezjVDkKGJZYLZ1Ms2",
+      "id": "1qnq7ezjVDkKGJZYLZ1Ms2"
+    },
+    {
+      "artistName": "Southland Stingers",
+      "positioning": {
+        "top": 725,
+        "left": 578
+      },
+      "style": {
+        "color": "#3ba1db",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3818efa4cf2b876677062c70c7b3ac7d07cfb85",
+        "title": "e.g. Southland Stingers \"Bethena (A Concert Waltz) - Remastered\"",
+        "trackId": "3Nt1LRMofmJrWIyH7hKnkq"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=4Rk1l9rvZpBXgyjAjriCfU",
+      "id": "4Rk1l9rvZpBXgyjAjriCfU"
+    },
+    {
+      "artistName": "Tom Turpin",
+      "positioning": {
+        "top": 830,
+        "left": 695
+      },
+      "style": {
+        "color": "#3fa2d3",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bb0d3edc8e5521fefc0dbfb8ca480762f1a77a8f",
+        "title": "e.g. Tom Turpin \"Harlem Rag\"",
+        "trackId": "5heXPG7JNGx32eJwIcR6dp"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=3G3btzFgcGL3LszTymbpMD",
+      "id": "3G3btzFgcGL3LszTymbpMD"
+    },
+    {
+      "artistName": "Paragon Ragtime Orchestra and Singers",
+      "positioning": {
+        "top": 807,
+        "left": 30
+      },
+      "style": {
+        "color": "#359145",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=4DFcEwY0Vtpjn58W9mrCF7",
+      "id": "4DFcEwY0Vtpjn58W9mrCF7"
+    },
+    {
+      "artistName": "Charley Straight",
+      "positioning": {
+        "top": 839,
+        "left": 886
+      },
+      "style": {
+        "color": "#3f9887",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a642262593505912e18689e285d965d42447d4e",
+        "title": "e.g. Charley Straight \"Minor Gaff\"",
+        "trackId": "33SXW2J0YX3xNNgy1ts5tT"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=379UKntkmd4bvNP2QuW2Oh",
+      "id": "379UKntkmd4bvNP2QuW2Oh"
+    },
+    {
+      "artistName": "William (Bill) Moore",
+      "positioning": {
+        "top": 843,
+        "left": 592
+      },
+      "style": {
+        "color": "#479825",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2ee3b0f76e2c2d8bc432c6cbe537ecbec8df0d48",
+        "title": "e.g. William (Bill) Moore \"Ragtime Millionaire\"",
+        "trackId": "4DH5XDQZ5K3OBW9WbIGuJG"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=7F8U5LwoRYKoEonpr9DcZ7",
+      "id": "7F8U5LwoRYKoEonpr9DcZ7"
+    },
+    {
+      "artistName": "Reginald R. Robinson",
+      "positioning": {
+        "top": 830,
+        "left": 480
+      },
+      "style": {
+        "color": "#5bafdf",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6b95054c87c7236bc43f68e869f31ad1cda7f689",
+        "title": "e.g. Reginald R. Robinson \"Heliotrope Bouquet\"",
+        "trackId": "2By81V0TpxdV4GWkbpkDCG"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=4EfknnDm07esJwsHYMHMea",
+      "id": "4EfknnDm07esJwsHYMHMea"
+    },
+    {
+      "artistName": "George Lewis and his Ragtime Band",
+      "positioning": {
+        "top": 592,
+        "left": 134
+      },
+      "style": {
+        "color": "#895cb6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f9b6f6cdc1a40bfdebb9289fd7d92f633246cf2",
+        "title": "e.g. George Lewis and his Ragtime Band \"Just A Closer Walk With Thee (Alternative)\"",
+        "trackId": "58wJ7sOYbF1XOYw8YTBzBc"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=2QPZSKWDm1bLpVr6qAZfe7",
+      "id": "2QPZSKWDm1bLpVr6qAZfe7"
+    },
+    {
+      "artistName": "Birger's Ragtime Band",
+      "positioning": {
+        "top": 282,
+        "left": 1400
+      },
+      "style": {
+        "color": "#659f2e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=4P3cUd6FeR0MlaCIgAZSIL",
+      "id": "4P3cUd6FeR0MlaCIgAZSIL"
+    },
+    {
+      "artistName": "Mike Bernard",
+      "positioning": {
+        "top": 889,
+        "left": 0
+      },
+      "style": {
+        "color": "#319fd6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e3bf886e16676782703f07837274356f541c2e6",
+        "title": "e.g. Mike Bernard \"1915 Rag\"",
+        "trackId": "5exUHMh57tXKit85Z4F6Xy"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=0gbSi0SSbeDWR2rZMxttRB",
+      "id": "0gbSi0SSbeDWR2rZMxttRB"
+    },
+    {
+      "artistName": "David Thomas Roberts",
+      "positioning": {
+        "top": 855,
+        "left": 578
+      },
+      "style": {
+        "color": "#25afdb",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6f0c30c8d4b3607185895592d94e8dda11415139",
+        "title": "e.g. David Thomas Roberts \"Pretty Baby\"",
+        "trackId": "7hcLrCFeVjcL2YMbWrUHFq"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=0ivUoxm2WC88d3gOpk9rmv",
+      "id": "0ivUoxm2WC88d3gOpk9rmv"
+    },
+    {
+      "artistName": "Charles L. Johnson",
+      "positioning": {
+        "top": 0,
+        "left": 723
+      },
+      "style": {
+        "color": "#689a9e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=7LQxyUdBI99KBI4gc074i9",
+      "id": "7LQxyUdBI99KBI4gc074i9"
+    },
+    {
+      "artistName": "The Peacherine Ragtime Society Orchestra",
+      "positioning": {
+        "top": 713,
+        "left": 461
+      },
+      "style": {
+        "color": "#668d9d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9c0f2637383c076fa2df408ce91ac468af9fb69d",
+        "title": "e.g. The Peacherine Ragtime Society Orchestra \"Crazy Bone Rag\"",
+        "trackId": "0t3KKwaqINruc5EiOBwDoi"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=7nY6CFBIFBBaJYRLf3SWXJ",
+      "id": "7nY6CFBIFBBaJYRLf3SWXJ"
+    },
+    {
+      "artistName": "Ann Charters",
+      "positioning": {
+        "top": 883,
+        "left": 433
+      },
+      "style": {
+        "color": "#24a8e6",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3a2d0d17989aa26fb45c33b34623bf529e36549d",
+        "title": "e.g. Ann Charters \"Echoes from the Snowball Club - Ragtime Waltz\"",
+        "trackId": "1mLiVV6RDYEhVXlRNIFZ1f"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=4bqBsZT3Puxv76dWsL21L7",
+      "id": "4bqBsZT3Puxv76dWsL21L7"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=ragtime"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/7BKZEIdyav6sz9B628eXSx"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/39OwpH0wGcqBvBV9eOnPBW"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/7CKrIr13gN4WKtyEK34K78"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=ragtime"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "stride",
+      "positioning": {
+        "top": 273,
+        "left": 196
+      },
+      "style": {
+        "color": "#4d8f98",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05c49b807c668c2ba8a5c5de1b1ca5c2d57ae3cd",
+        "title": "e.g. Don Ewell \"Good Morning Blues\"",
+        "trackId": "0p27TIJNIrckXsBHq1AeHo"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-stride.html#tunnel"
+    },
+    {
+      "genreName": "harlem renaissance",
+      "positioning": {
+        "top": 239,
+        "left": 84
+      },
+      "style": {
+        "color": "#478b4d",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f3d58ee1ae160241f660bb42c57033819980a16c",
+        "title": "e.g. Fats Waller \"Ain't Misbehavin'\"",
+        "trackId": "3BFRqZFLSrqtQr6cjHbAxU"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-harlemrenaissance.html#tunnel"
+    },
+    {
+      "genreName": "vintage jazz",
+      "positioning": {
+        "top": 221,
+        "left": 168
+      },
+      "style": {
+        "color": "#56847a",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/80f8c2ace00bb8b176a78707f0a4690e2d03e65d",
+        "title": "e.g. Aileen Stanley \"My Little Bimbo Down On the Bambo Isle (Recorded August 1920)\"",
+        "trackId": "0pQNrBhxJTO0JEA7JAIJUe"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-vintagejazz.html#tunnel"
+    },
+    {
+      "genreName": "dixieland",
+      "positioning": {
+        "top": 144,
+        "left": 163
+      },
+      "style": {
+        "color": "#5d8077",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86e25b67bdabc01583ad4fd2f5797c07c2a4a615",
+        "title": "e.g. King Oliver \"Speakeasy Blues\"",
+        "trackId": "1mWA7EZ5MEVD7GJg57wPpB"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-dixieland.html#tunnel"
+    },
+    {
+      "genreName": "swing",
+      "positioning": {
+        "top": 182,
+        "left": 14
+      },
+      "style": {
+        "color": "#4e884f",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd100903c46606aa6e9340df85ef87bdb8dd8eeb",
+        "title": "e.g. Benny Goodman \"Sing, Sing, Sing\"",
+        "trackId": "61znp1Iy11bdJ2YAbwaqw7"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-swing.html#tunnel"
+    },
+    {
+      "genreName": "jazz piano",
+      "positioning": {
+        "top": 168,
+        "left": 81
+      },
+      "style": {
+        "color": "#4d918d",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd91e3f81c61a3f1710fa441d62036bde5d6a8b1",
+        "title": "e.g. Cedar Walton \"Blues For Myself\"",
+        "trackId": "5adplcKfzKt11qY8KvL4Dd"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-jazzpiano.html#tunnel"
+    },
+    {
+      "genreName": "hot jazz",
+      "positioning": {
+        "top": 287,
+        "left": 149
+      },
+      "style": {
+        "color": "#588674",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5557326c741b5c404be804b68fbc04ff1021d301",
+        "title": "e.g. The Missourians \"Prohibition Blues\"",
+        "trackId": "0bALbxCuieU272yFxsJEqo"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-hotjazz.html#tunnel"
+    },
+    {
+      "genreName": "barrelhouse piano",
+      "positioning": {
+        "top": 261,
+        "left": 238
+      },
+      "style": {
+        "color": "#4e915b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bf19fa3b7998b10f960bffd2da908ecafe2090b0",
+        "title": "e.g. Champion Jack Dupree \"Junker's Blues\"",
+        "trackId": "31GIhpOQpKCzlnuPn03pBQ"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-barrelhousepiano.html#tunnel"
+    },
+    {
+      "genreName": "boogie-woogie",
+      "positioning": {
+        "top": 0,
+        "left": 132
+      },
+      "style": {
+        "color": "#6a8b88",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f86c5a8a492a3c7d61016a3b540746fafc7e63f0",
+        "title": "e.g. Albert Ammons \"Boogie Woogie Prayer\"",
+        "trackId": "5DETB3BsCmTaxsdU2xSYEx"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-boogiewoogie.html#tunnel"
+    },
+    {
+      "genreName": "french jazz",
+      "positioning": {
+        "top": 48,
+        "left": 79
+      },
+      "style": {
+        "color": "#589093",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c9f76f6ed608c9f36d84afd646001191257463e6",
+        "title": "e.g. Laurent De Wilde \"Easy come easy go - Edit\"",
+        "trackId": "0TPnEGIdWuqnW85mIVqoie"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-frenchjazz.html#tunnel"
+    },
+    {
+      "genreName": "gypsy jazz",
+      "positioning": {
+        "top": 75,
+        "left": 300
+      },
+      "style": {
+        "color": "#5a8fa3",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f71cbb1c66ca5dd78a12530fedbb07685964928a",
+        "title": "e.g. Stochelo Rosenberg \"Chega De Saudade\"",
+        "trackId": "4p4NTf3kf2BE3vbqKUzlaG"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-gypsyjazz.html#tunnel"
+    },
+    {
+      "genreName": "jazz clarinet",
+      "positioning": {
+        "top": 118,
+        "left": 76
+      },
+      "style": {
+        "color": "#5d8388",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/28e2c0dcbc62c01e40f6a75de369544dc6c50fde",
+        "title": "e.g. Johnny Dodds \"Melancholy - 21/01/1938\"",
+        "trackId": "7A5uynAkC6pPrGdH7qvl5s"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-jazzclarinet.html#tunnel"
+    },
+    {
+      "genreName": "jazz guitar",
+      "positioning": {
+        "top": 36,
+        "left": 135
+      },
+      "style": {
+        "color": "#52978b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5d819b6688ed2884408aec2b5e53ff37b75b3f4",
+        "title": "e.g. George Van Eps \"Cheek To Cheek\"",
+        "trackId": "2LVOU6LzhwTwEnwsGWEy7B"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-jazzguitar.html#tunnel"
+    },
+    {
+      "genreName": "kyrgyz traditional",
+      "positioning": {
+        "top": 300,
+        "left": 0
+      },
+      "style": {
+        "color": "#4da198",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/be9ff5599b02bd289dc670effadb0775677bfa2b",
+        "title": "e.g. Kambarkan Folk Ensemble \"Appak suyuu tartuulaym (I give my true love to you)\"",
+        "trackId": "1Nz6hactPn10gVxwmk5AXx"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-kyrgyztraditional.html#tunnel"
+    },
+    {
+      "genreName": "new orleans jazz",
+      "positioning": {
+        "top": 132,
+        "left": 123
+      },
+      "style": {
+        "color": "#5a8472",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09c87fc7d722f72143f38c6e9cb85bd4d8c678b2",
+        "title": "e.g. Kid Ory \"The Bucket's Got a Hole in It\"",
+        "trackId": "6ZRsVuvtvim8tY5H3gWBxG"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-neworleansjazz.html#tunnel"
+    },
+    {
+      "genreName": "orquesta tipica",
+      "positioning": {
+        "top": 253,
+        "left": 118
+      },
+      "style": {
+        "color": "#4f9357",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b165d8ce96bc15837bf49b2e2a855cf273667b1f",
+        "title": "e.g. Francisco Lomuto y su Orquesta Típica \"Parque Patricios\"",
+        "trackId": "79gQIBGoAbbpoAfT2R5ckD"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-orquestatipica.html#tunnel"
+    }
+  ]
+}

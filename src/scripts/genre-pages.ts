@@ -2,13 +2,22 @@ import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { setTimeout as sleep } from "node:timers/promises";
-import { everynoiseUrl, genreNameToSlug, readGenreElement, readMapElement, trimLinkPostfix } from "../utils.ts";
+import {
+  everynoiseUrl,
+  genreNameToSlug,
+  readGenreElement,
+  readMapElement,
+  trimLinkPostfix,
+} from "../utils.ts";
 import { scrappy } from "../scrappy.ts";
 import genresJson from "../../data/genres.json" with { type: "json" };
 
-const defaultOutput = fileURLToPath(new URL("../../data/genres/", import.meta.url));
+const defaultOutput = fileURLToPath(
+  new URL("../../data/genres/", import.meta.url),
+);
 const schemaVersion = 3;
-const log = (message: string) => console.log(`[${new Date().toISOString()}] ${message}`);
+const log = (message: string) =>
+  console.log(`[${new Date().toISOString()}] ${message}`);
 
 class HttpError extends Error {
   status: number;
@@ -25,20 +34,36 @@ export function parseGenrePage(html: string, genreName: string) {
   const titleEl = $(".title");
   const canvas = $('.canvas[role="main"]');
   if (!titleEl.length || !canvas.length) {
-    throw new Error("Response is not a genre map (missing title or main canvas)");
+    throw new Error(
+      "Response is not a genre map (missing title or main canvas)",
+    );
   }
-  const artists = canvas.find(".genre").map((_, el) => ({
-    artistName: trimLinkPostfix($(el).text()),
-    ...readMapElement($(el)),
-    id: new URL($(el).find("a").attr("href") ?? "", everynoiseUrl).searchParams.get("id") ?? undefined,
-  })).get().filter((artist): artist is typeof artist & { id: string } =>
-    !!artist.id && /^[a-zA-Z0-9]{22}$/.test(artist.id));
-  const links = titleEl.find("a[href]").map((_, el) => ({
-    text: $(el).text(),
-    href: new URL($(el).attr("href")!, everynoiseUrl).href,
-  })).get();
+  const artists = canvas
+    .find(".genre")
+    .map((_, el) => ({
+      artistName: trimLinkPostfix($(el).text()),
+      ...readMapElement($(el)),
+      id:
+        new URL(
+          $(el).find("a").attr("href") ?? "",
+          everynoiseUrl,
+        ).searchParams.get("id") ?? undefined,
+    }))
+    .get()
+    .filter(
+      (artist): artist is typeof artist & { id: string } =>
+        !!artist.id && /^[a-zA-Z0-9]{22}$/.test(artist.id),
+    );
+  const links = titleEl
+    .find("a[href]")
+    .map((_, el) => ({
+      text: $(el).text(),
+      href: new URL($(el).attr("href")!, everynoiseUrl).href,
+    }))
+    .get();
   const relatedGenres = $("#tunnel .canvas .genre")
-    .map((_, el) => readGenreElement($(el))).get()
+    .map((_, el) => readGenreElement($(el)))
+    .get()
     .filter((genre) => genre.genreName !== genreName);
   return { schemaVersion, genreName, artists, links, relatedGenres };
 }
@@ -46,7 +71,7 @@ export function parseGenrePage(html: string, genreName: string) {
 export async function pregenerateGenrePages({
   genres = genresJson,
   outputDir = defaultOutput,
-  delayMs = 2000,
+  delayMs = 500,
   limit = Infinity,
   force = false,
   // Injectable for offline verification; CLI requests always use the defaults.
@@ -61,14 +86,21 @@ export async function pregenerateGenrePages({
   fetchPage?: typeof fetch;
   wait?: (ms: number) => Promise<unknown>;
 } = {}) {
-  const unique = new Map(genres.map((genre) => [genreNameToSlug(genre.genreName), genre]));
+  const unique = new Map(
+    genres.map((genre) => [genreNameToSlug(genre.genreName), genre]),
+  );
   const queue = [...unique].filter(([slug]) => !!slug).slice(0, limit);
   await mkdir(outputDir, { recursive: true });
   const started = Date.now();
-  let saved = 0, skipped = 0, failed = 0, consecutiveFailures = 0;
+  let saved = 0,
+    skipped = 0,
+    failed = 0,
+    consecutiveFailures = 0;
   let requested = false;
   let cooldownMs = 0;
-  log(`Starting ${queue.length} genres; one request at a time, ${delayMs}ms minimum pause; output: ${outputDir}`);
+  log(
+    `Starting ${queue.length} genres; one request at a time, ${delayMs}ms minimum pause; output: ${outputDir}`,
+  );
 
   for (const [index, [slug, { genreName }]] of queue.entries()) {
     const label = `[${index + 1}/${queue.length}] ${genreName} (${slug})`;
@@ -76,15 +108,24 @@ export async function pregenerateGenrePages({
     if (!force) {
       try {
         const existing = JSON.parse(await readFile(destination, "utf8"));
-        if (existing.schemaVersion === schemaVersion && existing.genreName === genreName && Array.isArray(existing.artists)
-          && Array.isArray(existing.links) && Array.isArray(existing.relatedGenres)) {
+        if (
+          existing.schemaVersion === schemaVersion &&
+          existing.genreName === genreName &&
+          Array.isArray(existing.artists) &&
+          Array.isArray(existing.links) &&
+          Array.isArray(existing.relatedGenres)
+        ) {
           skipped++;
           log(`${label}: skipped (already saved)`);
           continue;
         }
         log(`${label}: refreshing saved page (outdated or incomplete data)`);
       } catch (error) {
-        if (!(error instanceof SyntaxError) && (error as NodeJS.ErrnoException).code !== "ENOENT") throw error;
+        if (
+          !(error instanceof SyntaxError) &&
+          (error as NodeJS.ErrnoException).code !== "ENOENT"
+        )
+          throw error;
       }
     }
 
@@ -106,9 +147,12 @@ export async function pregenerateGenrePages({
         requested = true;
         log(`${label}: fetching (attempt ${attempt}/3)`);
         try {
-          const response = await fetchPage(`${everynoiseUrl}/engenremap-${slug}.html`, {
-            signal: AbortSignal.timeout(30_000),
-          });
+          const response = await fetchPage(
+            `${everynoiseUrl}/engenremap-${slug}.html`,
+            {
+              signal: AbortSignal.timeout(30_000),
+            },
+          );
           if (!response.ok) {
             const retryAfter = response.headers.get("retry-after");
             const seconds = retryAfter === null ? NaN : Number(retryAfter);
@@ -121,13 +165,21 @@ export async function pregenerateGenrePages({
           html = await response.text();
           break;
         } catch (error) {
-          const retryable = !(error instanceof HttpError) || error.status === 429
-            || error.status === 408 || error.status >= 500;
+          const retryable =
+            !(error instanceof HttpError) ||
+            error.status === 429 ||
+            error.status === 408 ||
+            error.status >= 500;
           if (retryable) {
-            cooldownMs = Math.max(5000 * 2 ** (attempt - 1), error instanceof HttpError ? error.retryAfterMs : 0);
+            cooldownMs = Math.max(
+              5000 * 2 ** (attempt - 1),
+              error instanceof HttpError ? error.retryAfterMs : 0,
+            );
           }
           if (!retryable || attempt === 3) throw error;
-          log(`${label}: ${error instanceof Error ? error.message : String(error)}; retrying after ${(cooldownMs / 1000).toFixed(1)}s`);
+          log(
+            `${label}: ${error instanceof Error ? error.message : String(error)}; retrying after ${(cooldownMs / 1000).toFixed(1)}s`,
+          );
         }
       }
       const page = parseGenrePage(html, genreName);
@@ -136,38 +188,69 @@ export async function pregenerateGenrePages({
       await rename(`${destination}.tmp`, destination);
       saved++;
       consecutiveFailures = 0;
-      log(`${label}: saved ${page.artists.length} artists, ${page.relatedGenres.length} related genres`);
+      log(
+        `${label}: saved ${page.artists.length} artists, ${page.relatedGenres.length} related genres`,
+      );
     } catch (error) {
       failed++;
       consecutiveFailures++;
-      log(`${label}: FAILED: ${error instanceof Error ? error.message : String(error)}`);
-      if (consecutiveFailures >= 5 || (error instanceof HttpError && [403, 429].includes(error.status))) {
-        log("Stopping: server blocked requests, rate limit persisted, or five consecutive genres failed. Rerun later to resume.");
+      log(
+        `${label}: FAILED: ${error instanceof Error ? error.message : String(error)}`,
+      );
+      if (
+        consecutiveFailures >= 5 ||
+        (error instanceof HttpError && [403, 429].includes(error.status))
+      ) {
+        log(
+          "Stopping: server blocked requests, rate limit persisted, or five consecutive genres failed. Rerun later to resume.",
+        );
         break;
       }
     }
   }
   const remaining = queue.length - saved - skipped - failed;
-  log(`Finished in ${((Date.now() - started) / 1000).toFixed(1)}s: ${saved} saved, ${skipped} skipped, ${failed} failed, ${remaining} unprocessed`);
+  log(
+    `Finished in ${((Date.now() - started) / 1000).toFixed(1)}s: ${saved} saved, ${skipped} skipped, ${failed} failed, ${remaining} unprocessed`,
+  );
   return { saved, skipped, failed, remaining };
 }
 
-if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+if (
+  process.argv[1] &&
+  path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)
+) {
   try {
     const args = process.argv.slice(2);
     if (args.includes("--help")) {
-      console.log("Usage: node src/scripts/genre-pages.ts [--limit=N] [--delay-ms=N] [--force]\nDefaults: 2000ms pause, all genres, skip saved pages with the current schema. Minimum CLI pause: 1000ms.");
+      console.log(
+        "Usage: node src/scripts/genre-pages.ts [--limit=N] [--delay-ms=N] [--force]\nDefaults: 2000ms pause, all genres, skip saved pages with the current schema. Minimum CLI pause: 1000ms.",
+      );
     } else {
       for (const arg of args) {
-        if (arg !== "--force" && !/^--(limit|delay-ms)=\d+$/.test(arg)) throw new Error(`Unknown or invalid argument: ${arg}`);
+        if (arg !== "--force" && !/^--(limit|delay-ms)=\d+$/.test(arg))
+          throw new Error(`Unknown or invalid argument: ${arg}`);
       }
-      const numberArg = (name: string, fallback: number) => Number(args.find((arg) => arg.startsWith(`--${name}=`))?.split("=")[1] ?? fallback);
-      const delayMs = numberArg("delay-ms", 2000);
+      const numberArg = (name: string, fallback: number) =>
+        Number(
+          args.find((arg) => arg.startsWith(`--${name}=`))?.split("=")[1] ??
+            fallback,
+        );
+      const delayMs = numberArg("delay-ms", 1000);
       const limit = numberArg("limit", Infinity);
-      if (!Number.isSafeInteger(delayMs) || delayMs < 1000 || (limit !== Infinity && (!Number.isSafeInteger(limit) || limit < 1))) {
-        throw new Error("--delay-ms must be an integer >= 1000; --limit must be a positive integer");
+      if (
+        !Number.isSafeInteger(delayMs) ||
+        delayMs < 1000 ||
+        (limit !== Infinity && (!Number.isSafeInteger(limit) || limit < 1))
+      ) {
+        throw new Error(
+          "--delay-ms must be an integer >= 1000; --limit must be a positive integer",
+        );
       }
-      const result = await pregenerateGenrePages({ delayMs, limit, force: args.includes("--force") });
+      const result = await pregenerateGenrePages({
+        delayMs,
+        limit,
+        force: args.includes("--force"),
+      });
       if (result.failed || result.remaining) process.exitCode = 1;
     }
   } catch (error) {
