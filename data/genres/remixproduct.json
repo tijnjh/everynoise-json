@@ -1,0 +1,1633 @@
+{
+  "schemaVersion": 3,
+  "genreName": "remix product",
+  "artists": [
+    {
+      "artistName": "Marc Korn",
+      "positioning": {
+        "top": 350,
+        "left": 614
+      },
+      "style": {
+        "color": "#e1771d",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a9ab8c1b133a005e7f176095cb701330af12d5ca",
+        "title": "e.g. Marc Korn \"Welt Brennt\"",
+        "trackId": "6kgPnp3vSk3okd0hj1HWpp"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=2ds47hSr82tLZR2kS5aNdt",
+      "id": "2ds47hSr82tLZR2kS5aNdt"
+    },
+    {
+      "artistName": "Quickdrop",
+      "positioning": {
+        "top": 395,
+        "left": 89
+      },
+      "style": {
+        "color": "#e77619",
+        "fontSize": "130%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc2dff78b55ac28b5c307ac9590ef0bede57bb9a",
+        "title": "e.g. Quickdrop \"It's Me\"",
+        "trackId": "0q3jMRpfphLmOgqSMr0j2x"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=5zwFj25Ky9akUZjQHuaDDa",
+      "id": "5zwFj25Ky9akUZjQHuaDDa"
+    },
+    {
+      "artistName": "Nick Skitz",
+      "positioning": {
+        "top": 388,
+        "left": 704
+      },
+      "style": {
+        "color": "#ea672e",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c2183472ee55a1cb0a2797c72ccac9d5f99227e4",
+        "title": "e.g. Nick Skitz \"Call From Babylon - Radio Edit\"",
+        "trackId": "5lpjfWC702eoeGlFIb0pVb"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=0b56YzqAu22jh2CDUYvbbx",
+      "id": "0b56YzqAu22jh2CDUYvbbx"
+    },
+    {
+      "artistName": "Jaycee Madoxx",
+      "positioning": {
+        "top": 413,
+        "left": 502
+      },
+      "style": {
+        "color": "#df8012",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9752767b33063cd0e8e152b5e8d03d352af328db",
+        "title": "e.g. Jaycee Madoxx \"Dernière Danse\"",
+        "trackId": "5SvTWCY7D2tF43RTUvexV5"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=7gDyK0tueVyVOu4EDAcKZU",
+      "id": "7gDyK0tueVyVOu4EDAcKZU"
+    },
+    {
+      "artistName": "Club Madness",
+      "positioning": {
+        "top": 427,
+        "left": 773
+      },
+      "style": {
+        "color": "#ce7806",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/76502cef02c491fb8331f538c74648a9309bb50c",
+        "title": "e.g. Club Madness \"Pumped Up Kicks - Smithee House Mix Edit\"",
+        "trackId": "4Jp5uWdV97jFJUBuUGa5eo"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=0Ta54JZrRWuDX3NkK1wouY",
+      "id": "0Ta54JZrRWuDX3NkK1wouY"
+    },
+    {
+      "artistName": "X-Cess!",
+      "positioning": {
+        "top": 246,
+        "left": 536
+      },
+      "style": {
+        "color": "#ec6a08",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cd3769420cc017243cdaecab8bcdd69678fbd954",
+        "title": "e.g. X-Cess! \"Rockstar - Empyre One Remix Edit\"",
+        "trackId": "6WRjjxvjjIqBvhoNc8E46z"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=38TdbaFRXl7N5hR1TWjBzd",
+      "id": "38TdbaFRXl7N5hR1TWjBzd"
+    },
+    {
+      "artistName": "Projekt Black",
+      "positioning": {
+        "top": 193,
+        "left": 902
+      },
+      "style": {
+        "color": "#f07079",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4aafd45a8010ece12c7f51288d123b3f322666cb",
+        "title": "e.g. Projekt Black \"Freaks - Basslouder Edit\"",
+        "trackId": "16MrNauqLD4d9skTN6ffpf"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=7pq9Fr044BIAukEualh4fc",
+      "id": "7pq9Fr044BIAukEualh4fc"
+    },
+    {
+      "artistName": "Diva Chain",
+      "positioning": {
+        "top": 233,
+        "left": 553
+      },
+      "style": {
+        "color": "#e96d1a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6b72464e73e9795a341ebddde8af43224945df64",
+        "title": "e.g. Diva Chain \"Call Me Maybe - Basslouder Edit\"",
+        "trackId": "6odubN4cRclO0rSeD0iG6u"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=2rv322dUWzm2hFh6VWtQHg",
+      "id": "2rv322dUWzm2hFh6VWtQHg"
+    },
+    {
+      "artistName": "Jason Born",
+      "positioning": {
+        "top": 470,
+        "left": 773
+      },
+      "style": {
+        "color": "#c77b06",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/df7d940a552472cb31475b85e4fe45ade6b49b82",
+        "title": "e.g. Jason Born \"Drive By (Clubwaver Mix Radio Edit)\"",
+        "trackId": "77brMdiIWhR3NjRglfw3lp"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=0tdPZNOtlUhgl2Ix2onqt3",
+      "id": "0tdPZNOtlUhgl2Ix2onqt3"
+    },
+    {
+      "artistName": "Danceboy",
+      "positioning": {
+        "top": 168,
+        "left": 927
+      },
+      "style": {
+        "color": "#f27044",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a165bd58e89d0a14fd308a14586edd7145e9341",
+        "title": "e.g. Danceboy \"Take Me Away - Radio Mix\"",
+        "trackId": "0kr043rxA6QryNMkPTYQXh"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=3GTkO2quBLK3tatwSTU2fj",
+      "id": "3GTkO2quBLK3tatwSTU2fj"
+    },
+    {
+      "artistName": "Fizzy Deejay",
+      "positioning": {
+        "top": 301,
+        "left": 820
+      },
+      "style": {
+        "color": "#da7923",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2cb90bcd723b1b6a72191ca0dc275a4ca14b8fc3",
+        "title": "e.g. Fizzy Deejay \"Easy on Me (Jesse Bloch Remix Edit)\"",
+        "trackId": "2Yg4BjQ0maCpvqZHbJN8dO"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=7q2xBzF5qLfvOdbNFIBLpN",
+      "id": "7q2xBzF5qLfvOdbNFIBLpN"
+    },
+    {
+      "artistName": "Wordz Deejay",
+      "positioning": {
+        "top": 321,
+        "left": 1121
+      },
+      "style": {
+        "color": "#c38205",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/01d272775ddcc255aaf10bbd736e814ba1c6448f",
+        "title": "e.g. Wordz Deejay \"One Day (Radio Edit)\"",
+        "trackId": "1H3LzPYnxmO5wAuwlE5GMZ"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=3UEmdrOz3XI2OHOOtkMC8I",
+      "id": "3UEmdrOz3XI2OHOOtkMC8I"
+    },
+    {
+      "artistName": "DJ Gollum vs. Empyre One",
+      "positioning": {
+        "top": 268,
+        "left": 1005
+      },
+      "style": {
+        "color": "#e26801",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/023f8370b66d5ad262c9b83b77276cee8a8934dc",
+        "title": "e.g. DJ Gollum vs. Empyre One \"The Bad Touch - Empyre One Edit\"",
+        "trackId": "3KsqwqnxQ9spJr56315AQp"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=17oAkPGROErboRsdjwNIYf",
+      "id": "17oAkPGROErboRsdjwNIYf"
+    },
+    {
+      "artistName": "Fly Dollah",
+      "positioning": {
+        "top": 284,
+        "left": 459
+      },
+      "style": {
+        "color": "#e37303",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/887effcbaa65e9df9781a7e784e863bef1c773fe",
+        "title": "e.g. Fly Dollah \"Scream & Shout (Basslouder Remix Edit)\"",
+        "trackId": "58zBwfD97tXlw0cYODxscs"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=5qG2FBAZCRF9rZ1aw5muos",
+      "id": "5qG2FBAZCRF9rZ1aw5muos"
+    },
+    {
+      "artistName": "Alonso Gonzalez",
+      "positioning": {
+        "top": 0,
+        "left": 1400
+      },
+      "style": {
+        "color": "#b8909d",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=4xbq2REmxS0UGmYyGg86LU",
+      "id": "4xbq2REmxS0UGmYyGg86LU"
+    },
+    {
+      "artistName": "Dirty Scandal",
+      "positioning": {
+        "top": 382,
+        "left": 596
+      },
+      "style": {
+        "color": "#db7806",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c8de5cd31a7b4659cf45f16d02c199ca0a1be93",
+        "title": "e.g. Dirty Scandal \"Try - Basslouder Edit\"",
+        "trackId": "1RI9DEKqrlNybnPdTMQF3Y"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=31bfMz3WIxwpaWdkA5QVYR",
+      "id": "31bfMz3WIxwpaWdkA5QVYR"
+    },
+    {
+      "artistName": "Love Empire",
+      "positioning": {
+        "top": 427,
+        "left": 566
+      },
+      "style": {
+        "color": "#c16b19",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e9d711779d9deaef237f5c17949efa60bd962bf0",
+        "title": "e.g. Love Empire \"Rain Over Me - Technoposse Edit\"",
+        "trackId": "1LkfmnzDBlBjOhKLt139Vb"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=4CMRJrbhxzSkNh09rzEvxQ",
+      "id": "4CMRJrbhxzSkNh09rzEvxQ"
+    },
+    {
+      "artistName": "Killah Swagger",
+      "positioning": {
+        "top": 400,
+        "left": 510
+      },
+      "style": {
+        "color": "#de7306",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0959a6fd5be5cd06e3999b8ea7d2dab60220701b",
+        "title": "e.g. Killah Swagger \"Scream (Tobi ft. LuTraXx Remix Edit)\"",
+        "trackId": "1hXO7CEzxC77pX0lAdCOE5"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=7IVkDRQDFNpqGCFRkHQa1l",
+      "id": "7IVkDRQDFNpqGCFRkHQa1l"
+    },
+    {
+      "artistName": "Michael Newton",
+      "positioning": {
+        "top": 415,
+        "left": 751
+      },
+      "style": {
+        "color": "#de6705",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/88e292e67b911a62ea2df0a122a48a985b6a4c52",
+        "title": "e.g. Michael Newton \"WOW! (Hey, Hey) - CCK Radio Edit\"",
+        "trackId": "47wrztCA4jNnvTRg7xJIVW"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=7m0yQ5OgnTCjmKWSb7jQxe",
+      "id": "7m0yQ5OgnTCjmKWSb7jQxe"
+    },
+    {
+      "artistName": "Tuff Rider",
+      "positioning": {
+        "top": 231,
+        "left": 863
+      },
+      "style": {
+        "color": "#e56f13",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b75738fbd77b332246fdf513b30f146f5a1a9c3a",
+        "title": "e.g. Tuff Rider \"Starships - Kandy Man Edit\"",
+        "trackId": "4hCXBfdHs7Uz0qq9cYRHJI"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=6vGGgpfzdWA0P7SNevGra7",
+      "id": "6vGGgpfzdWA0P7SNevGra7"
+    },
+    {
+      "artistName": "Electro Driverz",
+      "positioning": {
+        "top": 388,
+        "left": 459
+      },
+      "style": {
+        "color": "#e16a0c",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/22a82ac13786c3404c922b43c2a46aa4b4856327",
+        "title": "e.g. Electro Driverz \"Laserlight (DRM Vs Dayz Remix Edit)\"",
+        "trackId": "4HtVPN6vA3LMlh9OgY1vT5"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=5AIS72vWMsWScqyRkLivHD",
+      "id": "5AIS72vWMsWScqyRkLivHD"
+    },
+    {
+      "artistName": "High Rolla",
+      "positioning": {
+        "top": 278,
+        "left": 627
+      },
+      "style": {
+        "color": "#ef660d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ed9c776d16ce8b1ce687815e5119806d0ea814ad",
+        "title": "e.g. High Rolla \"Don't Wake Me Up - Basslouder Edit\"",
+        "trackId": "6HFhgyxMRWlDrtUeODVIVw"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=4pr7MV6pcyWDQy4pJSTs4d",
+      "id": "4pr7MV6pcyWDQy4pJSTs4d"
+    },
+    {
+      "artistName": "Vanilla Kiss",
+      "positioning": {
+        "top": 338,
+        "left": 807
+      },
+      "style": {
+        "color": "#de7122",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/784c0d1f79868d37ccff3de7a64eb15ed110ed4f",
+        "title": "e.g. Vanilla Kiss \"Home Alone - Kinky Boyz Remix Edit\"",
+        "trackId": "5jVfBpy1VNKDryyzjaqslr"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=54HzRqXdlhwENoJz0G4i4A",
+      "id": "54HzRqXdlhwENoJz0G4i4A"
+    },
+    {
+      "artistName": "Cold Luv",
+      "positioning": {
+        "top": 481,
+        "left": 605
+      },
+      "style": {
+        "color": "#dd7303",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/055fea0d72383b4a3eee256ebc4f686db89929da",
+        "title": "e.g. Cold Luv \"Marry You (O.M.G. Remix Edit)\"",
+        "trackId": "2SSDnRerb1Hboc5zqdlGKE"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=77B6AJjBmcEbr8P9c2Ufse",
+      "id": "77B6AJjBmcEbr8P9c2Ufse"
+    },
+    {
+      "artistName": "Dancecore Deejay",
+      "positioning": {
+        "top": 338,
+        "left": 661
+      },
+      "style": {
+        "color": "#da7a1b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d4b2cf93b14271d2e26d4957748b0649f840eed3",
+        "title": "e.g. Dancecore Deejay \"Diamonds - DRM Edit\"",
+        "trackId": "32MBi9XF0Baffb3XJHeedn"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=44UeW0HcTOwDNo6BSfUOMH",
+      "id": "44UeW0HcTOwDNo6BSfUOMH"
+    },
+    {
+      "artistName": "Sweat Box",
+      "positioning": {
+        "top": 458,
+        "left": 652
+      },
+      "style": {
+        "color": "#d17a08",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1412019672cf27b87c4f4246d98d4397fa537aed",
+        "title": "e.g. Sweat Box \"Applause - Kris McTwain Edit\"",
+        "trackId": "50YuSjduEA43X8d5IChP5y"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=5moYYwpTPMmQkChPfw6ihk",
+      "id": "5moYYwpTPMmQkChPfw6ihk"
+    },
+    {
+      "artistName": "Hot Cherry",
+      "positioning": {
+        "top": 277,
+        "left": 816
+      },
+      "style": {
+        "color": "#d97a03",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/761f260617a75cb0e607c1bb6e19f3b2f4f2e570",
+        "title": "e.g. Hot Cherry \"Roar - Bass Rayders Edit\"",
+        "trackId": "50IFmxdUCUzlzdNoFBR6lo"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=1xSwpeSJYBtDmL3J1KMn8L",
+      "id": "1xSwpeSJYBtDmL3J1KMn8L"
+    },
+    {
+      "artistName": "Cruise Controllerz",
+      "positioning": {
+        "top": 259,
+        "left": 446
+      },
+      "style": {
+        "color": "#f0620d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/568dcb6fa8b79c9d2b9cb05adeead11d93276e02",
+        "title": "e.g. Cruise Controllerz \"Troublemaker (Summervibes Remix Edit)\"",
+        "trackId": "2mYC6q1xUjLGBCXq55yvtP"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=2Z32kvj4xLsQAJdnggzdPu",
+      "id": "2Z32kvj4xLsQAJdnggzdPu"
+    },
+    {
+      "artistName": "Ruff Cash",
+      "positioning": {
+        "top": 326,
+        "left": 760
+      },
+      "style": {
+        "color": "#dc6e0d",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ebde6111c2632a2bf2f2da24b4082e5d105f388c",
+        "title": "e.g. Ruff Cash \"Undefeated (Basslouder Remix Edit)\"",
+        "trackId": "5oZVDGQdlySPoQTlU1njAq"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=3zlBOC4dqyjjSlwnGySaWr",
+      "id": "3zlBOC4dqyjjSlwnGySaWr"
+    },
+    {
+      "artistName": "Cansis vs. Spaceship",
+      "positioning": {
+        "top": 427,
+        "left": 382
+      },
+      "style": {
+        "color": "#d67011",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ee56f4a4761295d2ff7c17842af306db9bed433",
+        "title": "e.g. Cansis vs. Spaceship \"Jump 2 Gether - Radio Edit\"",
+        "trackId": "1IhWZJA0Mzt5nnukqHHiMP"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1NKUmvo3ZzHxrG6VdKDShE",
+      "id": "1NKUmvo3ZzHxrG6VdKDShE"
+    },
+    {
+      "artistName": "Chris Victory",
+      "positioning": {
+        "top": 314,
+        "left": 755
+      },
+      "style": {
+        "color": "#dc6d03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63dfe2b02b005fc1dac5d25d415db0d1ec7320fa",
+        "title": "e.g. Chris Victory \"Hold Me Now - Empyre One Single Mix\"",
+        "trackId": "0Yaz2E2pOdR8WmBJgWMB8Q"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6NyBvgtqqseWtIP36EgaM5",
+      "id": "6NyBvgtqqseWtIP36EgaM5"
+    },
+    {
+      "artistName": "Nick Skitz Vs Blissphoria",
+      "positioning": {
+        "top": 439,
+        "left": 214
+      },
+      "style": {
+        "color": "#f26014",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/363a8d8626dff14dd2b79d958e1c6f9ee88c8f6b",
+        "title": "e.g. Nick Skitz Vs Blissphoria \"Lord Of The Rings (KCB Remix)\"",
+        "trackId": "1GKmFsueocD2QtR7J2JEMV"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=0K07uLbyVJ9nEHVGqxNFzq",
+      "id": "0K07uLbyVJ9nEHVGqxNFzq"
+    },
+    {
+      "artistName": "Love Triangle",
+      "positioning": {
+        "top": 370,
+        "left": 575
+      },
+      "style": {
+        "color": "#ee6826",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0c245d32df699d1f33000f83a61291a394cc2368",
+        "title": "e.g. Love Triangle \"Summertime Sadness - Basslouder Remix Edit\"",
+        "trackId": "3ol2cneLQbyLXJYpov37E6"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=38VItyNQBt7DLiGVzEUSJL",
+      "id": "38VItyNQBt7DLiGVzEUSJL"
+    },
+    {
+      "artistName": "Kandyman",
+      "positioning": {
+        "top": 231,
+        "left": 1121
+      },
+      "style": {
+        "color": "#de7539",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba8c5ed1ba853af6bed53811f7d27342a8baf0e1",
+        "title": "e.g. Kandyman \"This Is Who I Am - Commercial Club Crew Radio Edit\"",
+        "trackId": "1JfXcYXIvwHol5bDuaXlyy"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=4elwWEAiV7HfFeMKhE7UWS",
+      "id": "4elwWEAiV7HfFeMKhE7UWS"
+    },
+    {
+      "artistName": "2 Raverz",
+      "positioning": {
+        "top": 304,
+        "left": 175
+      },
+      "style": {
+        "color": "#ea677c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/27862f04f90d7bf9caeddab08f0746c18706cf93",
+        "title": "e.g. 2 Raverz \"With The Crowd - Deamon Remix Edit\"",
+        "trackId": "6zJmrXrGNW1FJA7HnWHKdj"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=4X7NtDVIrbIHQVYCywfCHd",
+      "id": "4X7NtDVIrbIHQVYCywfCHd"
+    },
+    {
+      "artistName": "Jack Rowan",
+      "positioning": {
+        "top": 371,
+        "left": 412
+      },
+      "style": {
+        "color": "#d86e52",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a681498dc99081ab9fa02d74b9457ba446265f8b",
+        "title": "e.g. Jack Rowan \"Invincible (feat. Sam Gray)\"",
+        "trackId": "6KVyzdDAurGvVTCNfmZQgg"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=0r8lKL4uh0mswco5UuLAOx",
+      "id": "0r8lKL4uh0mswco5UuLAOx"
+    },
+    {
+      "artistName": "Live Tonight",
+      "positioning": {
+        "top": 352,
+        "left": 987
+      },
+      "style": {
+        "color": "#dc7204",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/189f80fb4dcdec3696cccb543cd5fdad3884de4f",
+        "title": "e.g. Live Tonight \"Paradise - DJ Dayz Edit\"",
+        "trackId": "434wX2EnFUeTY9rOjOproq"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=49FTZ9WsqVZT58pcPWa1St",
+      "id": "49FTZ9WsqVZT58pcPWa1St"
+    },
+    {
+      "artistName": "DJ Restlezz vs. Tribune",
+      "positioning": {
+        "top": 357,
+        "left": 72
+      },
+      "style": {
+        "color": "#f06502",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c16d14e3993ea6fc4ea2c293f42c6b4c22600905",
+        "title": "e.g. DJ Restlezz vs. Tribune \"Happy Revolution - Megastylez Remix Edit\"",
+        "trackId": "5n9Pgu009PGUvKdt0xXbfX"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=6ER3wWuoamlVsO6RFKAJ29",
+      "id": "6ER3wWuoamlVsO6RFKAJ29"
+    },
+    {
+      "artistName": "Naya Marie",
+      "positioning": {
+        "top": 264,
+        "left": 777
+      },
+      "style": {
+        "color": "#e16717",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/eedc6de822d0e00a10bdeb7584879698df6ede29",
+        "title": "e.g. Naya Marie \"Can You Hear My Voice\"",
+        "trackId": "7rvyU6C3ivqIpszG7X18N9"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=4ll5J1kiYVXSiXYWFpax6F",
+      "id": "4ll5J1kiYVXSiXYWFpax6F"
+    },
+    {
+      "artistName": "Rocco & Bass-T vs. Redtzer",
+      "positioning": {
+        "top": 256,
+        "left": 1052
+      },
+      "style": {
+        "color": "#d07401",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2e0ba022050776050820ccf8425801ec869fe6b5",
+        "title": "e.g. Rocco & Bass-T vs. Redtzer \"Holy Ground - Redtzer Remix Edit\"",
+        "trackId": "44PIhnUE0eqET9HRqkiZOn"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=22s9tJfd85yynyKnGBhDwy",
+      "id": "22s9tJfd85yynyKnGBhDwy"
+    },
+    {
+      "artistName": "Hayley Scott",
+      "positioning": {
+        "top": 357,
+        "left": 523
+      },
+      "style": {
+        "color": "#e95a11",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/732506e8e4d1ec3971fa936e66ddd09b2d4e1044",
+        "title": "e.g. Hayley Scott \"First Beat of My Heart - Cc.K Remix Edit\"",
+        "trackId": "5WVgF9lBQ3uUmgsvZv5bDf"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=4MuxabBgZFZ4iUgEQXMe3L",
+      "id": "4MuxabBgZFZ4iUgEQXMe3L"
+    },
+    {
+      "artistName": "Kimura & Tube Tonic",
+      "positioning": {
+        "top": 383,
+        "left": 0
+      },
+      "style": {
+        "color": "#e96b2d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=0hpWzb85S1NwB7a1HBBXX0",
+      "id": "0hpWzb85S1NwB7a1HBBXX0"
+    },
+    {
+      "artistName": "Dancefloor Warning",
+      "positioning": {
+        "top": 403,
+        "left": 652
+      },
+      "style": {
+        "color": "#d37610",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/600a2ffc1b4ee64e5bd2c40238bc256fbe0c03d8",
+        "title": "e.g. Dancefloor Warning \"Can't Believe - Niccho Remix Edit\"",
+        "trackId": "4qRNkiveJvZOb2b59kE6mr"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=1O3ubWaqzxPb7CWKYatNgT",
+      "id": "1O3ubWaqzxPb7CWKYatNgT"
+    },
+    {
+      "artistName": "Chris Roxxx",
+      "positioning": {
+        "top": 273,
+        "left": 1360
+      },
+      "style": {
+        "color": "#b88214",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5e386dde5e5cb2a705d6ca3ca6fee3ddc092e94b",
+        "title": "e.g. Chris Roxxx \"4 Am (Jason Parker Edit)\"",
+        "trackId": "4p1rrVmXaFQ1W1lJXLyLwV"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=22Emjq0U20idw1R8qyoBai",
+      "id": "22Emjq0U20idw1R8qyoBai"
+    },
+    {
+      "artistName": "L.A. Calling vs. Mike De Ville",
+      "positioning": {
+        "top": 115,
+        "left": 820
+      },
+      "style": {
+        "color": "#db780c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4f74d17561ab3e4ba1fe6b25a07f1f75d46f3a18",
+        "title": "e.g. L.A. Calling vs. Mike De Ville \"I'm Alive - Bootleggerz Remix Edit\"",
+        "trackId": "3DUJGR6htMI8Fk52eAC9uS"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=6UvJXE1ifi4FCRM21xYkZU",
+      "id": "6UvJXE1ifi4FCRM21xYkZU"
+    },
+    {
+      "artistName": "Rocco & Bass-T vs. Basslovers United",
+      "positioning": {
+        "top": 51,
+        "left": 1379
+      },
+      "style": {
+        "color": "#fd7232",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=67n7lmDdrkQr7BEer7HkxA",
+      "id": "67n7lmDdrkQr7BEer7HkxA"
+    },
+    {
+      "artistName": "Tale & Dutch vs. Adassa",
+      "positioning": {
+        "top": 364,
+        "left": 914
+      },
+      "style": {
+        "color": "#cd7806",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=6Lo7G6WJGBT9h0tLNtbzsW",
+      "id": "6Lo7G6WJGBT9h0tLNtbzsW"
+    },
+    {
+      "artistName": "VergiLuv vs. Bounce Bro",
+      "positioning": {
+        "top": 156,
+        "left": 919
+      },
+      "style": {
+        "color": "#bd7d6f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=5E2aI42zfPLu2ca2dCQHGJ",
+      "id": "5E2aI42zfPLu2ca2dCQHGJ"
+    },
+    {
+      "artistName": "Sunray vs. Turnyboy",
+      "positioning": {
+        "top": 289,
+        "left": 768
+      },
+      "style": {
+        "color": "#db8046",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=4dWAvqVn2K5sIgIgZTBeWa",
+      "id": "4dWAvqVn2K5sIgIgZTBeWa"
+    },
+    {
+      "artistName": "Hardcharger vs. Aurora & Toxic",
+      "positioning": {
+        "top": 312,
+        "left": 309
+      },
+      "style": {
+        "color": "#ef6737",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=0xp6yC30G9zg8NSHL9vAVq",
+      "id": "0xp6yC30G9zg8NSHL9vAVq"
+    },
+    {
+      "artistName": "VergiLuv vs. Bounce Bro & Van Snyder",
+      "positioning": {
+        "top": 206,
+        "left": 704
+      },
+      "style": {
+        "color": "#e1747c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=5IUoHOwQj0AmrUU3yaxSsm",
+      "id": "5IUoHOwQj0AmrUU3yaxSsm"
+    },
+    {
+      "artistName": "VULCANOBABES vs ETF",
+      "positioning": {
+        "top": 248,
+        "left": 760
+      },
+      "style": {
+        "color": "#e56128",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c44f5b2cedd36696ebcc89346a25d5d62f603c5",
+        "title": "e.g. VULCANOBABES vs ETF \"Music for Life - Trance-fOrces RMX\"",
+        "trackId": "4pKE51dUnlIoQQIRx0pchT"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=5YyjVUsyA1CYwACcow8V8A",
+      "id": "5YyjVUsyA1CYwACcow8V8A"
+    },
+    {
+      "artistName": "D-Tune & EMD Boyz",
+      "positioning": {
+        "top": 244,
+        "left": 1095
+      },
+      "style": {
+        "color": "#d27617",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ba6a5da89a2087a4a255d28780a8d2cc58fba5c",
+        "title": "e.g. D-Tune & EMD Boyz \"Breakaway - Radio Edit\"",
+        "trackId": "67kEyxPr94FY7u4FtL9TUz"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=3IZks7nHcqnuY6aiZiJVrd",
+      "id": "3IZks7nHcqnuY6aiZiJVrd"
+    },
+    {
+      "artistName": "G&G vs. Davis Redfield",
+      "positioning": {
+        "top": 34,
+        "left": 1371
+      },
+      "style": {
+        "color": "#e6774f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b97698abd88277fb15c01e03c96877f5dbac918",
+        "title": "e.g. G&G vs. Davis Redfield \"Prestige\"",
+        "trackId": "7767X8A9Q3fgdwL1dhYclu"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=24UImiTJ0aQRS8qUth8kcd",
+      "id": "24UImiTJ0aQRS8qUth8kcd"
+    },
+    {
+      "artistName": "Azuri",
+      "positioning": {
+        "top": 900,
+        "left": 695
+      },
+      "style": {
+        "color": "#ba7416",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3fc71d41f620663809d14a3f61a03088b892ed74",
+        "title": "e.g. Azuri \"All My Life\"",
+        "trackId": "1t4jYu7nSv1GYQ3Zb3Uq4r"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=5l3wZmnFKwXRB4FLfTEYRv",
+      "id": "5l3wZmnFKwXRB4FLfTEYRv"
+    },
+    {
+      "artistName": "A Friend In London vs. Crystal Lake",
+      "positioning": {
+        "top": 219,
+        "left": 884
+      },
+      "style": {
+        "color": "#ea5900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=0gdzUvgvGolcbvRX5J4Tfb",
+      "id": "0gdzUvgvGolcbvRX5J4Tfb"
+    },
+    {
+      "artistName": "Crystal Lake vs. Manian",
+      "positioning": {
+        "top": 554,
+        "left": 1030
+      },
+      "style": {
+        "color": "#d77100",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=6Qj3UcxV1GJKL6KUGDWFkF",
+      "id": "6Qj3UcxV1GJKL6KUGDWFkF"
+    },
+    {
+      "artistName": "DJ Analyzer vs. Cary August",
+      "positioning": {
+        "top": 168,
+        "left": 1043
+      },
+      "style": {
+        "color": "#e86576",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5dac1664c5c6d1af96050e0cbdffd8c8ab07453e",
+        "title": "e.g. DJ Analyzer vs. Cary August \"Insomnia 2013 (DJ Analizer Mix)\"",
+        "trackId": "6zyxVSKo5Ebte6DUcm1KSn"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=21CusCtJWHKNGy3mAPOAev",
+      "id": "21CusCtJWHKNGy3mAPOAev"
+    },
+    {
+      "artistName": "DJ Gollum & Empyre One vs. NICCO",
+      "positioning": {
+        "top": 376,
+        "left": 708
+      },
+      "style": {
+        "color": "#e17400",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a6f4af41dc1c91253ec2c663c9103dbea7885fdc",
+        "title": "e.g. DJ Gollum & Empyre One vs. NICCO \"Rockstar (Hands Up Mix)\"",
+        "trackId": "3srkKcWqyEoRCcipKYAZT5"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=6mdEyjHo47vKw9MNJbWzuq",
+      "id": "6mdEyjHo47vKw9MNJbWzuq"
+    },
+    {
+      "artistName": "Dan Winter vs. Basslovers United",
+      "positioning": {
+        "top": 214,
+        "left": 1146
+      },
+      "style": {
+        "color": "#d07900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=4lxO9T3uvZObmiuTAiE0Hz",
+      "id": "4lxO9T3uvZObmiuTAiE0Hz"
+    },
+    {
+      "artistName": "Ekowraith vs. Sample Rippers",
+      "positioning": {
+        "top": 180,
+        "left": 734
+      },
+      "style": {
+        "color": "#fd5223",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/60eebd06cd0b4fceb23bd3c4ded3364c6f5cab28",
+        "title": "e.g. Ekowraith vs. Sample Rippers \"Back in the Game - Original Extended\"",
+        "trackId": "3ZCaxqNAIMofURidwiGslc"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=0nMdYSxCB1NzEjKExgB93h",
+      "id": "0nMdYSxCB1NzEjKExgB93h"
+    },
+    {
+      "artistName": "Giga Dance vs. Rainy",
+      "positioning": {
+        "top": 237,
+        "left": 330
+      },
+      "style": {
+        "color": "#fc5800",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=56zrz9yz29EDhRqy8If10t",
+      "id": "56zrz9yz29EDhRqy8If10t"
+    },
+    {
+      "artistName": "Level Zero vs. Tribune",
+      "positioning": {
+        "top": 231,
+        "left": 158
+      },
+      "style": {
+        "color": "#fa6900",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=0vVoyDZ5y38VxH84O9M8gM",
+      "id": "0vVoyDZ5y38VxH84O9M8gM"
+    },
+    {
+      "artistName": "Megastylez vs. Ti-Mo",
+      "positioning": {
+        "top": 143,
+        "left": 923
+      },
+      "style": {
+        "color": "#fd4c03",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=6LlCmWEa70TjJOfEnGCGAO",
+      "id": "6LlCmWEa70TjJOfEnGCGAO"
+    },
+    {
+      "artistName": "Ti-Mo vs. Megastylez",
+      "positioning": {
+        "top": 225,
+        "left": 369
+      },
+      "style": {
+        "color": "#fd5e00",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=1qffBym9lpkxI3MKAj7uv7",
+      "id": "1qffBym9lpkxI3MKAj7uv7"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=remix%20product"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4xVyoTeHmAQ0yqz3D6GJx6"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4Y3Da37zhxrNJIDgjbUDkK"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5ORNJEX7VZT1voJL4kYvph"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/5PbevKJlj5dMhwwC9k7X1d"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=remix%20product"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "hands up",
+      "positioning": {
+        "top": 0,
+        "left": 211
+      },
+      "style": {
+        "color": "#df7032",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2678e454f5bcde4929eb44d1618c8ea8a03e6fb9",
+        "title": "e.g. Megastylez \"Jump With Me - Radio Cut\"",
+        "trackId": "74VCjahNcRUz5qnJk2aJAk"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-handsup.html#tunnel"
+    },
+    {
+      "genreName": "nederlandse hardstyle",
+      "positioning": {
+        "top": 145,
+        "left": 262
+      },
+      "style": {
+        "color": "#dd7620",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e682031eab645b8ede040bfcf1b36687fd308da4",
+        "title": "e.g. Barry Fest \"Ferry de Roze Flamingo\"",
+        "trackId": "3xdu52znY2LsOaZIAHBCiw"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-nederlandsehardstyle.html#tunnel"
+    },
+    {
+      "genreName": "big room",
+      "positioning": {
+        "top": 170,
+        "left": 138
+      },
+      "style": {
+        "color": "#d37d4a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8d5e61c131a131747bae6c175b7bb7e2ab87a00c",
+        "title": "e.g. Reggio \"Closer\"",
+        "trackId": "5TxQa0gjD5TssfCAWupV3J"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-bigroom.html#tunnel"
+    },
+    {
+      "genreName": "brostep",
+      "positioning": {
+        "top": 312,
+        "left": 178
+      },
+      "style": {
+        "color": "#d47d42",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5e0615c964cc67092a5f8f73314ae2f5a66271d",
+        "title": "e.g. Eptic \"Wall Of Death\"",
+        "trackId": "2g1ZKcR6cd2lmWOelkR9b1"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-brostep.html#tunnel"
+    },
+    {
+      "genreName": "cantaditas",
+      "positioning": {
+        "top": 56,
+        "left": 300
+      },
+      "style": {
+        "color": "#d6733d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5140d17e776e415af27d4dc5db4933a4f1035e0",
+        "title": "e.g. Head Horny's \"I'm The 1 You're Looking 4 (12\" Inch)\"",
+        "trackId": "5Qr52ocwkTlEVITjKddRcW"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-cantaditas.html#tunnel"
+    },
+    {
+      "genreName": "dutch house",
+      "positioning": {
+        "top": 189,
+        "left": 209
+      },
+      "style": {
+        "color": "#d27a52",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f81e2e8a2bb25f1c8eedd11622ca9cfdb8eb9cd4",
+        "title": "e.g. Blasterjaxx \"Narco\"",
+        "trackId": "4TuNI3WEMyLQAKRMJmcQdA"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-dutchhouse.html#tunnel"
+    },
+    {
+      "genreName": "edm",
+      "positioning": {
+        "top": 256,
+        "left": 144
+      },
+      "style": {
+        "color": "#ca803d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/89dff34e3b51bd0aaa6c3910debda6476fe66e4a",
+        "title": "e.g. Sebastian Ingrosso \"Reload - Radio Edit\"",
+        "trackId": "5jyUBKpmaH670zrXrE0wmO"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-edm.html#tunnel"
+    },
+    {
+      "genreName": "electro house",
+      "positioning": {
+        "top": 158,
+        "left": 216
+      },
+      "style": {
+        "color": "#d07c4f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/105556269db8065f39f5d17b348475f8bb19051b",
+        "title": "e.g. Laidback Luke \"Whistle (feat. Bertie Scott)\"",
+        "trackId": "6hEJvWfNOvTUhLuV1Or1of"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-electrohouse.html#tunnel"
+    },
+    {
+      "genreName": "eurobeat",
+      "positioning": {
+        "top": 93,
+        "left": 0
+      },
+      "style": {
+        "color": "#d6772c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ec438683381fc39ead644324955f7b328ef00ba9",
+        "title": "e.g. MATT LAND \"City Lover City Rider - Extended Mix\"",
+        "trackId": "3S4RuTfGUbOm461wET6zBF"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-eurobeat.html#tunnel"
+    },
+    {
+      "genreName": "eurodance",
+      "positioning": {
+        "top": 19,
+        "left": 300
+      },
+      "style": {
+        "color": "#d37834",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae7019859326cbe15f2bfeb87c16bfb4486d1316",
+        "title": "e.g. Mr. President \"Coco Jamboo\"",
+        "trackId": "5fRvePkRGdpn2nKacG7I6d"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-eurodance.html#tunnel"
+    },
+    {
+      "genreName": "japanese edm",
+      "positioning": {
+        "top": 288,
+        "left": 11
+      },
+      "style": {
+        "color": "#dd7840",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/411a4025e7a350ede669cf37f67a905a8d7aaebc",
+        "title": "e.g. DJ TORA \"Sweet Serenade\"",
+        "trackId": "5BmWc9fMcXYA5EKT2gcBc5"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-japaneseedm.html#tunnel"
+    },
+    {
+      "genreName": "kawaii edm",
+      "positioning": {
+        "top": 229,
+        "left": 60
+      },
+      "style": {
+        "color": "#d37c43",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6c606ba89713b368a621a395a8b0baa86eaf91c2",
+        "title": "e.g. tokiwa \"Fairydust\"",
+        "trackId": "6QnvhMOMmU4ZkWuUbdaOgo"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-kawaiiedm.html#tunnel"
+    },
+    {
+      "genreName": "kawaii future bass",
+      "positioning": {
+        "top": 300,
+        "left": 89
+      },
+      "style": {
+        "color": "#cb7d52",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0a44cc45188ec2f66a779b1f2f95b7d48241198a",
+        "title": "e.g. KOTONOHOUSE \"センチメンタリズム - feat. 芹澤 優\"",
+        "trackId": "7BIFJ3tHxrU28sBICphJQY"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-kawaiifuturebass.html#tunnel"
+    },
+    {
+      "genreName": "mashup",
+      "positioning": {
+        "top": 281,
+        "left": 213
+      },
+      "style": {
+        "color": "#c8793d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/928eabb861415883453edb3e0974af22cf1663ce",
+        "title": "e.g. Girl Talk \"Eurostep\"",
+        "trackId": "2Yhh3kAr0UVse0b8JvwHHH"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-mashup.html#tunnel"
+    },
+    {
+      "genreName": "pop dance",
+      "positioning": {
+        "top": 244,
+        "left": 156
+      },
+      "style": {
+        "color": "#ca8136",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1164c378d1a70ec8cfa42a28dc108503e8f62768",
+        "title": "e.g. Alesso \"Words (feat. Zara Larsson)\"",
+        "trackId": "1bgKMxPQU7JIZEhNsM1vFs"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-popdance.html#tunnel"
+    },
+    {
+      "genreName": "progressive electro house",
+      "positioning": {
+        "top": 121,
+        "left": 204
+      },
+      "style": {
+        "color": "#d17d59",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc6c1d0156677a3527dc7de9299a7137262761a4",
+        "title": "e.g. DubVision \"Electricity\"",
+        "trackId": "0NNSpmyyr0I4lrMaXS8Tba"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-progressiveelectrohouse.html#tunnel"
+    },
+    {
+      "genreName": "russian rave",
+      "positioning": {
+        "top": 281,
+        "left": 289
+      },
+      "style": {
+        "color": "#d07925",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/82c07022db4c73e9b02541904c5f8dcc1738bcfe",
+        "title": "e.g. ФРИК ПАТИ \"Влюбиться и плакать\"",
+        "trackId": "37s3I2iMWXt1TahI1eznoi"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-russianrave.html#tunnel"
+    },
+    {
+      "genreName": "sky room",
+      "positioning": {
+        "top": 158,
+        "left": 100
+      },
+      "style": {
+        "color": "#db7952",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71317f596f154a2898a8d43e9694d5878beffcfb",
+        "title": "e.g. Suyano \"Playing In The Sun\"",
+        "trackId": "16I6fumcDWxLqAyasbDwfs"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-skyroom.html#tunnel"
+    },
+    {
+      "genreName": "speed house",
+      "positioning": {
+        "top": 170,
+        "left": 282
+      },
+      "style": {
+        "color": "#d9794d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f10609efb47dca3e65505df799e3a26e3d04983d",
+        "title": "e.g. ALRT \"New Hype\"",
+        "trackId": "4zGiHDCXg3o1U7bsIgZ4NT"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-speedhouse.html#tunnel"
+    },
+    {
+      "genreName": "super eurobeat",
+      "positioning": {
+        "top": 204,
+        "left": 171
+      },
+      "style": {
+        "color": "#c97a39",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/357a9dc8004dc6f3d117ee294ea5ac0428e08eb8",
+        "title": "e.g. KING & QUEEN \"DANCING QUEEN\"",
+        "trackId": "6R9Xt492OU5ZCpScqh4l1K"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-supereurobeat.html#tunnel"
+    }
+  ]
+}

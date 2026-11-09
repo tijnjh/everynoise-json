@@ -1,0 +1,2336 @@
+{
+  "schemaVersion": 3,
+  "genreName": "accordeon",
+  "artists": [
+    {
+      "artistName": "Enrique Ugarte",
+      "positioning": {
+        "top": 553,
+        "left": 1059
+      },
+      "style": {
+        "color": "#4e832a",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8cf6bf518764a5c9cac92f8d0afecc618aafcb99",
+        "title": "e.g. Enrique Ugarte \"Wenn Mademoiselle dich kusst\"",
+        "trackId": "5y5mJLGym2sSuuZbTf2saN"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=50XfjlKluHTqnuuNtr7SHI",
+      "id": "50XfjlKluHTqnuuNtr7SHI"
+    },
+    {
+      "artistName": "Daniel Colin",
+      "positioning": {
+        "top": 582,
+        "left": 814
+      },
+      "style": {
+        "color": "#ac8479",
+        "fontSize": "154%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e74a7b84d1a1cba8b1c73f953ce066d42872ff1",
+        "title": "e.g. Daniel Colin \"Ombrages\"",
+        "trackId": "54B05cOuy6NpnZPx9KVfdh"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=2ou5vHf8Vp1ru210N1fi5F",
+      "id": "2ou5vHf8Vp1ru210N1fi5F"
+    },
+    {
+      "artistName": "Jacques Ferchit",
+      "positioning": {
+        "top": 380,
+        "left": 1119
+      },
+      "style": {
+        "color": "#75a388",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a4f5e89756a27acfa14d7210de8873622f4cc9a9",
+        "title": "e.g. Jacques Ferchit \"Padam...Padam...\"",
+        "trackId": "2xQmDo3CrD1s5npI3bWYqu"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=2IJGeegMtg1oHYYXT6frrO",
+      "id": "2IJGeegMtg1oHYYXT6frrO"
+    },
+    {
+      "artistName": "Frank Michael",
+      "positioning": {
+        "top": 381,
+        "left": 385
+      },
+      "style": {
+        "color": "#9f8d05",
+        "fontSize": "132%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/48a59a1d1add137163bbf478094bdc11dfd87e4a",
+        "title": "e.g. Frank Michael \"Toutes les femmes sont belles\"",
+        "trackId": "5OIRBk8j5qf2ZK63XiARIF"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=0njklFktPC8RQ433ZRCRQT",
+      "id": "0njklFktPC8RQ433ZRCRQT"
+    },
+    {
+      "artistName": "Vincent Carenzi",
+      "positioning": {
+        "top": 459,
+        "left": 870
+      },
+      "style": {
+        "color": "#a18f71",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d01c21b3932ee37f754d53300bddd48fb29147de",
+        "title": "e.g. Vincent Carenzi \"Quai aux Fleurs\"",
+        "trackId": "3YqdvXCFdN44kattwBSgqn"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=34jld7FKHe7h6xc55lJJ0B",
+      "id": "34jld7FKHe7h6xc55lJJ0B"
+    },
+    {
+      "artistName": "Jo Courtin",
+      "positioning": {
+        "top": 602,
+        "left": 377
+      },
+      "style": {
+        "color": "#8d8c96",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5435386ffe9d6bd1ed324902e4e4ca2d5729297d",
+        "title": "e.g. Jo Courtin \"Rue Jouvenet\"",
+        "trackId": "5t43VxQuoRuJDJAJnxcCvg"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=0u2nKLEi5PUDYJ3EOWGz6o",
+      "id": "0u2nKLEi5PUDYJ3EOWGz6o"
+    },
+    {
+      "artistName": "Hector Delfosse",
+      "positioning": {
+        "top": 431,
+        "left": 646
+      },
+      "style": {
+        "color": "#899655",
+        "fontSize": "122%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a75f09cc72d8306c9ddb912278c8bfcd99f7519c",
+        "title": "e.g. Hector Delfosse \"Ciao Ciao Bambina\"",
+        "trackId": "449GQiLV0kGY6xP01bIkhi"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=5A9ngJ6sz2OtvjylZgY5cB",
+      "id": "5A9ngJ6sz2OtvjylZgY5cB"
+    },
+    {
+      "artistName": "Danielle Pauly",
+      "positioning": {
+        "top": 530,
+        "left": 854
+      },
+      "style": {
+        "color": "#5c9661",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a8f83475d9d76a5f845212c05366851ee651a4b3",
+        "title": "e.g. Danielle Pauly \"Reve Gourmand\"",
+        "trackId": "0b9ALLd6ZEhV8hmQTgK5ZL"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=0hC7AX4YRg5MLRI4uaLUHY",
+      "id": "0hC7AX4YRg5MLRI4uaLUHY"
+    },
+    {
+      "artistName": "Joss Baselli",
+      "positioning": {
+        "top": 620,
+        "left": 931
+      },
+      "style": {
+        "color": "#67985a",
+        "fontSize": "117%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8dbe2b623a9817ddf69da8d44cdea1f7db1a770",
+        "title": "e.g. Joss Baselli \"Boum Musette\"",
+        "trackId": "7wBDJL7T1pSzwpfm5fzqjt"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=2Goh2SVD0hBxz9qMrtBTkt",
+      "id": "2Goh2SVD0hBxz9qMrtBTkt"
+    },
+    {
+      "artistName": "Pascale Andrews",
+      "positioning": {
+        "top": 66,
+        "left": 168
+      },
+      "style": {
+        "color": "#b1948a",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0ab5e680e43b2e8106d743f75041ef4036c14139",
+        "title": "e.g. Pascale Andrews \"Toutes Les Femmes Sont Belles\"",
+        "trackId": "0K9OQW1Up6FPhLk5LJWW20"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=3Qz20wvTPZon2a6fbeyWrM",
+      "id": "3Qz20wvTPZon2a6fbeyWrM"
+    },
+    {
+      "artistName": "Accordion",
+      "positioning": {
+        "top": 571,
+        "left": 598
+      },
+      "style": {
+        "color": "#8181a9",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3da5c996e479a7b9c3ce85298f4c92555254d787",
+        "title": "e.g. Accordion \"That's Amore\"",
+        "trackId": "0GI6ghqOegMGBBXwQiGFn9"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=1TZ71PopHhyvUlR4BewW2U",
+      "id": "1TZ71PopHhyvUlR4BewW2U"
+    },
+    {
+      "artistName": "Maurice Larcange",
+      "positioning": {
+        "top": 500,
+        "left": 1011
+      },
+      "style": {
+        "color": "#998b5c",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50a8717b5022793430cc5cd76d6ce33dcad82bb5",
+        "title": "e.g. Maurice Larcange \"Traditionel Musette\"",
+        "trackId": "1R0TdKQq0NQIb3tTISstoa"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=6GnLA4X4Go4n8KqYGKfxWE",
+      "id": "6GnLA4X4Go4n8KqYGKfxWE"
+    },
+    {
+      "artistName": "Bernard Marly",
+      "positioning": {
+        "top": 341,
+        "left": 526
+      },
+      "style": {
+        "color": "#a6903e",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6300211c16bf88c53915e41ec73e894299ac72c1",
+        "title": "e.g. Bernard Marly \"Que reste t-il de nos amours\"",
+        "trackId": "5elv6nOFTxMIeJsdU0xdQC"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=6SsncboYa3UdNPn6JpyWtv",
+      "id": "6SsncboYa3UdNPn6JpyWtv"
+    },
+    {
+      "artistName": "Aimable",
+      "positioning": {
+        "top": 549,
+        "left": 638
+      },
+      "style": {
+        "color": "#978296",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0e2c837cfd2523244b8db7d0d072fc5ed9ac019",
+        "title": "e.g. Aimable \"Bajo el Cielo de París\"",
+        "trackId": "7GtpYeEWKWtazdXkf0FQcB"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=2f7HGzHXnj6AwetOZvINDy",
+      "id": "2f7HGzHXnj6AwetOZvINDy"
+    },
+    {
+      "artistName": "Guy Denys",
+      "positioning": {
+        "top": 40,
+        "left": 341
+      },
+      "style": {
+        "color": "#b98d68",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86c550d5967f0e2024d8289ce09d293bdd1542ca",
+        "title": "e.g. Guy Denys \"Obladi Oblada\"",
+        "trackId": "2Wz1FuE4YWLzw27BRjKcyT"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=3g4FSdDDJx3Gd7TBHBthHq",
+      "id": "3g4FSdDDJx3Gd7TBHBthHq"
+    },
+    {
+      "artistName": "Accordion Festival",
+      "positioning": {
+        "top": 274,
+        "left": 481
+      },
+      "style": {
+        "color": "#c28a71",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba4423c0535e9d6a13d11adf20def5ac260b7057",
+        "title": "e.g. Accordion Festival \"New York New York (Madison)\"",
+        "trackId": "2xD05E3R6UTnQFDAiUydKf"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=6tg68QcK6A7nwmW4Uwu60K",
+      "id": "6tg68QcK6A7nwmW4Uwu60K"
+    },
+    {
+      "artistName": "Fabrice Peluso",
+      "positioning": {
+        "top": 238,
+        "left": 1051
+      },
+      "style": {
+        "color": "#b58b83",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f21c55cf5c3b053a40cbb46458d1f679c7cfaafe",
+        "title": "e.g. Fabrice Peluso \"Adieu jolie Candy\"",
+        "trackId": "3qIZLd5kvwY1I4fMQF5OpV"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=55SkgTZxU9P0qlZg8cSPmh",
+      "id": "55SkgTZxU9P0qlZg8cSPmh"
+    },
+    {
+      "artistName": "Compilation Accordéon 2008",
+      "positioning": {
+        "top": 342,
+        "left": 979
+      },
+      "style": {
+        "color": "#cf8686",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8d8ff8127c1650bd9d01fc97cd87d2c34423edc",
+        "title": "e.g. Compilation Accordéon 2008 \"Tango Bleu - Louis Corchia\"",
+        "trackId": "0Cmmuj7D1qko9k1Ud6jc6o"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=5NiZ7V8qguGCL4hPx5ae3b",
+      "id": "5NiZ7V8qguGCL4hPx5ae3b"
+    },
+    {
+      "artistName": "Christa Behnke",
+      "positioning": {
+        "top": 354,
+        "left": 489
+      },
+      "style": {
+        "color": "#9f8f6a",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8bf09cf99ad4b9bfdb3cf9bec7566b26042e254a",
+        "title": "e.g. Christa Behnke \"Bella Italia - Marina/Volare\"",
+        "trackId": "0FmszHW9NqsR32UHxkEHN5"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=08obiQI3tas0efMsb0J2s0",
+      "id": "08obiQI3tas0efMsb0J2s0"
+    },
+    {
+      "artistName": "Eric Bouvelle Et Son Orchestre",
+      "positioning": {
+        "top": 286,
+        "left": 1023
+      },
+      "style": {
+        "color": "#ce8d8c",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2e84a10e8281c496cf5e0b1c4b682ba243052fbc",
+        "title": "e.g. Eric Bouvelle Et Son Orchestre \"La Cumparsita\"",
+        "trackId": "580PXWvX8B4l0i9HeaMj2M"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=0Bx5cbEoQOYuCQXNO0OWhl",
+      "id": "0Bx5cbEoQOYuCQXNO0OWhl"
+    },
+    {
+      "artistName": "Musette",
+      "positioning": {
+        "top": 665,
+        "left": 397
+      },
+      "style": {
+        "color": "#7b9da7",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e553d016e34046e86f6b49363899fa2285b5820",
+        "title": "e.g. Musette \"Ymca\"",
+        "trackId": "2YZdPsCzonO1s84QrFgztv"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=2YAihoY43W4csXJjfGtrsl",
+      "id": "2YAihoY43W4csXJjfGtrsl"
+    },
+    {
+      "artistName": "Acordeon Band",
+      "positioning": {
+        "top": 368,
+        "left": 441
+      },
+      "style": {
+        "color": "#ac8f84",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff92a26cfc6ec1b666f413e2008ce80070ccbdc7",
+        "title": "e.g. Acordeon Band \"Adios Pampa Mia\"",
+        "trackId": "1wTUtCXVgDAVCUo6XeQJuL"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=2L0s0JRFrTGpfz9WUsBEil",
+      "id": "2L0s0JRFrTGpfz9WUsBEil"
+    },
+    {
+      "artistName": "Edouard Duleu",
+      "positioning": {
+        "top": 565,
+        "left": 907
+      },
+      "style": {
+        "color": "#a9867d",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ccd10dc8bbccd909fd9f4f3e5b8ae705cd41a79a",
+        "title": "e.g. Edouard Duleu \"Le Plus Beau Tango Du Monde - Tango\"",
+        "trackId": "2UDqPpMrmvP0FXHZ35YHsP"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=49WpqtZQzP4PICzb34lY15",
+      "id": "49WpqtZQzP4PICzb34lY15"
+    },
+    {
+      "artistName": "Marc Pascal",
+      "positioning": {
+        "top": 434,
+        "left": 874
+      },
+      "style": {
+        "color": "#b68427",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fc52c4ca11b1a9f78a95336134b4d9a2e41f89ec",
+        "title": "e.g. Marc Pascal \"Je Suis Chanteur De Bal\"",
+        "trackId": "6yL9iKSq5e9qyyTQ2jRBmi"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=6Lt4WozmHFglFaixBiey7x",
+      "id": "6Lt4WozmHFglFaixBiey7x"
+    },
+    {
+      "artistName": "Michel Pruvot",
+      "positioning": {
+        "top": 183,
+        "left": 686
+      },
+      "style": {
+        "color": "#b98556",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2a79d7b7b511004fb92945eb27b1a1ce63a49df7",
+        "title": "e.g. Michel Pruvot \"De gauche à droite\"",
+        "trackId": "4CoLC9KBPBp0m6Ckvd5caN"
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=2coH05vPUeTNAFCPK8eEEh",
+      "id": "2coH05vPUeTNAFCPK8eEEh"
+    },
+    {
+      "artistName": "Les Horizons",
+      "positioning": {
+        "top": 300,
+        "left": 618
+      },
+      "style": {
+        "color": "#b9911a",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c1b4feaf17f34fc44995746159d30f023dad84d3",
+        "title": "e.g. Les Horizons \"Südtirol Polka (Instrumental)\"",
+        "trackId": "56k1jJowOA3UAu9KUGUdaJ"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=0VCZnSlefv35kvgCZKGxoy",
+      "id": "0VCZnSlefv35kvgCZKGxoy"
+    },
+    {
+      "artistName": "Eric Bouvelle",
+      "positioning": {
+        "top": 323,
+        "left": 955
+      },
+      "style": {
+        "color": "#c68a85",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/91647379fd621a743daaf30338e1a2462006430c",
+        "title": "e.g. Eric Bouvelle \"Le brise-pieds - Danse régionale\"",
+        "trackId": "6rb54fdNoYXBwpxEPGC1v0"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=68w0Qs3zP00wtEjymKmT0m",
+      "id": "68w0Qs3zP00wtEjymKmT0m"
+    },
+    {
+      "artistName": "Cafe Accordion Orchestra",
+      "positioning": {
+        "top": 799,
+        "left": 814
+      },
+      "style": {
+        "color": "#07b2ee",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e2d08cb7c7ad763f69878ac8d8c7a4998584b5f",
+        "title": "e.g. Cafe Accordion Orchestra \"Don't Be Cruel\"",
+        "trackId": "2dLFJf9n8kWnaDC1p0Z8N5"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=6xUfGYAZa14GIgSFVehAvA",
+      "id": "6xUfGYAZa14GIgSFVehAvA"
+    },
+    {
+      "artistName": "Acordeón",
+      "positioning": {
+        "top": 392,
+        "left": 670
+      },
+      "style": {
+        "color": "#bd8f7e",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/24e6b384c8284ed5915f3f098c6998f5b87dd6c4",
+        "title": "e.g. Acordeón \"La Paloma (Accordion Version)\"",
+        "trackId": "3bwqGIZnKrNSEXMTnGSJFY"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=2wJ6ECabKeUsrZGxF6NMaZ",
+      "id": "2wJ6ECabKeUsrZGxF6NMaZ"
+    },
+    {
+      "artistName": "Domi Emorine",
+      "positioning": {
+        "top": 657,
+        "left": 883
+      },
+      "style": {
+        "color": "#869266",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fca51dd368e4139ac9f798d77e3899a8ed435132",
+        "title": "e.g. Domi Emorine \"Le temps d'une valse\"",
+        "trackId": "3ZAG6h5w6iNo6OBu0e3Be8"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=1OXAcmWUfhU5FV3CbH9bkP",
+      "id": "1OXAcmWUfhU5FV3CbH9bkP"
+    },
+    {
+      "artistName": "Emile Carrara",
+      "positioning": {
+        "top": 740,
+        "left": 662
+      },
+      "style": {
+        "color": "#4d947d",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e7549ec053b54774a77472b0b6660c9af4a5dc7",
+        "title": "e.g. Emile Carrara \"Mon amant de Saint Jean\"",
+        "trackId": "1BtxKBH7Thjdapw3zCrQoP"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=6XJHre4oEEFTix0IJdWfME",
+      "id": "6XJHre4oEEFTix0IJdWfME"
+    },
+    {
+      "artistName": "Damien Poyard",
+      "positioning": {
+        "top": 258,
+        "left": 658
+      },
+      "style": {
+        "color": "#c18225",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f6c4b7fe1d072f641edaa5f70669cc480fe26eb",
+        "title": "e.g. Damien Poyard \"Dansons Le Sirtaki\"",
+        "trackId": "4ibJwOI8NlE6shR9sXTlid"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=0qSB09yZVl6giFc9M8hEw3",
+      "id": "0qSB09yZVl6giFc9M8hEw3"
+    },
+    {
+      "artistName": "Louis Corchia",
+      "positioning": {
+        "top": 481,
+        "left": 694
+      },
+      "style": {
+        "color": "#92936f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/247c618552d9bc118f7e00969097ccb66e40a2ba",
+        "title": "e.g. Louis Corchia \"Claveles de Granada\"",
+        "trackId": "6uF6ksV1gf6ba1DwEMWLgs"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=5tjNBA4p18xwsJDhJatHjS",
+      "id": "5tjNBA4p18xwsJDhJatHjS"
+    },
+    {
+      "artistName": "S. Solis y Orquesta",
+      "positioning": {
+        "top": 510,
+        "left": 353
+      },
+      "style": {
+        "color": "#6e9c3b",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7c4218f58197302acc448ea1d281ae4c4eb1babd",
+        "title": "e.g. S. Solis y Orquesta \"La Vida En Rosa\"",
+        "trackId": "2FNbelwEkg8ZNXZtfqtpAS"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=4vvTWFejCfgO78BpOklwAA",
+      "id": "4vvTWFejCfgO78BpOklwAA"
+    },
+    {
+      "artistName": "Acordeón Latino",
+      "positioning": {
+        "top": 389,
+        "left": 794
+      },
+      "style": {
+        "color": "#ba8b82",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ef9c9d9c5a1fb31149bb6c635577b88c1c0d292",
+        "title": "e.g. Acordeón Latino \"Rumba Cubanito\"",
+        "trackId": "2srDCy1xMnUlmzMHDGHgap"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=2SK6q4Okxqawy7ErAOhLDy",
+      "id": "2SK6q4Okxqawy7ErAOhLDy"
+    },
+    {
+      "artistName": "Accordeon Melancolique",
+      "positioning": {
+        "top": 900,
+        "left": 1388
+      },
+      "style": {
+        "color": "#25aa2b",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4ff9e95969f922bbb3a43b990fee4d054684c4a7",
+        "title": "e.g. Accordeon Melancolique \"The Godfather: Love Theme/Tarantella/Mazurka\"",
+        "trackId": "4gM3nn3vKGFoMEJW678eiP"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=2aReFI5NxfOij1Onk0NU48",
+      "id": "2aReFI5NxfOij1Onk0NU48"
+    },
+    {
+      "artistName": "Erika",
+      "positioning": {
+        "top": 52,
+        "left": 108
+      },
+      "style": {
+        "color": "#ce816f",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/465dd6ff75e6647028069a48aec3aba6d6b5ed00",
+        "title": "e.g. Erika \"Rivers of Babylon\"",
+        "trackId": "6x2QnOFYZKYY6na42i4biG"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=5S1QRmQTpPOTCkr31mp7a4",
+      "id": "5S1QRmQTpPOTCkr31mp7a4"
+    },
+    {
+      "artistName": "Jérôme Robert",
+      "positioning": {
+        "top": 115,
+        "left": 337
+      },
+      "style": {
+        "color": "#b28720",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/52d5610a7004b0de90fa99c2c68f13b1df66a82e",
+        "title": "e.g. Jérôme Robert \"Tango solo\"",
+        "trackId": "6FggUl2NYGxGq6ZF3wwVs7"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=1vocpNYArCVuTOqoslwd6V",
+      "id": "1vocpNYArCVuTOqoslwd6V"
+    },
+    {
+      "artistName": "Accordéon Musette",
+      "positioning": {
+        "top": 116,
+        "left": 850
+      },
+      "style": {
+        "color": "#aa8f56",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b75f23136d86135c66d393052b014a9bf0f12539",
+        "title": "e.g. Accordéon Musette \"La valse des Bohémiens\"",
+        "trackId": "1iQosnDWjPALDYIrHUg8dc"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=7percjbFnGwXYuF6pJQQJu",
+      "id": "7percjbFnGwXYuF6pJQQJu"
+    },
+    {
+      "artistName": "Jo Basile",
+      "positioning": {
+        "top": 685,
+        "left": 858
+      },
+      "style": {
+        "color": "#509a4a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85454a596759bc6194850af0154fc56107d37bf7",
+        "title": "e.g. Jo Basile \"Chao Chao Bambina\"",
+        "trackId": "3G2JLb1fCGxUU5jUqfI89v"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=2LxI77Fuian6GUihQuhFfo",
+      "id": "2LxI77Fuian6GUihQuhFfo"
+    },
+    {
+      "artistName": "Manu Maugain",
+      "positioning": {
+        "top": 494,
+        "left": 786
+      },
+      "style": {
+        "color": "#849c60",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/40e2e68aebcee4adb5612e3ec0c352536617140b",
+        "title": "e.g. Manu Maugain \"Le beau Danube bleu\"",
+        "trackId": "2zqvQOiVlZNny3vtVYowkg"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=2z1GJmR0L8LH5qHTgIXcIW",
+      "id": "2z1GJmR0L8LH5qHTgIXcIW"
+    },
+    {
+      "artistName": "Fran Idareta",
+      "positioning": {
+        "top": 474,
+        "left": 1007
+      },
+      "style": {
+        "color": "#9c8885",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/33b694dccd665b6edae32f9652c3a3035306e869",
+        "title": "e.g. Fran Idareta \"Chiloé Musette\"",
+        "trackId": "0gZojg7XUM18AwaBASBzi1"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=7EJcIjR4PDescJ3RvphetZ",
+      "id": "7EJcIjR4PDescJ3RvphetZ"
+    },
+    {
+      "artistName": "Karine Fontaine",
+      "positioning": {
+        "top": 514,
+        "left": 1067
+      },
+      "style": {
+        "color": "#c88d5d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9204c8d850f89a1b2a27da6a67d95d64b7245726",
+        "title": "e.g. Karine Fontaine \"Rue Championnet\"",
+        "trackId": "00iwom2ONo0LvxvRkeXQdD"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=5ge9YDw6vooNaGcXGKTaPn",
+      "id": "5ge9YDw6vooNaGcXGKTaPn"
+    },
+    {
+      "artistName": "Pascal Haas",
+      "positioning": {
+        "top": 376,
+        "left": 907
+      },
+      "style": {
+        "color": "#cb7b4d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6476d6a52d1b30e8d0817434755a92e0ee7ad59e",
+        "title": "e.g. Pascal Haas \"Padam\"",
+        "trackId": "6bF3jVKQ7mkb4fN6wSgyvZ"
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=7Dm2bau2kDy9L0p0xDktIn",
+      "id": "7Dm2bau2kDy9L0p0xDktIn"
+    },
+    {
+      "artistName": "Jean Segurel",
+      "positioning": {
+        "top": 634,
+        "left": 738
+      },
+      "style": {
+        "color": "#858b32",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/152732aff57147804ff034fff1be36a1776c01d6",
+        "title": "e.g. Jean Segurel \"Les fiancés d'Auvergne\"",
+        "trackId": "4LQGHLnqoe1cy2GgcEcoDs"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=5ffWgQJRKlmiSNMhJCiviy",
+      "id": "5ffWgQJRKlmiSNMhJCiviy"
+    },
+    {
+      "artistName": "Fabien Danilo",
+      "positioning": {
+        "top": 174,
+        "left": 810
+      },
+      "style": {
+        "color": "#b19156",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1774590a5e3308ab76959818a23c97f4cecb79b3",
+        "title": "e.g. Fabien Danilo \"Java au bord de Seine\"",
+        "trackId": "3YPJeS725woGvPeU4JtDTv"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=46SC4kbw4PU6uVAx75CrFP",
+      "id": "46SC4kbw4PU6uVAx75CrFP"
+    },
+    {
+      "artistName": "Manu Blanchet",
+      "positioning": {
+        "top": 231,
+        "left": 742
+      },
+      "style": {
+        "color": "#a57d0c",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e8d89859edc4418ee54dfa19f4b39a3018a1c043",
+        "title": "e.g. Manu Blanchet \"C'est l'heure de l'apero\"",
+        "trackId": "0ruUkVsoz8SlPgCu1dNRPJ"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=7DTxehR1d3EvJxh0QF1b2u",
+      "id": "7DTxehR1d3EvJxh0QF1b2u"
+    },
+    {
+      "artistName": "André Blot",
+      "positioning": {
+        "top": 401,
+        "left": 870
+      },
+      "style": {
+        "color": "#ad94b6",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34036c8c3812112cba0babdba42670cde00e9ed1",
+        "title": "e.g. André Blot \"Riquita\"",
+        "trackId": "25Lejt37n3IaPY7WpO2yuo"
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=6aYGKVYDuJTHx5vaWg1qWZ",
+      "id": "6aYGKVYDuJTHx5vaWg1qWZ"
+    },
+    {
+      "artistName": "Martine Appert",
+      "positioning": {
+        "top": 356,
+        "left": 1175
+      },
+      "style": {
+        "color": "#a89465",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c5d525fd01a4384c6b3e68257f6dbcb6cd09e868",
+        "title": "e.g. Martine Appert \"Cœur d'accordéon - Valse\"",
+        "trackId": "6T9S3u0d3XWxJvtk2jkQdO"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=0wiQTZXeld4mD0Z9GNAVri",
+      "id": "0wiQTZXeld4mD0Z9GNAVri"
+    },
+    {
+      "artistName": "Sylvie Pulles",
+      "positioning": {
+        "top": 322,
+        "left": 209
+      },
+      "style": {
+        "color": "#bb8e38",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f5056bcaddb266d5f576028a1b4e3444ac2fe7c2",
+        "title": "e.g. Sylvie Pulles \"Le brise-pieds de Sylvie (Spécial danse)\"",
+        "trackId": "23oV7N0tu24xRUPhgLEWRJ"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=25XvlXxdYtnmdleXmm78HJ",
+      "id": "25XvlXxdYtnmdleXmm78HJ"
+    },
+    {
+      "artistName": "René Grolier",
+      "positioning": {
+        "top": 287,
+        "left": 405
+      },
+      "style": {
+        "color": "#ab8d28",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/504cfc66b35bb24cb300e3046ffae6f7266ff520",
+        "title": "e.g. René Grolier \"Le comité des fêtes\"",
+        "trackId": "4dxm0BtvPYhR9ugNOCxlhf"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=17ZjmNiBl6YMJffXp0BpWb",
+      "id": "17ZjmNiBl6YMJffXp0BpWb"
+    },
+    {
+      "artistName": "Orchestre Mont-Blanc",
+      "positioning": {
+        "top": 426,
+        "left": 995
+      },
+      "style": {
+        "color": "#d0862a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/075fc5d19142edeaea902a863430bc4b36b93aec",
+        "title": "e.g. Orchestre Mont-Blanc \"Etoile Des Neiges\"",
+        "trackId": "0XjOV6UtPcLGdbMiASIIXU"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=3dI2j8qAP1PQpQoZAPC9pe",
+      "id": "3dI2j8qAP1PQpQoZAPC9pe"
+    },
+    {
+      "artistName": "Alain Musichini",
+      "positioning": {
+        "top": 336,
+        "left": 826
+      },
+      "style": {
+        "color": "#bb8872",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bed9b220be580d24efdf2c3072a5e53f5e4b1fd8",
+        "title": "e.g. Alain Musichini \"Espoirs perdus\"",
+        "trackId": "7g5oXR0bDIqDP1OdXvrFUM"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=74egrHscLaPIP8SsRyfaqj",
+      "id": "74egrHscLaPIP8SsRyfaqj"
+    },
+    {
+      "artistName": "Nicolas Grandfils",
+      "positioning": {
+        "top": 182,
+        "left": 1067
+      },
+      "style": {
+        "color": "#cd7f2a",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa5852cb9ebca0cf60896e46ba2e35412cc423c7",
+        "title": "e.g. Nicolas Grandfils \"Le brise pied\"",
+        "trackId": "02Io6qQueEdvcnm35xPZlN"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=2IuYtI7yWQ4MVoEfFlswkV",
+      "id": "2IuYtI7yWQ4MVoEfFlswkV"
+    },
+    {
+      "artistName": "Jean Harduin Et Son Orchestre",
+      "positioning": {
+        "top": 364,
+        "left": 172
+      },
+      "style": {
+        "color": "#cc8759",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6e672dae85cee60c27f278d0c1e011d3073135b9",
+        "title": "e.g. Jean Harduin Et Son Orchestre \"Accordeon Del Paso (Paso-Doble)\"",
+        "trackId": "0D2b8TMehP1WG58Q8zX4DP"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=3Btmvhh3hrZJcxwoIR05xL",
+      "id": "3Btmvhh3hrZJcxwoIR05xL"
+    },
+    {
+      "artistName": "Bruno Lorenzoni",
+      "positioning": {
+        "top": 368,
+        "left": 574
+      },
+      "style": {
+        "color": "#b4916c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d399107894c77337bb7f7a476e98913af0dfd100",
+        "title": "e.g. Bruno Lorenzoni \"La complainte des infidèles\"",
+        "trackId": "1UtkEmdZusZZj6A0xpsIF3"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=1830QxDewHDNJFQ3nTXnuO",
+      "id": "1830QxDewHDNJFQ3nTXnuO"
+    },
+    {
+      "artistName": "Stephane Courtot-Renoux",
+      "positioning": {
+        "top": 406,
+        "left": 1187
+      },
+      "style": {
+        "color": "#b6867f",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/06bbb7b9b068c39b19828f119939fda36e277ee8",
+        "title": "e.g. Stephane Courtot-Renoux \"Récréation musette\"",
+        "trackId": "2Z9NluVUcdVYjlN2uyMSxj"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=2gAeKEYYp3KDhlyMk5iWNp",
+      "id": "2gAeKEYYp3KDhlyMk5iWNp"
+    },
+    {
+      "artistName": "Daniel Roger",
+      "positioning": {
+        "top": 309,
+        "left": 806
+      },
+      "style": {
+        "color": "#bb8f2e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d969bcb55b46b220b8b58f0599547568112eabf0",
+        "title": "e.g. Daniel Roger \"Funiculi funicula\"",
+        "trackId": "6lld28WU6vx0CHwpvpfWwN"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=2REF1ZdMyY06wzGRAdzOAO",
+      "id": "2REF1ZdMyY06wzGRAdzOAO"
+    },
+    {
+      "artistName": "Linda Gracy",
+      "positioning": {
+        "top": 344,
+        "left": 702
+      },
+      "style": {
+        "color": "#ba8f29",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ea2f2d2344e38e918efe77f049e51119caa2caf3",
+        "title": "e.g. Linda Gracy \"Le Petit Bal A Freddy (Java)\"",
+        "trackId": "0EJKehUHKzoNzSs3pD8GYY"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=44VsXqxAFOrH3Dr4crpwNN",
+      "id": "44VsXqxAFOrH3Dr4crpwNN"
+    },
+    {
+      "artistName": "Louis Ledrich",
+      "positioning": {
+        "top": 703,
+        "left": 979
+      },
+      "style": {
+        "color": "#778863",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5edf8038bb11dcdcad839af939197edb38037ee6",
+        "title": "e.g. Louis Ledrich \"La Java Bleue\"",
+        "trackId": "2SBGRzO6WVq7bxsI2jvZKo"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=2QGtNfu62Z8fHZzKpqKaWO",
+      "id": "2QGtNfu62Z8fHZzKpqKaWO"
+    },
+    {
+      "artistName": "Albert Hennebel",
+      "positioning": {
+        "top": 356,
+        "left": 698
+      },
+      "style": {
+        "color": "#ae8b88",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/081a85e1f1ff8e34f3b983fab89827510e1819a8",
+        "title": "e.g. Albert Hennebel \"Texas Boy\"",
+        "trackId": "5YVwfix2vc3iglLVqkyLKq"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=75GDeJewJEbdVaKCdsp9Gf",
+      "id": "75GDeJewJEbdVaKCdsp9Gf"
+    },
+    {
+      "artistName": "René Ninforge et son accordéon musette",
+      "positioning": {
+        "top": 671,
+        "left": 1328
+      },
+      "style": {
+        "color": "#9091c7",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/42199a08a39f75a4c8153a00224a8a41df6d8320",
+        "title": "e.g. René Ninforge et son accordéon musette \"Valse Musette\"",
+        "trackId": "6Mvzqjer0uWwSwoHfJU56X"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=1irOM6ZE9IGNHaioASUnjm",
+      "id": "1irOM6ZE9IGNHaioASUnjm"
+    },
+    {
+      "artistName": "André Loppe",
+      "positioning": {
+        "top": 249,
+        "left": 489
+      },
+      "style": {
+        "color": "#aa965b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/698b5ecdf63266dc30c64627a0f430949e8d3fbd",
+        "title": "e.g. André Loppe \"Couleur musette\"",
+        "trackId": "3b8m3scgcPkoWMYDmiVUzY"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=04S14SQTvouuOsQRJaIHcD",
+      "id": "04S14SQTvouuOsQRJaIHcD"
+    },
+    {
+      "artistName": "Jerome Richard",
+      "positioning": {
+        "top": 356,
+        "left": 955
+      },
+      "style": {
+        "color": "#ab8a68",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad64355a0728d3fe699d7b5fbe921e204fae4e52",
+        "title": "e.g. Jerome Richard \"La fiesta del mosquito\"",
+        "trackId": "7wZfiMsQnFIq7ugw08Y6iE"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=7pOq1Ko3TBrugMIUmfhD2u",
+      "id": "7pOq1Ko3TBrugMIUmfhD2u"
+    },
+    {
+      "artistName": "Jacky Noguez",
+      "positioning": {
+        "top": 541,
+        "left": 1083
+      },
+      "style": {
+        "color": "#718a6e",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ce0af45a6d3ed0cb7b8c87ac78ea90f0d0cd8939",
+        "title": "e.g. Jacky Noguez \"La Java Des Anciens\"",
+        "trackId": "30xn8w6M11Avf1KFDomDHU"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=62pPCEoBirYTPoLx68Z3z6",
+      "id": "62pPCEoBirYTPoLx68Z3z6"
+    },
+    {
+      "artistName": "Danyel Dorgère",
+      "positioning": {
+        "top": 196,
+        "left": 530
+      },
+      "style": {
+        "color": "#c58d59",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/993e119214f71f0be4e0323c4c43ebdf12cebe2e",
+        "title": "e.g. Danyel Dorgère \"La valse d'Amélie\"",
+        "trackId": "1PdF6ZjIGmIwbt3bhn577G"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=27vmVHkmV9zPCybTpjoDnE",
+      "id": "27vmVHkmV9zPCybTpjoDnE"
+    },
+    {
+      "artistName": "André Verchuren et son orchestre",
+      "positioning": {
+        "top": 575,
+        "left": 1400
+      },
+      "style": {
+        "color": "#698282",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d7ad342748039372310ffaff1ecb6afa9644f113",
+        "title": "e.g. André Verchuren et son orchestre \"La valse à mille temps\"",
+        "trackId": "0qLcbjtATet4i1800KZ25S"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=4x8wOEVhMj2WMeU7iGTzUe",
+      "id": "4x8wOEVhMj2WMeU7iGTzUe"
+    },
+    {
+      "artistName": "Aurelien Noel",
+      "positioning": {
+        "top": 487,
+        "left": 1043
+      },
+      "style": {
+        "color": "#989279",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c6b9e6f11ac9afb83626872549148dd2aa26f13",
+        "title": "e.g. Aurelien Noel \"Nagano Tango\"",
+        "trackId": "6sZNwjmoXbiNlFHF0vSTKQ"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=46Wv37sBl8pEGKoQh7pGzH",
+      "id": "46Wv37sBl8pEGKoQh7pGzH"
+    },
+    {
+      "artistName": "Guy Denys Et Mario",
+      "positioning": {
+        "top": 53,
+        "left": 293
+      },
+      "style": {
+        "color": "#d08477",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a5c768931382b7d99085682ef315d5d74aa1c9e2",
+        "title": "e.g. Guy Denys Et Mario \"Only You (Slow)\"",
+        "trackId": "4igiruODv2BM1ei2pg1s1M"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=3Bi3rDPtNNyd908JWzAApV",
+      "id": "3Bi3rDPtNNyd908JWzAApV"
+    },
+    {
+      "artistName": "Jean Harduin",
+      "positioning": {
+        "top": 339,
+        "left": 0
+      },
+      "style": {
+        "color": "#c78452",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4707e44feeb726cf906e07770e9705383aa6d35d",
+        "title": "e.g. Jean Harduin \"I Will Survive\"",
+        "trackId": "30qsYvErVcU0wFxWpfaGcN"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=6BmnvJpupjnfm5o2BBg7lC",
+      "id": "6BmnvJpupjnfm5o2BBg7lC"
+    },
+    {
+      "artistName": "Frederic Buch",
+      "positioning": {
+        "top": 323,
+        "left": 1071
+      },
+      "style": {
+        "color": "#bf8b72",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f5a88838ea38d0eb2b1aef0a2c94561600241f6",
+        "title": "e.g. Frederic Buch \"Rue Lardier - Valse\"",
+        "trackId": "7h4pL7lnirUwuhKBtKI6zN"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=2ff0WvOdIUOb90UHD5S2w1",
+      "id": "2ff0WvOdIUOb90UHD5S2w1"
+    },
+    {
+      "artistName": "Franck Sallé",
+      "positioning": {
+        "top": 365,
+        "left": 44
+      },
+      "style": {
+        "color": "#bd7d3f",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/61089da939c5596b1554c0864fcb4b4ffded651f",
+        "title": "e.g. Franck Sallé \"Madison j'aime\"",
+        "trackId": "6KJT5tBGfivjzg1xOL4cm8"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=64wHfmjCyDmhu0PewPdzJG",
+      "id": "64wHfmjCyDmhu0PewPdzJG"
+    },
+    {
+      "artistName": "Alexandra Paris",
+      "positioning": {
+        "top": 283,
+        "left": 638
+      },
+      "style": {
+        "color": "#c18a70",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/60773b145b3d1c8d2f7e0477714baec9b0cf5ca8",
+        "title": "e.g. Alexandra Paris \"El Paso de la Bocca - Paso Doble\"",
+        "trackId": "0kscEEddwxXjoemw6Em72K"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=1lmENdy7a6FzNKg1maCfxN",
+      "id": "1lmENdy7a6FzNKg1maCfxN"
+    },
+    {
+      "artistName": "Musette Mélodies",
+      "positioning": {
+        "top": 300,
+        "left": 433
+      },
+      "style": {
+        "color": "#b2945a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7c50f32058320a7b7db6200ca121e482f9b88f92",
+        "title": "e.g. Musette Mélodies \"Toutes Les Femmes Sont Belles\"",
+        "trackId": "4kk6TFIpaDwZLzbFyz2mDZ"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=1nZ4KYzbfiUg8tSXLdnR2K",
+      "id": "1nZ4KYzbfiUg8tSXLdnR2K"
+    },
+    {
+      "artistName": "Aimable, Son Accordeon Et Son Orchestre",
+      "positioning": {
+        "top": 497,
+        "left": 293
+      },
+      "style": {
+        "color": "#bc7b85",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/652dac87b3cae2026e67f60b9616c5aebbf64a65",
+        "title": "e.g. Aimable, Son Accordeon Et Son Orchestre \"Sous le ciel de Paris\"",
+        "trackId": "7IQswDNqDdFjhBwMUjYDKH"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=3s7UtLd8yIuFd2Cc3TImNW",
+      "id": "3s7UtLd8yIuFd2Cc3TImNW"
+    },
+    {
+      "artistName": "Sébastien Perrin",
+      "positioning": {
+        "top": 299,
+        "left": 1103
+      },
+      "style": {
+        "color": "#b2884b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/82177414f87f87b463e887b00050f56ed5376b9d",
+        "title": "e.g. Sébastien Perrin \"La Plaza de Toros\"",
+        "trackId": "7bp0oAwWZ6onhr8IG5qK7P"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=7DIJOC2oHWZbUOE2l2kwx7",
+      "id": "7DIJOC2oHWZbUOE2l2kwx7"
+    },
+    {
+      "artistName": "Accordéon 2006",
+      "positioning": {
+        "top": 299,
+        "left": 971
+      },
+      "style": {
+        "color": "#a08e51",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ada1969512f1a29aad1c16b6e1a97586b525bc65",
+        "title": "e.g. Accordéon 2006 \"Yvette horner - la valse de l'amour\"",
+        "trackId": "4JzuUyhZxbyNZ0J7ERiNnE"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=3bLVLkqTnhDFYsKzDaNk44",
+      "id": "3bLVLkqTnhDFYsKzDaNk44"
+    },
+    {
+      "artistName": "Pierre Péribois",
+      "positioning": {
+        "top": 287,
+        "left": 521
+      },
+      "style": {
+        "color": "#b98a57",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/257fbc832394fd2ba749876ae430e3efbcb458fe",
+        "title": "e.g. Pierre Péribois \"Tourbillon musette\"",
+        "trackId": "6rclfW2pfrtHCBIeI4MpjO"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=56v6YnJfHIklk5mm54vxtL",
+      "id": "56v6YnJfHIklk5mm54vxtL"
+    },
+    {
+      "artistName": "Loic Valdor",
+      "positioning": {
+        "top": 380,
+        "left": 594
+      },
+      "style": {
+        "color": "#a08737",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5bfdfebed92af60ec7b252c76b8a819bab841a46",
+        "title": "e.g. Loic Valdor \"My Heart Will Go On\"",
+        "trackId": "1YueBXfxX4bvlf1EasQvBr"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=64CPt5egkNhdcQz7JcBxre",
+      "id": "64CPt5egkNhdcQz7JcBxre"
+    },
+    {
+      "artistName": "Mickael Richard",
+      "positioning": {
+        "top": 228,
+        "left": 923
+      },
+      "style": {
+        "color": "#ab8c58",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/745acf806d71317417f349d18edff474b809061c",
+        "title": "e.g. Mickael Richard \"Oxygène musette\"",
+        "trackId": "6UABNuFgLscSOr5CXKuITC"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=0OSekC4hVZ3qSAIzMsdvNY",
+      "id": "0OSekC4hVZ3qSAIzMsdvNY"
+    },
+    {
+      "artistName": "Jean-Marc Torchy",
+      "positioning": {
+        "top": 214,
+        "left": 710
+      },
+      "style": {
+        "color": "#ca8c78",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8b61f4db27ba8fb29aecaa921ff7e43fcc4eb5e",
+        "title": "e.g. Jean-Marc Torchy \"Ton cha cha cha\"",
+        "trackId": "4G4UvZOI9O7BRuylgkClwj"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=7IsDesmd11XEv93P613ngS",
+      "id": "7IsDesmd11XEv93P613ngS"
+    },
+    {
+      "artistName": "Christian Gauchy",
+      "positioning": {
+        "top": 284,
+        "left": 830
+      },
+      "style": {
+        "color": "#c98862",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5a45303d659e329aedbe84141be64ca4827c58ee",
+        "title": "e.g. Christian Gauchy \"C'est interdit\"",
+        "trackId": "3ZgWMQVomJNQzehB7ss9z6"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=0thHOCtEKu4rYUehwKFUFa",
+      "id": "0thHOCtEKu4rYUehwKFUFa"
+    },
+    {
+      "artistName": "Bertrand Hembert",
+      "positioning": {
+        "top": 271,
+        "left": 702
+      },
+      "style": {
+        "color": "#a49841",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fcdc83c1355bc4646fc871cfc62fc3aa97646fbb",
+        "title": "e.g. Bertrand Hembert \"Vous permettez Monsieur\"",
+        "trackId": "6hY4CiGB6VF9VBNbaiwOlR"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=4SqBN0JrSiAHazgRwCwT4Q",
+      "id": "4SqBN0JrSiAHazgRwCwT4Q"
+    },
+    {
+      "artistName": "Delphine Lemoine",
+      "positioning": {
+        "top": 447,
+        "left": 919
+      },
+      "style": {
+        "color": "#b18e6a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4535f155a9aa9bd5e5f21314e3ddab3d642d782b",
+        "title": "e.g. Delphine Lemoine \"La magicienne\"",
+        "trackId": "5ehPfOkqUb2kKwJulP2WX6"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=00vAnIbQSspx68EbIjkfnD",
+      "id": "00vAnIbQSspx68EbIjkfnD"
+    },
+    {
+      "artistName": "Aurélie Gusto",
+      "positioning": {
+        "top": 414,
+        "left": 967
+      },
+      "style": {
+        "color": "#b59040",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6164a9994870426954ebfae4363fab382e12892f",
+        "title": "e.g. Aurélie Gusto \"Toi et moi\"",
+        "trackId": "5X1dV7GG4OH4e1AwOknagy"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=5x7saWWkLtgoZ7j0iEmjAI",
+      "id": "5x7saWWkLtgoZ7j0iEmjAI"
+    },
+    {
+      "artistName": "Jean-Michel Sonnerat",
+      "positioning": {
+        "top": 474,
+        "left": 842
+      },
+      "style": {
+        "color": "#988a41",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/05069c41cffe6fcca925ce8ccefbd57055b237b0",
+        "title": "e.g. Jean-Michel Sonnerat \"Magic Musette\"",
+        "trackId": "2IWiJ2i3ScF9bCEsit6AmT"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=3W9lL19iWjyM0gX2HAu6JE",
+      "id": "3W9lL19iWjyM0gX2HAu6JE"
+    },
+    {
+      "artistName": "Erika",
+      "positioning": {
+        "top": 262,
+        "left": 517
+      },
+      "style": {
+        "color": "#989126",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/004306f4f6ed8e2a984484ee2a41c1f448b55d57",
+        "title": "e.g. Erika \"Heart Beat\"",
+        "trackId": "3nMCb3NJE3OqZrT8vNRb4D"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=59IblPvfQhfsgtmcAmNCRF",
+      "id": "59IblPvfQhfsgtmcAmNCRF"
+    },
+    {
+      "artistName": "Olivier Selac",
+      "positioning": {
+        "top": 274,
+        "left": 951
+      },
+      "style": {
+        "color": "#c48b8d",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/56d59eec909769628cfea501268d0f48e764fdb8",
+        "title": "e.g. Olivier Selac \"Et si on valsait\"",
+        "trackId": "7wM3VSL4jO4IJkQEauEsya"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=6JnSdqcCkFxYBo1JjGYrox",
+      "id": "6JnSdqcCkFxYBo1JjGYrox"
+    },
+    {
+      "artistName": "Aurélien Schneider",
+      "positioning": {
+        "top": 246,
+        "left": 658
+      },
+      "style": {
+        "color": "#c79474",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a340668cb689ca39ccc677d16306dbea27025e4c",
+        "title": "e.g. Aurélien Schneider \"Champagne Musette (Valse)\"",
+        "trackId": "2IJ1ygYcc3jHYyHpY1I9fy"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=33Lkf6RSGxYQ5Muvo6LOUm",
+      "id": "33Lkf6RSGxYQ5Muvo6LOUm"
+    },
+    {
+      "artistName": "Denys Gigot",
+      "positioning": {
+        "top": 0,
+        "left": 766
+      },
+      "style": {
+        "color": "#d1928e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a2ecbac1fc1a67c481b3ab82dee83e93bb2684c3",
+        "title": "e.g. Denys Gigot \"Hochzeitsmarsch\"",
+        "trackId": "6hQyrOQvlCapK0Ap3KmHh9"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=7E5SVGyyUUdGhNdVAykWbP",
+      "id": "7E5SVGyyUUdGhNdVAykWbP"
+    },
+    {
+      "artistName": "Jo Sony",
+      "positioning": {
+        "top": 402,
+        "left": 1003
+      },
+      "style": {
+        "color": "#b38a34",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fde0b09824708dbd37ae53d70062915977a3a274",
+        "title": "e.g. Jo Sony \"La bourrée auvergnate\"",
+        "trackId": "6PmYPk1YXKh7SnyFJpRGja"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=3B74PHfZWiPXpe7J2OTMt2",
+      "id": "3B74PHfZWiPXpe7J2OTMt2"
+    },
+    {
+      "artistName": "Christophe Lampidecchia",
+      "positioning": {
+        "top": 311,
+        "left": 919
+      },
+      "style": {
+        "color": "#999452",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1fc56a1cf42128f28c32f4ba32535f3f5768e1b1",
+        "title": "e.g. Christophe Lampidecchia \"Croque musette\"",
+        "trackId": "65em1b9V4lypwaSIOPKok3"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=3ANrBqrcj9Ov1S5OcHV88G",
+      "id": "3ANrBqrcj9Ov1S5OcHV88G"
+    },
+    {
+      "artistName": "Stéphanie Rodriguez",
+      "positioning": {
+        "top": 472,
+        "left": 1155
+      },
+      "style": {
+        "color": "#b383b1",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/046f90b7d5943b99850164cc9f4391e088585f5a",
+        "title": "e.g. Stéphanie Rodriguez \"Magic Musette\"",
+        "trackId": "6V0EcKQfBNrMCLQwQtYWpx"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=3O5gGRNxxJnxqygAwD1Wvh",
+      "id": "3O5gGRNxxJnxqygAwD1Wvh"
+    },
+    {
+      "artistName": "Christian Peschel",
+      "positioning": {
+        "top": 494,
+        "left": 626
+      },
+      "style": {
+        "color": "#a7945b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff22db490c8ee3e738caba5b68f1cf75b67e90af",
+        "title": "e.g. Christian Peschel \"C'est ça l'accordeon\"",
+        "trackId": "0KiAAfT38UqmrWvTn4efu3"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=4bdyyh29kO80P9WCuGkWRy",
+      "id": "4bdyyh29kO80P9WCuGkWRy"
+    },
+    {
+      "artistName": "Claude Geney",
+      "positioning": {
+        "top": 156,
+        "left": 1055
+      },
+      "style": {
+        "color": "#c094bc",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c661540b1d0bf5d38366f4ec8513b49ba84fb280",
+        "title": "e.g. Claude Geney \"Madison Square (Madison)\"",
+        "trackId": "5MNWX4hJ7wuZcVfwLP3Jpe"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=2F7tuSZpvFjIqWv3S755cX",
+      "id": "2F7tuSZpvFjIqWv3S755cX"
+    },
+    {
+      "artistName": "Corinne Bideaux",
+      "positioning": {
+        "top": 194,
+        "left": 874
+      },
+      "style": {
+        "color": "#bf94b1",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/fd45b2acf0d5a97a1241bd5b81e1479ba9aa94ee",
+        "title": "e.g. Corinne Bideaux \"Alsace En Fleurs (Valse)\"",
+        "trackId": "62RibwkCLQuQjI4zalmlwG"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=0BWqBKoB1p9XIAkpH30zyI",
+      "id": "0BWqBKoB1p9XIAkpH30zyI"
+    },
+    {
+      "artistName": "François Boissonnade Et Son Orchestre",
+      "positioning": {
+        "top": 323,
+        "left": 662
+      },
+      "style": {
+        "color": "#c08538",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/80d242fde2c7106256f75d4a3680ade57407654a",
+        "title": "e.g. François Boissonnade Et Son Orchestre \"L'Etoile Des Troubadours (Valse)\"",
+        "trackId": "0A1pBJHpCoxuWLBrQopcTJ"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=54fcnHBul7vXIa1VugXuBT",
+      "id": "54fcnHBul7vXIa1VugXuBT"
+    },
+    {
+      "artistName": "Tonin Troupel",
+      "positioning": {
+        "top": 759,
+        "left": 798
+      },
+      "style": {
+        "color": "#8b8c8e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/99956cd93091dfe389d54c10c60fbc5bb538ef2d",
+        "title": "e.g. Tonin Troupel \"La bourrée en Auvergne\"",
+        "trackId": "5pv5aeL2adkGEigPCvNboP"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=5Bid9Y3kawoyZEcjl0edcG",
+      "id": "5Bid9Y3kawoyZEcjl0edcG"
+    },
+    {
+      "artistName": "Mathieu Chocat",
+      "positioning": {
+        "top": 183,
+        "left": 570
+      },
+      "style": {
+        "color": "#ba9149",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a3d38eab750f3b7b531c508fdbb47693a3425368",
+        "title": "e.g. Mathieu Chocat \"Gimme Hope Johanna\"",
+        "trackId": "3w96A5wcF3tDvsq0NQho4Y"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=1mPD7D446JerzuoIF2eZTG",
+      "id": "1mPD7D446JerzuoIF2eZTG"
+    },
+    {
+      "artistName": "Cyrille Renaut",
+      "positioning": {
+        "top": 296,
+        "left": 810
+      },
+      "style": {
+        "color": "#b48f96",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ff306015f8ffb307aeb19b9d511ac55f5e6bbde4",
+        "title": "e.g. Cyrille Renaut \"Alsace En Fleurs (Valse)\"",
+        "trackId": "4DGFh6Voac1IVsyJWcEgGb"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=66aDw57bhqboxOqX3VjaA8",
+      "id": "66aDw57bhqboxOqX3VjaA8"
+    },
+    {
+      "artistName": "Corinne Rousselet",
+      "positioning": {
+        "top": 206,
+        "left": 1264
+      },
+      "style": {
+        "color": "#ad97b7",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dd899b02754976a809d3bd1dd667c649b91183a8",
+        "title": "e.g. Corinne Rousselet \"Du Gris\"",
+        "trackId": "5yiz6lkfK712yCVhdYCKAs"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=2TCeO2TnHdWNYXIIBm8bTn",
+      "id": "2TCeO2TnHdWNYXIIBm8bTn"
+    },
+    {
+      "artistName": "Danyel Dorgère",
+      "positioning": {
+        "top": 162,
+        "left": 834
+      },
+      "style": {
+        "color": "#a59467",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4347e51b79d0cac506f2b2cf00203d9a0d288d48",
+        "title": "e.g. Danyel Dorgère \"C'est beau la vie\"",
+        "trackId": "42JmUI0SLeW17IVnX9h9oO"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=5Szthj2WADaAiPW8K8om46",
+      "id": "5Szthj2WADaAiPW8K8om46"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=accordeon"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4v2etpAUyEX5sRicWn1IHC"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/05IjK1qBfqeo4nTLGXmOkG"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/3SoKGnIegACPFlN4CaCSUq"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/0Un2gDaqYkMAqDC4wr0HjF"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=accordeon"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "bal-musette",
+      "positioning": {
+        "top": 300,
+        "left": 300
+      },
+      "style": {
+        "color": "#7f8c82",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e7549ec053b54774a77472b0b6660c9af4a5dc7",
+        "title": "e.g. Emile Carrara \"Mon amant de Saint Jean\"",
+        "trackId": "1BtxKBH7Thjdapw3zCrQoP"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-balmusette.html#tunnel"
+    },
+    {
+      "genreName": "boeremusiek",
+      "positioning": {
+        "top": 126,
+        "left": 109
+      },
+      "style": {
+        "color": "#939180",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b480af467caed1debffe40a0ea4998d48dcc70be",
+        "title": "e.g. Die Vyf Namakwalanders \"Namakwaland Seties\"",
+        "trackId": "60XEBGQXyOFmBojVYcYqVC"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-boeremusiek.html#tunnel"
+    },
+    {
+      "genreName": "ceilidh",
+      "positioning": {
+        "top": 217,
+        "left": 17
+      },
+      "style": {
+        "color": "#8e925c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8b08a1db49433b285ff0209d19de712ecab70593",
+        "title": "e.g. Kilfenora Céilí Band \"Clare to Here. (Song)\"",
+        "trackId": "4PFsiPjuu7W6cXehxyxt1W"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-ceilidh.html#tunnel"
+    },
+    {
+      "genreName": "molam",
+      "positioning": {
+        "top": 163,
+        "left": 134
+      },
+      "style": {
+        "color": "#958b31",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/287d1457abb4a2cace36dbc178f192bf1e3638e6",
+        "title": "e.g. ทองมี มาลัย \"ชมรมแท็กซี่\"",
+        "trackId": "4sp78zMXGQznRKfNIXfLnC"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-molam.html#tunnel"
+    },
+    {
+      "genreName": "kolo",
+      "positioning": {
+        "top": 217,
+        "left": 107
+      },
+      "style": {
+        "color": "#aa8686",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/71c498ee7bd0f02f51a554b50a5a006ed910afb0",
+        "title": "e.g. Mirko Kodic \"Žagubičanka\"",
+        "trackId": "5Eobxr96quxMd37PtZjCiN"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-kolo.html#tunnel"
+    },
+    {
+      "genreName": "indorock",
+      "positioning": {
+        "top": 117,
+        "left": 10
+      },
+      "style": {
+        "color": "#998941",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1482473c200c05adbd84cfa86d530df6d7ac5f1f",
+        "title": "e.g. Ricky & The Rhythm Strings \"How's My Ex Treating You\"",
+        "trackId": "00ijN0m75CWN2IwHpI2C5w"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-indorock.html#tunnel"
+    },
+    {
+      "genreName": "arab groove",
+      "positioning": {
+        "top": 151,
+        "left": 113
+      },
+      "style": {
+        "color": "#918831",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5b985bcaa6e0f02497f1830705ef5946571c6530",
+        "title": "e.g. Ahmed Malek \"Autopsie d'un complot\"",
+        "trackId": "0nJPzwRclRWEniqHGQxdUv"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-arabgroove.html#tunnel"
+    },
+    {
+      "genreName": "musique alsacienne",
+      "positioning": {
+        "top": 254,
+        "left": 147
+      },
+      "style": {
+        "color": "#8b874c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0937ff73c78d60ad0cd5a6588f4db08c17b4e62",
+        "title": "e.g. Jean-Georges \"Une fille d'Alsace\"",
+        "trackId": "4dA53jLkR07iOBtNLpv8uW"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-musiquealsacienne.html#tunnel"
+    },
+    {
+      "genreName": "indian instrumental",
+      "positioning": {
+        "top": 241,
+        "left": 75
+      },
+      "style": {
+        "color": "#8d8841",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c4b8fc3cfd2d9484677de3ca684ded6a5aead918",
+        "title": "e.g. Amar Khandha \"Neele Neele Ambar Par - Unwind Instrumental\"",
+        "trackId": "1a288PL1cGQnzIgUIAXBpu"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-indianinstrumental.html#tunnel"
+    },
+    {
+      "genreName": "balkan brass",
+      "positioning": {
+        "top": 59,
+        "left": 149
+      },
+      "style": {
+        "color": "#a38449",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4fb39b04fde84e534cbd1a876015d28f66277460",
+        "title": "e.g. Fanfare Ciocarlia \"Moliendo Café\"",
+        "trackId": "7eOtKm3fNAeAhAoIZmJuEY"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-balkanbrass.html#tunnel"
+    },
+    {
+      "genreName": "south african jazz",
+      "positioning": {
+        "top": 217,
+        "left": 164
+      },
+      "style": {
+        "color": "#868d34",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f4d78278e52d28c04ee0a540f6ec1f43a20a54b4",
+        "title": "e.g. Zim Ngqawana \"Elegies in C minor: (Opus #1) Qula Kwedini\"",
+        "trackId": "4k2ffDFB36WBvzP2f7jlW5"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-southafricanjazz.html#tunnel"
+    },
+    {
+      "genreName": "chamorro pop",
+      "positioning": {
+        "top": 205,
+        "left": 134
+      },
+      "style": {
+        "color": "#838f3c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11c65c0b832c7fc9b93fbbde5442af61a8f1a2c9",
+        "title": "e.g. Walter Manglona \"Chamorro Superman\"",
+        "trackId": "6WVr3kPO0krwHZsofqdPgw"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-chamorropop.html#tunnel"
+    },
+    {
+      "genreName": "brass band brasileiro",
+      "positioning": {
+        "top": 114,
+        "left": 168
+      },
+      "style": {
+        "color": "#9d818f",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/14af1c0d38010a08395b436ca0b48d8c8b42bb1f",
+        "title": "e.g. Orquestra Brasileira de Música Jamaicana \"Vai!\"",
+        "trackId": "5H7tujrpK7rMwVtASAUlLI"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-brassbandbrasileiro.html#tunnel"
+    },
+    {
+      "genreName": "malian blues",
+      "positioning": {
+        "top": 229,
+        "left": 174
+      },
+      "style": {
+        "color": "#8d9135",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/941e53604da6330e93a2a20e27a18e875d1296d4",
+        "title": "e.g. Toumani Diabaté \"Rachid Ouiguini\"",
+        "trackId": "3SDZOWEfwMV9wDhK6ISQL9"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-malianblues.html#tunnel"
+    },
+    {
+      "genreName": "afro psych",
+      "positioning": {
+        "top": 139,
+        "left": 193
+      },
+      "style": {
+        "color": "#a27f3c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/00e46d2a88a790fa227f50bb25d90420184e40cc",
+        "title": "e.g. Ofege \"It's Not Easy\"",
+        "trackId": "1AJpZtYHY7MD21Tkcg9wlE"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-afropsych.html#tunnel"
+    },
+    {
+      "genreName": "afrobeat brasileiro",
+      "positioning": {
+        "top": 0,
+        "left": 199
+      },
+      "style": {
+        "color": "#aa846e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d3d9b258d1e897c4e4960d529ca30e1d401bd46c",
+        "title": "e.g. Bixiga 70 \"Alumiô (Cai na Terra)\"",
+        "trackId": "2Z7LOtr7hhyHqkcFKpHsa1"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-afrobeatbrasileiro.html#tunnel"
+    },
+    {
+      "genreName": "afrofuturism",
+      "positioning": {
+        "top": 97,
+        "left": 122
+      },
+      "style": {
+        "color": "#908245",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2cbe872533ae55d7d60a44c42de96850198bb9c",
+        "title": "e.g. Flying Lotus \"Crust\"",
+        "trackId": "6ri6ZQWxqIZgYd2RfsnKNa"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-afrofuturism.html#tunnel"
+    },
+    {
+      "genreName": "andean flute",
+      "positioning": {
+        "top": 205,
+        "left": 21
+      },
+      "style": {
+        "color": "#83985a",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fb3d821ce53ce1f7d7b9d207ed2ca101c490370",
+        "title": "e.g. Alosaka \"Camino Al Sol\"",
+        "trackId": "3dvGbAVn8gRBYxmpwyUHlL"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-andeanflute.html#tunnel"
+    },
+    {
+      "genreName": "antilliaanse folklore",
+      "positioning": {
+        "top": 174,
+        "left": 279
+      },
+      "style": {
+        "color": "#888e3c",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f069b0c693249de06263db1ce0f1e8f0bd2e3eab",
+        "title": "e.g. Grupo Di Betico \"Paranda Arubiano\"",
+        "trackId": "7ascMmJY0gwkdkZIXb16VD"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-antilliaansefolklore.html#tunnel"
+    },
+    {
+      "genreName": "asheville indie",
+      "positioning": {
+        "top": 102,
+        "left": 0
+      },
+      "style": {
+        "color": "#90893e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cf3fd6bac587a0cffe04816e8170cbbf277a32f0",
+        "title": "e.g. River Whyless \"Motel 6\"",
+        "trackId": "6hUTzxvNiJ1c0lYqgoOTBW"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-ashevilleindie.html#tunnel"
+    }
+  ]
+}
