@@ -11,26 +11,31 @@ await writeFile(
   JSON.stringify(genresJson),
 );
 
-for (const genre of genresJson) {
+const promises = genresJson.map(async (genre) => {
   const genreSlug = genreNameToSlug(genre.genreName);
+  const filePath = path.join(cwd(), "data", "genres", `${genreSlug}.json`);
+
   console.log("minifying genre page for " + genreSlug);
 
   let genrePageJson: string;
 
   try {
-    genrePageJson = await readFile(
-      path.join(cwd(), "data", "genres", `${genreSlug}.json`),
-      "utf8",
-    );
+    genrePageJson = await readFile(filePath, "utf8");
   } catch (err: any) {
     if (err.code === "ENOENT") {
-      console.log("cant find genre page for " + genreSlug + ", skipping");
-      continue;
+      console.log(`cant find genre page for ${genreSlug}, skipping`);
+      return;
     }
+
+    throw err;
   }
 
   await writeFile(
     path.join(cwd(), "data", "genres", `${genreSlug}.min.json`),
-    JSON.stringify(genresJson),
+    JSON.stringify(JSON.parse(genrePageJson)),
   );
-}
+});
+
+const result = await Promise.allSettled(promises);
+
+console.log(result);
