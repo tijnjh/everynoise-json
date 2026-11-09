@@ -1,0 +1,3362 @@
+{
+  "schemaVersion": 3,
+  "genreName": "makossa",
+  "artists": [
+    {
+      "artistName": "Manu Dibango",
+      "positioning": {
+        "top": 559,
+        "left": 865
+      },
+      "style": {
+        "color": "#9e886d",
+        "fontSize": "160%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d8509e63a132497c5861947278c90b9591d829d3",
+        "title": "e.g. Manu Dibango \"Soul Makossa\"",
+        "trackId": "21s0bjVrP7RtQskeUKZxOu"
+      },
+      "elementId": "item1",
+      "href": "https://everynoise.com/artistprofile.html?id=30UIjoCGuL3Fa5BOc3ayNW",
+      "id": "30UIjoCGuL3Fa5BOc3ayNW"
+    },
+    {
+      "artistName": "Meiway",
+      "positioning": {
+        "top": 100,
+        "left": 875
+      },
+      "style": {
+        "color": "#c6820e",
+        "fontSize": "135%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/07c0b88a1089e849d6cedb9d3f6aaf94e4ac69c7",
+        "title": "e.g. Meiway \"DJ Tassouman\"",
+        "trackId": "0dXj0ElzCffNqVzYn9I7qF"
+      },
+      "elementId": "item2",
+      "href": "https://everynoise.com/artistprofile.html?id=1Vgb3eqBF3DLP6FwY7MuB4",
+      "id": "1Vgb3eqBF3DLP6FwY7MuB4"
+    },
+    {
+      "artistName": "Lokua Kanza",
+      "positioning": {
+        "top": 818,
+        "left": 456
+      },
+      "style": {
+        "color": "#6c940c",
+        "fontSize": "133%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b8b058c6aa71467cad7562df105631cfdb0f65d5",
+        "title": "e.g. Lokua Kanza \"Mutoto\"",
+        "trackId": "6aJYkRh5q4q5oGNb39hqfK"
+      },
+      "elementId": "item3",
+      "href": "https://everynoise.com/artistprofile.html?id=7vzd67tdMCwnIfIU6TX6Nk",
+      "id": "7vzd67tdMCwnIfIU6TX6Nk"
+    },
+    {
+      "artistName": "Cysoul",
+      "positioning": {
+        "top": 492,
+        "left": 717
+      },
+      "style": {
+        "color": "#979600",
+        "fontSize": "127%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13375f640fe653a5e7e455e5b4305bd46ad40494",
+        "title": "e.g. Cysoul \"Je tombe aussi\"",
+        "trackId": "2XmcLnONke249Ztb81T4r2"
+      },
+      "elementId": "item4",
+      "href": "https://everynoise.com/artistprofile.html?id=212RAD04CL3a1XwexVB129",
+      "id": "212RAD04CL3a1XwexVB129"
+    },
+    {
+      "artistName": "Petit Pays",
+      "positioning": {
+        "top": 332,
+        "left": 630
+      },
+      "style": {
+        "color": "#d67808",
+        "fontSize": "126%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e803b59dcf819b0a754933012c23c33e8498d4d9",
+        "title": "e.g. Petit Pays \"Eboki\"",
+        "trackId": "6iMuDuFogVFsj22g1TZVbJ"
+      },
+      "elementId": "item5",
+      "href": "https://everynoise.com/artistprofile.html?id=01IMQph7TxbPLlWPbU4Esp",
+      "id": "01IMQph7TxbPLlWPbU4Esp"
+    },
+    {
+      "artistName": "Krys M",
+      "positioning": {
+        "top": 401,
+        "left": 619
+      },
+      "style": {
+        "color": "#c58f01",
+        "fontSize": "125%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0b537ba289ae9c83ade2db0f5b797f5293e3ab61",
+        "title": "e.g. Krys M \"Chacun Sa Chance\"",
+        "trackId": "3zZA38deAndWxGHp6zL8gT"
+      },
+      "elementId": "item6",
+      "href": "https://everynoise.com/artistprofile.html?id=6B6DGmfpucF3zITrGDzbCi",
+      "id": "6B6DGmfpucF3zITrGDzbCi"
+    },
+    {
+      "artistName": "Grace Decca",
+      "positioning": {
+        "top": 448,
+        "left": 333
+      },
+      "style": {
+        "color": "#a38607",
+        "fontSize": "123%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3046862889e2cf0160a2c97a96207e04519d3f2d",
+        "title": "e.g. Grace Decca \"Munyengue\"",
+        "trackId": "0gtmNpBVMEbBtAMbpsxLYm"
+      },
+      "elementId": "item7",
+      "href": "https://everynoise.com/artistprofile.html?id=4W6KXKW2WN3Mr6qduCKyI5",
+      "id": "4W6KXKW2WN3Mr6qduCKyI5"
+    },
+    {
+      "artistName": "Ben Decca",
+      "positioning": {
+        "top": 418,
+        "left": 236
+      },
+      "style": {
+        "color": "#c87e07",
+        "fontSize": "121%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c9d5f356dbf2a0c0b0e55a4b4a37b4bc64b0c5c",
+        "title": "e.g. Ben Decca \"Bwanga bwam\"",
+        "trackId": "1KfZt0uGj0hPOYJ6BeSc7Q"
+      },
+      "elementId": "item8",
+      "href": "https://everynoise.com/artistprofile.html?id=0167ut3NFs3TI8EGscI3aZ",
+      "id": "0167ut3NFs3TI8EGscI3aZ"
+    },
+    {
+      "artistName": "Lady Ponce",
+      "positioning": {
+        "top": 476,
+        "left": 1290
+      },
+      "style": {
+        "color": "#cc7b0e",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/594eba1bd588ebc8a05c9a13f0512bd8d95b9907",
+        "title": "e.g. Lady Ponce \"Je ne voulais plus\"",
+        "trackId": "0ZnVLC3G09JptNskkDfKLT"
+      },
+      "elementId": "item9",
+      "href": "https://everynoise.com/artistprofile.html?id=4WF183Kl7QhmBH35vvQnzM",
+      "id": "4WF183Kl7QhmBH35vvQnzM"
+    },
+    {
+      "artistName": "Aveiro Djess",
+      "positioning": {
+        "top": 452,
+        "left": 885
+      },
+      "style": {
+        "color": "#d68002",
+        "fontSize": "118%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b29c25fe60ff119e04363e0e6fa23a45bde05e17",
+        "title": "e.g. Aveiro Djess \"Le nyama\"",
+        "trackId": "621TMPiRb7R5dg9p2ECBW8"
+      },
+      "elementId": "item10",
+      "href": "https://everynoise.com/artistprofile.html?id=4lypn4ixPqyT9o2OLDCEsf",
+      "id": "4lypn4ixPqyT9o2OLDCEsf"
+    },
+    {
+      "artistName": "Patience Dabany",
+      "positioning": {
+        "top": 305,
+        "left": 405
+      },
+      "style": {
+        "color": "#cc7807",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b3cc623f7644e1caacddd68f8cec03165594f7af",
+        "title": "e.g. Patience Dabany \"On vous connait\"",
+        "trackId": "5vQKZ99XCbNVFMO1x4eYd8"
+      },
+      "elementId": "item11",
+      "href": "https://everynoise.com/artistprofile.html?id=0I4hm86r145kyusXtEIqSL",
+      "id": "0I4hm86r145kyusXtEIqSL"
+    },
+    {
+      "artistName": "Henri Dikongué",
+      "positioning": {
+        "top": 675,
+        "left": 599
+      },
+      "style": {
+        "color": "#87940b",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34bd4fe0ce488daf57b726633e37d15e737dcc8c",
+        "title": "e.g. Henri Dikongué \"C'est la vie - Studio\"",
+        "trackId": "7E5AHjphvxggLZuMvewQ2g"
+      },
+      "elementId": "item12",
+      "href": "https://everynoise.com/artistprofile.html?id=63ffeIekjoCQR8xwxvV9Ee",
+      "id": "63ffeIekjoCQR8xwxvV9Ee"
+    },
+    {
+      "artistName": "Eboa Lotin",
+      "positioning": {
+        "top": 872,
+        "left": 497
+      },
+      "style": {
+        "color": "#7e9517",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/dc5f75820a5bd16c20611b7aad230cb44b18fc5d",
+        "title": "e.g. Eboa Lotin \"Ja' alé (Allons-nous en)\"",
+        "trackId": "0z8NyiGkNl1nxP7FUjgYib"
+      },
+      "elementId": "item13",
+      "href": "https://everynoise.com/artistprofile.html?id=4zdJOyWGAvirGtlplaG3Pk",
+      "id": "4zdJOyWGAvirGtlplaG3Pk"
+    },
+    {
+      "artistName": "André Marie Tala",
+      "positioning": {
+        "top": 623,
+        "left": 625
+      },
+      "style": {
+        "color": "#b67b51",
+        "fontSize": "116%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3ccbef9862dc8deae59a653c6483b6c4800318cc",
+        "title": "e.g. André Marie Tala \"Piego Hela\"",
+        "trackId": "1Yk6mtsLWNcXQZKDz9L9Zb"
+      },
+      "elementId": "item14",
+      "href": "https://everynoise.com/artistprofile.html?id=7zoESCAeVJ8h0e1k62snyS",
+      "id": "7zoESCAeVJ8h0e1k62snyS"
+    },
+    {
+      "artistName": "Samy Diko",
+      "positioning": {
+        "top": 291,
+        "left": 481
+      },
+      "style": {
+        "color": "#ce8405",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b73d8ad76674c38b6600fcc2c2080c891fe87108",
+        "title": "e.g. Samy Diko \"Sans toi\"",
+        "trackId": "7JKGW36eRQR1SEEoAvlnTS"
+      },
+      "elementId": "item15",
+      "href": "https://everynoise.com/artistprofile.html?id=19KZTKvRPAa6JH3yzLH86c",
+      "id": "19KZTKvRPAa6JH3yzLH86c"
+    },
+    {
+      "artistName": "Monique Seka",
+      "positioning": {
+        "top": 220,
+        "left": 809
+      },
+      "style": {
+        "color": "#bd8921",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/39312c79f30ec76da5724fd5f0c46e2d98101854",
+        "title": "e.g. Monique Seka \"Okaman\"",
+        "trackId": "6Z9Sw8yOGGHwunTIgRkbCa"
+      },
+      "elementId": "item16",
+      "href": "https://everynoise.com/artistprofile.html?id=5PFcIlZRac2ERAYbC09bR4",
+      "id": "5PFcIlZRac2ERAYbC09bR4"
+    },
+    {
+      "artistName": "Sergeo Polo",
+      "positioning": {
+        "top": 375,
+        "left": 630
+      },
+      "style": {
+        "color": "#da7c08",
+        "fontSize": "115%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ec2a02bd027f883e95374873be473850eab0f36",
+        "title": "e.g. Sergeo Polo \"Solantine\"",
+        "trackId": "0LKgeyypdJYj4JcnSSWUxT"
+      },
+      "elementId": "item17",
+      "href": "https://everynoise.com/artistprofile.html?id=3d14xPEq0eQJDwxUKuZw0I",
+      "id": "3d14xPEq0eQJDwxUKuZw0I"
+    },
+    {
+      "artistName": "Mr Leo",
+      "positioning": {
+        "top": 572,
+        "left": 640
+      },
+      "style": {
+        "color": "#b58f01",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e98bda507a1e30c1391f421d2cc6df0feeeec33",
+        "title": "e.g. Mr Leo \"Jamais - Jamais\"",
+        "trackId": "5KfEs6qehWt6K65loTrLsW"
+      },
+      "elementId": "item18",
+      "href": "https://everynoise.com/artistprofile.html?id=0sfURdhcmXyrcFEWaJ2IJI",
+      "id": "0sfURdhcmXyrcFEWaJ2IJI"
+    },
+    {
+      "artistName": "PhillBill",
+      "positioning": {
+        "top": 133,
+        "left": 686
+      },
+      "style": {
+        "color": "#ee7b03",
+        "fontSize": "114%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8025166f0e450e3cb5aae221f28957c19f603d91",
+        "title": "e.g. PhillBill \"Malova\"",
+        "trackId": "1mahlS0el9K5KsQ9az0eCe"
+      },
+      "elementId": "item19",
+      "href": "https://everynoise.com/artistprofile.html?id=0FvaYVqukImgaD8PFHcuHB",
+      "id": "0FvaYVqukImgaD8PFHcuHB"
+    },
+    {
+      "artistName": "DJ Caloudji",
+      "positioning": {
+        "top": 222,
+        "left": 1400
+      },
+      "style": {
+        "color": "#d17416",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad17ef1107ab898a6323d439e52f45ff4f4c8a4d",
+        "title": "e.g. DJ Caloudji \"Caloudji\"",
+        "trackId": "3ILcMu1X2IF2YzgG1aJ2Q8"
+      },
+      "elementId": "item20",
+      "href": "https://everynoise.com/artistprofile.html?id=6YYlaESxLqaP6PpSuUuh9P",
+      "id": "6YYlaESxLqaP6PpSuUuh9P"
+    },
+    {
+      "artistName": "Longué Longué",
+      "positioning": {
+        "top": 453,
+        "left": 671
+      },
+      "style": {
+        "color": "#d67a07",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8632e57a4d8ec50d6fb030bd48690d1512a651ae",
+        "title": "e.g. Longué Longué \"Kirikou\"",
+        "trackId": "7LxX7q1kZbvjoyKfQr8vzL"
+      },
+      "elementId": "item21",
+      "href": "https://everynoise.com/artistprofile.html?id=1UtNV2kQj4pl0XXmIDlKpg",
+      "id": "1UtNV2kQj4pl0XXmIDlKpg"
+    },
+    {
+      "artistName": "Douk Saga",
+      "positioning": {
+        "top": 278,
+        "left": 1116
+      },
+      "style": {
+        "color": "#f16b0c",
+        "fontSize": "113%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a394efb4f1050dc4e38d75643b1648040dd70b13",
+        "title": "e.g. Douk Saga \"Douk Saga en fête\"",
+        "trackId": "0fKty8GmFefGzizBFRSaE1"
+      },
+      "elementId": "item22",
+      "href": "https://everynoise.com/artistprofile.html?id=37ZPK9P5aLCDBJq3gaDZHq",
+      "id": "37ZPK9P5aLCDBJq3gaDZHq"
+    },
+    {
+      "artistName": "Nguea Laroute",
+      "positioning": {
+        "top": 271,
+        "left": 630
+      },
+      "style": {
+        "color": "#cd8208",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bd54771b871e43d00f1f75ccb1fa1f9cd56af014",
+        "title": "e.g. Nguea Laroute \"Ebonga longo\"",
+        "trackId": "3kaa0zDNQ156WJhriIha3S"
+      },
+      "elementId": "item23",
+      "href": "https://everynoise.com/artistprofile.html?id=0P3gVLz6ghw2k8lzqZ0ugh",
+      "id": "0P3gVLz6ghw2k8lzqZ0ugh"
+    },
+    {
+      "artistName": "Pierrette Adams",
+      "positioning": {
+        "top": 298,
+        "left": 701
+      },
+      "style": {
+        "color": "#d38408",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3d2bfb4fa6d1d7eabd5c806782c2e18afc8fe254",
+        "title": "e.g. Pierrette Adams \"Notre histoire\"",
+        "trackId": "1b4jpbrTLhf6gLimKkpqD5"
+      },
+      "elementId": "item24",
+      "href": "https://everynoise.com/artistprofile.html?id=4wAq0B5dEzcDCClIkAznSr",
+      "id": "4wAq0B5dEzcDCClIkAznSr"
+    },
+    {
+      "artistName": "L'orchestre Sans Visa",
+      "positioning": {
+        "top": 320,
+        "left": 942
+      },
+      "style": {
+        "color": "#b4841a",
+        "fontSize": "112%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item25",
+      "href": "https://everynoise.com/artistprofile.html?id=6yE6gNjlhvxp00rcgSE74i",
+      "id": "6yE6gNjlhvxp00rcgSE74i"
+    },
+    {
+      "artistName": "Sam Fan Thomas",
+      "positioning": {
+        "top": 144,
+        "left": 1044
+      },
+      "style": {
+        "color": "#cc7226",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/68a400f0f1d61747640906da41487cebdd8ce39a",
+        "title": "e.g. Sam Fan Thomas \"African Typic Collection\"",
+        "trackId": "0M4G8bLXP5HEfZPG5WDKUm"
+      },
+      "elementId": "item26",
+      "href": "https://everynoise.com/artistprofile.html?id=2JbJuYv3mZFqheYEo0412Y",
+      "id": "2JbJuYv3mZFqheYEo0412Y"
+    },
+    {
+      "artistName": "Guy Lobé",
+      "positioning": {
+        "top": 194,
+        "left": 752
+      },
+      "style": {
+        "color": "#c7841d",
+        "fontSize": "111%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50714f8a1909212f4a3b1fbc3ef364bc8c9ffb9a",
+        "title": "e.g. Guy Lobé \"Bouger bouger\"",
+        "trackId": "495ZiwyiBVxVyOm4U3Qe6v"
+      },
+      "elementId": "item27",
+      "href": "https://everynoise.com/artistprofile.html?id=1mKorwTSYxVNbzBHCyX9Bf",
+      "id": "1mKorwTSYxVNbzBHCyX9Bf"
+    },
+    {
+      "artistName": "Prince Eyango",
+      "positioning": {
+        "top": 440,
+        "left": 466
+      },
+      "style": {
+        "color": "#c87d02",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af321cd2b62fc49c1c1875df0e11af483239b534",
+        "title": "e.g. Prince Eyango \"You Must Calculer\"",
+        "trackId": "0RvFToYKNuJB3kPX8JGbhm"
+      },
+      "elementId": "item28",
+      "href": "https://everynoise.com/artistprofile.html?id=2lVqx4opVtMGCUiWRt8qTS",
+      "id": "2lVqx4opVtMGCUiWRt8qTS"
+    },
+    {
+      "artistName": "Douleur",
+      "positioning": {
+        "top": 414,
+        "left": 804
+      },
+      "style": {
+        "color": "#d77905",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db4635e1f18356b36e66963516eda2395c87bda4",
+        "title": "e.g. Douleur \"So shame\"",
+        "trackId": "4n9wSBwGPl8KSrgf6qkcm5"
+      },
+      "elementId": "item29",
+      "href": "https://everynoise.com/artistprofile.html?id=6flngiMnNFMg931PoB4BWj",
+      "id": "6flngiMnNFMg931PoB4BWj"
+    },
+    {
+      "artistName": "Dina Bell",
+      "positioning": {
+        "top": 453,
+        "left": 584
+      },
+      "style": {
+        "color": "#cd7408",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/18e1d7ea882035cf967cb95d32b6f0e96987bda2",
+        "title": "e.g. Dina Bell \"Bobe na mbako\"",
+        "trackId": "6uVfSYb5n5PnOVZyu6490M"
+      },
+      "elementId": "item30",
+      "href": "https://everynoise.com/artistprofile.html?id=5FJo79kgKDvcxagzYkUobo",
+      "id": "5FJo79kgKDvcxagzYkUobo"
+    },
+    {
+      "artistName": "Charlotte Mbango",
+      "positioning": {
+        "top": 492,
+        "left": 497
+      },
+      "style": {
+        "color": "#b07f03",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/876c32eb1f6e660ba18c1ff253fa5115d0b88422",
+        "title": "e.g. Charlotte Mbango \"Dikom lam la moto\"",
+        "trackId": "1iw6kJdYHnDLyoLJJ1JIaD"
+      },
+      "elementId": "item31",
+      "href": "https://everynoise.com/artistprofile.html?id=7EmZTfxR7HBqyVQ5mq7KMP",
+      "id": "7EmZTfxR7HBqyVQ5mq7KMP"
+    },
+    {
+      "artistName": "Kotto Bass",
+      "positioning": {
+        "top": 427,
+        "left": 676
+      },
+      "style": {
+        "color": "#c97b0c",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37bd228972c9243bade45e0d7c6ef1eaded85d40",
+        "title": "e.g. Kotto Bass \"Edith Ndol'ango\"",
+        "trackId": "0cNPv2AqseON2dlfYkCPop"
+      },
+      "elementId": "item32",
+      "href": "https://everynoise.com/artistprofile.html?id=2mlkzwymKnhikgUjppmtrt",
+      "id": "2mlkzwymKnhikgUjppmtrt"
+    },
+    {
+      "artistName": "Sally Nyolo",
+      "positioning": {
+        "top": 520,
+        "left": 793
+      },
+      "style": {
+        "color": "#9e880c",
+        "fontSize": "110%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/85fa44a9e1dbb7228e635fcb143607cc7fb9046f",
+        "title": "e.g. Sally Nyolo \"Tamtam\"",
+        "trackId": "1V0DeTSKye4xNcH946pbc7"
+      },
+      "elementId": "item33",
+      "href": "https://everynoise.com/artistprofile.html?id=63YppDRNOmAKeYjBSITPTV",
+      "id": "63YppDRNOmAKeYjBSITPTV"
+    },
+    {
+      "artistName": "Hoigen Ekwalla",
+      "positioning": {
+        "top": 347,
+        "left": 665
+      },
+      "style": {
+        "color": "#c6811a",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/db4eb620a98b7c83bcab5b40e23cb2877e0b12b6",
+        "title": "e.g. Hoigen Ekwalla \"Femmes il faut supporter\"",
+        "trackId": "6htGoRE5T6lesSbulqEuDy"
+      },
+      "elementId": "item34",
+      "href": "https://everynoise.com/artistprofile.html?id=0upKvELQmoxajFsz54CBnY",
+      "id": "0upKvELQmoxajFsz54CBnY"
+    },
+    {
+      "artistName": "Daouda",
+      "positioning": {
+        "top": 623,
+        "left": 788
+      },
+      "style": {
+        "color": "#a98f1b",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7ce4872bc9ad7705145e3aefa8648e037881ecf4",
+        "title": "e.g. Daouda \"La Femme De Mon Patron\"",
+        "trackId": "2oxkEFUuh9lWXuPwPUc4j0"
+      },
+      "elementId": "item35",
+      "href": "https://everynoise.com/artistprofile.html?id=1HQHhksFTSDp6FYnxr0yMV",
+      "id": "1HQHhksFTSDp6FYnxr0yMV"
+    },
+    {
+      "artistName": "Tom Yom's",
+      "positioning": {
+        "top": 401,
+        "left": 481
+      },
+      "style": {
+        "color": "#a08b23",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/98cab9916feb6bb038f3d2f5e685efc02014febc",
+        "title": "e.g. Tom Yom's \"Sengato\"",
+        "trackId": "3d6wJury23MqZtH332GEsp"
+      },
+      "elementId": "item36",
+      "href": "https://everynoise.com/artistprofile.html?id=0NTdZXZY4cvQdaG1LNQ8Ei",
+      "id": "0NTdZXZY4cvQdaG1LNQ8Ei"
+    },
+    {
+      "artistName": "TCHAKALA VIP",
+      "positioning": {
+        "top": 583,
+        "left": 891
+      },
+      "style": {
+        "color": "#cc7200",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b6339c32c622f6e64a809068dd073f7691dabf7",
+        "title": "e.g. TCHAKALA VIP \"For o fess\"",
+        "trackId": "5cw3qk9qOmzOqSnI7YwatV"
+      },
+      "elementId": "item37",
+      "href": "https://everynoise.com/artistprofile.html?id=3lUAxDb4oX0iU1wmnDzUEM",
+      "id": "3lUAxDb4oX0iU1wmnDzUEM"
+    },
+    {
+      "artistName": "SamFan Thomas",
+      "positioning": {
+        "top": 117,
+        "left": 1126
+      },
+      "style": {
+        "color": "#db7b27",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6a6406a31c129e8abc1c7236d8c3364616bb6664",
+        "title": "e.g. SamFan Thomas \"Zimo - To Nelson Mandela\"",
+        "trackId": "52JhFPx7aCUJmDGOql1vsb"
+      },
+      "elementId": "item38",
+      "href": "https://everynoise.com/artistprofile.html?id=3BM1ACFkmIfHTpnJQw687R",
+      "id": "3BM1ACFkmIfHTpnJQw687R"
+    },
+    {
+      "artistName": "Fadil le sorcier",
+      "positioning": {
+        "top": 159,
+        "left": 1116
+      },
+      "style": {
+        "color": "#eb6e0b",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e8c1ba0c2d85a2f56bdec9c951b1f29a2cc8563c",
+        "title": "e.g. Fadil le sorcier \"Landé\"",
+        "trackId": "4PyZ3lkPjkScXGwXoaFOEM"
+      },
+      "elementId": "item39",
+      "href": "https://everynoise.com/artistprofile.html?id=78Gnpu7WCjy29s2hcyz7Fd",
+      "id": "78Gnpu7WCjy29s2hcyz7Fd"
+    },
+    {
+      "artistName": "Lapiro De Mbanga",
+      "positioning": {
+        "top": 252,
+        "left": 1024
+      },
+      "style": {
+        "color": "#c47706",
+        "fontSize": "109%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/875cc6a0e78f11926c00e0355af6b29440061b79",
+        "title": "e.g. Lapiro De Mbanga \"Over Done\"",
+        "trackId": "7p5KmStSvZfz3bs1nyTvCL"
+      },
+      "elementId": "item40",
+      "href": "https://everynoise.com/artistprofile.html?id=5iyy4ghLfTZhWYtAZirwVT",
+      "id": "5iyy4ghLfTZhWYtAZirwVT"
+    },
+    {
+      "artistName": "Toto Guillaume",
+      "positioning": {
+        "top": 770,
+        "left": 548
+      },
+      "style": {
+        "color": "#ba6700",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51837d98b342a0394137cf9663ccff7dbdce349a",
+        "title": "e.g. Toto Guillaume \"Makossa non stop\"",
+        "trackId": "16uaHbVC51qz6ecTHeOsAg"
+      },
+      "elementId": "item41",
+      "href": "https://everynoise.com/artistprofile.html?id=2XKgdQxrHdTiRgIbFTMtEN",
+      "id": "2XKgdQxrHdTiRgIbFTMtEN"
+    },
+    {
+      "artistName": "Bebe Manga",
+      "positioning": {
+        "top": 557,
+        "left": 410
+      },
+      "style": {
+        "color": "#aa8c1a",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8f1b56f40257722b31e84bfaf54b191640c5e93f",
+        "title": "e.g. Bebe Manga \"Na meya\"",
+        "trackId": "0VVvY9ojgQ7yPqEkoGiLSO"
+      },
+      "elementId": "item42",
+      "href": "https://everynoise.com/artistprofile.html?id=1memK9vKb8XlJ57toAUkMV",
+      "id": "1memK9vKb8XlJ57toAUkMV"
+    },
+    {
+      "artistName": "Ndedi Dibango",
+      "positioning": {
+        "top": 463,
+        "left": 231
+      },
+      "style": {
+        "color": "#d3790a",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b2e2e018108483054de3d46acbee03eaf0510e2c",
+        "title": "e.g. Ndedi Dibango \"Eye Me\"",
+        "trackId": "01rW5QBpFf85G8yneLR4Y3"
+      },
+      "elementId": "item43",
+      "href": "https://everynoise.com/artistprofile.html?id=78NN6ScxSD6oxpOZMyd9az",
+      "id": "78NN6ScxSD6oxpOZMyd9az"
+    },
+    {
+      "artistName": "Les Sans Visas",
+      "positioning": {
+        "top": 306,
+        "left": 579
+      },
+      "style": {
+        "color": "#c27e16",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item44",
+      "href": "https://everynoise.com/artistprofile.html?id=2kY8zqwyZNibEUbKkCiLx2",
+      "id": "2kY8zqwyZNibEUbKkCiLx2"
+    },
+    {
+      "artistName": "Belka Tobis",
+      "positioning": {
+        "top": 431,
+        "left": 369
+      },
+      "style": {
+        "color": "#c88406",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5c8dfd6c9ee847a16461f730fbfd189474648a25",
+        "title": "e.g. Belka Tobis \"A Yé Mock\"",
+        "trackId": "1bdPIXGcJeGQB90DNdkuBZ"
+      },
+      "elementId": "item45",
+      "href": "https://everynoise.com/artistprofile.html?id=1IbxPuQzUb4wK0M67B2MIX",
+      "id": "1IbxPuQzUb4wK0M67B2MIX"
+    },
+    {
+      "artistName": "K.Tino",
+      "positioning": {
+        "top": 558,
+        "left": 691
+      },
+      "style": {
+        "color": "#e87711",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/27915e9a338bd213f28343ff081a2d9752493d32",
+        "title": "e.g. K.Tino \"Ekargator - Okalga tordi\"",
+        "trackId": "5dcQDkqmPwDs5RzTxlPFzc"
+      },
+      "elementId": "item46",
+      "href": "https://everynoise.com/artistprofile.html?id=49MOgc1b2cEgQWYdq9DjLg",
+      "id": "49MOgc1b2cEgQWYdq9DjLg"
+    },
+    {
+      "artistName": "Sandrine Nnanga",
+      "positioning": {
+        "top": 394,
+        "left": 297
+      },
+      "style": {
+        "color": "#bb9401",
+        "fontSize": "108%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cfef73fcab7e372f715964e8af1de33e8d94676e",
+        "title": "e.g. Sandrine Nnanga \"Ton Feu\"",
+        "trackId": "7gu19CCcgjmDW3EFyy5nsa"
+      },
+      "elementId": "item47",
+      "href": "https://everynoise.com/artistprofile.html?id=41d6INqm6tGuJx3SYD0j3x",
+      "id": "41d6INqm6tGuJx3SYD0j3x"
+    },
+    {
+      "artistName": "Sans visa",
+      "positioning": {
+        "top": 116,
+        "left": 798
+      },
+      "style": {
+        "color": "#d96c00",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item48",
+      "href": "https://everynoise.com/artistprofile.html?id=4OKJvCGn8IDd4HBoRtY7mp",
+      "id": "4OKJvCGn8IDd4HBoRtY7mp"
+    },
+    {
+      "artistName": "Joly Priso",
+      "positioning": {
+        "top": 233,
+        "left": 696
+      },
+      "style": {
+        "color": "#d8800f",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4e4f7cc97fbd72d1d8dcf1ab8a5e182c693f026f",
+        "title": "e.g. Joly Priso \"L'inattendue ratatouille\"",
+        "trackId": "6tINXwVnUFvPv3jJ6qx02Q"
+      },
+      "elementId": "item49",
+      "href": "https://everynoise.com/artistprofile.html?id=7Kwvxbx0JH1LougqZ83Vtm",
+      "id": "7Kwvxbx0JH1LougqZ83Vtm"
+    },
+    {
+      "artistName": "Happy D'efoulan",
+      "positioning": {
+        "top": 518,
+        "left": 522
+      },
+      "style": {
+        "color": "#e47d04",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/879ca15462a8e840867c6e16f3b7e8b95c4a3eb3",
+        "title": "e.g. Happy D'efoulan \"Je n'ai rien fait\"",
+        "trackId": "7eyXkptXl6lvxlREGKMmVs"
+      },
+      "elementId": "item50",
+      "href": "https://everynoise.com/artistprofile.html?id=0h3pzq0DU1867AA1wnVzff",
+      "id": "0h3pzq0DU1867AA1wnVzff"
+    },
+    {
+      "artistName": "Franck Chaleur",
+      "positioning": {
+        "top": 389,
+        "left": 712
+      },
+      "style": {
+        "color": "#d77d09",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d01a2d4297f410342ef76a7e1916256942c37a12",
+        "title": "e.g. Franck Chaleur \"Top toguy\"",
+        "trackId": "6RGfFjezVZNocGLBRj3XU6"
+      },
+      "elementId": "item51",
+      "href": "https://everynoise.com/artistprofile.html?id=3IVxFMLPR7oePD3DHpYvbp",
+      "id": "3IVxFMLPR7oePD3DHpYvbp"
+    },
+    {
+      "artistName": "Elvis Kemayo",
+      "positioning": {
+        "top": 598,
+        "left": 446
+      },
+      "style": {
+        "color": "#b87913",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c40715f940d7d88a9a62929adf3684d31c4c8d80",
+        "title": "e.g. Elvis Kemayo \"Associé\"",
+        "trackId": "3UnhnawPryVsWS4oI4bXlc"
+      },
+      "elementId": "item52",
+      "href": "https://everynoise.com/artistprofile.html?id=4KzU2Pez05ZRGTT49u0Gm9",
+      "id": "4KzU2Pez05ZRGTT49u0Gm9"
+    },
+    {
+      "artistName": "Tchana Pierre",
+      "positioning": {
+        "top": 459,
+        "left": 1187
+      },
+      "style": {
+        "color": "#a28b22",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3265ffb1c6c524b10661aa58dfe58e89c3521d63",
+        "title": "e.g. Tchana Pierre \"Main dans la main\"",
+        "trackId": "377dDkBPtv7XSYStRfAPAb"
+      },
+      "elementId": "item53",
+      "href": "https://everynoise.com/artistprofile.html?id=2R7KNdFaU7X65Rnba9NPjP",
+      "id": "2R7KNdFaU7X65Rnba9NPjP"
+    },
+    {
+      "artistName": "Hervé Nguebo",
+      "positioning": {
+        "top": 624,
+        "left": 440
+      },
+      "style": {
+        "color": "#a99115",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b68135e002cb93070c2986c7c2a0eef9026761bd",
+        "title": "e.g. Hervé Nguebo \"Essoka\"",
+        "trackId": "1fdADDKArh30SGm7dCvM2o"
+      },
+      "elementId": "item54",
+      "href": "https://everynoise.com/artistprofile.html?id=7v1aQt5jwS6VRihphpWXYx",
+      "id": "7v1aQt5jwS6VRihphpWXYx"
+    },
+    {
+      "artistName": "Ruth Kotto",
+      "positioning": {
+        "top": 285,
+        "left": 665
+      },
+      "style": {
+        "color": "#d28207",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d07476748798bdfafb3efc56df59aa66d9915901",
+        "title": "e.g. Ruth Kotto \"Ô Makossa\"",
+        "trackId": "4K1ORTLLS9cjNolS7U7jID"
+      },
+      "elementId": "item55",
+      "href": "https://everynoise.com/artistprofile.html?id=3qg79aEMrS3LMVRPBnXEV7",
+      "id": "3qg79aEMrS3LMVRPBnXEV7"
+    },
+    {
+      "artistName": "Moni Bile",
+      "positioning": {
+        "top": 258,
+        "left": 686
+      },
+      "style": {
+        "color": "#c47b15",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0985c3f2921fd816b73bfe0955a3a54a3b54e7dd",
+        "title": "e.g. Moni Bile \"Osi tapa lambo lam\"",
+        "trackId": "67WwInm1Ls8rY9LUNBQZsF"
+      },
+      "elementId": "item56",
+      "href": "https://everynoise.com/artistprofile.html?id=2uMATivHXNKTu89qctJZdg",
+      "id": "2uMATivHXNKTu89qctJZdg"
+    },
+    {
+      "artistName": "Manulo",
+      "positioning": {
+        "top": 360,
+        "left": 584
+      },
+      "style": {
+        "color": "#c4771c",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5635784b796368227294501a3a8ac3aecbc85d4a",
+        "title": "e.g. Manulo \"Miango\"",
+        "trackId": "77bHPYzY5DTQknsmY2Gctl"
+      },
+      "elementId": "item57",
+      "href": "https://everynoise.com/artistprofile.html?id=7v08aB4dWshvdhHDx0be6B",
+      "id": "7v08aB4dWshvdhHDx0be6B"
+    },
+    {
+      "artistName": "Emile Kangue",
+      "positioning": {
+        "top": 531,
+        "left": 430
+      },
+      "style": {
+        "color": "#bd7b0f",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a250a50e2b6b82e9b471c6e544c68316a6db400e",
+        "title": "e.g. Emile Kangue \"Douala info\"",
+        "trackId": "2YPpEx74K65AhPyFHoZ0QS"
+      },
+      "elementId": "item58",
+      "href": "https://everynoise.com/artistprofile.html?id=6Z1A7F2uFvPh7GJ1JyAZpT",
+      "id": "6Z1A7F2uFvPh7GJ1JyAZpT"
+    },
+    {
+      "artistName": "Nicole Mara",
+      "positioning": {
+        "top": 0,
+        "left": 839
+      },
+      "style": {
+        "color": "#c78c00",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3e7dfea327233a43cf3d79a28e5601d84f60d975",
+        "title": "e.g. Nicole Mara \"Sponsor\"",
+        "trackId": "4IR6x9z0M4ImaDfZBq46Sx"
+      },
+      "elementId": "item59",
+      "href": "https://everynoise.com/artistprofile.html?id=6oRqvNX65K6zPYtto827D5",
+      "id": "6oRqvNX65K6zPYtto827D5"
+    },
+    {
+      "artistName": "Eriko",
+      "positioning": {
+        "top": 630,
+        "left": 154
+      },
+      "style": {
+        "color": "#9e9110",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1a78b0e31d978a19d7b2990c7327ed8c4d272eab",
+        "title": "e.g. Eriko \"Njombos\"",
+        "trackId": "6BPWUpnHqrZwN8vIZgrMVh"
+      },
+      "elementId": "item60",
+      "href": "https://everynoise.com/artistprofile.html?id=3B3T2JUOtaPTyN6qs9vyTP",
+      "id": "3B3T2JUOtaPTyN6qs9vyTP"
+    },
+    {
+      "artistName": "Ekambi Brillant",
+      "positioning": {
+        "top": 546,
+        "left": 614
+      },
+      "style": {
+        "color": "#b87e12",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c39c07ba48a2d67ca97fc70556b88b73e584b86e",
+        "title": "e.g. Ekambi Brillant \"Di Podi\"",
+        "trackId": "7m933doc0Vgl9RYBmENBlv"
+      },
+      "elementId": "item61",
+      "href": "https://everynoise.com/artistprofile.html?id=3cV2IUxQ4x1xrMYRgjrju0",
+      "id": "3cV2IUxQ4x1xrMYRgjrju0"
+    },
+    {
+      "artistName": "Pierre De Moussy",
+      "positioning": {
+        "top": 611,
+        "left": 410
+      },
+      "style": {
+        "color": "#ca6e16",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/777ab459826d4064e4d52680ca940fcce0eeb61a",
+        "title": "e.g. Pierre De Moussy \"Ndolo l'amour\"",
+        "trackId": "7zpdptodTgJrZMpURpmvfC"
+      },
+      "elementId": "item62",
+      "href": "https://everynoise.com/artistprofile.html?id=557ivaNgMp20gHDEnc5ezW",
+      "id": "557ivaNgMp20gHDEnc5ezW"
+    },
+    {
+      "artistName": "Salle John",
+      "positioning": {
+        "top": 601,
+        "left": 328
+      },
+      "style": {
+        "color": "#cb770c",
+        "fontSize": "106%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aca900652e581fa8e7877ddce18012b8aa3fb8bf",
+        "title": "e.g. Salle John \"Le Soleil Rayonne\"",
+        "trackId": "2HYYzRcc83ywVzjN51X73i"
+      },
+      "elementId": "item63",
+      "href": "https://everynoise.com/artistprofile.html?id=15UZZhnAYlZj1RGJcNwo5k",
+      "id": "15UZZhnAYlZj1RGJcNwo5k"
+    },
+    {
+      "artistName": "Marthe Zambo",
+      "positioning": {
+        "top": 649,
+        "left": 727
+      },
+      "style": {
+        "color": "#bb742e",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a37598f20c3c8b16e924be397883ac77e633c30e",
+        "title": "e.g. Marthe Zambo \"Malea ma muto\"",
+        "trackId": "5d8Q23N1fYAM9TusFZo5RH"
+      },
+      "elementId": "item64",
+      "href": "https://everynoise.com/artistprofile.html?id=34hdocGGlVyb2EHTqTPYSD",
+      "id": "34hdocGGlVyb2EHTqTPYSD"
+    },
+    {
+      "artistName": "Coco Mbassi",
+      "positioning": {
+        "top": 809,
+        "left": 599
+      },
+      "style": {
+        "color": "#779b01",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4d3ebfecf2d965a82930f1c41ebc70c6183afb1f",
+        "title": "e.g. Coco Mbassi \"Iwiye\"",
+        "trackId": "56GnEuPLEQXVUrX7l0TeXk"
+      },
+      "elementId": "item65",
+      "href": "https://everynoise.com/artistprofile.html?id=6WEoVnikxs4Gm162L9nHjl",
+      "id": "6WEoVnikxs4Gm162L9nHjl"
+    },
+    {
+      "artistName": "Petit-Pays Oméga",
+      "positioning": {
+        "top": 168,
+        "left": 543
+      },
+      "style": {
+        "color": "#d77902",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/7e3afa0c3f361e1da0f5cf6c78d7a9ac344c9128",
+        "title": "e.g. Petit-Pays Oméga \"Jambo\"",
+        "trackId": "5sP5CSfvNPm9fKYwW7wrIL"
+      },
+      "elementId": "item66",
+      "href": "https://everynoise.com/artistprofile.html?id=6fS92hXEukGdxrGhoytdbK",
+      "id": "6fS92hXEukGdxrGhoytdbK"
+    },
+    {
+      "artistName": "Henri Njoh",
+      "positioning": {
+        "top": 415,
+        "left": 502
+      },
+      "style": {
+        "color": "#cb7d07",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/95cf047d103ac8dfe9e783f149e7f8ecc237de41",
+        "title": "e.g. Henri Njoh \"Musango\"",
+        "trackId": "79NKUr7bn1ZlqEbzuarMxh"
+      },
+      "elementId": "item67",
+      "href": "https://everynoise.com/artistprofile.html?id=7GMSmcAQCoYIfoidoiUF7K",
+      "id": "7GMSmcAQCoYIfoidoiUF7K"
+    },
+    {
+      "artistName": "Ngalle Jojo",
+      "positioning": {
+        "top": 560,
+        "left": 507
+      },
+      "style": {
+        "color": "#bb7a01",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9d4cfe1ab1af8040799af907668f3ec84133df25",
+        "title": "e.g. Ngalle Jojo \"Bye bye alex\"",
+        "trackId": "5ocuXTkxrOUfQbwhJRIVjO"
+      },
+      "elementId": "item68",
+      "href": "https://everynoise.com/artistprofile.html?id=5a7H46Y2qrDySMfkhBPTDh",
+      "id": "5a7H46Y2qrDySMfkhBPTDh"
+    },
+    {
+      "artistName": "Koppo",
+      "positioning": {
+        "top": 334,
+        "left": 1054
+      },
+      "style": {
+        "color": "#b08200",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8c4190e4847746a39b86c49c19e74c6bcf3098c8",
+        "title": "e.g. Koppo \"Gromologie\"",
+        "trackId": "57GnNkSg580G1uKPqfuyIh"
+      },
+      "elementId": "item69",
+      "href": "https://everynoise.com/artistprofile.html?id=7selzZvb9OTpUReDGRRvWC",
+      "id": "7selzZvb9OTpUReDGRRvWC"
+    },
+    {
+      "artistName": "Ndedi Eyango",
+      "positioning": {
+        "top": 207,
+        "left": 1003
+      },
+      "style": {
+        "color": "#d17a07",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/73a7a9ae2ece5a424fc142d868e321ce2e2f415d",
+        "title": "e.g. Ndedi Eyango \"You Must Calculer\"",
+        "trackId": "66lk55NFmnXL16pWGXn5d3"
+      },
+      "elementId": "item70",
+      "href": "https://everynoise.com/artistprofile.html?id=1d53YM45tZkZPoG9WATgWG",
+      "id": "1d53YM45tZkZPoG9WATgWG"
+    },
+    {
+      "artistName": "Ronz",
+      "positioning": {
+        "top": 489,
+        "left": 328
+      },
+      "style": {
+        "color": "#a08e09",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5954cdb5c7af145c4f3272e1e674c84b46494760",
+        "title": "e.g. Ronz \"Le jour du jugement\"",
+        "trackId": "3f6kHfy2npFEZSB7oy5cP2"
+      },
+      "elementId": "item71",
+      "href": "https://everynoise.com/artistprofile.html?id=1dsZq52aUQIWHj8LJ3mhYk",
+      "id": "1dsZq52aUQIWHj8LJ3mhYk"
+    },
+    {
+      "artistName": "Penda Dalle",
+      "positioning": {
+        "top": 347,
+        "left": 548
+      },
+      "style": {
+        "color": "#ce7d0a",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/86343ba7b22d5e02eea76a55a7e68caf1299a80f",
+        "title": "e.g. Penda Dalle \"Bonadibong\"",
+        "trackId": "7igXjLd7kvQtRCCDhRrUew"
+      },
+      "elementId": "item72",
+      "href": "https://everynoise.com/artistprofile.html?id=7lgorzr2f5yG7DTWZrGjpg",
+      "id": "7lgorzr2f5yG7DTWZrGjpg"
+    },
+    {
+      "artistName": "Petit Virus",
+      "positioning": {
+        "top": 506,
+        "left": 1090
+      },
+      "style": {
+        "color": "#e66b00",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8701eae5f86857b9bbc9a5ec9489b05338486dda",
+        "title": "e.g. Petit Virus \"L'envol du mbole - Remix\"",
+        "trackId": "14Vg21EF0emDfCEY4mgoog"
+      },
+      "elementId": "item73",
+      "href": "https://everynoise.com/artistprofile.html?id=3B82kPxbcBHl4YbGNy2ICw",
+      "id": "3B82kPxbcBHl4YbGNy2ICw"
+    },
+    {
+      "artistName": "Hugo Nyamè",
+      "positioning": {
+        "top": 508,
+        "left": 732
+      },
+      "style": {
+        "color": "#d97300",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/72c67f81c15f42b030fa9f9a8d1ecc8008a3e016",
+        "title": "e.g. Hugo Nyamè \"Pardon Madame\"",
+        "trackId": "6kPvH8IEQygDJRnhCIAHLU"
+      },
+      "elementId": "item74",
+      "href": "https://everynoise.com/artistprofile.html?id=53OGaBvlFpGrH0NvwlppAr",
+      "id": "53OGaBvlFpGrH0NvwlppAr"
+    },
+    {
+      "artistName": "Tsimi Toro",
+      "positioning": {
+        "top": 287,
+        "left": 1034
+      },
+      "style": {
+        "color": "#ca8229",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0e9a154415b20ae162b0c6f5bc34224ab33734e",
+        "title": "e.g. Tsimi Toro \"Merci\"",
+        "trackId": "0OU0Y2IfE4o0q8v8jvhRYU"
+      },
+      "elementId": "item75",
+      "href": "https://everynoise.com/artistprofile.html?id=73ia8KJ457BsWpGigdhmBK",
+      "id": "73ia8KJ457BsWpGigdhmBK"
+    },
+    {
+      "artistName": "Donny Elwood",
+      "positioning": {
+        "top": 689,
+        "left": 640
+      },
+      "style": {
+        "color": "#9e8f00",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2fa9d0653b1ca9d8401598d7c36a8c585662757e",
+        "title": "e.g. Donny Elwood \"Négro & Beau\"",
+        "trackId": "5zfFxTRS6D7Se8ope8M5E3"
+      },
+      "elementId": "item76",
+      "href": "https://everynoise.com/artistprofile.html?id=7Cn0rC45ujm87j5mJTqcoi",
+      "id": "7Cn0rC45ujm87j5mJTqcoi"
+    },
+    {
+      "artistName": "Petit-Pays Rabbi",
+      "positioning": {
+        "top": 220,
+        "left": 671
+      },
+      "style": {
+        "color": "#dd7e02",
+        "fontSize": "105%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/11d9a6f7cea7a0a951f6282677630b8baa5977a3",
+        "title": "e.g. Petit-Pays Rabbi \"Battoh\"",
+        "trackId": "01Js5y1HcXzXMiEfG9nOe1"
+      },
+      "elementId": "item77",
+      "href": "https://everynoise.com/artistprofile.html?id=6sNWZvs1W992ovfyQvQJwm",
+      "id": "6sNWZvs1W992ovfyQvQJwm"
+    },
+    {
+      "artistName": "Nkotti François",
+      "positioning": {
+        "top": 533,
+        "left": 676
+      },
+      "style": {
+        "color": "#af8003",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/af5bd8d1949ff29ff0c8c85674b818787874b45a",
+        "title": "e.g. Nkotti François \"Langwa\"",
+        "trackId": "6Fc6zBMWZaL0dnJCGd6BVM"
+      },
+      "elementId": "item78",
+      "href": "https://everynoise.com/artistprofile.html?id=4pGqMz5KY3YIoMU8pq3IJU",
+      "id": "4pGqMz5KY3YIoMU8pq3IJU"
+    },
+    {
+      "artistName": "Nguisa",
+      "positioning": {
+        "top": 289,
+        "left": 82
+      },
+      "style": {
+        "color": "#c28c00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aa7a5798b4ed10d3fb7d72ac967c82bcf67c4ca3",
+        "title": "e.g. Nguisa \"Nanana\"",
+        "trackId": "6RkCSYm3CHrEuIBuAqK37h"
+      },
+      "elementId": "item79",
+      "href": "https://everynoise.com/artistprofile.html?id=7dWtwPXGwz4R6gq9sqh0Uf",
+      "id": "7dWtwPXGwz4R6gq9sqh0Uf"
+    },
+    {
+      "artistName": "Koutchoua Mbada",
+      "positioning": {
+        "top": 522,
+        "left": 977
+      },
+      "style": {
+        "color": "#b97919",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/30357334e53b36f665d00046271993a8b23b2bbc",
+        "title": "e.g. Koutchoua Mbada \"Essola\"",
+        "trackId": "0SGshRaVzjcTvFDnIQXvw7"
+      },
+      "elementId": "item80",
+      "href": "https://everynoise.com/artistprofile.html?id=3g6svgACUfjwtLqjA1gKHv",
+      "id": "3g6svgACUfjwtLqjA1gKHv"
+    },
+    {
+      "artistName": "Zélé le Bombardier",
+      "positioning": {
+        "top": 414,
+        "left": 885
+      },
+      "style": {
+        "color": "#e38120",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/77ca7cd7f432a7cb8c1f6aa44575430600f21ea6",
+        "title": "e.g. Zélé le Bombardier \"Si j'avais su\"",
+        "trackId": "1AXbtVIXqHicWveIRvqGVB"
+      },
+      "elementId": "item81",
+      "href": "https://everynoise.com/artistprofile.html?id=6wDXkiKlRzhcxTUWnf8Sws",
+      "id": "6wDXkiKlRzhcxTUWnf8Sws"
+    },
+    {
+      "artistName": "Dora Decca",
+      "positioning": {
+        "top": 362,
+        "left": 712
+      },
+      "style": {
+        "color": "#d48203",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/219ff79b6b1ed312553cf17ba365da9150a4e15e",
+        "title": "e.g. Dora Decca \"Ewendji\"",
+        "trackId": "0dfV1C72YeqszVFi2ySAgQ"
+      },
+      "elementId": "item82",
+      "href": "https://everynoise.com/artistprofile.html?id=4QcSOpuovxsHaQv3EdcjPX",
+      "id": "4QcSOpuovxsHaQv3EdcjPX"
+    },
+    {
+      "artistName": "Tanus Foe",
+      "positioning": {
+        "top": 572,
+        "left": 706
+      },
+      "style": {
+        "color": "#da7702",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ddc0299f7c7aa79f028f2b7f3dd5d3b38eece92b",
+        "title": "e.g. Tanus Foe \"Sabina\"",
+        "trackId": "5FAhblbw27lTucDJuqMYY7"
+      },
+      "elementId": "item83",
+      "href": "https://everynoise.com/artistprofile.html?id=5du0IsEoOoi4c9UR4OEWum",
+      "id": "5du0IsEoOoi4c9UR4OEWum"
+    },
+    {
+      "artistName": "Georges Seba",
+      "positioning": {
+        "top": 506,
+        "left": 471
+      },
+      "style": {
+        "color": "#d5602e",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b9b943d46610bbe46826f4658c2e8d8bc02342f9",
+        "title": "e.g. Georges Seba \"Barre Colle\"",
+        "trackId": "7MrZ4mkPkbnWXkIlqaGuet"
+      },
+      "elementId": "item84",
+      "href": "https://everynoise.com/artistprofile.html?id=1EUCgOv2QOprOmjhFajDiF",
+      "id": "1EUCgOv2QOprOmjhFajDiF"
+    },
+    {
+      "artistName": "Aijo Mamadou",
+      "positioning": {
+        "top": 662,
+        "left": 665
+      },
+      "style": {
+        "color": "#c4720d",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cea7f244db5d6967b1a71ae0f138d1a68b771a15",
+        "title": "e.g. Aijo Mamadou \"Levez Les Doigts\"",
+        "trackId": "1V8IN25mrUIsNew7UMG1Jh"
+      },
+      "elementId": "item85",
+      "href": "https://everynoise.com/artistprofile.html?id=676nQVeLtMmdOXYtrtMIMQ",
+      "id": "676nQVeLtMmdOXYtrtMIMQ"
+    },
+    {
+      "artistName": "Jean Claude Mbimbè",
+      "positioning": {
+        "top": 648,
+        "left": 343
+      },
+      "style": {
+        "color": "#d07801",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/46bf1ab8c5d75ae5c3ed38f22142d41053210ecd",
+        "title": "e.g. Jean Claude Mbimbè \"Tete\"",
+        "trackId": "6unuTIh1gsLXNrBu64I3Zk"
+      },
+      "elementId": "item86",
+      "href": "https://everynoise.com/artistprofile.html?id=2gRWsHlb7iTOFLdDDaFXrT",
+      "id": "2gRWsHlb7iTOFLdDDaFXrT"
+    },
+    {
+      "artistName": "Chorale Bamileke",
+      "positioning": {
+        "top": 611,
+        "left": 113
+      },
+      "style": {
+        "color": "#b68c00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/36ca1347da082db497720e1ace98d6f303ebbec8",
+        "title": "e.g. Chorale Bamileke \"Azembeti\"",
+        "trackId": "7iwyOpXXiMs5oQHrqM08Aq"
+      },
+      "elementId": "item87",
+      "href": "https://everynoise.com/artistprofile.html?id=167EZeHnqJqiEwmU7zJPPV",
+      "id": "167EZeHnqJqiEwmU7zJPPV"
+    },
+    {
+      "artistName": "Nono Flavy",
+      "positioning": {
+        "top": 189,
+        "left": 665
+      },
+      "style": {
+        "color": "#d18207",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/32454d3a467fec5427bd889a4308e9cac55dd514",
+        "title": "e.g. Nono Flavy \"Amour et passion\"",
+        "trackId": "0Rg1nYqsOQhsR4jpNPf7JS"
+      },
+      "elementId": "item88",
+      "href": "https://everynoise.com/artistprofile.html?id=4SqNVuYm2JHhk1Mm1hy4hn",
+      "id": "4SqNVuYm2JHhk1Mm1hy4hn"
+    },
+    {
+      "artistName": "Géo W. Masso",
+      "positioning": {
+        "top": 129,
+        "left": 829
+      },
+      "style": {
+        "color": "#d38301",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/09a8d21cd470c8cd39d89cb156dcb2411825601f",
+        "title": "e.g. Géo W. Masso \"Nen lambo\"",
+        "trackId": "1fvElJqJyadEiFPa1FeXND"
+      },
+      "elementId": "item89",
+      "href": "https://everynoise.com/artistprofile.html?id=7LGkUNqlYBJqlghqe3vk6N",
+      "id": "7LGkUNqlYBJqlghqe3vk6N"
+    },
+    {
+      "artistName": "Misse Ngoh François",
+      "positioning": {
+        "top": 586,
+        "left": 451
+      },
+      "style": {
+        "color": "#bd7907",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f464d77ae06ec6610c52a9f93a639caee986c782",
+        "title": "e.g. Misse Ngoh François \"La vie c'est terrible\"",
+        "trackId": "4hpCizhm3KeNgXjBlJiyOQ"
+      },
+      "elementId": "item90",
+      "href": "https://everynoise.com/artistprofile.html?id=1UGx4ZfXmH7A9rmpxWd9jT",
+      "id": "1UGx4ZfXmH7A9rmpxWd9jT"
+    },
+    {
+      "artistName": "Kouchouam Mbada",
+      "positioning": {
+        "top": 385,
+        "left": 988
+      },
+      "style": {
+        "color": "#c08d00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/665b42363be5ecd22d06dc63fbe4ffa4807d7892",
+        "title": "e.g. Kouchouam Mbada \"Swega menzui\"",
+        "trackId": "04HCEkNNb2slLhrwOYifVd"
+      },
+      "elementId": "item91",
+      "href": "https://everynoise.com/artistprofile.html?id=4IsK41w1kW4FEAa10MQIJ7",
+      "id": "4IsK41w1kW4FEAa10MQIJ7"
+    },
+    {
+      "artistName": "Tonton Ebogo",
+      "positioning": {
+        "top": 467,
+        "left": 558
+      },
+      "style": {
+        "color": "#da7601",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8dbc73e233f3f6ac8175bc4fe0cd87340d3695f8",
+        "title": "e.g. Tonton Ebogo \"Maman Odile\"",
+        "trackId": "0cZopIBCYY17II7MsqVVwR"
+      },
+      "elementId": "item92",
+      "href": "https://everynoise.com/artistprofile.html?id=3tTdSyrU4SAQu0C2dLn1mY",
+      "id": "3tTdSyrU4SAQu0C2dLn1mY"
+    },
+    {
+      "artistName": "DJ Gerard Ben",
+      "positioning": {
+        "top": 308,
+        "left": 1384
+      },
+      "style": {
+        "color": "#e37718",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/153732473e51a1c149355464d4399fbb3713e97b",
+        "title": "e.g. DJ Gerard Ben \"Ben ski show\"",
+        "trackId": "7M7ruHBBubD7WqRXxrmSwL"
+      },
+      "elementId": "item93",
+      "href": "https://everynoise.com/artistprofile.html?id=3wXSSis75oyQl72rtPGzlP",
+      "id": "3wXSSis75oyQl72rtPGzlP"
+    },
+    {
+      "artistName": "Saint Bruno",
+      "positioning": {
+        "top": 566,
+        "left": 1399
+      },
+      "style": {
+        "color": "#cd7a00",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3b60fb90e25606f66aecb8667e2c766c43401b36",
+        "title": "e.g. Saint Bruno \"Qui va doucement\"",
+        "trackId": "5rJVYHOMzV8C4ySuWnbFE9"
+      },
+      "elementId": "item94",
+      "href": "https://everynoise.com/artistprofile.html?id=087Qj2HViGeucLUxUNGGU2",
+      "id": "087Qj2HViGeucLUxUNGGU2"
+    },
+    {
+      "artistName": "Ntoumba",
+      "positioning": {
+        "top": 130,
+        "left": 1259
+      },
+      "style": {
+        "color": "#cb8813",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/597d829121f9c4a1d91cf155930b73568a2f12f6",
+        "title": "e.g. Ntoumba \"L'homme\"",
+        "trackId": "7jkokE50D8otrOQnBPGoVa"
+      },
+      "elementId": "item95",
+      "href": "https://everynoise.com/artistprofile.html?id=1nEEzMRJJzGKJd7tVJ0Jpp",
+      "id": "1nEEzMRJJzGKJd7tVJ0Jpp"
+    },
+    {
+      "artistName": "Mathématik De Petit Pays",
+      "positioning": {
+        "top": 480,
+        "left": 553
+      },
+      "style": {
+        "color": "#d87507",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ce108f2ffe0812a3a9a24667004bccb6a32a1d7a",
+        "title": "e.g. Mathématik De Petit Pays \"Soudée\"",
+        "trackId": "7biZNrniMp7Nc4V3uugDSr"
+      },
+      "elementId": "item96",
+      "href": "https://everynoise.com/artistprofile.html?id=4NdlF5faneMahc9RpBbvMt",
+      "id": "4NdlF5faneMahc9RpBbvMt"
+    },
+    {
+      "artistName": "Anne-Marie Nzié",
+      "positioning": {
+        "top": 900,
+        "left": 671
+      },
+      "style": {
+        "color": "#889502",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/73f542b0795404efda51af7668cf74d1875f57b0",
+        "title": "e.g. Anne-Marie Nzié \"Béza ba dzo\"",
+        "trackId": "0GWq01AgVHiXBiAFtaGRll"
+      },
+      "elementId": "item97",
+      "href": "https://everynoise.com/artistprofile.html?id=3avWr3ZkVQrqvW2mrBChkA",
+      "id": "3avWr3ZkVQrqvW2mrBChkA"
+    },
+    {
+      "artistName": "Richard Amougou",
+      "positioning": {
+        "top": 546,
+        "left": 752
+      },
+      "style": {
+        "color": "#e57001",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5ec1ed5e3df7c3f185e12d4c4fae94c382dbef08",
+        "title": "e.g. Richard Amougou \"Essuie glace\"",
+        "trackId": "1zP45qvNf6IHDQOgAx2EbB"
+      },
+      "elementId": "item98",
+      "href": "https://everynoise.com/artistprofile.html?id=5W8C2u501zpnQCUd48Gtr3",
+      "id": "5W8C2u501zpnQCUd48Gtr3"
+    },
+    {
+      "artistName": "Nkodo Sitony",
+      "positioning": {
+        "top": 440,
+        "left": 839
+      },
+      "style": {
+        "color": "#de7c09",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/92923274ab1acc3fa3534ed81d1607b9401150de",
+        "title": "e.g. Nkodo Sitony \"Mbe mmvoe\"",
+        "trackId": "39MCHClbWd93cmxJrnLT0n"
+      },
+      "elementId": "item99",
+      "href": "https://everynoise.com/artistprofile.html?id=2GwEvPoPmzRIOELE6wOWqe",
+      "id": "2GwEvPoPmzRIOELE6wOWqe"
+    },
+    {
+      "artistName": "Jacky Kingue",
+      "positioning": {
+        "top": 477,
+        "left": 302
+      },
+      "style": {
+        "color": "#c58308",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6d6a3768d99bbdb90ee219097a48413fb8b37d92",
+        "title": "e.g. Jacky Kingue \"Jenny\"",
+        "trackId": "0UwscLOoNMYYQwjITXWA9l"
+      },
+      "elementId": "item100",
+      "href": "https://everynoise.com/artistprofile.html?id=6M3tgUfr6oHSClalc72gWn",
+      "id": "6M3tgUfr6oHSClalc72gWn"
+    },
+    {
+      "artistName": "Keng Godefroy",
+      "positioning": {
+        "top": 240,
+        "left": 1141
+      },
+      "style": {
+        "color": "#bb8505",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9e82db89e3a7a6ce3f0fae147c5c07fbc62540b9",
+        "title": "e.g. Keng Godefroy \"La vraie magie\"",
+        "trackId": "4YDLRDJAJUvUHch2gF21m6"
+      },
+      "elementId": "item101",
+      "href": "https://everynoise.com/artistprofile.html?id=4RamYmzJjPu3SfuhnHT8vq",
+      "id": "4RamYmzJjPu3SfuhnHT8vq"
+    },
+    {
+      "artistName": "Majoie Ayi",
+      "positioning": {
+        "top": 559,
+        "left": 778
+      },
+      "style": {
+        "color": "#d37a00",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ba5cf13083d46a8c31de4ccd37a0e80cd544a808",
+        "title": "e.g. Majoie Ayi \"4 Verités\"",
+        "trackId": "6TSLe3k1RvzWkAc0yT8Vkz"
+      },
+      "elementId": "item102",
+      "href": "https://everynoise.com/artistprofile.html?id=28fwSeK2QrVy8TORnZ5Rne",
+      "id": "28fwSeK2QrVy8TORnZ5Rne"
+    },
+    {
+      "artistName": "Bobby-James Nguimè",
+      "positioning": {
+        "top": 201,
+        "left": 865
+      },
+      "style": {
+        "color": "#db7702",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/63952ea4a4f139de4f2b953dbb9f0e2b0c257c06",
+        "title": "e.g. Bobby-James Nguimè \"L'ambass-bey\"",
+        "trackId": "6Mlhtda82GnRNqIh8UULcn"
+      },
+      "elementId": "item103",
+      "href": "https://everynoise.com/artistprofile.html?id=44hsMgJCrpFAjmjuEFq67p",
+      "id": "44hsMgJCrpFAjmjuEFq67p"
+    },
+    {
+      "artistName": "Govinal",
+      "positioning": {
+        "top": 228,
+        "left": 522
+      },
+      "style": {
+        "color": "#e87733",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bbc5c5e43b8bdd68a0f962397e727704bee2deb9",
+        "title": "e.g. Govinal \"Naya naya\"",
+        "trackId": "3Ne6liETUZgGcwnSFe55TQ"
+      },
+      "elementId": "item104",
+      "href": "https://everynoise.com/artistprofile.html?id=0BFDk9Lfd84kuGthJCh9KU",
+      "id": "0BFDk9Lfd84kuGthJCh9KU"
+    },
+    {
+      "artistName": "François Misse Ngoh",
+      "positioning": {
+        "top": 573,
+        "left": 481
+      },
+      "style": {
+        "color": "#bd7f0b",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b708ac1a13ac077591e76175733b6285d9ca9418",
+        "title": "e.g. François Misse Ngoh \"Maurise m'esombe\"",
+        "trackId": "4s1SQS5Iej8S2DUc0g5I1m"
+      },
+      "elementId": "item105",
+      "href": "https://everynoise.com/artistprofile.html?id=15YPdkkePPO3DXlG4PevWv",
+      "id": "15YPdkkePPO3DXlG4PevWv"
+    },
+    {
+      "artistName": "Le professeur Gervais Mendo Zé",
+      "positioning": {
+        "top": 853,
+        "left": 0
+      },
+      "style": {
+        "color": "#a9882e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e7cbf766d75120c579112819ec545a727e4f28ba",
+        "title": "e.g. Le professeur Gervais Mendo Zé \"Asimba\"",
+        "trackId": "6IHy2oKZYa1NWuskVYozOd"
+      },
+      "elementId": "item106",
+      "href": "https://everynoise.com/artistprofile.html?id=3phY5hzQrZqDYH6VICiTxr",
+      "id": "3phY5hzQrZqDYH6VICiTxr"
+    },
+    {
+      "artistName": "Benji Mateke",
+      "positioning": {
+        "top": 386,
+        "left": 829
+      },
+      "style": {
+        "color": "#d0790e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/13b4aa22dd9cba9383523e6a0e45b3e8780978d0",
+        "title": "e.g. Benji Mateke \"Rosy muna\"",
+        "trackId": "1WPpZxjs6wKmCAgJgGZ6su"
+      },
+      "elementId": "item107",
+      "href": "https://everynoise.com/artistprofile.html?id=5AuVFTAUNrYbiZSUj66ybL",
+      "id": "5AuVFTAUNrYbiZSUj66ybL"
+    },
+    {
+      "artistName": "Henry Njoh",
+      "positioning": {
+        "top": 373,
+        "left": 522
+      },
+      "style": {
+        "color": "#be8411",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d293b52ad0a02fc19a53b9b185d70a33714df447",
+        "title": "e.g. Henry Njoh \"Onguele\"",
+        "trackId": "2S0vmYLDbBH6q47683JiBA"
+      },
+      "elementId": "item108",
+      "href": "https://everynoise.com/artistprofile.html?id=7439eqyR8HM1NTrWOwAmwG",
+      "id": "7439eqyR8HM1NTrWOwAmwG"
+    },
+    {
+      "artistName": "Uta Bella",
+      "positioning": {
+        "top": 266,
+        "left": 1121
+      },
+      "style": {
+        "color": "#b67b22",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/580d20d6037ba2d7bcf83a5ca24249d4c140e54a",
+        "title": "e.g. Uta Bella \"Nassa Nassa\"",
+        "trackId": "1NHCL3Qe6tGWbdLbzPZxCx"
+      },
+      "elementId": "item109",
+      "href": "https://everynoise.com/artistprofile.html?id=4pu8W4XnJvujh3sQZMCbcv",
+      "id": "4pu8W4XnJvujh3sQZMCbcv"
+    },
+    {
+      "artistName": "Marcel Tjahe",
+      "positioning": {
+        "top": 637,
+        "left": 696
+      },
+      "style": {
+        "color": "#e25811",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6ec6047b77f39220d6193eff2e0db7efc97e320a",
+        "title": "e.g. Marcel Tjahe \"Madida Ma Bertaud\"",
+        "trackId": "6aAswL0KogTYxsTwcTVIRQ"
+      },
+      "elementId": "item110",
+      "href": "https://everynoise.com/artistprofile.html?id=40ITjgWYjb6C835nL24kwZ",
+      "id": "40ITjgWYjb6C835nL24kwZ"
+    },
+    {
+      "artistName": "Peugeot Bebey",
+      "positioning": {
+        "top": 402,
+        "left": 788
+      },
+      "style": {
+        "color": "#c18400",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/49ecf6e5471fbeb951a87c6558524c4f451d49d8",
+        "title": "e.g. Peugeot Bebey \"La réalité en Europe\"",
+        "trackId": "7FiicniPYN7A5ZYfQiBaMX"
+      },
+      "elementId": "item111",
+      "href": "https://everynoise.com/artistprofile.html?id=6cGVmbsazHWZFlgfunpFgr",
+      "id": "6cGVmbsazHWZFlgfunpFgr"
+    },
+    {
+      "artistName": "Annie Anzouer",
+      "positioning": {
+        "top": 382,
+        "left": 210
+      },
+      "style": {
+        "color": "#c08401",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1c62bab05cef29d0633a23620a813789386b0234",
+        "title": "e.g. Annie Anzouer \"Ces choses là\"",
+        "trackId": "1MKTk4SeDKQbjviqhdMVb6"
+      },
+      "elementId": "item112",
+      "href": "https://everynoise.com/artistprofile.html?id=01ylbLFPTw1s9qsfTb0w2J",
+      "id": "01ylbLFPTw1s9qsfTb0w2J"
+    },
+    {
+      "artistName": "Jean Pierre Essome",
+      "positioning": {
+        "top": 312,
+        "left": 773
+      },
+      "style": {
+        "color": "#d97d19",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/8647cddc3d0f28d17dad32d5fd4ecdaf9b96081b",
+        "title": "e.g. Jean Pierre Essome \"Golgotha\"",
+        "trackId": "5SLNENioB8UHH47HgISJdm"
+      },
+      "elementId": "item113",
+      "href": "https://everynoise.com/artistprofile.html?id=1xjOgQlQL19hKGtFmUm0DK",
+      "id": "1xjOgQlQL19hKGtFmUm0DK"
+    },
+    {
+      "artistName": "JR Nelson",
+      "positioning": {
+        "top": 373,
+        "left": 819
+      },
+      "style": {
+        "color": "#c38204",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1355c53727605321ef97db7fbc3655d86569de40",
+        "title": "e.g. JR Nelson \"Monguele mongo\"",
+        "trackId": "3DXSovbPjn4EjSA9ijTvuP"
+      },
+      "elementId": "item114",
+      "href": "https://everynoise.com/artistprofile.html?id=7cMfZTtwQeTPzTekrfN36T",
+      "id": "7cMfZTtwQeTPzTekrfN36T"
+    },
+    {
+      "artistName": "Mbarga Soukouss",
+      "positioning": {
+        "top": 446,
+        "left": 1024
+      },
+      "style": {
+        "color": "#8c7d0e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/83ec13710b31612f685b719992bb572ddfffd6bc",
+        "title": "e.g. Mbarga Soukouss \"Long Courrier\"",
+        "trackId": "7klsP6o5bEQVssxMl2bwrM"
+      },
+      "elementId": "item115",
+      "href": "https://everynoise.com/artistprofile.html?id=5pSizPrErgbdsUEwXWmUJn",
+      "id": "5pSizPrErgbdsUEwXWmUJn"
+    },
+    {
+      "artistName": "Isidore Tamwo",
+      "positioning": {
+        "top": 389,
+        "left": 538
+      },
+      "style": {
+        "color": "#bf7628",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f8e157bd77d0e2e4bcbc5cdcfdae5ffffe93915d",
+        "title": "e.g. Isidore Tamwo \"C'est ma chose\"",
+        "trackId": "63wBVDufMS51N76xnuJxBf"
+      },
+      "elementId": "item116",
+      "href": "https://everynoise.com/artistprofile.html?id=5qnSoT7SkxA1czv1iASo4c",
+      "id": "5qnSoT7SkxA1czv1iASo4c"
+    },
+    {
+      "artistName": "John Duchant",
+      "positioning": {
+        "top": 361,
+        "left": 814
+      },
+      "style": {
+        "color": "#db7400",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/91a6723e6347897af04208887dcaf101d4a3e282",
+        "title": "e.g. John Duchant \"Me voici tout\"",
+        "trackId": "3a1mLkzGFY7q4UfrZ9PjKT"
+      },
+      "elementId": "item117",
+      "href": "https://everynoise.com/artistprofile.html?id=4x4PSwRxtEHwca7jy7jQNd",
+      "id": "4x4PSwRxtEHwca7jy7jQNd"
+    },
+    {
+      "artistName": "Pierre Didy Tchakounté",
+      "positioning": {
+        "top": 320,
+        "left": 604
+      },
+      "style": {
+        "color": "#c5810c",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4642e64f9708e41e188a9a31361d4dc76b34660e",
+        "title": "e.g. Pierre Didy Tchakounté \"Meguela\"",
+        "trackId": "0oSDgXIQTxlLTi3hkvN9Kr"
+      },
+      "elementId": "item118",
+      "href": "https://everynoise.com/artistprofile.html?id=4XZdNmbtwPlmkNi2SZYhrG",
+      "id": "4XZdNmbtwPlmkNi2SZYhrG"
+    },
+    {
+      "artistName": "Rantamplan",
+      "positioning": {
+        "top": 520,
+        "left": 706
+      },
+      "style": {
+        "color": "#de7e09",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c58b36c9ad23ccb73225e1ee350c6057ca11c401",
+        "title": "e.g. Rantamplan \"Azezeck - Remix\"",
+        "trackId": "2NnR97Esp8ELLseljJwHiH"
+      },
+      "elementId": "item119",
+      "href": "https://everynoise.com/artistprofile.html?id=0jMlTJRd0H9izrFk2cVUqu",
+      "id": "0jMlTJRd0H9izrFk2cVUqu"
+    },
+    {
+      "artistName": "Les Têtes Brûlées",
+      "positioning": {
+        "top": 610,
+        "left": 732
+      },
+      "style": {
+        "color": "#957618",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/912c2ba7e7a952a035067215d1da604f8c1b78f1",
+        "title": "e.g. Les Têtes Brûlées \"Confusion\"",
+        "trackId": "2E2YZtdsX8NkU5qDYLCoCa"
+      },
+      "elementId": "item120",
+      "href": "https://everynoise.com/artistprofile.html?id=36IRWIHICWfyhUDab4ppD9",
+      "id": "36IRWIHICWfyhUDab4ppD9"
+    },
+    {
+      "artistName": "Bell'a Njoh",
+      "positioning": {
+        "top": 345,
+        "left": 333
+      },
+      "style": {
+        "color": "#d07805",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/51f83df163a22a20032e070779645a5e51c6fdc9",
+        "title": "e.g. Bell'a Njoh \"Ebolo\"",
+        "trackId": "3LerukCRvRJXZei4fVVPag"
+      },
+      "elementId": "item121",
+      "href": "https://everynoise.com/artistprofile.html?id=1efZa9p7ZoDNxBYjRjvvlu",
+      "id": "1efZa9p7ZoDNxBYjRjvvlu"
+    },
+    {
+      "artistName": "Djene Djento",
+      "positioning": {
+        "top": 208,
+        "left": 722
+      },
+      "style": {
+        "color": "#ce7109",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/37f2ed6da21fe17dfc974afbe901ba05ffe80aa1",
+        "title": "e.g. Djene Djento \"Miolo Ma Mabngisane\"",
+        "trackId": "5yrpqQpXPlGZy3fKlgYhTp"
+      },
+      "elementId": "item122",
+      "href": "https://everynoise.com/artistprofile.html?id=7orSi1PhyU2VaXvQdLwSzP",
+      "id": "7orSi1PhyU2VaXvQdLwSzP"
+    },
+    {
+      "artistName": "Soulé Ngofo-Man",
+      "positioning": {
+        "top": 25,
+        "left": 1223
+      },
+      "style": {
+        "color": "#d27b47",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/9b9dd86d54f5a8330d8aaf09098879a6832dedfd",
+        "title": "e.g. Soulé Ngofo-Man \"Mikili\"",
+        "trackId": "5TAaL0sUl1JM1PWKdTq5ul"
+      },
+      "elementId": "item123",
+      "href": "https://everynoise.com/artistprofile.html?id=16nzu7wFtZxVg07Gdj1Ikp",
+      "id": "16nzu7wFtZxVg07Gdj1Ikp"
+    },
+    {
+      "artistName": "Jacky Doumbe",
+      "positioning": {
+        "top": 436,
+        "left": 251
+      },
+      "style": {
+        "color": "#d4770b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/acf18e41c0698e7704a265694675746c46aeb385",
+        "title": "e.g. Jacky Doumbe \"Mpessa na ngondedi\"",
+        "trackId": "6QqT6a6QsIGNXXDTu2y5Im"
+      },
+      "elementId": "item124",
+      "href": "https://everynoise.com/artistprofile.html?id=6dlEg3ydi4JSey4bTawhkl",
+      "id": "6dlEg3ydi4JSey4bTawhkl"
+    },
+    {
+      "artistName": "Richard Band De Zoetele",
+      "positioning": {
+        "top": 553,
+        "left": 1300
+      },
+      "style": {
+        "color": "#c88823",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/94b5c478c36e311c755e89f435296baaeea0d74e",
+        "title": "e.g. Richard Band De Zoetele \"Oyoyo\"",
+        "trackId": "2gRc2rTeuWHFfUANaxgxDQ"
+      },
+      "elementId": "item125",
+      "href": "https://everynoise.com/artistprofile.html?id=3nZYNmOmtlR8uKUQHjvKZ7",
+      "id": "3nZYNmOmtlR8uKUQHjvKZ7"
+    },
+    {
+      "artistName": "Mama Nguea",
+      "positioning": {
+        "top": 266,
+        "left": 440
+      },
+      "style": {
+        "color": "#d98400",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/816e8438d4c2e2e46017ba25572fe76e0636bd20",
+        "title": "e.g. Mama Nguea \"Chanson des mariés\"",
+        "trackId": "2uukS0oliKdn2pUIM6dScW"
+      },
+      "elementId": "item126",
+      "href": "https://everynoise.com/artistprofile.html?id=1XK5wqkRiF278D6lDTDE0B",
+      "id": "1XK5wqkRiF278D6lDTDE0B"
+    },
+    {
+      "artistName": "Koko Ateba",
+      "positioning": {
+        "top": 466,
+        "left": 824
+      },
+      "style": {
+        "color": "#708d03",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc132616c33a24ff76293294f4c5ceb6b73dc6b4",
+        "title": "e.g. Koko Ateba \"Si t'es mal dans ta peau\"",
+        "trackId": "4Hx0m9m8hYfWDwnjzhLlT5"
+      },
+      "elementId": "item127",
+      "href": "https://everynoise.com/artistprofile.html?id=1aUr9y49pRT423zuNn7XhS",
+      "id": "1aUr9y49pRT423zuNn7XhS"
+    },
+    {
+      "artistName": "Donny Edwood",
+      "positioning": {
+        "top": 702,
+        "left": 671
+      },
+      "style": {
+        "color": "#779403",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0bcdde206556019e37ec420b6dc740631893885e",
+        "title": "e.g. Donny Edwood \"Négro et beau\"",
+        "trackId": "1DIFt5jzxO8S4b8txW84NG"
+      },
+      "elementId": "item128",
+      "href": "https://everynoise.com/artistprofile.html?id=35Jo88Y2dvvZ9FDo1JJ0mV",
+      "id": "35Jo88Y2dvvZ9FDo1JJ0mV"
+    },
+    {
+      "artistName": "Marechal Papillon",
+      "positioning": {
+        "top": 166,
+        "left": 937
+      },
+      "style": {
+        "color": "#dd8009",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/81ec67aba8f77272e41ea115867e51449a791150",
+        "title": "e.g. Marechal Papillon \"Porc-épic\"",
+        "trackId": "45XYqthENLbX8QPzggYnmc"
+      },
+      "elementId": "item129",
+      "href": "https://everynoise.com/artistprofile.html?id=54C7ZdYDY2sGcfQjKydd6t",
+      "id": "54C7ZdYDY2sGcfQjKydd6t"
+    },
+    {
+      "artistName": "Mbarga Soukous",
+      "positioning": {
+        "top": 534,
+        "left": 793
+      },
+      "style": {
+        "color": "#de7806",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/3140bd39ddcf923121033648c188ef82f8d0bea9",
+        "title": "e.g. Mbarga Soukous \"Essamba\"",
+        "trackId": "1JYu2TQgBRjteCPRwm4aa3"
+      },
+      "elementId": "item130",
+      "href": "https://everynoise.com/artistprofile.html?id=42FJ5SvBhSkeD1sV4uaMeA",
+      "id": "42FJ5SvBhSkeD1sV4uaMeA"
+    },
+    {
+      "artistName": "Coco Argentée",
+      "positioning": {
+        "top": 601,
+        "left": 916
+      },
+      "style": {
+        "color": "#d57900",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/74eb64a4dff91a4be490245b467df56444f0bcbe",
+        "title": "e.g. Coco Argentée \"Mbanga-ci Mbanga-là\"",
+        "trackId": "5h7Lr0BEc5Fy3L7bkUIg2T"
+      },
+      "elementId": "item131",
+      "href": "https://everynoise.com/artistprofile.html?id=5YzqVTnc83S2mgPocQTOv6",
+      "id": "5YzqVTnc83S2mgPocQTOv6"
+    },
+    {
+      "artistName": "Samson Chaud Gars",
+      "positioning": {
+        "top": 585,
+        "left": 676
+      },
+      "style": {
+        "color": "#d76511",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b0f4abf6d0e07486b0606f1338d9a4a8a904a957",
+        "title": "e.g. Samson Chaud Gars \"Bôlo cellucam\"",
+        "trackId": "1WZccN0fizF7WKYBgRgb9J"
+      },
+      "elementId": "item132",
+      "href": "https://everynoise.com/artistprofile.html?id=20IbsUfbMjHxMB2X74253L",
+      "id": "20IbsUfbMjHxMB2X74253L"
+    },
+    {
+      "artistName": "Nar6 Pryze",
+      "positioning": {
+        "top": 331,
+        "left": 10
+      },
+      "style": {
+        "color": "#de7900",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2258da64a77193a74a1831771ed23bd33cc2d0dc",
+        "title": "e.g. Nar6 Pryze \"Elegancia\"",
+        "trackId": "3UeNOebTurIHOpDUMGc69c"
+      },
+      "elementId": "item133",
+      "href": "https://everynoise.com/artistprofile.html?id=0pzfGitJxCnTGORI9WizTI",
+      "id": "0pzfGitJxCnTGORI9WizTI"
+    },
+    {
+      "artistName": "Le Groupe Ngosso",
+      "positioning": {
+        "top": 156,
+        "left": 558
+      },
+      "style": {
+        "color": "#c78503",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5e34e725ee4825ae2eaa617f9ef6a5868a184963",
+        "title": "e.g. Le Groupe Ngosso \"Testament III\"",
+        "trackId": "3y5I0z94jjxyt7Kca1xMz3"
+      },
+      "elementId": "item134",
+      "href": "https://everynoise.com/artistprofile.html?id=11BKhpTBWayOS024O1DZtc",
+      "id": "11BKhpTBWayOS024O1DZtc"
+    },
+    {
+      "artistName": "Jean Bikoko Aladin",
+      "positioning": {
+        "top": 117,
+        "left": 1233
+      },
+      "style": {
+        "color": "#c96b6b",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/c33da1e21f0524300af53a5861b0274db4e6a65f",
+        "title": "e.g. Jean Bikoko Aladin \"Hiki djâm li gwée ngèn\"",
+        "trackId": "7Kz765ty6QV0PnZxXBQakO"
+      },
+      "elementId": "item135",
+      "href": "https://everynoise.com/artistprofile.html?id=1nGGiR021HBQ3Rt6hVwiBL",
+      "id": "1nGGiR021HBQ3Rt6hVwiBL"
+    },
+    {
+      "artistName": "Epée & Koum",
+      "positioning": {
+        "top": 44,
+        "left": 824
+      },
+      "style": {
+        "color": "#cf8216",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/4525b921098b99fe3e8ac853fbdc76746fb99db1",
+        "title": "e.g. Epée & Koum \"Dikom\"",
+        "trackId": "1GMvdeJFcLtpc9cEJnFTek"
+      },
+      "elementId": "item136",
+      "href": "https://everynoise.com/artistprofile.html?id=25TysJdiXih3bRqs5jo3C3",
+      "id": "25TysJdiXih3bRqs5jo3C3"
+    },
+    {
+      "artistName": "Joe Mboule",
+      "positioning": {
+        "top": 637,
+        "left": 614
+      },
+      "style": {
+        "color": "#d66b00",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a09cc6c209c7141fec1c7a711755563fcfa89e8b",
+        "title": "e.g. Joe Mboule \"Bye Bye\"",
+        "trackId": "25NSR11oCcNVH0v4LLhP7r"
+      },
+      "elementId": "item137",
+      "href": "https://everynoise.com/artistprofile.html?id=7joS4qFa3LgJw3nza0WTNE",
+      "id": "7joS4qFa3LgJw3nza0WTNE"
+    },
+    {
+      "artistName": "Jojo Ngalle",
+      "positioning": {
+        "top": 673,
+        "left": 338
+      },
+      "style": {
+        "color": "#c57c13",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/edb491ea0751d8bfba48961b45ca14ea66010526",
+        "title": "e.g. Jojo Ngalle \"Papa est jaloux\"",
+        "trackId": "6fKHlNAzPkZRo4CVpzAZ0o"
+      },
+      "elementId": "item138",
+      "href": "https://everynoise.com/artistprofile.html?id=5xnk9UdGiOHwL1KIvkVQuh",
+      "id": "5xnk9UdGiOHwL1KIvkVQuh"
+    },
+    {
+      "artistName": "K. Tino",
+      "positioning": {
+        "top": 427,
+        "left": 875
+      },
+      "style": {
+        "color": "#e07312",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1f42ceecdcbcc631ebd325cf61cdaf73e30d554a",
+        "title": "e.g. K. Tino \"Ozapip\"",
+        "trackId": "5Sl3qwPePOrXmZakdGVbo5"
+      },
+      "elementId": "item139",
+      "href": "https://everynoise.com/artistprofile.html?id=3qoDmRAuCJIp9cTgtri2EL",
+      "id": "3qoDmRAuCJIp9cTgtri2EL"
+    },
+    {
+      "artistName": "Armelle Diamant",
+      "positioning": {
+        "top": 611,
+        "left": 1121
+      },
+      "style": {
+        "color": "#f95700",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1ae054183448630f7ec4cb6ca93e91cdaa6d1800",
+        "title": "e.g. Armelle Diamant \"Azombo\"",
+        "trackId": "0cVf4uJcTjTMdc7STtlr50"
+      },
+      "elementId": "item140",
+      "href": "https://everynoise.com/artistprofile.html?id=4JDIbxHk3aK91Tgx3IP1u6",
+      "id": "4JDIbxHk3aK91Tgx3IP1u6"
+    },
+    {
+      "artistName": "Bebey Black",
+      "positioning": {
+        "top": 786,
+        "left": 722
+      },
+      "style": {
+        "color": "#eb6701",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e0f3511b41ab1731ba3e80edecf6a323ed322fcb",
+        "title": "e.g. Bebey Black \"Desir Plaisir Souffrir\"",
+        "trackId": "5oRtg4XQyyDAkzsnlPMnNW"
+      },
+      "elementId": "item141",
+      "href": "https://everynoise.com/artistprofile.html?id=1gHav5xoB6WrNPn36FpGfe",
+      "id": "1gHav5xoB6WrNPn36FpGfe"
+    },
+    {
+      "artistName": "Bisso Solo",
+      "positioning": {
+        "top": 598,
+        "left": 712
+      },
+      "style": {
+        "color": "#e76a00",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/a0a62340d9c045a8919340cc1caad1b025d970db",
+        "title": "e.g. Bisso Solo \"Ntum Nnam\"",
+        "trackId": "3ljGpHCJYOFF1bwMHVSzNJ"
+      },
+      "elementId": "item142",
+      "href": "https://everynoise.com/artistprofile.html?id=0NJQpihkyiHYhCMkq3V3sh",
+      "id": "0NJQpihkyiHYhCMkq3V3sh"
+    },
+    {
+      "artistName": "Epée",
+      "positioning": {
+        "top": 5,
+        "left": 1044
+      },
+      "style": {
+        "color": "#d4780a",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2f7c181c3ee4183c886f7378923000a52e49eb8e",
+        "title": "e.g. Epée \"Matanga mwuam\"",
+        "trackId": "6ENhfccXD1D17wL6SHtsvs"
+      },
+      "elementId": "item143",
+      "href": "https://everynoise.com/artistprofile.html?id=4JueCYOrbFLJ693nCHGNuG",
+      "id": "4JueCYOrbFLJ693nCHGNuG"
+    },
+    {
+      "artistName": "Jean Paul Mondo",
+      "positioning": {
+        "top": 308,
+        "left": 926
+      },
+      "style": {
+        "color": "#d76722",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/f2ad72b1320389d8022f442c9960c7a76cef54eb",
+        "title": "e.g. Jean Paul Mondo \"Dieudonne a tout donné\"",
+        "trackId": "3CSnGYneRN0G4HtZ721oqn"
+      },
+      "elementId": "item144",
+      "href": "https://everynoise.com/artistprofile.html?id=4a8Av2X3LEzIGHQ1bwPOpG",
+      "id": "4a8Av2X3LEzIGHQ1bwPOpG"
+    },
+    {
+      "artistName": "Richard Epesse",
+      "positioning": {
+        "top": 544,
+        "left": 338
+      },
+      "style": {
+        "color": "#a18d11",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/2bc55a7d873092f0b6c5220aa288bcdc3050a692",
+        "title": "e.g. Richard Epesse \"Ngon'a Djebale\"",
+        "trackId": "3jTq3v9XKXkfO8I8Ox8IH9"
+      },
+      "elementId": "item145",
+      "href": "https://everynoise.com/artistprofile.html?id=4WOFUJLUJbPTBgPOFgmRrr",
+      "id": "4WOFUJLUJbPTBgPOFgmRrr"
+    },
+    {
+      "artistName": "Pedro du Cameroun",
+      "positioning": {
+        "top": 550,
+        "left": 1059
+      },
+      "style": {
+        "color": "#f56000",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/96cef64a94816d55e5cbf0054ab159e584200ee3",
+        "title": "e.g. Pedro du Cameroun \"Tu vas me soutenir\"",
+        "trackId": "3iXO8dpHYjtGT8LaRWdMRO"
+      },
+      "elementId": "item146",
+      "href": "https://everynoise.com/artistprofile.html?id=6Rx0i7YKTyxFY9zJND4X6P",
+      "id": "6Rx0i7YKTyxFY9zJND4X6P"
+    },
+    {
+      "artistName": "Charly Nelle",
+      "positioning": {
+        "top": 373,
+        "left": 926
+      },
+      "style": {
+        "color": "#d7730b",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6662d06a6d6c3b7b4c9ae24c7904caa7a208eccb",
+        "title": "e.g. Charly Nelle \"Félicia\"",
+        "trackId": "1qBLLS4Ofxg8Nqv9TXxaxk"
+      },
+      "elementId": "item147",
+      "href": "https://everynoise.com/artistprofile.html?id=0ulImec87IORml2z1rjHsX",
+      "id": "0ulImec87IORml2z1rjHsX"
+    },
+    {
+      "artistName": "Misse Ngoh",
+      "positioning": {
+        "top": 233,
+        "left": 604
+      },
+      "style": {
+        "color": "#b38c0c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/866943a0d7d6bd77cb990e16deb5d3b8def073aa",
+        "title": "e.g. Misse Ngoh \"Tata Ngoh\"",
+        "trackId": "6C4wWb3TnxAO0QLctuSVUZ"
+      },
+      "elementId": "item148",
+      "href": "https://everynoise.com/artistprofile.html?id=3tzUWvdvBTQKEpOo6xu9du",
+      "id": "3tzUWvdvBTQKEpOo6xu9du"
+    },
+    {
+      "artistName": "François Nkotti",
+      "positioning": {
+        "top": 661,
+        "left": 430
+      },
+      "style": {
+        "color": "#e15c01",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/995893b59fd2957aea3f59663f8c5bab0b21f611",
+        "title": "e.g. François Nkotti \"Retrait'a mbamba\"",
+        "trackId": "0RW5Y7G1tz4mJudglB0u8o"
+      },
+      "elementId": "item149",
+      "href": "https://everynoise.com/artistprofile.html?id=3MKosmidgzQtD3qcKdb2bJ",
+      "id": "3MKosmidgzQtD3qcKdb2bJ"
+    },
+    {
+      "artistName": "J.C Mbimbè",
+      "positioning": {
+        "top": 661,
+        "left": 318
+      },
+      "style": {
+        "color": "#d07204",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/b97f142bd6cb924d3b11cf7e1497238fa39978dc",
+        "title": "e.g. J.C Mbimbè \"Diba La Bobe\"",
+        "trackId": "7a13Jn1L1meFxuBSzQNQ6c"
+      },
+      "elementId": "item150",
+      "href": "https://everynoise.com/artistprofile.html?id=5EQCdV5vTjmDW1POY4QaAN",
+      "id": "5EQCdV5vTjmDW1POY4QaAN"
+    },
+    {
+      "artistName": "L'orchestre Sans Visa de Petit Pays",
+      "positioning": {
+        "top": 246,
+        "left": 619
+      },
+      "style": {
+        "color": "#cc6b02",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/bdc46e4c4e2d1208152b28eb8a2ae2b26f0ccd67",
+        "title": "e.g. L'orchestre Sans Visa de Petit Pays \"Bekwadi\"",
+        "trackId": "0AJiWrgry3gRYr6dgoXqQR"
+      },
+      "elementId": "item151",
+      "href": "https://everynoise.com/artistprofile.html?id=0zHNlWKtpDH3eatlZLJm2c",
+      "id": "0zHNlWKtpDH3eatlZLJm2c"
+    },
+    {
+      "artistName": "Pr Gervais Mendo Zé",
+      "positioning": {
+        "top": 562,
+        "left": 103
+      },
+      "style": {
+        "color": "#cd7f04",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cc1e365b0544c3a15eeb4d05ae5dd66a139440c2",
+        "title": "e.g. Pr Gervais Mendo Zé \"Sida de nos malheurs\"",
+        "trackId": "5f0p19cdkgXyvw3peWDdTP"
+      },
+      "elementId": "item152",
+      "href": "https://everynoise.com/artistprofile.html?id=2t11SYzHg4FuYtS477sOMj",
+      "id": "2t11SYzHg4FuYtS477sOMj"
+    },
+    {
+      "artistName": "Jean-Clément Mbongué",
+      "positioning": {
+        "top": 879,
+        "left": 231
+      },
+      "style": {
+        "color": "#c76207",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/d66b4fcebb491072a98be949b959542e00e9cdc4",
+        "title": "e.g. Jean-Clément Mbongué \"Njemo Bole Diba La Su\"",
+        "trackId": "4P5mX62p8sdOwkiteM5y3C"
+      },
+      "elementId": "item153",
+      "href": "https://everynoise.com/artistprofile.html?id=4CCWFY26Z61NatUS8T1iMj",
+      "id": "4CCWFY26Z61NatUS8T1iMj"
+    },
+    {
+      "artistName": "Maurice Njoume",
+      "positioning": {
+        "top": 279,
+        "left": 471
+      },
+      "style": {
+        "color": "#d67e22",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cff9fb45119976975ac3cee70a2ed5b23692a1ef",
+        "title": "e.g. Maurice Njoume \"Awa\"",
+        "trackId": "4NHZXXAzEfJ9gFpKF0xWWB"
+      },
+      "elementId": "item154",
+      "href": "https://everynoise.com/artistprofile.html?id=7uAytD8pwVL6d2NyD1cfAm",
+      "id": "7uAytD8pwVL6d2NyD1cfAm"
+    },
+    {
+      "artistName": "Mama Ohandja",
+      "positioning": {
+        "top": 501,
+        "left": 1388
+      },
+      "style": {
+        "color": "#d77703",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/6967338f0ed763f007d7892aa075877ee4b7f4b9",
+        "title": "e.g. Mama Ohandja \"La vie c'est zéro\"",
+        "trackId": "7cPcMu3xXXEHVmSiwWEJvY"
+      },
+      "elementId": "item155",
+      "href": "https://everynoise.com/artistprofile.html?id=4OKTVy9QMWtLXqKMJuuy5B",
+      "id": "4OKTVy9QMWtLXqKMJuuy5B"
+    },
+    {
+      "artistName": "Nguea la route",
+      "positioning": {
+        "top": 47,
+        "left": 1341
+      },
+      "style": {
+        "color": "#c99202",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "",
+        "title": "(no sample available)",
+        "trackId": null
+      },
+      "elementId": "item156",
+      "href": "https://everynoise.com/artistprofile.html?id=3oEg568p4W8wjqj8ntdM1n",
+      "id": "3oEg568p4W8wjqj8ntdM1n"
+    }
+  ],
+  "links": [
+    {
+      "text": "Every Noise at Once",
+      "href": "https://everynoise.com/engenremap.html"
+    },
+    {
+      "text": "list",
+      "href": "https://everynoise.com/research.html?mode=genre&name=makossa"
+    },
+    {
+      "text": "playlist",
+      "href": "https://open.spotify.com/playlist/4N68ytC6eBFQsGr5nmE5rU"
+    },
+    {
+      "text": "intro",
+      "href": "https://open.spotify.com/user/particledetector/playlist/6wjd8YAzUYXcqMpABMJNFm"
+    },
+    {
+      "text": "pulse",
+      "href": "https://open.spotify.com/user/particledetector/playlist/4cy2ZK65RIBo6RUS1Wqgl4"
+    },
+    {
+      "text": "edge",
+      "href": "https://open.spotify.com/user/particledetector/playlist/1beftZDmDhJ5rQ6E6Lx9XT"
+    },
+    {
+      "text": "new",
+      "href": "https://everynoise.com/nrbg.html?genre=makossa"
+    }
+  ],
+  "relatedGenres": [
+    {
+      "genreName": "bikutsi",
+      "positioning": {
+        "top": 236,
+        "left": 265
+      },
+      "style": {
+        "color": "#d0790e",
+        "fontSize": "120%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/cea7f244db5d6967b1a71ae0f138d1a68b771a15",
+        "title": "e.g. Aijo Mamadou \"Levez Les Doigts\"",
+        "trackId": "1V8IN25mrUIsNew7UMG1Jh"
+      },
+      "elementId": "nearbyitem2",
+      "href": "https://everynoise.com/engenremap-bikutsi.html#tunnel"
+    },
+    {
+      "genreName": "azontobeats",
+      "positioning": {
+        "top": 93,
+        "left": 300
+      },
+      "style": {
+        "color": "#be8606",
+        "fontSize": "107%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/468985d9238cf7154010b470eae25c6a0ba82ba5",
+        "title": "e.g. Serge Beynaud \"C'est dosé\"",
+        "trackId": "0UWLz61FiuLAEcpLebbvZB"
+      },
+      "elementId": "nearbyitem3",
+      "href": "https://everynoise.com/engenremap-azontobeats.html#tunnel"
+    },
+    {
+      "genreName": "kompa",
+      "positioning": {
+        "top": 111,
+        "left": 124
+      },
+      "style": {
+        "color": "#b98610",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ae2a9f2ceffa2994c076102596f599c6fe6d20d9",
+        "title": "e.g. Djakout Mizik \"La Familia\"",
+        "trackId": "5CarmzrKgb2VJIv1VOZMIx"
+      },
+      "elementId": "nearbyitem4",
+      "href": "https://everynoise.com/engenremap-kompa.html#tunnel"
+    },
+    {
+      "genreName": "haitian dance",
+      "positioning": {
+        "top": 108,
+        "left": 180
+      },
+      "style": {
+        "color": "#b37f1a",
+        "fontSize": "104%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0675d0fdf0a204b1e20d520db489db997c6836f3",
+        "title": "e.g. Koudjay \"Bwa mare\"",
+        "trackId": "5cCM4yrGPQ1KIi9mpdvWet"
+      },
+      "elementId": "nearbyitem5",
+      "href": "https://everynoise.com/engenremap-haitiandance.html#tunnel"
+    },
+    {
+      "genreName": "semba",
+      "positioning": {
+        "top": 277,
+        "left": 198
+      },
+      "style": {
+        "color": "#ae860e",
+        "fontSize": "103%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/34fe400a9084cff09fc3391c8f8842e9d9ff54e0",
+        "title": "e.g. Teta Lando \"Irmão Ama Teu Irmão\"",
+        "trackId": "2N5OtZRexwD4h2wESpd7gV"
+      },
+      "elementId": "nearbyitem6",
+      "href": "https://everynoise.com/engenremap-semba.html#tunnel"
+    },
+    {
+      "genreName": "classic bhangra",
+      "positioning": {
+        "top": 183,
+        "left": 215
+      },
+      "style": {
+        "color": "#bf7413",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/0af8d6bebaf868eaa0b2e45a2ba6ad4f0fd54114",
+        "title": "e.g. Balwinder Safri \"O Chan Mere Makhna\"",
+        "trackId": "3BwIB1htsJYLioczh5ogwD"
+      },
+      "elementId": "nearbyitem7",
+      "href": "https://everynoise.com/engenremap-classicbhangra.html#tunnel"
+    },
+    {
+      "genreName": "flamenco fusion",
+      "positioning": {
+        "top": 265,
+        "left": 184
+      },
+      "style": {
+        "color": "#b77c09",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/50173200b34958ff12ac6da3ea669daf0b808225",
+        "title": "e.g. Tomasito \"La Cacerola\"",
+        "trackId": "5t5yyAUH3sTENIETbjxu1F"
+      },
+      "elementId": "nearbyitem8",
+      "href": "https://everynoise.com/engenremap-flamencofusion.html#tunnel"
+    },
+    {
+      "genreName": "reggae maghreb",
+      "positioning": {
+        "top": 184,
+        "left": 46
+      },
+      "style": {
+        "color": "#ad8517",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e2fa46d1a6c19c071cfc15c5a0a943dffba8f425",
+        "title": "e.g. Djmawi Africa \"Hchiche & pois chiche\"",
+        "trackId": "5V7EotvGDNireKAENkDlRt"
+      },
+      "elementId": "nearbyitem9",
+      "href": "https://everynoise.com/engenremap-reggaemaghreb.html#tunnel"
+    },
+    {
+      "genreName": "volkspop",
+      "positioning": {
+        "top": 131,
+        "left": 99
+      },
+      "style": {
+        "color": "#a98011",
+        "fontSize": "102%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/485b3d55dce3c051b272941db5006f54b912cebe",
+        "title": "e.g. Lenze & De Buam \"Aloa Aloa\"",
+        "trackId": "3aUkNN7KuyxnljnQitmfK4"
+      },
+      "elementId": "nearbyitem10",
+      "href": "https://everynoise.com/engenremap-volkspop.html#tunnel"
+    },
+    {
+      "genreName": "carimbo",
+      "positioning": {
+        "top": 163,
+        "left": 0
+      },
+      "style": {
+        "color": "#ba840c",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/efe3fcb99f8d317795583dc9d0143bd9b7050780",
+        "title": "e.g. Pinduca \"Carimbó do Macaco\"",
+        "trackId": "0pU9KMEInr06KgVLTcsRRv"
+      },
+      "elementId": "nearbyitem11",
+      "href": "https://everynoise.com/engenremap-carimbo.html#tunnel"
+    },
+    {
+      "genreName": "amharic pop",
+      "positioning": {
+        "top": 87,
+        "left": 74
+      },
+      "style": {
+        "color": "#ac8607",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/ad4925018dfdb56818ba92437ddb4551cb4c44b6",
+        "title": "e.g. Esubalew Yetayew \"Chaw Tilina\"",
+        "trackId": "5imDrGjz7SeqJadNh8Iryl"
+      },
+      "elementId": "nearbyitem12",
+      "href": "https://everynoise.com/engenremap-amharicpop.html#tunnel"
+    },
+    {
+      "genreName": "latin funk",
+      "positioning": {
+        "top": 120,
+        "left": 222
+      },
+      "style": {
+        "color": "#ad7c27",
+        "fontSize": "101%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/78e2c1a013641970b7983569edd6ed4435346588",
+        "title": "e.g. Papanegro \"Wokman\"",
+        "trackId": "0TPQWYK1iElqqSusi4tBSA"
+      },
+      "elementId": "nearbyitem13",
+      "href": "https://everynoise.com/engenremap-latinfunk.html#tunnel"
+    },
+    {
+      "genreName": "igbo worship",
+      "positioning": {
+        "top": 300,
+        "left": 205
+      },
+      "style": {
+        "color": "#b2871b",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/57d981231e23d52a8b434b0e30dc169720d17558",
+        "title": "e.g. Blessed Samuel Chinyeremaka \"Chi Obioma Medley\"",
+        "trackId": "0LpufjTdsRuq1tExzFFGs3"
+      },
+      "elementId": "nearbyitem14",
+      "href": "https://everynoise.com/engenremap-igboworship.html#tunnel"
+    },
+    {
+      "genreName": "orquestas de galicia",
+      "positioning": {
+        "top": 38,
+        "left": 173
+      },
+      "style": {
+        "color": "#b48508",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/e857deb9b44e19282a8524b3dd684fd482ef0a20",
+        "title": "e.g. Orquesta Costa Oeste \"Mi Niña Bonita\"",
+        "trackId": "08my5uhWd1j0t2tFDjk2qH"
+      },
+      "elementId": "nearbyitem15",
+      "href": "https://everynoise.com/engenremap-orquestasdegalicia.html#tunnel"
+    },
+    {
+      "genreName": "muzica moldoveneasca",
+      "positioning": {
+        "top": 0,
+        "left": 159
+      },
+      "style": {
+        "color": "#b3810e",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/aec76d459c01e2faa3c2c74bf1025ef017ace747",
+        "title": "e.g. Natalia Olaru \"Jaga Jaga\"",
+        "trackId": "2bZDASkDK1r2viYGoIxdDm"
+      },
+      "elementId": "nearbyitem16",
+      "href": "https://everynoise.com/engenremap-muzicamoldoveneasca.html#tunnel"
+    },
+    {
+      "genreName": "dikir barat",
+      "positioning": {
+        "top": 44,
+        "left": 49
+      },
+      "style": {
+        "color": "#a88324",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/90ae9c5a02b613848ea16c33bd242468f1975658",
+        "title": "e.g. Adik Waniey \"Abe Ite\"",
+        "trackId": "4cyjy5Yyx3HsxvNbf7Shm4"
+      },
+      "elementId": "nearbyitem17",
+      "href": "https://everynoise.com/engenremap-dikirbarat.html#tunnel"
+    },
+    {
+      "genreName": "samba reggae",
+      "positioning": {
+        "top": 172,
+        "left": 92
+      },
+      "style": {
+        "color": "#bd7406",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5f2c8b3fd75b3265e47c3f6343c3cf466dbab0aa",
+        "title": "e.g. Timbalada \"Beija-Flor\"",
+        "trackId": "2qzvVh6WD7pP0DUkSyANNf"
+      },
+      "elementId": "nearbyitem18",
+      "href": "https://everynoise.com/engenremap-sambareggae.html#tunnel"
+    },
+    {
+      "genreName": "sega mauricien",
+      "positioning": {
+        "top": 12,
+        "left": 289
+      },
+      "style": {
+        "color": "#b48411",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/1614a77da11877f8c7154885927b788a48d5cbd2",
+        "title": "e.g. Sylvain Kaleecharan \"Fam la zeness\"",
+        "trackId": "3Z6IdAAiJQWNEgxtYuMSfe"
+      },
+      "elementId": "nearbyitem19",
+      "href": "https://everynoise.com/engenremap-segamauricien.html#tunnel"
+    },
+    {
+      "genreName": "gabonese pop",
+      "positioning": {
+        "top": 133,
+        "left": 275
+      },
+      "style": {
+        "color": "#aa8912",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/5340d50e8aa381cf6d6ea8ce04109231c8a045bc",
+        "title": "e.g. La Fuente \"Le Proprio\"",
+        "trackId": "1b9lrSnShZb9LhZzwGJ5zY"
+      },
+      "elementId": "nearbyitem20",
+      "href": "https://everynoise.com/engenremap-gabonesepop.html#tunnel"
+    },
+    {
+      "genreName": "latin afrobeat",
+      "positioning": {
+        "top": 50,
+        "left": 212
+      },
+      "style": {
+        "color": "#b58048",
+        "fontSize": "100%"
+      },
+      "preview": {
+        "url": "https://p.scdn.co/mp3-preview/436b7f81a5c8776944738e1bfc5bb25a618d58ad",
+        "title": "e.g. Abayomy Afrobeat Orquestra \"Malunguinho\"",
+        "trackId": "6s15msjreg2553uO47iWz2"
+      },
+      "elementId": "nearbyitem21",
+      "href": "https://everynoise.com/engenremap-latinafrobeat.html#tunnel"
+    }
+  ]
+}
