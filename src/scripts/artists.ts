@@ -1,5 +1,5 @@
 import path from "node:path";
-import genres from "../../data/genres.min.json" with { type: "json" };
+import genres from "../../data/genres.json" with { type: "json" };
 import { genreNameToSlug } from "../utils";
 import { cwd } from "node:process";
 import { readFile, writeFile } from "node:fs/promises";

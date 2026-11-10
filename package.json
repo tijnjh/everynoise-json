@@ -1,6 +1,7 @@
 {
   "type": "module",
   "scripts": {
+    "minify": "node src/scripts/minify.ts",
     "pregenerate:genres": "node src/scripts/genres.ts",
     "pregenerate:genre-pages": "node src/scripts/genre-pages.ts"
   },

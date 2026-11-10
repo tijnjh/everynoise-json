@@ -1,41 +1,45 @@
-import { readFile, writeFile } from "node:fs/promises";
-import genresJson from "../../data/genres.json" with { type: "json" };
+import {
+  cp,
+  readFile,
+  readdir,
+  rm,
+  writeFile,
+} from "node:fs/promises";
 import path from "node:path";
 import { cwd } from "node:process";
-import { genreNameToSlug } from "../utils";
 
-console.log("minifying genres.json...");
+const dataDir = path.join(cwd(), "data");
+const minifiedDataDir = path.join(cwd(), "data-min");
 
-await writeFile(
-  path.join(cwd(), "data", "genres.min.json"),
-  JSON.stringify(genresJson),
-);
+await rm(minifiedDataDir, { force: true, recursive: true });
+await cp(dataDir, minifiedDataDir, { recursive: true });
 
-const promises = genresJson.map(async (genre) => {
-  const genreSlug = genreNameToSlug(genre.genreName);
-  const filePath = path.join(cwd(), "data", "genres", `${genreSlug}.json`);
+async function minifyJsonFiles(directory: string): Promise<number> {
+  const entries = await readdir(directory, { withFileTypes: true });
+  let minifiedCount = 0;
 
-  console.log("minifying genre page for " + genreSlug);
+  for (const entry of entries) {
+    const entryPath = path.join(directory, entry.name);
 
-  let genrePageJson: string;
-
-  try {
-    genrePageJson = await readFile(filePath, "utf8");
-  } catch (err: any) {
-    if (err.code === "ENOENT") {
-      console.log(`cant find genre page for ${genreSlug}, skipping`);
-      return;
+    if (entry.isDirectory()) {
+      minifiedCount += await minifyJsonFiles(entryPath);
+      continue;
     }
 
-    throw err;
+    if (!entry.isFile() || !entry.name.endsWith(".json")) {
+      continue;
+    }
+
+    const json = await readFile(entryPath, "utf8");
+    await writeFile(entryPath, JSON.stringify(JSON.parse(json)) + "\n");
+    minifiedCount += 1;
   }
 
-  await writeFile(
-    path.join(cwd(), "data", "genres", `${genreSlug}.min.json`),
-    JSON.stringify(JSON.parse(genrePageJson)),
-  );
-});
+  return minifiedCount;
+}
 
-const result = await Promise.allSettled(promises);
+const minifiedCount = await minifyJsonFiles(minifiedDataDir);
+console.log(
+  `Minified ${minifiedCount} JSON files into ${path.relative(cwd(), minifiedDataDir)}`,
+);
 
-console.log(result);
