@@ -4,7 +4,8 @@
     "backfill:genre-pages": "node src/scripts/backfill-genre-pages.ts",
     "minify": "node src/scripts/minify.ts",
     "pregenerate:genres": "node src/scripts/genres.ts",
-    "pregenerate:genre-pages": "node src/scripts/genre-pages.ts"
+    "pregenerate:genre-pages": "node src/scripts/genre-pages.ts",
+    "map:artists": "node src/scripts/artist-mappings.ts"
   },
   "devDependencies": {
     "@types/node": "^26.6.6",
