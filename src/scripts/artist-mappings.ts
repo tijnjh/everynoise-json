@@ -6,15 +6,15 @@
 //   node src/scripts/artist-mappings.ts --retry-misses --country nl
 //   node src/scripts/artist-mappings.ts --shard 2/3      split the work over several processes
 //
-// Progress, in artist-mappings/progress/:
+// Progress, in data/artist-mappings/progress/:
 //   <unix timestamp>.json   { [spotifyId]: itunesId | null }, null meaning itunes had no artist
 //                           with that name. A run starts a new file, and a new one again every
 //                           1000 lookups, so files stay small. Merged together they're the full
 //                           mapping, and anything in them is never looked up again.
 //
 // Output, built from the progress:
-//   artist-mappings/per-genre/<slug>.json   { [spotifyId]: itunesId } in genre page order, matches only
-//   artist-mappings/all.json                every matched itunes id, unique and sorted
+//   data/artist-mappings/per-genre/<slug>.json   { [spotifyId]: itunesId } in genre page order, matches only
+//   data/artist-mappings/all.json                every matched itunes id, unique and sorted
 //
 // Safe to stop (ctrl+c) and rerun at any time. Each lookup is saved as soon as it finishes, and
 // files are only ever replaced whole, so a crash can't leave half a file. Errors (rate limits,
@@ -27,8 +27,8 @@ import { fileURLToPath } from "node:url";
 import { setTimeout as sleep } from "node:timers/promises";
 
 const root = fileURLToPath(new URL("../../", import.meta.url));
-const genresDir = path.join(root, "data-min/genres");
-const outputDir = path.join(root, "artist-mappings");
+const genresDir = path.join(root, "data/genres");
+const outputDir = path.join(root, "data/artist-mappings");
 const progressDir = path.join(outputDir, "progress");
 const perGenreDir = path.join(outputDir, "per-genre");
 const lookupsPerFile = 1000;

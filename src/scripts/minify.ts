@@ -12,7 +12,12 @@ const dataDir = path.join(cwd(), "data");
 const minifiedDataDir = path.join(cwd(), "data-min");
 
 await rm(minifiedDataDir, { force: true, recursive: true });
-await cp(dataDir, minifiedDataDir, { recursive: true });
+// the artist mapping progress is only for resuming lookups, the built mappings next to it are what gets served
+const artistMappingProgressDir = path.join(dataDir, "artist-mappings", "progress");
+await cp(dataDir, minifiedDataDir, {
+  recursive: true,
+  filter: (source) => path.resolve(source) !== artistMappingProgressDir,
+});
 
 async function minifyJsonFiles(directory: string): Promise<number> {
   const entries = await readdir(directory, { withFileTypes: true });

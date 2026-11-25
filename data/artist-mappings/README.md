@@ -5,7 +5,7 @@ Everynoise artists (Spotify IDs) mapped to iTunes artist IDs, made by `src/scrip
 ## Merge all progress into one mapping
 
 ```sh
-jq -s add artist-mappings/progress/*.json
+jq -s add data/artist-mappings/progress/*.json
 ```
 
 This gives one `{ [spotifyId]: itunesId | null }` object. `null` means iTunes had no artist with that exact name.
